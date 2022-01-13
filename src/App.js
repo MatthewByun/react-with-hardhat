@@ -3,25 +3,6 @@ import Web3 from "web3";
 import { useEffect, useState } from "react";
 import { ABI, ADDRESS } from "./config";
 
-
-
-// const App = () => {
-//   return(
-//     <div className="container">
-//       Hello
-//     </div>
-//   )
-// }
-
-
-
-
-
-
-
-
-
-
 const App = () => {
   const [account, setAccount] = useState();
   const [balance, setBalance] = useState();
@@ -37,7 +18,9 @@ const App = () => {
 
   useEffect(() => {
     loadBlockChain();
-  }, []);
+  }, [balance]);
+
+ 
 
   const loadBlockChain = async () => {
     const web3 = new Web3(Web3.givenProvider || "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161");
@@ -154,20 +137,17 @@ const App = () => {
 
     <div className="container">
       
-      loading ? (
-        <div>Loading.....</div>
-      ) : 
-      {(
+      
         <div className="header">
           <h1>Welcome to MetaMask!!!</h1>
           <h3>Your Account: </h3> {account}
-          <h3>Task Count: {count}</h3>
+          {/* <h3>Task Count: {count}</h3> */}
           <h3>Balance: {balance}</h3>
           <h3>Name: </h3>
-          <h1>Contracts</h1>
+          <h1>Transfer: </h1>
           <ul>
             <div className="input-transfer">
-              Transfer: <br />
+              {/* Transfer: <br /> */}
               Transactions to address: <input type="text" id="addressReceive" /> <br />
               Value: <input type="text" id="numberValue"/> <br />
               <label htmlFor="etherValue">Ether Value: </label>
@@ -207,7 +187,7 @@ const App = () => {
             <br />
             <br />
 
-            <div className="input">
+            {/* <div className="input">
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
@@ -234,9 +214,9 @@ const App = () => {
                   Confirm!
                 </button>
               </form>
-            </div>
+            </div> */}
 
-            {contacts.map((contact, index) => (
+            {/* {contacts.map((contact, index) => (
               <div className="content" key={index}>
                 <span>
                   {" "}
@@ -245,10 +225,10 @@ const App = () => {
                 </span>
                 <p>Content: {contact.content}</p>
               </div>
-            ))}
+            ))} */}
           </ul>
         </div>
-      )}
+      {/* )} */}
     </div>
 
 
