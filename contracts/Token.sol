@@ -36,6 +36,7 @@ contract Token {
         console.log("Balance 2: " , balances[msg.sender]);
 
         owner = msg.sender;
+        console.log("OWNER", owner);
     }
 
     /**
@@ -49,8 +50,7 @@ contract Token {
         // If `require`'s first argument evaluates to `false` then the
         // transaction will revert.
 
-        console.log("AJKHFakjhfkajsfhjkashfjkasfh: " , balances[msg.sender]);
-        console.log("asdasdsadasdasdas", amount, to);
+        
         require(balances[msg.sender] >= amount, "Not enough tokens");
 
         // Transfer the amount.

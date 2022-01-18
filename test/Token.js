@@ -7,11 +7,11 @@ describe("Token contract", function () {
 
     const Token = await ethers.getContractFactory("Token");
 
-    console.log("Get accounts: ", await web3.eth.getAccounts());
-    web3.eth.defaultAccount = '0xa52487f75f4E4554914810877a78fF9574A98275';
-    console.log("Default account:", web3.eth.defaultAccount )
+    // console.log("Get accounts: ", await web3.eth.getAccounts());
+    // web3.eth.defaultAccount = '0xa52487f75f4E4554914810877a78fF9574A98275';
+    // console.log("Default account:", web3.eth.defaultAccount )
 
-    web3.eth.getBalance()
+    // web3.eth.getBalance()
 
 
     const hardhatToken = await Token.deploy();
