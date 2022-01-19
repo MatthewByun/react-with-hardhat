@@ -51,6 +51,7 @@ module.exports = {
       url: secret.url,
       accounts: [secret.priKey]
     },
+    
     // ropsten: {
     //   url: process.env.ROPSTEN_URL || "",
     //   accounts:

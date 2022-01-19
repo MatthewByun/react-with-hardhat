@@ -3,6 +3,9 @@ export const contractAddress = '0xa52487f75f4E4554914810877a78fF9574A98275'
 export const tokenDark = '0x15dd695e8123059e50fa998c6AA9b37533a25315'
 export const tokenDoggun = '0xa2d9cbF13B177ddDB08347d4220a4BC8fBbFE190'
 
+export const tokenSSF = '0x28afeecc16ef8c3cba817b1b91277b00d01ee9f6'
+
+
 // export const ABI = 
 // [  
 //   // balanceOf

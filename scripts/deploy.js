@@ -14,18 +14,30 @@ async function main() {
   // await hre.run('compile');
 
   // We get the contract to deploy
-  const Greeter = await hre.ethers.getContractFactory("Greeter");
-  const greeter = await Greeter.deploy("Hello, Hardhat!");
+  // const Greeter = await hre.ethers.getContractFactory("Greeter");
+  // const greeter = await Greeter.deploy("Hello, Hardhat!");
 
-  console.log("Greeter deployed to:", greeter.address);
+  // console.log("Greeter deployed to:", greeter.address);
 
-  await greeter.deployed();
+  // await greeter.deployed();
 
 
-  const Token = await hre.ethers.getContractFactory("Token");
-  const token = await Token.deploy();
-  await token.deployed();
-  console.log("Number deployed to:", token.address);
+  // const Token = await hre.ethers.getContractFactory("Token");
+  // const token = await Token.deploy();
+  // await token.deployed();
+  // console.log("Number deployed to:", token.address);
+
+
+  const MyContract = await ethers.getContractFactory("EthSwap");
+  const contract = await MyContract.deploy(
+    "0x28afeecc16ef8c3cba817b1b91277b00d01ee9f6"
+  );
+  console.log("deploy here");
+
+  await contract.deployed();
+  console.log("contract deployed to:", contract.address);
+
+
 }
 
 // We recommend this pattern to be able to use async/await everywhere
