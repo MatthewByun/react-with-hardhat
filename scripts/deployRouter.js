@@ -6,16 +6,13 @@
 const hre = require("hardhat");
 
 async function main() {
-  const MyContract = await ethers.getContractFactory("EthSwap");
-  const contract = await MyContract.deploy(
-    "0x28afeecc16ef8c3cba817b1b91277b00d01ee9f6"
+  const myRouter = await ethers.getContractFactory("Router");
+  const router = await myRouter.deploy(
   );
   console.log("deploy here");
 
-  await contract.deployed();
-  console.log("contract deployed to:", contract.address);
-
-
+  await router.deployed();
+  console.log("router deployed to:", router.address);
 }
 
 // We recommend this pattern to be able to use async/await everywhere
