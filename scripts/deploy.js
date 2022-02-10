@@ -5,10 +5,32 @@
 // Runtime Environment's members available in the global scope.
 const hre = require("hardhat");
 
+
+// require('dotenv').config();
+// const UniswapV2Router02 = artifacts.require('UniswapV2Router02');
+// const { WETH } = require('../constant');
+
+// module.exports = async function(deployer) {
+//   try {
+//     await deployer.deploy(
+//       UniswapV2Router02,
+//       '0xEd23423FF552c10d1beDe08aA7FB36d56934dd40' /* Replace your factory address at here */,
+//       WETH,
+//       {
+//         gas: 8000000,
+//         from: process.env.OPERATOR_ADDRESS,
+//       }
+//     );
+//   } catch (err) {
+//     console.log(err);
+//   }
+// };
+
 async function main() {
-  const MyContract = await ethers.getContractFactory("EthSwap");
+  const MyContract = await ethers.getContractFactory("UniswapV2Router02");
   const contract = await MyContract.deploy(
-    "0x28afeecc16ef8c3cba817b1b91277b00d01ee9f6"
+    "0xEd23423FF552c10d1beDe08aA7FB36d56934dd40", //factory address
+    "0xc778417E063141139Fce010982780140Aa0cD5Ab" // weth address
   );
   console.log("deploy here");
 

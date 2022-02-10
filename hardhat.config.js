@@ -1,3 +1,5 @@
+
+// SPDX-License-Identifier: MIT
 require("@nomiclabs/hardhat-waffle");
 require("@nomiclabs/hardhat-truffle5");
 require("@nomiclabs/hardhat-web3")
@@ -45,24 +47,33 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
 //   }
 // };
 module.exports = {
-  solidity: "0.8.4",
-  networks: {
-    ropsten:{
-      url: secret.url,
-      accounts: [secret.priKey]
+  solidity: {
+    version:"0.8.4",
+    settings:{
+      optimizer:{
+        enabled: true,
+        runs: 1
+      }
     },
-    
-    // ropsten: {
-    //   url: process.env.ROPSTEN_URL || "",
-    //   accounts:
-    //     process.env.PRIVATE_KEY !== undefined ? [process.env.PRIVATE_KEY] : [],
+      // ropsten: {
+      //   url: process.env.ROPSTEN_URL || "",
+      //   accounts:
+      //     process.env.PRIVATE_KEY !== undefined ? [process.env.PRIVATE_KEY] : [],
+      // ,
+    },
+    networks: {
+      ropsten: {
+        url: secret.url,
+        accounts: [secret.priKey]
+      },
+
+    // gasReporter: {
+    //   enabled: process.env.REPORT_GAS !== undefined,
+    //   currency: "USD",
     // },
-  },
-  // gasReporter: {
-  //   enabled: process.env.REPORT_GAS !== undefined,
-  //   currency: "USD",
-  // },
-  etherscan: {
-    apiKey: process.env.ETHERSCAN_API_KEY,
-  },
-};
+    // etherscan: {
+    //   apiKey: process.env.ETHERSCAN_API_KEY,
+    // },
+  }
+}
+

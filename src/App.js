@@ -1,16 +1,18 @@
 import { MoralisProvider } from "react-moralis";
-import "./App.css";
-import SwapToken from "./SwapToken";
-import secret from "./svMoralis.json"
+// import secret from "./svMoralis.json";
+// import SwapToken from "./SwapToken";
+import { ChakraProvider } from "@chakra-ui/react";
+import Space from "./space";
+let svMoralis = require("./svMoralis.json")
 
-const App = () => {
-  return(
-  <div className="container">
-    <MoralisProvider appId={secret.appID} serverUrl={secret.severURL}>
-    <SwapToken />
+function App() {
+  return (
+    <MoralisProvider serverUrl={svMoralis.url} appId={svMoralis.id}>
+      <ChakraProvider>
+        <Space />
+      </ChakraProvider>
     </MoralisProvider>
-    
-  </div>
-)}
+  );
+}
 
 export default App;

@@ -7,6 +7,9 @@ import {
   tokenDark,
   tokenDoggun,
   tokenSSF,
+  tokenWETH,
+  tokenSLT,
+  SLTABI,
 } from "./config";
 import TestSwap from "./TestSwap";
 // const Moralis = require('moralis');
@@ -16,7 +19,6 @@ import {
 } from "./abi/abi_swapToken";
 
 import { PairABI, PairAddress } from "./abi/pair";
-import { CreatePairTokensABI, ApproveTokensABI } from "./abi/abi_createPair";
 import { factoryABI, factoryAddress } from "./abi/factory";
 import { RouterABI, RouterAddress } from "./abi/router";
 
@@ -34,6 +36,7 @@ const SwapToken = () => {
   // const [name, setName] = useState("");
   // const [content, setContent] = useState("");
   // const [listABI, setListABI] = useState({});
+  const [getPairs, setGetPairs] = useState();
   const [lstEthValue, setLstEthValue] = useState({});
   const [getWeb3, setGetWeb3] = useState("");
 
@@ -79,6 +82,7 @@ const SwapToken = () => {
       ABI,
       "0x28AFeECc16EF8C3cbA817B1B91277b00d01eE9F6"
     );
+    console.log("SSF", ssfCoin.methods);
     const balanceSSF = await ssfCoin.methods.balanceOf(contractAddress).call();
     setSSFBalance(web3.utils.fromWei(balanceSSF, "ether"));
 
@@ -239,79 +243,168 @@ const SwapToken = () => {
     // console.log("test" , addLiquidityETH)
   };
 
-  const handleFactory = async(getWeb3) => {
-    const factory = new getWeb3.eth.Contract(
-      factoryABI,
-      factoryAddress
-    );
-    console.log("Test factory", await factory.methods)
-    
-    const getPair = await factory.methods.getPair(
-      tokenSSF,
-      "0xc778417E063141139Fce010982780140Aa0cD5Ab"
-    ).call()
-    console.log("get pair", getPair)
+  function getAmountOut(amountIn, reserveIn, reserveOut) {
+    if (amountIn <= 0 || reserveIn <= 0 || reserveOut <= 0) return "Undefined";
+    let amountInWithFee = amountIn * 997; //  1* 997
+    let numerator = amountInWithFee * reserveOut; // 997 * 66.7334000667334
+    let denominator = reserveIn * 1000 + amountInWithFee; //  1.5 * 1000 + 997
+    let amountOut = numerator / denominator;
+    return amountOut;
   }
+
+  function getPriceImpact(fee, amountTrade, reservesA) {
+    let amount = amountTrade * (1 - fee);
+    return amount / (reservesA + amount);
+  }
+
+  const handleFactory = async (getWeb3) => {
+    const factory = new getWeb3.eth.Contract(factoryABI, factoryAddress);
+    console.log("Test factory", await factory.methods);
+    const getPair = await factory.methods.getPair(tokenSSF, tokenSLT).call();
+    console.log("get pair", getPair);
+  };
+  const addLiquidity = async (getWeb3) => {
+    // var BN = getWeb3.utils.BN
+    const router = new getWeb3.eth.Contract(RouterABI, RouterAddress);
+    const factory = new getWeb3.eth.Contract(factoryABI, factoryAddress);
+
+    var amount1Desired = (50 * 10 ** 18).toString();
+    var amount2Desired = (10 * 10 ** 18).toString();
+    var amount1Min = (5 * 10 ** 18).toString();
+    var amount2Min = (1 * 10 ** 18).toString();
+    var deadline = (2 * 10 ** 15).toString();
+
+    // console.log(getAmountOut(1, 1, 1));
+    // console.log((amountDesired),"10000000")
+    console.log(router.methods);
+    // await asdasd
+    const ssfCoin = new getWeb3.eth.Contract(ABI, tokenSSF);
+    const dogCoin = new getWeb3.eth.Contract(ABI, tokenDoggun);
+
+    const getpair = await factory.methods.getPair(tokenSSF, tokenSLT).call();
+    if (getpair == "0x0000000000000000000000000000000000000000") {
+      await factory.methods
+        .createPair(tokenSLT, tokenSSF)
+        .send({ from: account })
+        .then((rep) =>
+          rep != "0x0000000000000000000000000000000000000000"
+            ? setGetPairs(rep)
+            : console.log(rep)
+        );
+    }
+    console.log(
+      "Pair",
+      await factory.methods.getPair(tokenSSF, tokenSLT).call()
+    );
+    console.log("getPairs", getPairs);
+    console.log("get pair for",  )
+    var amountDesired = (500 * 10 ** 18).toString();
+    var amountMin = (0.5 * 10 ** 18).toString();
+    var amountETHMin = (1 * 10 ** 18).toString();
+    // approve
+    // await ssfCoin.methods
+    //   .approve(getPairs.to, 100000000)
+    //   .send({ from: account })
+    //   .then((rep) => console.log(rep));
+    // const sltCoin = new getWeb3.eth.Contract(SLTABI, tokenSLT);
+    // await sltCoin.methods
+    //   .approve(getPairs.to, 1000000000)
+    //   .send({ from: account })
+    //   .then((rep) => console.log(rep));
+      console.log("getpairfor", await router.methods.getPairFor(tokenSLT, tokenSSF).call());
+
+    // await router.methods
+    //         .addLiquidityETH(
+    //           tokenSLT,/*  */
+    //           amountDesired,
+    //           amountMin,
+    //           amountETHMin,
+    //           contractAddress,
+    //           deadline
+    //         )
+    //         .send({
+    //           from: account,
+    //           value: amountETHMin
+    //         })
+    //         .then((rep) => console.log("Receipt: ", rep));
+    // await dogCoin.methods
+    //   .approve(RouterAddress, amountDesired)
+    //   .call({from: account})
+    //   .then(rep => console.log("apprroSucces",rep));
+    // await ssfCoin.methods
+    //     .approve("0x68B7B3b59eD37ebF80787a1ADC7331bEA79F10a7", amountDesired)
+    //     .call({from: account})
+    //     .then(rep => console.log(rep));
+    // add
+    await router.methods
+          .addLiquidity(
+            tokenSSF,
+            tokenSLT,
+            amount1Desired,
+            amount2Desired,
+            amount1Min,
+            amount2Min,
+            contractAddress,
+            deadline
+          )
+          .send({from: account, value: amountETHMin})
+          .then(rep => console.log(rep))
+
+    //add
+  };
 
   const handleRouter = async (getWeb3) => {
     // const BN = getWeb3.utils.BN
-    // console.log(BN)
-    // const router = new getWeb3.eth.Contract(
-    //   RouterABI,
-    //   RouterAddress
-    // );
-    // const amountETH =new BN(1).toString()
-    // const reserveETH =new BN(1.5).toString()
-    // const reserveSSF =new BN(66.7334000667334).toString()
-    // console.log(await router.methods)
-    // const getAmountOut = await router.methods
-    // .getAmountOut(
-    //   amountETH,
-    //   reserveETH,
-    //   reserveSSF
-    // ).call()
-    // console.log("Amount out: ", parseInt(getAmountOut))
-  }
+    // // console.log(BN)
+    const router = new getWeb3.eth.Contract(RouterABI, RouterAddress);
+
+    console.log(await router.methods);
+    // const amountETH =1
+    // const reserveETH =1.5
+    // const reserveSSF =66.7334000667334
+    // console.log("1",getAmountOut(1, 0, 100))
+    // console.log("2",getAmountOut(amountETH, reserveETH, reserveSSF))
+  };
 
   const handlePair = async (getWeb3) => {
-    const Pair = new getWeb3.eth.Contract(
+    const pair = new getWeb3.eth.Contract(
       PairABI,
-      PairAddress
-    )
-    console.log("Pair ", await Pair.methods)
-    const getReserves = await Pair.methods
-    .getReserves().call()
-    const WETHaddress = "0xc778417E063141139Fce010982780140Aa0cD5Ab"
-    var reserveETH
-    var reserveSSF
-    if (WETHaddress < tokenSSF) {
-       reserveETH = getReserves[0];
-       reserveSSF = getReserves[1];
-    } else {
-       reserveETH = getReserves[1];
-       reserveSSF = getReserves[0];
-    }
-    console.log("reservesETH", reserveETH)
-    console.log("reservesSSF", reserveSSF)
-    
-    const BN = getWeb3.utils.BN
-    console.log(BN)
-    const router = new getWeb3.eth.Contract(
-      RouterABI,
-      RouterAddress
+      "0x9a06A5C3077982676Cc6A8A0d7Fd3c556C42C962"
     );
-    const amountETH =new BN(1).toString()
-    const eth =new BN(1.5).toString()
-    const ssf =new BN(66.7334000667334).toString()
-    console.log(await router.methods)
-    const getAmountOut = await router.methods
-    .getAmountOut(
-      amountETH,
-      eth,
-      ssf
-    ).call()
-    console.log("Amount out: ", parseInt(getAmountOut))
-  }
+    // console.log("Pair ", await test.methods);
+    const getReserves = await pair.methods.getReserves().call();
+    var reserveETH;
+    var reserveSSF;
+    if (tokenSLT < tokenSSF) {
+      reserveETH = getReserves[0];
+      reserveSSF = getReserves[1];
+    } else {
+      reserveETH = getReserves[1];
+      reserveSSF = getReserves[0];
+    }
+    console.log("reservesETH", reserveETH / 10 ** 18);
+    console.log("reservesSSF", reserveSSF / 10 ** 18);
+    // const Pair = new getWeb3.eth.Contract(PairABI, PairAddress);
+    // console.log("Pair ", await Pair.methods);
+    // const getReserves = await Pair.methods.getReserves().call();
+    // var reserveETH;
+    // var reserveSSF;
+    // if (tokenWETH < tokenSSF) {
+    //   reserveETH = getReserves[0];
+    //   reserveSSF = getReserves[1];
+    // } else {
+    //   reserveETH = getReserves[1];
+    //   reserveSSF = getReserves[0];
+    // }
+    // console.log("reservesETH", reserveETH/(10**18));
+    // console.log("reservesSSF", reserveSSF/(10**18));
+    // console.log(
+    //   "2 ETH - ",
+    //   getAmountOut(2 * 10 ** 18, reserveETH, reserveSSF)/(10**18),
+    //   "priceImpact: ",
+    //   getPriceImpact(0.125, 1, reserveETH/(10**18))*100
+    // );
+  };
 
   const handleValue = (getWeb3) => {
     const ethValue = document.querySelector("#etherValue").value;
@@ -485,14 +578,11 @@ const SwapToken = () => {
         </button>
         <br />
         <br />
-
-        Test Factory: 
+        Test Factory:
         <button onClick={() => handleFactory(getWeb3)}>Test Factory</button>
-
         <br />
-
         Test Router:
-        <button onClick={()=> handleRouter(getWeb3)}>Test Router</button>
+        <button onClick={() => handleRouter(getWeb3)}>Test Router</button>
         <br />
         Test Pair:
         <button onClick={() => handlePair(getWeb3)}>Pair</button>
@@ -536,6 +626,9 @@ const SwapToken = () => {
             ))} */}
       </div>
       <TestSwap web3={getWeb3} />
+      <br />
+      AddLiquidityETH:{" "}
+      <button onClick={() => addLiquidity(getWeb3)}>Test</button>
     </div>
   );
 };
