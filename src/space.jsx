@@ -229,7 +229,7 @@ const Space = () => {
           </Thead>
           <Tbody>
             <Tr>
-              <Th>
+              <Td>
                 {listPair.length
                   ? listPair.map((pair, index) => {
                       return (
@@ -239,23 +239,22 @@ const Space = () => {
                       );
                     })
                   : null}
-              </Th>
-              <Th>
+              </Td>
+              <Td>
                 {tokensListPair.length > 0 &&
-                tokensListPair.length >= lengthPair
-                  ? tokensListPair.length >= lengthPair
-                    ? tokensListPair.map((tokens, i) => {
+                tokensListPair.length >= lengthPair 
+                    ? tokensListPair.map((tokens, i) => {           
                         return (
+                         (
                           <Tr key={i}>
                             <Td>
-                              {tokens[0].symbol} |{tokens[0].token_address}  & {tokens[1].symbol} |{tokens[0].token_address}
+                              {/* {tokens[0].symbol} |{tokens[0].token_address}  & {tokens[1].symbol} |{tokens[1].token_address} */}
                             </Td>
                           </Tr>
-                        );
+                        ))
                       })
-                    : console.log("null")
                   : null}
-              </Th>
+              </Td>
             </Tr>
           </Tbody>
         </Table>

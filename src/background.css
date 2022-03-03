@@ -1,0 +1,28 @@
+@import "https://unpkg.com/open-props"; 
+@import "https://unpkg.com/open-props/normalize.min.css"; 
+
+#header{
+    font-family: var(--font-sans);
+    font-weight: var(--font-weight-8);
+    font-size: var(--font-size-5)
+}
+
+.rightContent > span {
+    margin-right: 1.5rem;
+    font-weight: var(--font-weight-5);
+    font-size: var(--font-size-3)
+}
+
+.rightContent > span:last-child {
+    margin-right: 0px;
+}
+
+.limitTable {
+    padding: 2rem;
+    width: 50%;
+    border: 0.5px solid teal;
+}
+
+.limitTable > div {
+    padding-bottom: 1rem;
+}

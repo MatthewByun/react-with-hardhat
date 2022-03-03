@@ -15,7 +15,7 @@ contract UniswapV2Router02 is IUniswapV2Router02 {
     using SafeMath for uint256;
 
     address public immutable override factory;
-    address public immutable override  WETH;
+    address public immutable override WETH;
 
     modifier ensure(uint256 deadline) {
         require(deadline >= block.timestamp, "UniswapV2Router: EXPIRED");
