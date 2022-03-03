@@ -14,7 +14,7 @@ contract UniswapV2ERC20 is IUniswapV2ERC20 {
     uint8 public override constant decimals = 18;
     uint  public override totalSupply;
     mapping(address => uint) public override balanceOf;
-    mapping(address => mapping(address => uint)) public override  allowance;
+    mapping(address => mapping(address => uint)) public override allowance;
 
     bytes32 public override DOMAIN_SEPARATOR;
     // keccak256("Permit(address owner,address spender,uint256 value,uint256 nonce,uint256 deadline)");
