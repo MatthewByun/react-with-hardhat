@@ -75,7 +75,7 @@ interface IERC20 {
     function transfer(address to, uint value) external returns (bool);
     function transferFrom(address from, address to, uint value) external returns (bool);
 }
-interface IWETH {
+interface IWMATIC {
     function deposit() external payable;
     function transfer(address to, uint value) external returns (bool);
     function withdraw(uint) external;
@@ -113,7 +113,7 @@ library UniswapV2Library {
                             factory,
                             keccak256(abi.encodePacked(token0, token1)),
                             // hex"966a963e3b25b66a576eb88e424b7615304e3e0b136a99fcf39cd343c6baa72f" // UniswapV2Pair bytecode hash
-                            hex"9d5ddce9e360e6ed1fb3230c538363b64a1970f93e8539e959a827e0f6aedc68" // UniswapV2Pair bytecode hash
+                            hex"96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f" // UniswapV2Pair bytecode hash
                         )
                     )
                 )
@@ -162,9 +162,9 @@ library UniswapV2Library {
             "UniswapV2Library: INSUFFICIENT_LIQUIDITY"
         );
         uint256 amountInWithFee = amountIn.mul(997); // 99.7 || 1* 997
-        uint256 numerator = amountInWithFee.mul(reserveOut); //99.7 * 100 = 9980 || 997 * 100 = 99800
-        uint256 denominator = reserveIn.mul(1000).add(amountInWithFee); // 1000+99.7 = 1099.7 || 1000+997 = 1998
-        amountOut = numerator / denominator; // 99800 / 1998
+        uint256 numerator = amountInWithFee.mul(reserveOut); //99.7 * 100 = 9970 || 997 * 100 = 99700
+        uint256 denominator = reserveIn.mul(1000).add(amountInWithFee); // 1000+99.7 = 1099.7 || 1000+997 = 1997
+        amountOut = numerator / denominator; // 99700 / 1997
     }
 
     // given an output amount of an asset and pair reserves, returns a required input amount of the other asset
@@ -266,6 +266,8 @@ contract SpaceOrderRouter {
     enum OrderStatus { PENDING, FILLED, CANCELLED }
     enum OrderType { ETH_TOKEN, TOKEN_TOKEN, TOKEN_ETH }
     
+    address public constant factory = 0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32;
+
     struct Order {
         uint256 id;                 // Order ID 
         uint256 pendingIndex;       // Index in pending order array
@@ -280,7 +282,7 @@ contract SpaceOrderRouter {
         uint256 timestamp;
     }
     
-    address public constant WETH = 0xc778417E063141139Fce010982780140Aa0cD5Ab;
+    address public constant WMATIC = 0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270;
     
     address authorizedCaller;
     
@@ -292,75 +294,142 @@ contract SpaceOrderRouter {
     modifier onlyAuthorized() {
         require(msg.sender == authorizedCaller); _;
     }
+
+    modifier ensure(uint deadline) {
+        require(deadline >= block.timestamp, 'UniswapV2Router: EXPIRED');
+        _;
+    }
     
     receive() external payable {
-        assert(msg.sender == WETH);
+        assert(msg.sender == WMATIC);
     }
     
 
-    function makeTokenTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
+    // function makeTokenTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
+    //     TransferHelper.safeTransferFrom(
+    //         tokenIn, owner, pair, amountIn
+    //     );
+        
+    //     uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
+    //     _swap(pair, tokenIn, tokenOut, owner);
+        
+    //     require(
+    //         IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
+    //         'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
+    //     );
+    // }
+
+    function swapExactTokensForTokens(
+        uint amountIn,
+        uint amountOutMin,
+        address[] calldata path,
+        address to,
+        uint deadline
+    ) external virtual ensure(deadline) returns (uint[] memory amounts) {
+        amounts = UniswapV2Library.getAmountsOut(factory, amountIn, path);
+        require(amounts[amounts.length - 1] >= amountOutMin, 'UniswapV2Router: INSUFFICIENT_OUTPUT_AMOUNT');
         TransferHelper.safeTransferFrom(
-            tokenIn, owner, pair, amountIn
+            path[0], msg.sender, UniswapV2Library.pairFor(factory, path[0], path[1]), amounts[0]
         );
-        
-        uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
-        _swap(pair, tokenIn, tokenOut, owner);
-        
-        require(
-            IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
-            'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
-        );
+        _swap(amounts, path, to);
     }
-
     
-     function makeTokenETHSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
+    //  function makeTokenETHSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
+    //     TransferHelper.safeTransferFrom(
+    //         tokenIn, owner, pair, amountIn
+    //     );
+        
+    //     uint balanceBefore = IERC20(WMATIC).balanceOf(address(this));
+    //     _swap(pair, tokenIn, tokenOut, address(this));
+        
+    //     uint amountOut = IERC20(WMATIC).balanceOf(address(this)).sub(balanceBefore);
+        
+    //     require(amountOut >= minAmountOut, 'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT');
+        
+    //     IWMATIC(WMATIC).withdraw(amountOut);
+        
+    //     TransferHelper.safeTransferETH(owner, amountOut);
+    // }
+
+    function swapExactTokensForETH(uint amountIn, uint amountOutMin, address[] calldata path, address to, uint deadline)
+        external
+        virtual
+        ensure(deadline)
+        returns (uint[] memory amounts)
+    {
+        require(path[path.length - 1] == WMATIC, 'UniswapV2Router: INVALID_PATH');
+        amounts = UniswapV2Library.getAmountsOut(factory, amountIn, path);
+        require(amounts[amounts.length - 1] >= amountOutMin, 'UniswapV2Router: INSUFFICIENT_OUTPUT_AMOUNT');
         TransferHelper.safeTransferFrom(
-            tokenIn, owner, pair, amountIn
+            path[0], msg.sender, UniswapV2Library.pairFor(factory, path[0], path[1]), amounts[0]
         );
-        
-        uint balanceBefore = IERC20(WETH).balanceOf(address(this));
-        _swap(pair, tokenIn, tokenOut, address(this));
-        
-        uint amountOut = IERC20(WETH).balanceOf(address(this)).sub(balanceBefore);
-        
-        require(amountOut >= minAmountOut, 'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT');
-        
-        IWETH(WETH).withdraw(amountOut);
-        
-        TransferHelper.safeTransferETH(owner, amountOut);
+        _swap(amounts, path, address(this));
+        IWMATIC(WMATIC).withdraw(amounts[amounts.length - 1]);
+        TransferHelper.safeTransferETH(to, amounts[amounts.length - 1]);
     }
     
-    function makeETHTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external payable onlyAuthorized {
-        // Swap ETH for WETH then transfer to pair
-        IWETH(WETH).deposit{value: amountIn}();
-        assert(IWETH(WETH).transfer(pair, amountIn));
+    // function makeETHTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external payable onlyAuthorized {
+    //     // Swap ETH for WMATIC then transfer to pair
+    //     IWMATIC(WMATIC).deposit{value: amountIn}();
+    //     assert(IWMATIC(WMATIC).transfer(pair, amountIn));
         
-        uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
-        _swap(pair, tokenIn, tokenOut, owner);
+    //     uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
+    //     _swap(pair, tokenIn, tokenOut, owner);
         
-        require(
-            IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
-            'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
-        );
+    //     require(
+    //         IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
+    //         'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
+    //     );
+    // }
+
+    function swapExactETHForTokens(uint amountOutMin, address[] calldata path, address to, uint deadline)
+        external
+        virtual
+        payable
+        ensure(deadline)
+        returns (uint[] memory amounts)
+    {
+        require(path[0] == WMATIC, 'UniswapV2Router: INVALID_PATH');
+        amounts = UniswapV2Library.getAmountsOut(factory, msg.value, path);
+        require(amounts[amounts.length - 1] >= amountOutMin, 'UniswapV2Router: INSUFFICIENT_OUTPUT_AMOUNT');
+        IWMATIC(WMATIC).deposit{value: amounts[0]}();
+        assert(IWMATIC(WMATIC).transfer(UniswapV2Library.pairFor(factory, path[0], path[1]), amounts[0]));
+        _swap(amounts, path, to);
     }
+
+
     
 
-    function _swap(
-        address _pair,
-        address tokenIn,
-        address tokenOut,
-        address to
-    ) internal virtual {
-        (address token0,) = UniswapV2Library.sortTokens(tokenIn, tokenOut);
-        IUniswapV2Pair pair = IUniswapV2Pair(_pair);
-        uint amountInput;
-        uint amountOutput;
-        (uint reserve0, uint reserve1,) = pair.getReserves();
-        (uint reserveInput, uint reserveOutput) = tokenIn == token0 ? (reserve0, reserve1) : (reserve1, reserve0);
-        amountInput = IERC20(tokenIn).balanceOf(address(pair)).sub(reserveInput);
-        amountOutput = UniswapV2Library.getAmountOut(amountInput, reserveInput, reserveOutput);
+//     function _swap(
+//         address _pair,
+//         address tokenIn,
+//         address tokenOut,
+//         address to
+//     ) internal virtual {
+//         (address token0,) = UniswapV2Library.sortTokens(tokenIn, tokenOut);
+//         IUniswapV2Pair pair = IUniswapV2Pair(_pair);
+//         uint amountInput;
+//         uint amountOutput;
+//         (uint reserve0, uint reserve1,) = pair.getReserves();
+//         (uint reserveInput, uint reserveOutput) = tokenIn == token0 ? (reserve0, reserve1) : (reserve1, reserve0);
+//         amountInput = IERC20(tokenIn).balanceOf(address(pair)).sub(reserveInput);
+//         amountOutput = UniswapV2Library.getAmountOut(amountInput, reserveInput, reserveOutput);
 
-        (uint amount0Out, uint amount1Out) = tokenIn == token0 ? (uint(0), amountOutput) : (amountOutput, uint(0));
-        pair.swap(amount0Out, amount1Out, to, new bytes(0));
+//         (uint amount0Out, uint amount1Out) = tokenIn == token0 ? (uint(0), amountOutput) : (amountOutput, uint(0));
+//         pair.swap(amount0Out, amount1Out, to, new bytes(0));
+//     }
+// }
+
+    function _swap(uint[] memory amounts, address[] memory path, address _to) internal virtual {
+        for (uint i; i < path.length - 1; i++) {
+            (address input, address output) = (path[i], path[i + 1]);
+            (address token0,) = UniswapV2Library.sortTokens(input, output);
+            uint amountOut = amounts[i + 1];
+            (uint amount0Out, uint amount1Out) = input == token0 ? (uint(0), amountOut) : (amountOut, uint(0));
+            address to = i < path.length - 2 ? UniswapV2Library.pairFor(factory, output, path[i + 2]) : _to;
+            IUniswapV2Pair(UniswapV2Library.pairFor(factory, input, output)).swap(
+                amount0Out, amount1Out, to, new bytes(0)
+            );      
+}   
     }
 }

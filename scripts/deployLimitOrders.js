@@ -6,9 +6,9 @@
 const hre = require("hardhat");
 
 async function main() {
-  const MyContract = await ethers.getContractFactory("LimitOrders");
+  const MyContract = await ethers.getContractFactory("SpaceLimitOrders");
   const contract = await MyContract.deploy(
-    "0xEd23423FF552c10d1beDe08aA7FB36d56934dd40", //factory address
+    "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f", //factory uni address
     "0xc778417E063141139Fce010982780140Aa0cD5Ab", // weth address
   );
   console.log("deploy here");
