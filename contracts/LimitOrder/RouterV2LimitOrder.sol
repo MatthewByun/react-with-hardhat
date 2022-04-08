@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.5.16;
+pragma solidity ^0.8.4;
+
+
 // Use second contract for router as allows try catch on external router calls from main contract to make cancelling failing swaps possible in same tx
 library SafeMath {
     function add(uint x, uint y) internal pure returns (uint z) {
@@ -10,8 +12,29 @@ library SafeMath {
         require((z = x - y) <= x, 'ds-math-sub-underflow');
     }
 
+
     function mul(uint x, uint y) internal pure returns (uint z) {
         require(y == 0 || (z = x * y) / y == x, 'ds-math-mul-overflow');
+    }
+    // function _div(uint256 a, uint256 b) internal pure returns (uint256) {
+    //     require(b>0, "Can't div 0!!!");
+    //     uint256 c = a/b;
+    //     return c;
+    // }
+    // function div(uint256 a,uint256 b) internal pure returns (uint256) {
+    //     return _div(a,b);
+    // }
+
+    function div(uint256 a, uint256 b) internal pure returns (uint256) {
+        return div(a, b, "SafeMath: division by zero");
+    }
+    function div(uint256 a, uint256 b, string memory errorMessage) internal pure returns (uint256) {
+        // Solidity only automatically asserts when dividing by 0
+        require(b > 0, errorMessage);
+        uint256 c = a / b;
+        // assert(a == b * c + a % b); // There is no case in which this doesn't hold
+
+        return c;
     }
 }
 library TransferHelper {
@@ -51,7 +74,7 @@ library TransferHelper {
         (bool success, bytes memory data) = token.call(abi.encodeWithSelector(0x23b872dd, from, to, value));
         require(
             success && (data.length == 0 || abi.decode(data, (bool))),
-            'TransferHelper::transferFrom: transferFrom failed'
+            'TransferHelper::transferFrom: transferFrom failed' 
         );
     }
 
@@ -75,7 +98,7 @@ interface IERC20 {
     function transfer(address to, uint value) external returns (bool);
     function transferFrom(address from, address to, uint value) external returns (bool);
 }
-interface IWETH {
+interface IWMATIC {
     function deposit() external payable;
     function transfer(address to, uint value) external returns (bool);
     function withdraw(uint) external;
@@ -113,7 +136,7 @@ library UniswapV2Library {
                             factory,
                             keccak256(abi.encodePacked(token0, token1)),
                             // hex"966a963e3b25b66a576eb88e424b7615304e3e0b136a99fcf39cd343c6baa72f" // UniswapV2Pair bytecode hash
-                            hex"9d5ddce9e360e6ed1fb3230c538363b64a1970f93e8539e959a827e0f6aedc68" // UniswapV2Pair bytecode hash
+                            hex"96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f" // UniswapV2Pair bytecode hash
                         )
                     )
                 )
@@ -162,9 +185,9 @@ library UniswapV2Library {
             "UniswapV2Library: INSUFFICIENT_LIQUIDITY"
         );
         uint256 amountInWithFee = amountIn.mul(997); // 99.7 || 1* 997
-        uint256 numerator = amountInWithFee.mul(reserveOut); //99.7 * 100 = 9980 || 997 * 100 = 99800
-        uint256 denominator = reserveIn.mul(1000).add(amountInWithFee); // 1000+99.7 = 1099.7 || 1000+997 = 1998
-        amountOut = numerator / denominator; // 99800 / 1998
+        uint256 numerator = amountInWithFee.mul(reserveOut); //99.7 * 100 = 9970 || 997 * 100 = 99700
+        uint256 denominator = reserveIn.mul(1000).add(amountInWithFee); // 1000+99.7 = 1099.7 || 1000+997 = 1997
+        amountOut = numerator / denominator; // 99700 / 1997
     }
 
     // given an output amount of an asset and pair reserves, returns a required input amount of the other asset
@@ -260,91 +283,63 @@ interface IUniswapV2Pair {
 }
 
 
+
 contract SpaceOrderRouter {
     using SafeMath for uint256;
-    
-    enum OrderStatus { PENDING, FILLED, CANCELLED }
-    enum OrderType { ETH_TOKEN, TOKEN_TOKEN, TOKEN_ETH }
-    
+    address public constant factory = 0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f; //polygon
+    // address public constant factory = 0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32; //polygon
     struct Order {
-        uint256 id;                 // Order ID 
-        uint256 pendingIndex;       // Index in pending order array
-        address owner;              // Order placer 
-        OrderStatus status;         // Order status 
-        OrderType swapType;         // Order type
-        address tokenIn;            // Token to swap 
-        address tokenOut;           // Token to swap for
-        uint256 amountIn;           // ETH Amount in 
-        uint256 targetAmountOut;    // Price to trigger order at 
-        uint256 minAmountOut;       // Max price to trigger order at (in case price changed before tx has been mined)
-        uint256 timestamp;
+        address owner;
+        uint256 status;
+        address tokenIn;
+        address tokenOut;
+        uint256 amountIn;
+        uint256 priceExecute;  
+        uint256 minAmountOut;
+        uint256 deadline;
+        uint256 salt;
     }
-    
-    address public constant WETH = 0xc778417E063141139Fce010982780140Aa0cD5Ab;
-    
     address authorizedCaller;
-    
-
-    constructor () {
+    address public feeAddress;
+    constructor (address _adr) {
         authorizedCaller = msg.sender;
+        feeAddress = _adr;
     }
     
     modifier onlyAuthorized() {
         require(msg.sender == authorizedCaller); _;
     }
-    
-    receive() external payable {
-        assert(msg.sender == WETH);
-    }
-    
 
-    function makeTokenTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
-        TransferHelper.safeTransferFrom(
-            tokenIn, owner, pair, amountIn
-        );
-        
-        uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
-        _swap(pair, tokenIn, tokenOut, owner);
-        
-        require(
-            IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
-            'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
-        );
-    }
 
-    
-     function makeTokenETHSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external onlyAuthorized {
+    function makeTokenTokenSwap(address _owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut, uint256 deadline) external onlyAuthorized {
+        
         TransferHelper.safeTransferFrom(
-            tokenIn, owner, pair, amountIn
+            tokenIn, _owner, pair, amountIn
         );
         
-        uint balanceBefore = IERC20(WETH).balanceOf(address(this));
+        uint balanceOwnerBefore = IERC20(tokenOut).balanceOf(_owner);
+
+
         _swap(pair, tokenIn, tokenOut, address(this));
+        uint amountOut = IERC20(tokenOut).balanceOf(address(this));
+        uint fee = amountOut.div(1000);
+        uint amountOutwFee = amountOut - fee;
         
-        uint amountOut = IERC20(WETH).balanceOf(address(this)).sub(balanceBefore);
-        
-        require(amountOut >= minAmountOut, 'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT');
-        
-        IWETH(WETH).withdraw(amountOut);
-        
-        TransferHelper.safeTransferETH(owner, amountOut);
-    }
-    
-    function makeETHTokenSwap(address owner, address tokenIn, address tokenOut, address pair, uint256 amountIn, uint256 minAmountOut) external payable onlyAuthorized {
-        // Swap ETH for WETH then transfer to pair
-        IWETH(WETH).deposit{value: amountIn}();
-        assert(IWETH(WETH).transfer(pair, amountIn));
-        
-        uint balanceBefore = IERC20(tokenOut).balanceOf(owner);
-        _swap(pair, tokenIn, tokenOut, owner);
+        IERC20(tokenOut).transfer(_owner, amountOutwFee);
+        IERC20(tokenOut).transfer(address(feeAddress), fee);
         
         require(
-            IERC20(tokenOut).balanceOf(owner).sub(balanceBefore) >= minAmountOut,
+            IERC20(tokenOut).balanceOf(_owner).sub(balanceOwnerBefore) >= minAmountOut,
             'SpaceRouter: INSUFFICIENT_OUTPUT_AMOUNT'
+        );
+        
+        require(
+            deadline >= block.timestamp,
+            'Order Expired!!!!!!!!'
         );
     }
     
-
+    
     function _swap(
         address _pair,
         address tokenIn,
@@ -363,4 +358,5 @@ contract SpaceOrderRouter {
         (uint amount0Out, uint amount1Out) = tokenIn == token0 ? (uint(0), amountOutput) : (amountOutput, uint(0));
         pair.swap(amount0Out, amount1Out, to, new bytes(0));
     }
+
 }

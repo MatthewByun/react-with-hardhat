@@ -1,0 +1,1592 @@
+[
+    {
+        "description": "Bittrex BTC/NAV",
+        "displaySymbol": "BTC/NAV",
+        "symbol": "BITTREX:BTC-NAV"
+    },
+    {
+        "description": "Bittrex ETH/HNS",
+        "displaySymbol": "ETH/HNS",
+        "symbol": "BITTREX:ETH-HNS"
+    },
+    {
+        "description": "Bittrex USDT/AMP",
+        "displaySymbol": "USDT/AMP",
+        "symbol": "BITTREX:USDT-AMP"
+    },
+    {
+        "description": "Bittrex USD/IOTA",
+        "displaySymbol": "USD/IOTA",
+        "symbol": "BITTREX:USD-IOTA"
+    },
+    {
+        "description": "Bittrex USD/OMG",
+        "displaySymbol": "USD/OMG",
+        "symbol": "BITTREX:USD-OMG"
+    },
+    {
+        "description": "Bittrex BTC/GRT",
+        "displaySymbol": "BTC/GRT",
+        "symbol": "BITTREX:BTC-GRT"
+    },
+    {
+        "description": "Bittrex BTC/GBYTE",
+        "displaySymbol": "BTC/GBYTE",
+        "symbol": "BITTREX:BTC-GBYTE"
+    },
+    {
+        "description": "Bittrex BTC/MANA",
+        "displaySymbol": "BTC/MANA",
+        "symbol": "BITTREX:BTC-MANA"
+    },
+    {
+        "description": "Bittrex BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "BITTREX:BTC-USDC"
+    },
+    {
+        "description": "Bittrex USD/MANA",
+        "displaySymbol": "USD/MANA",
+        "symbol": "BITTREX:USD-MANA"
+    },
+    {
+        "description": "Bittrex ETH/XLM",
+        "displaySymbol": "ETH/XLM",
+        "symbol": "BITTREX:ETH-XLM"
+    },
+    {
+        "description": "Bittrex ETH/BAL",
+        "displaySymbol": "ETH/BAL",
+        "symbol": "BITTREX:ETH-BAL"
+    },
+    {
+        "description": "Bittrex ETH/EOS",
+        "displaySymbol": "ETH/EOS",
+        "symbol": "BITTREX:ETH-EOS"
+    },
+    {
+        "description": "Bittrex USD/STRK",
+        "displaySymbol": "USD/STRK",
+        "symbol": "BITTREX:USD-STRK"
+    },
+    {
+        "description": "Bittrex BTC/AEON",
+        "displaySymbol": "BTC/AEON",
+        "symbol": "BITTREX:BTC-AEON"
+    },
+    {
+        "description": "Bittrex USDT/XDN",
+        "displaySymbol": "USDT/XDN",
+        "symbol": "BITTREX:USDT-XDN"
+    },
+    {
+        "description": "Bittrex USD/ENJ",
+        "displaySymbol": "USD/ENJ",
+        "symbol": "BITTREX:USD-ENJ"
+    },
+    {
+        "description": "Bittrex ETH/GRT",
+        "displaySymbol": "ETH/GRT",
+        "symbol": "BITTREX:ETH-GRT"
+    },
+    {
+        "description": "Bittrex BTC/1INCH",
+        "displaySymbol": "BTC/1INCH",
+        "symbol": "BITTREX:BTC-1INCH"
+    },
+    {
+        "description": "Bittrex BTC/CELO",
+        "displaySymbol": "BTC/CELO",
+        "symbol": "BITTREX:BTC-CELO"
+    },
+    {
+        "description": "Bittrex USDT/TUSD",
+        "displaySymbol": "USDT/TUSD",
+        "symbol": "BITTREX:USDT-TUSD"
+    },
+    {
+        "description": "Bittrex USD/KSM",
+        "displaySymbol": "USD/KSM",
+        "symbol": "BITTREX:USD-KSM"
+    },
+    {
+        "description": "Bittrex USD/DCR",
+        "displaySymbol": "USD/DCR",
+        "symbol": "BITTREX:USD-DCR"
+    },
+    {
+        "description": "Bittrex BTC/ETH",
+        "displaySymbol": "BTC/ETH",
+        "symbol": "BITTREX:BTC-ETH"
+    },
+    {
+        "description": "Bittrex BTC/MORE",
+        "displaySymbol": "BTC/MORE",
+        "symbol": "BITTREX:BTC-MORE"
+    },
+    {
+        "description": "Bittrex ETH/CELO",
+        "displaySymbol": "ETH/CELO",
+        "symbol": "BITTREX:ETH-CELO"
+    },
+    {
+        "description": "Bittrex USDT/HIVE",
+        "displaySymbol": "USDT/HIVE",
+        "symbol": "BITTREX:USDT-HIVE"
+    },
+    {
+        "description": "Bittrex BTC/AAVE",
+        "displaySymbol": "BTC/AAVE",
+        "symbol": "BITTREX:BTC-AAVE"
+    },
+    {
+        "description": "Bittrex USDT/HNS",
+        "displaySymbol": "USDT/HNS",
+        "symbol": "BITTREX:USDT-HNS"
+    },
+    {
+        "description": "Bittrex BTC/SOLVE",
+        "displaySymbol": "BTC/SOLVE",
+        "symbol": "BITTREX:BTC-SOLVE"
+    },
+    {
+        "description": "Bittrex USDT/DCR",
+        "displaySymbol": "USDT/DCR",
+        "symbol": "BITTREX:USDT-DCR"
+    },
+    {
+        "description": "Bittrex BTC/WAXP",
+        "displaySymbol": "BTC/WAXP",
+        "symbol": "BITTREX:BTC-WAXP"
+    },
+    {
+        "description": "Bittrex BTC/VIA",
+        "displaySymbol": "BTC/VIA",
+        "symbol": "BITTREX:BTC-VIA"
+    },
+    {
+        "description": "Bittrex USD/ZIL",
+        "displaySymbol": "USD/ZIL",
+        "symbol": "BITTREX:USD-ZIL"
+    },
+    {
+        "description": "Bittrex USDT/DOT",
+        "displaySymbol": "USDT/DOT",
+        "symbol": "BITTREX:USDT-DOT"
+    },
+    {
+        "description": "Bittrex USD/USDT",
+        "displaySymbol": "USD/USDT",
+        "symbol": "BITTREX:USD-USDT"
+    },
+    {
+        "description": "Bittrex BTC/CURE",
+        "displaySymbol": "BTC/CURE",
+        "symbol": "BITTREX:BTC-CURE"
+    },
+    {
+        "description": "Bittrex USDT/XEM",
+        "displaySymbol": "USDT/XEM",
+        "symbol": "BITTREX:USDT-XEM"
+    },
+    {
+        "description": "Bittrex BTC/USDP",
+        "displaySymbol": "BTC/USDP",
+        "symbol": "BITTREX:BTC-USDP"
+    },
+    {
+        "description": "Bittrex USD/FIL",
+        "displaySymbol": "USD/FIL",
+        "symbol": "BITTREX:USD-FIL"
+    },
+    {
+        "description": "Bittrex BTC/TRX",
+        "displaySymbol": "BTC/TRX",
+        "symbol": "BITTREX:BTC-TRX"
+    },
+    {
+        "description": "Bittrex USDT/BAL",
+        "displaySymbol": "USDT/BAL",
+        "symbol": "BITTREX:USDT-BAL"
+    },
+    {
+        "description": "Bittrex ETH/NMR",
+        "displaySymbol": "ETH/NMR",
+        "symbol": "BITTREX:ETH-NMR"
+    },
+    {
+        "description": "Bittrex USD/KMD",
+        "displaySymbol": "USD/KMD",
+        "symbol": "BITTREX:USD-KMD"
+    },
+    {
+        "description": "Bittrex USDT/COMP",
+        "displaySymbol": "USDT/COMP",
+        "symbol": "BITTREX:USDT-COMP"
+    },
+    {
+        "description": "Bittrex BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "BITTREX:BTC-DAI"
+    },
+    {
+        "description": "Bittrex BTC/EXCL",
+        "displaySymbol": "BTC/EXCL",
+        "symbol": "BITTREX:BTC-EXCL"
+    },
+    {
+        "description": "Bittrex BTC/ZRX",
+        "displaySymbol": "BTC/ZRX",
+        "symbol": "BITTREX:BTC-ZRX"
+    },
+    {
+        "description": "Bittrex ETH/FIL",
+        "displaySymbol": "ETH/FIL",
+        "symbol": "BITTREX:ETH-FIL"
+    },
+    {
+        "description": "Bittrex BTC/FTC",
+        "displaySymbol": "BTC/FTC",
+        "symbol": "BITTREX:BTC-FTC"
+    },
+    {
+        "description": "Bittrex ETH/AAVE",
+        "displaySymbol": "ETH/AAVE",
+        "symbol": "BITTREX:ETH-AAVE"
+    },
+    {
+        "description": "Bittrex BTC/DGB",
+        "displaySymbol": "BTC/DGB",
+        "symbol": "BITTREX:BTC-DGB"
+    },
+    {
+        "description": "Bittrex USDT/TRX",
+        "displaySymbol": "USDT/TRX",
+        "symbol": "BITTREX:USDT-TRX"
+    },
+    {
+        "description": "Bittrex USDT/DAI",
+        "displaySymbol": "USDT/DAI",
+        "symbol": "BITTREX:USDT-DAI"
+    },
+    {
+        "description": "Bittrex USD/AMP",
+        "displaySymbol": "USD/AMP",
+        "symbol": "BITTREX:USD-AMP"
+    },
+    {
+        "description": "Bittrex USDT/1INCH",
+        "displaySymbol": "USDT/1INCH",
+        "symbol": "BITTREX:USDT-1INCH"
+    },
+    {
+        "description": "Bittrex BTC/BSV",
+        "displaySymbol": "BTC/BSV",
+        "symbol": "BITTREX:BTC-BSV"
+    },
+    {
+        "description": "Bittrex BTC/STRK",
+        "displaySymbol": "BTC/STRK",
+        "symbol": "BITTREX:BTC-STRK"
+    },
+    {
+        "description": "Bittrex BTC/SLS",
+        "displaySymbol": "BTC/SLS",
+        "symbol": "BITTREX:BTC-SLS"
+    },
+    {
+        "description": "Bittrex USDT/SYS",
+        "displaySymbol": "USDT/SYS",
+        "symbol": "BITTREX:USDT-SYS"
+    },
+    {
+        "description": "Bittrex USD/ZRX",
+        "displaySymbol": "USD/ZRX",
+        "symbol": "BITTREX:USD-ZRX"
+    },
+    {
+        "description": "Bittrex ETH/BSV",
+        "displaySymbol": "ETH/BSV",
+        "symbol": "BITTREX:ETH-BSV"
+    },
+    {
+        "description": "Bittrex USDT/KNC",
+        "displaySymbol": "USDT/KNC",
+        "symbol": "BITTREX:USDT-KNC"
+    },
+    {
+        "description": "Bittrex ETH/OMG",
+        "displaySymbol": "ETH/OMG",
+        "symbol": "BITTREX:ETH-OMG"
+    },
+    {
+        "description": "Bittrex USD/REN",
+        "displaySymbol": "USD/REN",
+        "symbol": "BITTREX:USD-REN"
+    },
+    {
+        "description": "Bittrex USD/AVAX",
+        "displaySymbol": "USD/AVAX",
+        "symbol": "BITTREX:USD-AVAX"
+    },
+    {
+        "description": "Bittrex USD/LRC",
+        "displaySymbol": "USD/LRC",
+        "symbol": "BITTREX:USD-LRC"
+    },
+    {
+        "description": "Bittrex USD/LTC",
+        "displaySymbol": "USD/LTC",
+        "symbol": "BITTREX:USD-LTC"
+    },
+    {
+        "description": "Bittrex BTC/HBD",
+        "displaySymbol": "BTC/HBD",
+        "symbol": "BITTREX:BTC-HBD"
+    },
+    {
+        "description": "Bittrex BTC/BTS",
+        "displaySymbol": "BTC/BTS",
+        "symbol": "BITTREX:BTC-BTS"
+    },
+    {
+        "description": "Bittrex ETH/LINK",
+        "displaySymbol": "ETH/LINK",
+        "symbol": "BITTREX:ETH-LINK"
+    },
+    {
+        "description": "Bittrex BTC/UMA",
+        "displaySymbol": "BTC/UMA",
+        "symbol": "BITTREX:BTC-UMA"
+    },
+    {
+        "description": "Bittrex BTC/SIGNA",
+        "displaySymbol": "BTC/SIGNA",
+        "symbol": "BITTREX:BTC-SIGNA"
+    },
+    {
+        "description": "Bittrex BTC/VTC",
+        "displaySymbol": "BTC/VTC",
+        "symbol": "BITTREX:BTC-VTC"
+    },
+    {
+        "description": "Bittrex USDT/ENJ",
+        "displaySymbol": "USDT/ENJ",
+        "symbol": "BITTREX:USDT-ENJ"
+    },
+    {
+        "description": "Bittrex USD/TUSD",
+        "displaySymbol": "USD/TUSD",
+        "symbol": "BITTREX:USD-TUSD"
+    },
+    {
+        "description": "Bittrex BTC/MUE",
+        "displaySymbol": "BTC/MUE",
+        "symbol": "BITTREX:BTC-MUE"
+    },
+    {
+        "description": "Bittrex BTC/TUSD",
+        "displaySymbol": "BTC/TUSD",
+        "symbol": "BITTREX:BTC-TUSD"
+    },
+    {
+        "description": "Bittrex ETH/SOLVE",
+        "displaySymbol": "ETH/SOLVE",
+        "symbol": "BITTREX:ETH-SOLVE"
+    },
+    {
+        "description": "Bittrex BTC/OMG",
+        "displaySymbol": "BTC/OMG",
+        "symbol": "BITTREX:BTC-OMG"
+    },
+    {
+        "description": "Bittrex ETH/ADA",
+        "displaySymbol": "ETH/ADA",
+        "symbol": "BITTREX:ETH-ADA"
+    },
+    {
+        "description": "Bittrex BTC/IOTA",
+        "displaySymbol": "BTC/IOTA",
+        "symbol": "BITTREX:BTC-IOTA"
+    },
+    {
+        "description": "Bittrex ETH/ZEC",
+        "displaySymbol": "ETH/ZEC",
+        "symbol": "BITTREX:ETH-ZEC"
+    },
+    {
+        "description": "Bittrex ETH/MKR",
+        "displaySymbol": "ETH/MKR",
+        "symbol": "BITTREX:ETH-MKR"
+    },
+    {
+        "description": "Bittrex USDT/SUSHI",
+        "displaySymbol": "USDT/SUSHI",
+        "symbol": "BITTREX:USDT-SUSHI"
+    },
+    {
+        "description": "Bittrex USDT/DGB",
+        "displaySymbol": "USDT/DGB",
+        "symbol": "BITTREX:USDT-DGB"
+    },
+    {
+        "description": "Bittrex BTC/PIVX",
+        "displaySymbol": "BTC/PIVX",
+        "symbol": "BITTREX:BTC-PIVX"
+    },
+    {
+        "description": "Bittrex ETH/AVAX",
+        "displaySymbol": "ETH/AVAX",
+        "symbol": "BITTREX:ETH-AVAX"
+    },
+    {
+        "description": "Bittrex BTC/HNS",
+        "displaySymbol": "BTC/HNS",
+        "symbol": "BITTREX:BTC-HNS"
+    },
+    {
+        "description": "Bittrex BTC/SPHR",
+        "displaySymbol": "BTC/SPHR",
+        "symbol": "BITTREX:BTC-SPHR"
+    },
+    {
+        "description": "Bittrex ETH/STRAX",
+        "displaySymbol": "ETH/STRAX",
+        "symbol": "BITTREX:ETH-STRAX"
+    },
+    {
+        "description": "Bittrex BTC/AMP",
+        "displaySymbol": "BTC/AMP",
+        "symbol": "BITTREX:BTC-AMP"
+    },
+    {
+        "description": "Bittrex BTC/MTL",
+        "displaySymbol": "BTC/MTL",
+        "symbol": "BITTREX:BTC-MTL"
+    },
+    {
+        "description": "Bittrex ETH/SC",
+        "displaySymbol": "ETH/SC",
+        "symbol": "BITTREX:ETH-SC"
+    },
+    {
+        "description": "Bittrex USD/CELO",
+        "displaySymbol": "USD/CELO",
+        "symbol": "BITTREX:USD-CELO"
+    },
+    {
+        "description": "Bittrex USDT/SAND",
+        "displaySymbol": "USDT/SAND",
+        "symbol": "BITTREX:USDT-SAND"
+    },
+    {
+        "description": "Bittrex BTC/KMD",
+        "displaySymbol": "BTC/KMD",
+        "symbol": "BITTREX:BTC-KMD"
+    },
+    {
+        "description": "Bittrex ETH/BCH",
+        "displaySymbol": "ETH/BCH",
+        "symbol": "BITTREX:ETH-BCH"
+    },
+    {
+        "description": "Bittrex USDT/XVG",
+        "displaySymbol": "USDT/XVG",
+        "symbol": "BITTREX:USDT-XVG"
+    },
+    {
+        "description": "Bittrex USDT/SC",
+        "displaySymbol": "USDT/SC",
+        "symbol": "BITTREX:USDT-SC"
+    },
+    {
+        "description": "Bittrex ETH/WAXP",
+        "displaySymbol": "ETH/WAXP",
+        "symbol": "BITTREX:ETH-WAXP"
+    },
+    {
+        "description": "Bittrex USD/DAI",
+        "displaySymbol": "USD/DAI",
+        "symbol": "BITTREX:USD-DAI"
+    },
+    {
+        "description": "Bittrex BTC/RVN",
+        "displaySymbol": "BTC/RVN",
+        "symbol": "BITTREX:BTC-RVN"
+    },
+    {
+        "description": "Bittrex USDT/USDC",
+        "displaySymbol": "USDT/USDC",
+        "symbol": "BITTREX:USDT-USDC"
+    },
+    {
+        "description": "Bittrex ETH/REPV2",
+        "displaySymbol": "ETH/REPV2",
+        "symbol": "BITTREX:ETH-REPV2"
+    },
+    {
+        "description": "Bittrex USDT/STRK",
+        "displaySymbol": "USDT/STRK",
+        "symbol": "BITTREX:USDT-STRK"
+    },
+    {
+        "description": "Bittrex BTC/UNI",
+        "displaySymbol": "BTC/UNI",
+        "symbol": "BITTREX:BTC-UNI"
+    },
+    {
+        "description": "Bittrex USDT/KSM",
+        "displaySymbol": "USDT/KSM",
+        "symbol": "BITTREX:USDT-KSM"
+    },
+    {
+        "description": "Bittrex BTC/HBAR",
+        "displaySymbol": "BTC/HBAR",
+        "symbol": "BITTREX:BTC-HBAR"
+    },
+    {
+        "description": "Bittrex USDT/PINK",
+        "displaySymbol": "USDT/PINK",
+        "symbol": "BITTREX:USDT-PINK"
+    },
+    {
+        "description": "Bittrex ETH/ENJ",
+        "displaySymbol": "ETH/ENJ",
+        "symbol": "BITTREX:ETH-ENJ"
+    },
+    {
+        "description": "Bittrex USDT/XLM",
+        "displaySymbol": "USDT/XLM",
+        "symbol": "BITTREX:USDT-XLM"
+    },
+    {
+        "description": "Bittrex BTC/LINK",
+        "displaySymbol": "BTC/LINK",
+        "symbol": "BITTREX:BTC-LINK"
+    },
+    {
+        "description": "Bittrex BTC/GEO",
+        "displaySymbol": "BTC/GEO",
+        "symbol": "BITTREX:BTC-GEO"
+    },
+    {
+        "description": "Bittrex USDT/CELO",
+        "displaySymbol": "USDT/CELO",
+        "symbol": "BITTREX:USDT-CELO"
+    },
+    {
+        "description": "Bittrex USD/SAND",
+        "displaySymbol": "USD/SAND",
+        "symbol": "BITTREX:USD-SAND"
+    },
+    {
+        "description": "Bittrex USD/XEM",
+        "displaySymbol": "USD/XEM",
+        "symbol": "BITTREX:USD-XEM"
+    },
+    {
+        "description": "Bittrex USDT/MATIC",
+        "displaySymbol": "USDT/MATIC",
+        "symbol": "BITTREX:USDT-MATIC"
+    },
+    {
+        "description": "Bittrex USD/UMA",
+        "displaySymbol": "USD/UMA",
+        "symbol": "BITTREX:USD-UMA"
+    },
+    {
+        "description": "Bittrex USD/BAL",
+        "displaySymbol": "USD/BAL",
+        "symbol": "BITTREX:USD-BAL"
+    },
+    {
+        "description": "Bittrex BTC/BLK",
+        "displaySymbol": "BTC/BLK",
+        "symbol": "BITTREX:BTC-BLK"
+    },
+    {
+        "description": "Bittrex USDT/OMG",
+        "displaySymbol": "USDT/OMG",
+        "symbol": "BITTREX:USDT-OMG"
+    },
+    {
+        "description": "Bittrex USDT/KMD",
+        "displaySymbol": "USDT/KMD",
+        "symbol": "BITTREX:USDT-KMD"
+    },
+    {
+        "description": "Bittrex USDT/NEO",
+        "displaySymbol": "USDT/NEO",
+        "symbol": "BITTREX:USDT-NEO"
+    },
+    {
+        "description": "Bittrex BTC/HIVE",
+        "displaySymbol": "BTC/HIVE",
+        "symbol": "BITTREX:BTC-HIVE"
+    },
+    {
+        "description": "Bittrex BTC/GLM",
+        "displaySymbol": "BTC/GLM",
+        "symbol": "BITTREX:BTC-GLM"
+    },
+    {
+        "description": "Bittrex BTC/ANKR",
+        "displaySymbol": "BTC/ANKR",
+        "symbol": "BITTREX:BTC-ANKR"
+    },
+    {
+        "description": "Bittrex USD/RVN",
+        "displaySymbol": "USD/RVN",
+        "symbol": "BITTREX:USD-RVN"
+    },
+    {
+        "description": "Bittrex USDT/EOS",
+        "displaySymbol": "USDT/EOS",
+        "symbol": "BITTREX:USDT-EOS"
+    },
+    {
+        "description": "Bittrex USDT/AAVE",
+        "displaySymbol": "USDT/AAVE",
+        "symbol": "BITTREX:USDT-AAVE"
+    },
+    {
+        "description": "Bittrex USDT/NMR",
+        "displaySymbol": "USDT/NMR",
+        "symbol": "BITTREX:USDT-NMR"
+    },
+    {
+        "description": "Bittrex USDT/DOGE",
+        "displaySymbol": "USDT/DOGE",
+        "symbol": "BITTREX:USDT-DOGE"
+    },
+    {
+        "description": "Bittrex ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "BITTREX:ETH-DAI"
+    },
+    {
+        "description": "Bittrex USDT/RDD",
+        "displaySymbol": "USDT/RDD",
+        "symbol": "BITTREX:USDT-RDD"
+    },
+    {
+        "description": "Bittrex BTC/GAME",
+        "displaySymbol": "BTC/GAME",
+        "symbol": "BITTREX:BTC-GAME"
+    },
+    {
+        "description": "Bittrex USDT/AVAX",
+        "displaySymbol": "USDT/AVAX",
+        "symbol": "BITTREX:USDT-AVAX"
+    },
+    {
+        "description": "Bittrex BTC/EOS",
+        "displaySymbol": "BTC/EOS",
+        "symbol": "BITTREX:BTC-EOS"
+    },
+    {
+        "description": "Bittrex USD/ADA",
+        "displaySymbol": "USD/ADA",
+        "symbol": "BITTREX:USD-ADA"
+    },
+    {
+        "description": "Bittrex ETH/1INCH",
+        "displaySymbol": "ETH/1INCH",
+        "symbol": "BITTREX:ETH-1INCH"
+    },
+    {
+        "description": "Bittrex ETH/XTZ",
+        "displaySymbol": "ETH/XTZ",
+        "symbol": "BITTREX:ETH-XTZ"
+    },
+    {
+        "description": "Bittrex BTC/VAL",
+        "displaySymbol": "BTC/VAL",
+        "symbol": "BITTREX:BTC-VAL"
+    },
+    {
+        "description": "Bittrex ETH/KSM",
+        "displaySymbol": "ETH/KSM",
+        "symbol": "BITTREX:ETH-KSM"
+    },
+    {
+        "description": "Bittrex BTC/SNX",
+        "displaySymbol": "BTC/SNX",
+        "symbol": "BITTREX:BTC-SNX"
+    },
+    {
+        "description": "Bittrex USD/HIVE",
+        "displaySymbol": "USD/HIVE",
+        "symbol": "BITTREX:USD-HIVE"
+    },
+    {
+        "description": "Bittrex BTC/EXP",
+        "displaySymbol": "BTC/EXP",
+        "symbol": "BITTREX:BTC-EXP"
+    },
+    {
+        "description": "Bittrex ETH/SNX",
+        "displaySymbol": "ETH/SNX",
+        "symbol": "BITTREX:ETH-SNX"
+    },
+    {
+        "description": "Bittrex BTC/KSM",
+        "displaySymbol": "BTC/KSM",
+        "symbol": "BITTREX:BTC-KSM"
+    },
+    {
+        "description": "Bittrex USDT/EDR",
+        "displaySymbol": "USDT/EDR",
+        "symbol": "BITTREX:USDT-EDR"
+    },
+    {
+        "description": "Bittrex USD/ZEC",
+        "displaySymbol": "USD/ZEC",
+        "symbol": "BITTREX:USD-ZEC"
+    },
+    {
+        "description": "Bittrex BTC/IGNIS",
+        "displaySymbol": "BTC/IGNIS",
+        "symbol": "BITTREX:BTC-IGNIS"
+    },
+    {
+        "description": "Bittrex BTC/BCH",
+        "displaySymbol": "BTC/BCH",
+        "symbol": "BITTREX:BTC-BCH"
+    },
+    {
+        "description": "Bittrex USD/1INCH",
+        "displaySymbol": "USD/1INCH",
+        "symbol": "BITTREX:USD-1INCH"
+    },
+    {
+        "description": "Bittrex USDT/XMY",
+        "displaySymbol": "USDT/XMY",
+        "symbol": "BITTREX:USDT-XMY"
+    },
+    {
+        "description": "Bittrex BTC/NEO",
+        "displaySymbol": "BTC/NEO",
+        "symbol": "BITTREX:BTC-NEO"
+    },
+    {
+        "description": "Bittrex BTC/ZIL",
+        "displaySymbol": "BTC/ZIL",
+        "symbol": "BITTREX:BTC-ZIL"
+    },
+    {
+        "description": "Bittrex ETH/SUSHI",
+        "displaySymbol": "ETH/SUSHI",
+        "symbol": "BITTREX:ETH-SUSHI"
+    },
+    {
+        "description": "Bittrex BTC/DASH",
+        "displaySymbol": "BTC/DASH",
+        "symbol": "BITTREX:BTC-DASH"
+    },
+    {
+        "description": "Bittrex BTC/TUBE",
+        "displaySymbol": "BTC/TUBE",
+        "symbol": "BITTREX:BTC-TUBE"
+    },
+    {
+        "description": "Bittrex USD/TRX",
+        "displaySymbol": "USD/TRX",
+        "symbol": "BITTREX:USD-TRX"
+    },
+    {
+        "description": "Bittrex BTC/MATIC",
+        "displaySymbol": "BTC/MATIC",
+        "symbol": "BITTREX:BTC-MATIC"
+    },
+    {
+        "description": "Bittrex ETH/BNT",
+        "displaySymbol": "ETH/BNT",
+        "symbol": "BITTREX:ETH-BNT"
+    },
+    {
+        "description": "Bittrex USDT/REN",
+        "displaySymbol": "USDT/REN",
+        "symbol": "BITTREX:USDT-REN"
+    },
+    {
+        "description": "Bittrex BTC/XTZ",
+        "displaySymbol": "BTC/XTZ",
+        "symbol": "BITTREX:BTC-XTZ"
+    },
+    {
+        "description": "Bittrex USD/EOS",
+        "displaySymbol": "USD/EOS",
+        "symbol": "BITTREX:USD-EOS"
+    },
+    {
+        "description": "Bittrex USD/ANKR",
+        "displaySymbol": "USD/ANKR",
+        "symbol": "BITTREX:USD-ANKR"
+    },
+    {
+        "description": "Bittrex ETH/MANA",
+        "displaySymbol": "ETH/MANA",
+        "symbol": "BITTREX:ETH-MANA"
+    },
+    {
+        "description": "Bittrex USDT/DASH",
+        "displaySymbol": "USDT/DASH",
+        "symbol": "BITTREX:USDT-DASH"
+    },
+    {
+        "description": "Bittrex BTC/ALGO",
+        "displaySymbol": "BTC/ALGO",
+        "symbol": "BITTREX:BTC-ALGO"
+    },
+    {
+        "description": "Bittrex ETH/GLM",
+        "displaySymbol": "ETH/GLM",
+        "symbol": "BITTREX:ETH-GLM"
+    },
+    {
+        "description": "Bittrex BTC/ADA",
+        "displaySymbol": "BTC/ADA",
+        "symbol": "BITTREX:BTC-ADA"
+    },
+    {
+        "description": "Bittrex ETH/TUSD",
+        "displaySymbol": "ETH/TUSD",
+        "symbol": "BITTREX:ETH-TUSD"
+    },
+    {
+        "description": "Bittrex USD/DASH",
+        "displaySymbol": "USD/DASH",
+        "symbol": "BITTREX:USD-DASH"
+    },
+    {
+        "description": "Bittrex BTC/ZEN",
+        "displaySymbol": "BTC/ZEN",
+        "symbol": "BITTREX:BTC-ZEN"
+    },
+    {
+        "description": "Bittrex USDT/GAME",
+        "displaySymbol": "USDT/GAME",
+        "symbol": "BITTREX:USDT-GAME"
+    },
+    {
+        "description": "Bittrex USD/SOLVE",
+        "displaySymbol": "USD/SOLVE",
+        "symbol": "BITTREX:USD-SOLVE"
+    },
+    {
+        "description": "Bittrex USD/DOT",
+        "displaySymbol": "USD/DOT",
+        "symbol": "BITTREX:USD-DOT"
+    },
+    {
+        "description": "Bittrex BTC/OK",
+        "displaySymbol": "BTC/OK",
+        "symbol": "BITTREX:BTC-OK"
+    },
+    {
+        "description": "Bittrex USDT/BTC",
+        "displaySymbol": "USDT/BTC",
+        "symbol": "BITTREX:USDT-BTC"
+    },
+    {
+        "description": "Bittrex USD/ETC",
+        "displaySymbol": "USD/ETC",
+        "symbol": "BITTREX:USD-ETC"
+    },
+    {
+        "description": "Bittrex ETH/ANKR",
+        "displaySymbol": "ETH/ANKR",
+        "symbol": "BITTREX:ETH-ANKR"
+    },
+    {
+        "description": "Bittrex BTC/USDS",
+        "displaySymbol": "BTC/USDS",
+        "symbol": "BITTREX:BTC-USDS"
+    },
+    {
+        "description": "Bittrex USDT/ALGO",
+        "displaySymbol": "USDT/ALGO",
+        "symbol": "BITTREX:USDT-ALGO"
+    },
+    {
+        "description": "Bittrex USD/XLM",
+        "displaySymbol": "USD/XLM",
+        "symbol": "BITTREX:USD-XLM"
+    },
+    {
+        "description": "Bittrex USDT/ZRX",
+        "displaySymbol": "USDT/ZRX",
+        "symbol": "BITTREX:USDT-ZRX"
+    },
+    {
+        "description": "Bittrex USDT/ETC",
+        "displaySymbol": "USDT/ETC",
+        "symbol": "BITTREX:USDT-ETC"
+    },
+    {
+        "description": "Bittrex USDT/VAL",
+        "displaySymbol": "USDT/VAL",
+        "symbol": "BITTREX:USDT-VAL"
+    },
+    {
+        "description": "Bittrex USD/SUSHI",
+        "displaySymbol": "USD/SUSHI",
+        "symbol": "BITTREX:USD-SUSHI"
+    },
+    {
+        "description": "Bittrex USD/SNX",
+        "displaySymbol": "USD/SNX",
+        "symbol": "BITTREX:USD-SNX"
+    },
+    {
+        "description": "Bittrex BTC/XST",
+        "displaySymbol": "BTC/XST",
+        "symbol": "BITTREX:BTC-XST"
+    },
+    {
+        "description": "Bittrex BTC/ETC",
+        "displaySymbol": "BTC/ETC",
+        "symbol": "BITTREX:BTC-ETC"
+    },
+    {
+        "description": "Bittrex USDT/FIRO",
+        "displaySymbol": "USDT/FIRO",
+        "symbol": "BITTREX:USDT-FIRO"
+    },
+    {
+        "description": "Bittrex BTC/LSK",
+        "displaySymbol": "BTC/LSK",
+        "symbol": "BITTREX:BTC-LSK"
+    },
+    {
+        "description": "Bittrex USDT/BCH",
+        "displaySymbol": "USDT/BCH",
+        "symbol": "BITTREX:USDT-BCH"
+    },
+    {
+        "description": "Bittrex ETH/KNC",
+        "displaySymbol": "ETH/KNC",
+        "symbol": "BITTREX:ETH-KNC"
+    },
+    {
+        "description": "Bittrex USD/XTZ",
+        "displaySymbol": "USD/XTZ",
+        "symbol": "BITTREX:USD-XTZ"
+    },
+    {
+        "description": "Bittrex BTC/XHV",
+        "displaySymbol": "BTC/XHV",
+        "symbol": "BITTREX:BTC-XHV"
+    },
+    {
+        "description": "Bittrex BTC/IOC",
+        "displaySymbol": "BTC/IOC",
+        "symbol": "BITTREX:BTC-IOC"
+    },
+    {
+        "description": "Bittrex BTC/ARK",
+        "displaySymbol": "BTC/ARK",
+        "symbol": "BITTREX:BTC-ARK"
+    },
+    {
+        "description": "Bittrex BTC/LRC",
+        "displaySymbol": "BTC/LRC",
+        "symbol": "BITTREX:BTC-LRC"
+    },
+    {
+        "description": "Bittrex BTC/STEEM",
+        "displaySymbol": "BTC/STEEM",
+        "symbol": "BITTREX:BTC-STEEM"
+    },
+    {
+        "description": "Bittrex USD/USDS",
+        "displaySymbol": "USD/USDS",
+        "symbol": "BITTREX:USD-USDS"
+    },
+    {
+        "description": "Bittrex USD/AR",
+        "displaySymbol": "USD/AR",
+        "symbol": "BITTREX:USD-AR"
+    },
+    {
+        "description": "Bittrex ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "BITTREX:ETH-USDC"
+    },
+    {
+        "description": "Bittrex BTC/BTM",
+        "displaySymbol": "BTC/BTM",
+        "symbol": "BITTREX:BTC-BTM"
+    },
+    {
+        "description": "Bittrex BTC/WAVES",
+        "displaySymbol": "BTC/WAVES",
+        "symbol": "BITTREX:BTC-WAVES"
+    },
+    {
+        "description": "Bittrex USD/GRT",
+        "displaySymbol": "USD/GRT",
+        "symbol": "BITTREX:USD-GRT"
+    },
+    {
+        "description": "Bittrex ETH/DOT",
+        "displaySymbol": "ETH/DOT",
+        "symbol": "BITTREX:ETH-DOT"
+    },
+    {
+        "description": "Bittrex USDT/ETH",
+        "displaySymbol": "USDT/ETH",
+        "symbol": "BITTREX:USDT-ETH"
+    },
+    {
+        "description": "Bittrex USDT/ATOM",
+        "displaySymbol": "USDT/ATOM",
+        "symbol": "BITTREX:USDT-ATOM"
+    },
+    {
+        "description": "Bittrex USD/BNT",
+        "displaySymbol": "USD/BNT",
+        "symbol": "BITTREX:USD-BNT"
+    },
+    {
+        "description": "Bittrex BTC/VRC",
+        "displaySymbol": "BTC/VRC",
+        "symbol": "BITTREX:BTC-VRC"
+    },
+    {
+        "description": "Bittrex BTC/BAL",
+        "displaySymbol": "BTC/BAL",
+        "symbol": "BITTREX:BTC-BAL"
+    },
+    {
+        "description": "Bittrex USDT/FIL",
+        "displaySymbol": "USDT/FIL",
+        "symbol": "BITTREX:USDT-FIL"
+    },
+    {
+        "description": "Bittrex ETH/ZRX",
+        "displaySymbol": "ETH/ZRX",
+        "symbol": "BITTREX:ETH-ZRX"
+    },
+    {
+        "description": "Bittrex USDT/LTC",
+        "displaySymbol": "USDT/LTC",
+        "symbol": "BITTREX:USDT-LTC"
+    },
+    {
+        "description": "Bittrex USD/BSV",
+        "displaySymbol": "USD/BSV",
+        "symbol": "BITTREX:USD-BSV"
+    },
+    {
+        "description": "Bittrex BTC/NXS",
+        "displaySymbol": "BTC/NXS",
+        "symbol": "BITTREX:BTC-NXS"
+    },
+    {
+        "description": "Bittrex BTC/COMP",
+        "displaySymbol": "BTC/COMP",
+        "symbol": "BITTREX:BTC-COMP"
+    },
+    {
+        "description": "Bittrex BTC/MONA",
+        "displaySymbol": "BTC/MONA",
+        "symbol": "BITTREX:BTC-MONA"
+    },
+    {
+        "description": "Bittrex USDT/UMA",
+        "displaySymbol": "USDT/UMA",
+        "symbol": "BITTREX:USDT-UMA"
+    },
+    {
+        "description": "Bittrex ETH/COMP",
+        "displaySymbol": "ETH/COMP",
+        "symbol": "BITTREX:ETH-COMP"
+    },
+    {
+        "description": "Bittrex BTC/SIB",
+        "displaySymbol": "BTC/SIB",
+        "symbol": "BITTREX:BTC-SIB"
+    },
+    {
+        "description": "Bittrex USDT/UNI",
+        "displaySymbol": "USDT/UNI",
+        "symbol": "BITTREX:USDT-UNI"
+    },
+    {
+        "description": "Bittrex BTC/AVAX",
+        "displaySymbol": "BTC/AVAX",
+        "symbol": "BITTREX:BTC-AVAX"
+    },
+    {
+        "description": "Bittrex ETH/XEM",
+        "displaySymbol": "ETH/XEM",
+        "symbol": "BITTREX:ETH-XEM"
+    },
+    {
+        "description": "Bittrex USD/AAVE",
+        "displaySymbol": "USD/AAVE",
+        "symbol": "BITTREX:USD-AAVE"
+    },
+    {
+        "description": "Bittrex BTC/BNT",
+        "displaySymbol": "BTC/BNT",
+        "symbol": "BITTREX:BTC-BNT"
+    },
+    {
+        "description": "Bittrex BTC/LOOM",
+        "displaySymbol": "BTC/LOOM",
+        "symbol": "BITTREX:BTC-LOOM"
+    },
+    {
+        "description": "Bittrex USD/BAT",
+        "displaySymbol": "USD/BAT",
+        "symbol": "BITTREX:USD-BAT"
+    },
+    {
+        "description": "Bittrex USD/ALGO",
+        "displaySymbol": "USD/ALGO",
+        "symbol": "BITTREX:USD-ALGO"
+    },
+    {
+        "description": "Bittrex ETH/ETC",
+        "displaySymbol": "ETH/ETC",
+        "symbol": "BITTREX:ETH-ETC"
+    },
+    {
+        "description": "Bittrex USDT/BSV",
+        "displaySymbol": "USDT/BSV",
+        "symbol": "BITTREX:USDT-BSV"
+    },
+    {
+        "description": "Bittrex BTC/XEM",
+        "displaySymbol": "BTC/XEM",
+        "symbol": "BITTREX:BTC-XEM"
+    },
+    {
+        "description": "Bittrex BTC/FIL",
+        "displaySymbol": "BTC/FIL",
+        "symbol": "BITTREX:BTC-FIL"
+    },
+    {
+        "description": "Bittrex BTC/AR",
+        "displaySymbol": "BTC/AR",
+        "symbol": "BITTREX:BTC-AR"
+    },
+    {
+        "description": "Bittrex BTC/SC",
+        "displaySymbol": "BTC/SC",
+        "symbol": "BITTREX:BTC-SC"
+    },
+    {
+        "description": "Bittrex USDT/RVN",
+        "displaySymbol": "USDT/RVN",
+        "symbol": "BITTREX:USDT-RVN"
+    },
+    {
+        "description": "Bittrex BTC/NLG",
+        "displaySymbol": "BTC/NLG",
+        "symbol": "BITTREX:BTC-NLG"
+    },
+    {
+        "description": "Bittrex BTC/ENJ",
+        "displaySymbol": "BTC/ENJ",
+        "symbol": "BITTREX:BTC-ENJ"
+    },
+    {
+        "description": "Bittrex USDT/BAT",
+        "displaySymbol": "USDT/BAT",
+        "symbol": "BITTREX:USDT-BAT"
+    },
+    {
+        "description": "Bittrex USDT/WAXP",
+        "displaySymbol": "USDT/WAXP",
+        "symbol": "BITTREX:USDT-WAXP"
+    },
+    {
+        "description": "Bittrex ETH/UNI",
+        "displaySymbol": "ETH/UNI",
+        "symbol": "BITTREX:ETH-UNI"
+    },
+    {
+        "description": "Bittrex ETH/BAT",
+        "displaySymbol": "ETH/BAT",
+        "symbol": "BITTREX:ETH-BAT"
+    },
+    {
+        "description": "Bittrex BTC/MER",
+        "displaySymbol": "BTC/MER",
+        "symbol": "BITTREX:BTC-MER"
+    },
+    {
+        "description": "Bittrex USDT/ZEC",
+        "displaySymbol": "USDT/ZEC",
+        "symbol": "BITTREX:USDT-ZEC"
+    },
+    {
+        "description": "Bittrex BTC/SBD",
+        "displaySymbol": "BTC/SBD",
+        "symbol": "BITTREX:BTC-SBD"
+    },
+    {
+        "description": "Bittrex USD/COMP",
+        "displaySymbol": "USD/COMP",
+        "symbol": "BITTREX:USD-COMP"
+    },
+    {
+        "description": "Bittrex BTC/MEME",
+        "displaySymbol": "BTC/MEME",
+        "symbol": "BITTREX:BTC-MEME"
+    },
+    {
+        "description": "Bittrex USD/KNC",
+        "displaySymbol": "USD/KNC",
+        "symbol": "BITTREX:USD-KNC"
+    },
+    {
+        "description": "Bittrex BTC/XLM",
+        "displaySymbol": "BTC/XLM",
+        "symbol": "BITTREX:BTC-XLM"
+    },
+    {
+        "description": "Bittrex BTC/DOT",
+        "displaySymbol": "BTC/DOT",
+        "symbol": "BITTREX:BTC-DOT"
+    },
+    {
+        "description": "Bittrex BTC/NMR",
+        "displaySymbol": "BTC/NMR",
+        "symbol": "BITTREX:BTC-NMR"
+    },
+    {
+        "description": "Bittrex USDT/STEEM",
+        "displaySymbol": "USDT/STEEM",
+        "symbol": "BITTREX:USDT-STEEM"
+    },
+    {
+        "description": "Bittrex USD/SC",
+        "displaySymbol": "USD/SC",
+        "symbol": "BITTREX:USD-SC"
+    },
+    {
+        "description": "Bittrex ETH/REN",
+        "displaySymbol": "ETH/REN",
+        "symbol": "BITTREX:ETH-REN"
+    },
+    {
+        "description": "Bittrex BTC/STRAX",
+        "displaySymbol": "BTC/STRAX",
+        "symbol": "BITTREX:BTC-STRAX"
+    },
+    {
+        "description": "Bittrex USD/ETH",
+        "displaySymbol": "USD/ETH",
+        "symbol": "BITTREX:USD-ETH"
+    },
+    {
+        "description": "Bittrex USDT/FTC",
+        "displaySymbol": "USDT/FTC",
+        "symbol": "BITTREX:USDT-FTC"
+    },
+    {
+        "description": "Bittrex USD/ZEN",
+        "displaySymbol": "USD/ZEN",
+        "symbol": "BITTREX:USD-ZEN"
+    },
+    {
+        "description": "Bittrex BTC/XVG",
+        "displaySymbol": "BTC/XVG",
+        "symbol": "BITTREX:BTC-XVG"
+    },
+    {
+        "description": "Bittrex USDT/SOLVE",
+        "displaySymbol": "USDT/SOLVE",
+        "symbol": "BITTREX:USDT-SOLVE"
+    },
+    {
+        "description": "Bittrex BTC/CRW",
+        "displaySymbol": "BTC/CRW",
+        "symbol": "BITTREX:BTC-CRW"
+    },
+    {
+        "description": "Bittrex BTC/ARDR",
+        "displaySymbol": "BTC/ARDR",
+        "symbol": "BITTREX:BTC-ARDR"
+    },
+    {
+        "description": "Bittrex BTC/ZEC",
+        "displaySymbol": "BTC/ZEC",
+        "symbol": "BITTREX:BTC-ZEC"
+    },
+    {
+        "description": "Bittrex ETH/WAVES",
+        "displaySymbol": "ETH/WAVES",
+        "symbol": "BITTREX:ETH-WAVES"
+    },
+    {
+        "description": "Bittrex ETH/NEO",
+        "displaySymbol": "ETH/NEO",
+        "symbol": "BITTREX:ETH-NEO"
+    },
+    {
+        "description": "Bittrex ETH/DASH",
+        "displaySymbol": "ETH/DASH",
+        "symbol": "BITTREX:ETH-DASH"
+    },
+    {
+        "description": "Bittrex USD/USDP",
+        "displaySymbol": "USD/USDP",
+        "symbol": "BITTREX:USD-USDP"
+    },
+    {
+        "description": "Bittrex ETH/AMP",
+        "displaySymbol": "ETH/AMP",
+        "symbol": "BITTREX:ETH-AMP"
+    },
+    {
+        "description": "Bittrex USDT/LSK",
+        "displaySymbol": "USDT/LSK",
+        "symbol": "BITTREX:USDT-LSK"
+    },
+    {
+        "description": "Bittrex USD/DOGE",
+        "displaySymbol": "USD/DOGE",
+        "symbol": "BITTREX:USD-DOGE"
+    },
+    {
+        "description": "Bittrex ETH/LTC",
+        "displaySymbol": "ETH/LTC",
+        "symbol": "BITTREX:ETH-LTC"
+    },
+    {
+        "description": "Bittrex USD/MATIC",
+        "displaySymbol": "USD/MATIC",
+        "symbol": "BITTREX:USD-MATIC"
+    },
+    {
+        "description": "Bittrex USD/BTC",
+        "displaySymbol": "USD/BTC",
+        "symbol": "BITTREX:USD-BTC"
+    },
+    {
+        "description": "Bittrex USDT/MKR",
+        "displaySymbol": "USDT/MKR",
+        "symbol": "BITTREX:USDT-MKR"
+    },
+    {
+        "description": "Bittrex ETH/HBAR",
+        "displaySymbol": "ETH/HBAR",
+        "symbol": "BITTREX:ETH-HBAR"
+    },
+    {
+        "description": "Bittrex USDT/LINK",
+        "displaySymbol": "USDT/LINK",
+        "symbol": "BITTREX:USDT-LINK"
+    },
+    {
+        "description": "Bittrex ETH/DOGE",
+        "displaySymbol": "ETH/DOGE",
+        "symbol": "BITTREX:ETH-DOGE"
+    },
+    {
+        "description": "Bittrex USD/WAXP",
+        "displaySymbol": "USD/WAXP",
+        "symbol": "BITTREX:USD-WAXP"
+    },
+    {
+        "description": "Bittrex BTC/LTC",
+        "displaySymbol": "BTC/LTC",
+        "symbol": "BITTREX:BTC-LTC"
+    },
+    {
+        "description": "Bittrex BTC/ATOM",
+        "displaySymbol": "BTC/ATOM",
+        "symbol": "BITTREX:BTC-ATOM"
+    },
+    {
+        "description": "Bittrex USDT/SNX",
+        "displaySymbol": "USDT/SNX",
+        "symbol": "BITTREX:USDT-SNX"
+    },
+    {
+        "description": "Bittrex USDT/ZEN",
+        "displaySymbol": "USDT/ZEN",
+        "symbol": "BITTREX:USDT-ZEN"
+    },
+    {
+        "description": "Bittrex USDT/UBQ",
+        "displaySymbol": "USDT/UBQ",
+        "symbol": "BITTREX:USDT-UBQ"
+    },
+    {
+        "description": "Bittrex USDT/XTZ",
+        "displaySymbol": "USDT/XTZ",
+        "symbol": "BITTREX:USDT-XTZ"
+    },
+    {
+        "description": "Bittrex BTC/SUSHI",
+        "displaySymbol": "BTC/SUSHI",
+        "symbol": "BITTREX:BTC-SUSHI"
+    },
+    {
+        "description": "Bittrex BTC/FLO",
+        "displaySymbol": "BTC/FLO",
+        "symbol": "BITTREX:BTC-FLO"
+    },
+    {
+        "description": "Bittrex BTC/PPC",
+        "displaySymbol": "BTC/PPC",
+        "symbol": "BITTREX:BTC-PPC"
+    },
+    {
+        "description": "Bittrex USD/DGB",
+        "displaySymbol": "USD/DGB",
+        "symbol": "BITTREX:USD-DGB"
+    },
+    {
+        "description": "Bittrex USD/BCH",
+        "displaySymbol": "USD/BCH",
+        "symbol": "BITTREX:USD-BCH"
+    },
+    {
+        "description": "Bittrex BTC/SYS",
+        "displaySymbol": "BTC/SYS",
+        "symbol": "BITTREX:BTC-SYS"
+    },
+    {
+        "description": "Bittrex BTC/DCR",
+        "displaySymbol": "BTC/DCR",
+        "symbol": "BITTREX:BTC-DCR"
+    },
+    {
+        "description": "Bittrex BTC/BAT",
+        "displaySymbol": "BTC/BAT",
+        "symbol": "BITTREX:BTC-BAT"
+    },
+    {
+        "description": "Bittrex BTC/KNC",
+        "displaySymbol": "BTC/KNC",
+        "symbol": "BITTREX:BTC-KNC"
+    },
+    {
+        "description": "Bittrex USDT/HBAR",
+        "displaySymbol": "USDT/HBAR",
+        "symbol": "BITTREX:USDT-HBAR"
+    },
+    {
+        "description": "Bittrex USD/ATOM",
+        "displaySymbol": "USD/ATOM",
+        "symbol": "BITTREX:USD-ATOM"
+    },
+    {
+        "description": "Bittrex BTC/REPV2",
+        "displaySymbol": "BTC/REPV2",
+        "symbol": "BITTREX:BTC-REPV2"
+    },
+    {
+        "description": "Bittrex USDT/GRT",
+        "displaySymbol": "USDT/GRT",
+        "symbol": "BITTREX:USDT-GRT"
+    },
+    {
+        "description": "Bittrex USDT/IOTA",
+        "displaySymbol": "USDT/IOTA",
+        "symbol": "BITTREX:USDT-IOTA"
+    },
+    {
+        "description": "Bittrex ETH/MATIC",
+        "displaySymbol": "ETH/MATIC",
+        "symbol": "BITTREX:ETH-MATIC"
+    },
+    {
+        "description": "Bittrex BTC/MKR",
+        "displaySymbol": "BTC/MKR",
+        "symbol": "BITTREX:BTC-MKR"
+    },
+    {
+        "description": "Bittrex USD/USDC",
+        "displaySymbol": "USD/USDC",
+        "symbol": "BITTREX:USD-USDC"
+    },
+    {
+        "description": "Bittrex ETH/TRX",
+        "displaySymbol": "ETH/TRX",
+        "symbol": "BITTREX:ETH-TRX"
+    },
+    {
+        "description": "Bittrex BTC/UBQ",
+        "displaySymbol": "BTC/UBQ",
+        "symbol": "BITTREX:BTC-UBQ"
+    },
+    {
+        "description": "Bittrex ETH/ATOM",
+        "displaySymbol": "ETH/ATOM",
+        "symbol": "BITTREX:ETH-ATOM"
+    },
+    {
+        "description": "Bittrex BTC/REN",
+        "displaySymbol": "BTC/REN",
+        "symbol": "BITTREX:BTC-REN"
+    },
+    {
+        "description": "Bittrex BTC/GRS",
+        "displaySymbol": "BTC/GRS",
+        "symbol": "BITTREX:BTC-GRS"
+    },
+    {
+        "description": "Bittrex BTC/EMC2",
+        "displaySymbol": "BTC/EMC2",
+        "symbol": "BITTREX:BTC-EMC2"
+    },
+    {
+        "description": "Bittrex USDT/MONA",
+        "displaySymbol": "USDT/MONA",
+        "symbol": "BITTREX:USDT-MONA"
+    },
+    {
+        "description": "Bittrex USD/UNI",
+        "displaySymbol": "USD/UNI",
+        "symbol": "BITTREX:USD-UNI"
+    },
+    {
+        "description": "Bittrex BTC/SAND",
+        "displaySymbol": "BTC/SAND",
+        "symbol": "BITTREX:BTC-SAND"
+    },
+    {
+        "description": "Bittrex USDT/ADA",
+        "displaySymbol": "USDT/ADA",
+        "symbol": "BITTREX:USDT-ADA"
+    },
+    {
+        "description": "Bittrex USDT/WAVES",
+        "displaySymbol": "USDT/WAVES",
+        "symbol": "BITTREX:USDT-WAVES"
+    },
+    {
+        "description": "Bittrex USD/LINK",
+        "displaySymbol": "USD/LINK",
+        "symbol": "BITTREX:USD-LINK"
+    },
+    {
+        "description": "Bittrex ETH/UMA",
+        "displaySymbol": "ETH/UMA",
+        "symbol": "BITTREX:ETH-UMA"
+    },
+    {
+        "description": "Bittrex USD/HBAR",
+        "displaySymbol": "USD/HBAR",
+        "symbol": "BITTREX:USD-HBAR"
+    },
+    {
+        "description": "Bittrex BTC/DOGE",
+        "displaySymbol": "BTC/DOGE",
+        "symbol": "BITTREX:BTC-DOGE"
+    },
+    {
+        "description": "Bittrex ETH/DGB",
+        "displaySymbol": "ETH/DGB",
+        "symbol": "BITTREX:ETH-DGB"
+    }
+]

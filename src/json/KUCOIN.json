@@ -1,0 +1,5662 @@
+[
+    {
+        "description": "Kucoin NIM/USDT",
+        "displaySymbol": "NIM/USDT",
+        "symbol": "KUCOIN:NIM-USDT"
+    },
+    {
+        "description": "Kucoin XYO/BTC",
+        "displaySymbol": "XYO/BTC",
+        "symbol": "KUCOIN:XYO-BTC"
+    },
+    {
+        "description": "Kucoin QRDO/ETH",
+        "displaySymbol": "QRDO/ETH",
+        "symbol": "KUCOIN:QRDO-ETH"
+    },
+    {
+        "description": "Kucoin CLV/USDT",
+        "displaySymbol": "CLV/USDT",
+        "symbol": "KUCOIN:CLV-USDT"
+    },
+    {
+        "description": "Kucoin WEST/BTC",
+        "displaySymbol": "WEST/BTC",
+        "symbol": "KUCOIN:WEST-BTC"
+    },
+    {
+        "description": "Kucoin GALAX/USDT",
+        "displaySymbol": "GALAX/USDT",
+        "symbol": "KUCOIN:GALAX-USDT"
+    },
+    {
+        "description": "Kucoin DEGO/USDT",
+        "displaySymbol": "DEGO/USDT",
+        "symbol": "KUCOIN:DEGO-USDT"
+    },
+    {
+        "description": "Kucoin COV/USDT",
+        "displaySymbol": "COV/USDT",
+        "symbol": "KUCOIN:COV-USDT"
+    },
+    {
+        "description": "Kucoin CHR/BTC",
+        "displaySymbol": "CHR/BTC",
+        "symbol": "KUCOIN:CHR-BTC"
+    },
+    {
+        "description": "Kucoin GTC/USDT",
+        "displaySymbol": "GTC/USDT",
+        "symbol": "KUCOIN:GTC-USDT"
+    },
+    {
+        "description": "Kucoin LOC/USDT",
+        "displaySymbol": "LOC/USDT",
+        "symbol": "KUCOIN:LOC-USDT"
+    },
+    {
+        "description": "Kucoin MAKI/BTC",
+        "displaySymbol": "MAKI/BTC",
+        "symbol": "KUCOIN:MAKI-BTC"
+    },
+    {
+        "description": "Kucoin ZIL/BTC",
+        "displaySymbol": "ZIL/BTC",
+        "symbol": "KUCOIN:ZIL-BTC"
+    },
+    {
+        "description": "Kucoin MIR/UST",
+        "displaySymbol": "MIR/UST",
+        "symbol": "KUCOIN:MIR-UST"
+    },
+    {
+        "description": "Kucoin BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "KUCOIN:BTC-DAI"
+    },
+    {
+        "description": "Kucoin ELF/BTC",
+        "displaySymbol": "ELF/BTC",
+        "symbol": "KUCOIN:ELF-BTC"
+    },
+    {
+        "description": "Kucoin BOLT/BTC",
+        "displaySymbol": "BOLT/BTC",
+        "symbol": "KUCOIN:BOLT-BTC"
+    },
+    {
+        "description": "Kucoin DIA/USDT",
+        "displaySymbol": "DIA/USDT",
+        "symbol": "KUCOIN:DIA-USDT"
+    },
+    {
+        "description": "Kucoin FTM3S/USDT",
+        "displaySymbol": "FTM3S/USDT",
+        "symbol": "KUCOIN:FTM3S-USDT"
+    },
+    {
+        "description": "Kucoin ADA3L/USDT",
+        "displaySymbol": "ADA3L/USDT",
+        "symbol": "KUCOIN:ADA3L-USDT"
+    },
+    {
+        "description": "Kucoin CRO/USDT",
+        "displaySymbol": "CRO/USDT",
+        "symbol": "KUCOIN:CRO-USDT"
+    },
+    {
+        "description": "Kucoin RNDR/USDT",
+        "displaySymbol": "RNDR/USDT",
+        "symbol": "KUCOIN:RNDR-USDT"
+    },
+    {
+        "description": "Kucoin CXO/BTC",
+        "displaySymbol": "CXO/BTC",
+        "symbol": "KUCOIN:CXO-BTC"
+    },
+    {
+        "description": "Kucoin SLIM/USDT",
+        "displaySymbol": "SLIM/USDT",
+        "symbol": "KUCOIN:SLIM-USDT"
+    },
+    {
+        "description": "Kucoin AVA/ETH",
+        "displaySymbol": "AVA/ETH",
+        "symbol": "KUCOIN:AVA-ETH"
+    },
+    {
+        "description": "Kucoin SHIB/USDT",
+        "displaySymbol": "SHIB/USDT",
+        "symbol": "KUCOIN:SHIB-USDT"
+    },
+    {
+        "description": "Kucoin DATX/BTC",
+        "displaySymbol": "DATX/BTC",
+        "symbol": "KUCOIN:DATX-BTC"
+    },
+    {
+        "description": "Kucoin REEF/USDT",
+        "displaySymbol": "REEF/USDT",
+        "symbol": "KUCOIN:REEF-USDT"
+    },
+    {
+        "description": "Kucoin TRIAS/BTC",
+        "displaySymbol": "TRIAS/BTC",
+        "symbol": "KUCOIN:TRIAS-BTC"
+    },
+    {
+        "description": "Kucoin VIDT/BTC",
+        "displaySymbol": "VIDT/BTC",
+        "symbol": "KUCOIN:VIDT-BTC"
+    },
+    {
+        "description": "Kucoin CREDI/USDT",
+        "displaySymbol": "CREDI/USDT",
+        "symbol": "KUCOIN:CREDI-USDT"
+    },
+    {
+        "description": "Kucoin TLOS/USDT",
+        "displaySymbol": "TLOS/USDT",
+        "symbol": "KUCOIN:TLOS-USDT"
+    },
+    {
+        "description": "Kucoin MODEFI/USDT",
+        "displaySymbol": "MODEFI/USDT",
+        "symbol": "KUCOIN:MODEFI-USDT"
+    },
+    {
+        "description": "Kucoin ALICE/ETH",
+        "displaySymbol": "ALICE/ETH",
+        "symbol": "KUCOIN:ALICE-ETH"
+    },
+    {
+        "description": "Kucoin GLM/BTC",
+        "displaySymbol": "GLM/BTC",
+        "symbol": "KUCOIN:GLM-BTC"
+    },
+    {
+        "description": "Kucoin AXPR/BTC",
+        "displaySymbol": "AXPR/BTC",
+        "symbol": "KUCOIN:AXPR-BTC"
+    },
+    {
+        "description": "Kucoin XRP/USDT",
+        "displaySymbol": "XRP/USDT",
+        "symbol": "KUCOIN:XRP-USDT"
+    },
+    {
+        "description": "Kucoin POWR/USDT",
+        "displaySymbol": "POWR/USDT",
+        "symbol": "KUCOIN:POWR-USDT"
+    },
+    {
+        "description": "Kucoin TKY/ETH",
+        "displaySymbol": "TKY/ETH",
+        "symbol": "KUCOIN:TKY-ETH"
+    },
+    {
+        "description": "Kucoin TRIBE/USDT",
+        "displaySymbol": "TRIBE/USDT",
+        "symbol": "KUCOIN:TRIBE-USDT"
+    },
+    {
+        "description": "Kucoin THETA/USDT",
+        "displaySymbol": "THETA/USDT",
+        "symbol": "KUCOIN:THETA-USDT"
+    },
+    {
+        "description": "Kucoin RACEFI/USDT",
+        "displaySymbol": "RACEFI/USDT",
+        "symbol": "KUCOIN:RACEFI-USDT"
+    },
+    {
+        "description": "Kucoin PHNX/BTC",
+        "displaySymbol": "PHNX/BTC",
+        "symbol": "KUCOIN:PHNX-BTC"
+    },
+    {
+        "description": "Kucoin VET/KCS",
+        "displaySymbol": "VET/KCS",
+        "symbol": "KUCOIN:VET-KCS"
+    },
+    {
+        "description": "Kucoin QKC/BTC",
+        "displaySymbol": "QKC/BTC",
+        "symbol": "KUCOIN:QKC-BTC"
+    },
+    {
+        "description": "Kucoin KRL/BTC",
+        "displaySymbol": "KRL/BTC",
+        "symbol": "KUCOIN:KRL-BTC"
+    },
+    {
+        "description": "Kucoin BAKE/ETH",
+        "displaySymbol": "BAKE/ETH",
+        "symbol": "KUCOIN:BAKE-ETH"
+    },
+    {
+        "description": "Kucoin WIN/BTC",
+        "displaySymbol": "WIN/BTC",
+        "symbol": "KUCOIN:WIN-BTC"
+    },
+    {
+        "description": "Kucoin EOS3S/USDT",
+        "displaySymbol": "EOS3S/USDT",
+        "symbol": "KUCOIN:EOS3S-USDT"
+    },
+    {
+        "description": "Kucoin ALICE/USDT",
+        "displaySymbol": "ALICE/USDT",
+        "symbol": "KUCOIN:ALICE-USDT"
+    },
+    {
+        "description": "Kucoin TIDAL/USDT",
+        "displaySymbol": "TIDAL/USDT",
+        "symbol": "KUCOIN:TIDAL-USDT"
+    },
+    {
+        "description": "Kucoin AKRO/BTC",
+        "displaySymbol": "AKRO/BTC",
+        "symbol": "KUCOIN:AKRO-BTC"
+    },
+    {
+        "description": "Kucoin SKU/BTC",
+        "displaySymbol": "SKU/BTC",
+        "symbol": "KUCOIN:SKU-BTC"
+    },
+    {
+        "description": "Kucoin BTC/USDT",
+        "displaySymbol": "BTC/USDT",
+        "symbol": "KUCOIN:BTC-USDT"
+    },
+    {
+        "description": "Kucoin ELON/USDT",
+        "displaySymbol": "ELON/USDT",
+        "symbol": "KUCOIN:ELON-USDT"
+    },
+    {
+        "description": "Kucoin LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "KUCOIN:LTC-BTC"
+    },
+    {
+        "description": "Kucoin BADGER/USDT",
+        "displaySymbol": "BADGER/USDT",
+        "symbol": "KUCOIN:BADGER-USDT"
+    },
+    {
+        "description": "Kucoin GHX/USDT",
+        "displaySymbol": "GHX/USDT",
+        "symbol": "KUCOIN:GHX-USDT"
+    },
+    {
+        "description": "Kucoin LINK/KCS",
+        "displaySymbol": "LINK/KCS",
+        "symbol": "KUCOIN:LINK-KCS"
+    },
+    {
+        "description": "Kucoin ZEE/USDT",
+        "displaySymbol": "ZEE/USDT",
+        "symbol": "KUCOIN:ZEE-USDT"
+    },
+    {
+        "description": "Kucoin PIVX/BTC",
+        "displaySymbol": "PIVX/BTC",
+        "symbol": "KUCOIN:PIVX-BTC"
+    },
+    {
+        "description": "Kucoin BCH/USDT",
+        "displaySymbol": "BCH/USDT",
+        "symbol": "KUCOIN:BCH-USDT"
+    },
+    {
+        "description": "Kucoin BCH3L/USDT",
+        "displaySymbol": "BCH3L/USDT",
+        "symbol": "KUCOIN:BCH3L-USDT"
+    },
+    {
+        "description": "Kucoin SFP/BTC",
+        "displaySymbol": "SFP/BTC",
+        "symbol": "KUCOIN:SFP-BTC"
+    },
+    {
+        "description": "Kucoin LRC/USDT",
+        "displaySymbol": "LRC/USDT",
+        "symbol": "KUCOIN:LRC-USDT"
+    },
+    {
+        "description": "Kucoin ONE/USDT",
+        "displaySymbol": "ONE/USDT",
+        "symbol": "KUCOIN:ONE-USDT"
+    },
+    {
+        "description": "Kucoin MATIC3L/USDT",
+        "displaySymbol": "MATIC3L/USDT",
+        "symbol": "KUCOIN:MATIC3L-USDT"
+    },
+    {
+        "description": "Kucoin BCH3S/USDT",
+        "displaySymbol": "BCH3S/USDT",
+        "symbol": "KUCOIN:BCH3S-USDT"
+    },
+    {
+        "description": "Kucoin VSYS/USDT",
+        "displaySymbol": "VSYS/USDT",
+        "symbol": "KUCOIN:VSYS-USDT"
+    },
+    {
+        "description": "Kucoin TOMO/USDT",
+        "displaySymbol": "TOMO/USDT",
+        "symbol": "KUCOIN:TOMO-USDT"
+    },
+    {
+        "description": "Kucoin MXC/USDT",
+        "displaySymbol": "MXC/USDT",
+        "symbol": "KUCOIN:MXC-USDT"
+    },
+    {
+        "description": "Kucoin UNI/USDT",
+        "displaySymbol": "UNI/USDT",
+        "symbol": "KUCOIN:UNI-USDT"
+    },
+    {
+        "description": "Kucoin JUP/USDT",
+        "displaySymbol": "JUP/USDT",
+        "symbol": "KUCOIN:JUP-USDT"
+    },
+    {
+        "description": "Kucoin MATIC3S/USDT",
+        "displaySymbol": "MATIC3S/USDT",
+        "symbol": "KUCOIN:MATIC3S-USDT"
+    },
+    {
+        "description": "Kucoin GO/ETH",
+        "displaySymbol": "GO/ETH",
+        "symbol": "KUCOIN:GO-ETH"
+    },
+    {
+        "description": "Kucoin SUN/USDT",
+        "displaySymbol": "SUN/USDT",
+        "symbol": "KUCOIN:SUN-USDT"
+    },
+    {
+        "description": "Kucoin LSS/USDT",
+        "displaySymbol": "LSS/USDT",
+        "symbol": "KUCOIN:LSS-USDT"
+    },
+    {
+        "description": "Kucoin ATA/USDT",
+        "displaySymbol": "ATA/USDT",
+        "symbol": "KUCOIN:ATA-USDT"
+    },
+    {
+        "description": "Kucoin GOM2/USDT",
+        "displaySymbol": "GOM2/USDT",
+        "symbol": "KUCOIN:GOM2-USDT"
+    },
+    {
+        "description": "Kucoin DPR/USDT",
+        "displaySymbol": "DPR/USDT",
+        "symbol": "KUCOIN:DPR-USDT"
+    },
+    {
+        "description": "Kucoin TOMO/ETH",
+        "displaySymbol": "TOMO/ETH",
+        "symbol": "KUCOIN:TOMO-ETH"
+    },
+    {
+        "description": "Kucoin LOKI/USDT",
+        "displaySymbol": "LOKI/USDT",
+        "symbol": "KUCOIN:LOKI-USDT"
+    },
+    {
+        "description": "Kucoin NIM/ETH",
+        "displaySymbol": "NIM/ETH",
+        "symbol": "KUCOIN:NIM-ETH"
+    },
+    {
+        "description": "Kucoin KSM/USDT",
+        "displaySymbol": "KSM/USDT",
+        "symbol": "KUCOIN:KSM-USDT"
+    },
+    {
+        "description": "Kucoin KRL/USDT",
+        "displaySymbol": "KRL/USDT",
+        "symbol": "KUCOIN:KRL-USDT"
+    },
+    {
+        "description": "Kucoin MASK/USDT",
+        "displaySymbol": "MASK/USDT",
+        "symbol": "KUCOIN:MASK-USDT"
+    },
+    {
+        "description": "Kucoin TEL/BTC",
+        "displaySymbol": "TEL/BTC",
+        "symbol": "KUCOIN:TEL-BTC"
+    },
+    {
+        "description": "Kucoin MITX/USDT",
+        "displaySymbol": "MITX/USDT",
+        "symbol": "KUCOIN:MITX-USDT"
+    },
+    {
+        "description": "Kucoin XDB/BTC",
+        "displaySymbol": "XDB/BTC",
+        "symbol": "KUCOIN:XDB-BTC"
+    },
+    {
+        "description": "Kucoin SFUND/USDT",
+        "displaySymbol": "SFUND/USDT",
+        "symbol": "KUCOIN:SFUND-USDT"
+    },
+    {
+        "description": "Kucoin SOUL/USDT",
+        "displaySymbol": "SOUL/USDT",
+        "symbol": "KUCOIN:SOUL-USDT"
+    },
+    {
+        "description": "Kucoin DREAMS/USDT",
+        "displaySymbol": "DREAMS/USDT",
+        "symbol": "KUCOIN:DREAMS-USDT"
+    },
+    {
+        "description": "Kucoin ATOM/KCS",
+        "displaySymbol": "ATOM/KCS",
+        "symbol": "KUCOIN:ATOM-KCS"
+    },
+    {
+        "description": "Kucoin ADX/USDT",
+        "displaySymbol": "ADX/USDT",
+        "symbol": "KUCOIN:ADX-USDT"
+    },
+    {
+        "description": "Kucoin FLUX/BTC",
+        "displaySymbol": "FLUX/BTC",
+        "symbol": "KUCOIN:FLUX-BTC"
+    },
+    {
+        "description": "Kucoin ANC/UST",
+        "displaySymbol": "ANC/UST",
+        "symbol": "KUCOIN:ANC-UST"
+    },
+    {
+        "description": "Kucoin FRONT/USDT",
+        "displaySymbol": "FRONT/USDT",
+        "symbol": "KUCOIN:FRONT-USDT"
+    },
+    {
+        "description": "Kucoin POND/USDT",
+        "displaySymbol": "POND/USDT",
+        "symbol": "KUCOIN:POND-USDT"
+    },
+    {
+        "description": "Kucoin SUTER/BTC",
+        "displaySymbol": "SUTER/BTC",
+        "symbol": "KUCOIN:SUTER-BTC"
+    },
+    {
+        "description": "Kucoin NEAR/USDT",
+        "displaySymbol": "NEAR/USDT",
+        "symbol": "KUCOIN:NEAR-USDT"
+    },
+    {
+        "description": "Kucoin CUDOS/USDT",
+        "displaySymbol": "CUDOS/USDT",
+        "symbol": "KUCOIN:CUDOS-USDT"
+    },
+    {
+        "description": "Kucoin BLOK/USDT",
+        "displaySymbol": "BLOK/USDT",
+        "symbol": "KUCOIN:BLOK-USDT"
+    },
+    {
+        "description": "Kucoin LACE/USDT",
+        "displaySymbol": "LACE/USDT",
+        "symbol": "KUCOIN:LACE-USDT"
+    },
+    {
+        "description": "Kucoin AVA/BTC",
+        "displaySymbol": "AVA/BTC",
+        "symbol": "KUCOIN:AVA-BTC"
+    },
+    {
+        "description": "Kucoin LPT/USDT",
+        "displaySymbol": "LPT/USDT",
+        "symbol": "KUCOIN:LPT-USDT"
+    },
+    {
+        "description": "Kucoin REEF/BTC",
+        "displaySymbol": "REEF/BTC",
+        "symbol": "KUCOIN:REEF-BTC"
+    },
+    {
+        "description": "Kucoin DOT/USDT",
+        "displaySymbol": "DOT/USDT",
+        "symbol": "KUCOIN:DOT-USDT"
+    },
+    {
+        "description": "Kucoin TRU/BTC",
+        "displaySymbol": "TRU/BTC",
+        "symbol": "KUCOIN:TRU-BTC"
+    },
+    {
+        "description": "Kucoin ADA/KCS",
+        "displaySymbol": "ADA/KCS",
+        "symbol": "KUCOIN:ADA-KCS"
+    },
+    {
+        "description": "Kucoin CWS/USDT",
+        "displaySymbol": "CWS/USDT",
+        "symbol": "KUCOIN:CWS-USDT"
+    },
+    {
+        "description": "Kucoin XRP/PAX",
+        "displaySymbol": "XRP/PAX",
+        "symbol": "KUCOIN:XRP-PAX"
+    },
+    {
+        "description": "Kucoin KONO/USDT",
+        "displaySymbol": "KONO/USDT",
+        "symbol": "KUCOIN:KONO-USDT"
+    },
+    {
+        "description": "Kucoin YOP/ETH",
+        "displaySymbol": "YOP/ETH",
+        "symbol": "KUCOIN:YOP-ETH"
+    },
+    {
+        "description": "Kucoin ALBT/USDT",
+        "displaySymbol": "ALBT/USDT",
+        "symbol": "KUCOIN:ALBT-USDT"
+    },
+    {
+        "description": "Kucoin DEXE/USDT",
+        "displaySymbol": "DEXE/USDT",
+        "symbol": "KUCOIN:DEXE-USDT"
+    },
+    {
+        "description": "Kucoin BNT/ETH",
+        "displaySymbol": "BNT/ETH",
+        "symbol": "KUCOIN:BNT-ETH"
+    },
+    {
+        "description": "Kucoin DAPPT/BTC",
+        "displaySymbol": "DAPPT/BTC",
+        "symbol": "KUCOIN:DAPPT-BTC"
+    },
+    {
+        "description": "Kucoin MIR/KCS",
+        "displaySymbol": "MIR/KCS",
+        "symbol": "KUCOIN:MIR-KCS"
+    },
+    {
+        "description": "Kucoin CQT/USDT",
+        "displaySymbol": "CQT/USDT",
+        "symbol": "KUCOIN:CQT-USDT"
+    },
+    {
+        "description": "Kucoin AOA/BTC",
+        "displaySymbol": "AOA/BTC",
+        "symbol": "KUCOIN:AOA-BTC"
+    },
+    {
+        "description": "Kucoin DOGE/USDC",
+        "displaySymbol": "DOGE/USDC",
+        "symbol": "KUCOIN:DOGE-USDC"
+    },
+    {
+        "description": "Kucoin KAI/USDT",
+        "displaySymbol": "KAI/USDT",
+        "symbol": "KUCOIN:KAI-USDT"
+    },
+    {
+        "description": "Kucoin GALAX3L/USDT",
+        "displaySymbol": "GALAX3L/USDT",
+        "symbol": "KUCOIN:GALAX3L-USDT"
+    },
+    {
+        "description": "Kucoin CSP/BTC",
+        "displaySymbol": "CSP/BTC",
+        "symbol": "KUCOIN:CSP-BTC"
+    },
+    {
+        "description": "Kucoin LABS/ETH",
+        "displaySymbol": "LABS/ETH",
+        "symbol": "KUCOIN:LABS-ETH"
+    },
+    {
+        "description": "Kucoin CFG/USDT",
+        "displaySymbol": "CFG/USDT",
+        "symbol": "KUCOIN:CFG-USDT"
+    },
+    {
+        "description": "Kucoin USDT/USDC",
+        "displaySymbol": "USDT/USDC",
+        "symbol": "KUCOIN:USDT-USDC"
+    },
+    {
+        "description": "Kucoin WOO/USDT",
+        "displaySymbol": "WOO/USDT",
+        "symbol": "KUCOIN:WOO-USDT"
+    },
+    {
+        "description": "Kucoin PHA/USDT",
+        "displaySymbol": "PHA/USDT",
+        "symbol": "KUCOIN:PHA-USDT"
+    },
+    {
+        "description": "Kucoin MHC/ETH",
+        "displaySymbol": "MHC/ETH",
+        "symbol": "KUCOIN:MHC-ETH"
+    },
+    {
+        "description": "Kucoin EQZ/USDT",
+        "displaySymbol": "EQZ/USDT",
+        "symbol": "KUCOIN:EQZ-USDT"
+    },
+    {
+        "description": "Kucoin BTT/USDT",
+        "displaySymbol": "BTT/USDT",
+        "symbol": "KUCOIN:BTT-USDT"
+    },
+    {
+        "description": "Kucoin LTC3S/USDT",
+        "displaySymbol": "LTC3S/USDT",
+        "symbol": "KUCOIN:LTC3S-USDT"
+    },
+    {
+        "description": "Kucoin CPC/ETH",
+        "displaySymbol": "CPC/ETH",
+        "symbol": "KUCOIN:CPC-ETH"
+    },
+    {
+        "description": "Kucoin OPUL/USDT",
+        "displaySymbol": "OPUL/USDT",
+        "symbol": "KUCOIN:OPUL-USDT"
+    },
+    {
+        "description": "Kucoin SENSO/USDT",
+        "displaySymbol": "SENSO/USDT",
+        "symbol": "KUCOIN:SENSO-USDT"
+    },
+    {
+        "description": "Kucoin YLD/USDT",
+        "displaySymbol": "YLD/USDT",
+        "symbol": "KUCOIN:YLD-USDT"
+    },
+    {
+        "description": "Kucoin SCLP/USDT",
+        "displaySymbol": "SCLP/USDT",
+        "symbol": "KUCOIN:SCLP-USDT"
+    },
+    {
+        "description": "Kucoin CWAR/USDT",
+        "displaySymbol": "CWAR/USDT",
+        "symbol": "KUCOIN:CWAR-USDT"
+    },
+    {
+        "description": "Kucoin SDAO/ETH",
+        "displaySymbol": "SDAO/ETH",
+        "symbol": "KUCOIN:SDAO-ETH"
+    },
+    {
+        "description": "Kucoin ATOM/UST",
+        "displaySymbol": "ATOM/UST",
+        "symbol": "KUCOIN:ATOM-UST"
+    },
+    {
+        "description": "Kucoin SAND/USDT",
+        "displaySymbol": "SAND/USDT",
+        "symbol": "KUCOIN:SAND-USDT"
+    },
+    {
+        "description": "Kucoin UBX/USDT",
+        "displaySymbol": "UBX/USDT",
+        "symbol": "KUCOIN:UBX-USDT"
+    },
+    {
+        "description": "Kucoin LOOM/BTC",
+        "displaySymbol": "LOOM/BTC",
+        "symbol": "KUCOIN:LOOM-BTC"
+    },
+    {
+        "description": "Kucoin BOND/USDT",
+        "displaySymbol": "BOND/USDT",
+        "symbol": "KUCOIN:BOND-USDT"
+    },
+    {
+        "description": "Kucoin UTK/BTC",
+        "displaySymbol": "UTK/BTC",
+        "symbol": "KUCOIN:UTK-BTC"
+    },
+    {
+        "description": "Kucoin COTI/BTC",
+        "displaySymbol": "COTI/BTC",
+        "symbol": "KUCOIN:COTI-BTC"
+    },
+    {
+        "description": "Kucoin NFT/TRX",
+        "displaySymbol": "NFT/TRX",
+        "symbol": "KUCOIN:NFT-TRX"
+    },
+    {
+        "description": "Kucoin COTI/USDT",
+        "displaySymbol": "COTI/USDT",
+        "symbol": "KUCOIN:COTI-USDT"
+    },
+    {
+        "description": "Kucoin BOLT/USDT",
+        "displaySymbol": "BOLT/USDT",
+        "symbol": "KUCOIN:BOLT-USDT"
+    },
+    {
+        "description": "Kucoin BTT/TRX",
+        "displaySymbol": "BTT/TRX",
+        "symbol": "KUCOIN:BTT-TRX"
+    },
+    {
+        "description": "Kucoin MHC/USDT",
+        "displaySymbol": "MHC/USDT",
+        "symbol": "KUCOIN:MHC-USDT"
+    },
+    {
+        "description": "Kucoin STRK/ETH",
+        "displaySymbol": "STRK/ETH",
+        "symbol": "KUCOIN:STRK-ETH"
+    },
+    {
+        "description": "Kucoin MANA3S/USDT",
+        "displaySymbol": "MANA3S/USDT",
+        "symbol": "KUCOIN:MANA3S-USDT"
+    },
+    {
+        "description": "Kucoin RIF/BTC",
+        "displaySymbol": "RIF/BTC",
+        "symbol": "KUCOIN:RIF-BTC"
+    },
+    {
+        "description": "Kucoin XNL/USDT",
+        "displaySymbol": "XNL/USDT",
+        "symbol": "KUCOIN:XNL-USDT"
+    },
+    {
+        "description": "Kucoin XPR/BTC",
+        "displaySymbol": "XPR/BTC",
+        "symbol": "KUCOIN:XPR-BTC"
+    },
+    {
+        "description": "Kucoin BAX/BTC",
+        "displaySymbol": "BAX/BTC",
+        "symbol": "KUCOIN:BAX-BTC"
+    },
+    {
+        "description": "Kucoin OPCT/ETH",
+        "displaySymbol": "OPCT/ETH",
+        "symbol": "KUCOIN:OPCT-ETH"
+    },
+    {
+        "description": "Kucoin NEO/USDT",
+        "displaySymbol": "NEO/USDT",
+        "symbol": "KUCOIN:NEO-USDT"
+    },
+    {
+        "description": "Kucoin PERP/USDT",
+        "displaySymbol": "PERP/USDT",
+        "symbol": "KUCOIN:PERP-USDT"
+    },
+    {
+        "description": "Kucoin GMEE/USDT",
+        "displaySymbol": "GMEE/USDT",
+        "symbol": "KUCOIN:GMEE-USDT"
+    },
+    {
+        "description": "Kucoin XCAD/USDT",
+        "displaySymbol": "XCAD/USDT",
+        "symbol": "KUCOIN:XCAD-USDT"
+    },
+    {
+        "description": "Kucoin SNX/UST",
+        "displaySymbol": "SNX/UST",
+        "symbol": "KUCOIN:SNX-UST"
+    },
+    {
+        "description": "Kucoin MNST/USDT",
+        "displaySymbol": "MNST/USDT",
+        "symbol": "KUCOIN:MNST-USDT"
+    },
+    {
+        "description": "Kucoin PAXG/USDT",
+        "displaySymbol": "PAXG/USDT",
+        "symbol": "KUCOIN:PAXG-USDT"
+    },
+    {
+        "description": "Kucoin TARA/USDT",
+        "displaySymbol": "TARA/USDT",
+        "symbol": "KUCOIN:TARA-USDT"
+    },
+    {
+        "description": "Kucoin UNI3L/USDT",
+        "displaySymbol": "UNI3L/USDT",
+        "symbol": "KUCOIN:UNI3L-USDT"
+    },
+    {
+        "description": "Kucoin SKL/BTC",
+        "displaySymbol": "SKL/BTC",
+        "symbol": "KUCOIN:SKL-BTC"
+    },
+    {
+        "description": "Kucoin ZKT/USDT",
+        "displaySymbol": "ZKT/USDT",
+        "symbol": "KUCOIN:ZKT-USDT"
+    },
+    {
+        "description": "Kucoin SNTVT/BTC",
+        "displaySymbol": "SNTVT/BTC",
+        "symbol": "KUCOIN:SNTVT-BTC"
+    },
+    {
+        "description": "Kucoin XEM/USDT",
+        "displaySymbol": "XEM/USDT",
+        "symbol": "KUCOIN:XEM-USDT"
+    },
+    {
+        "description": "Kucoin AMPL/USDT",
+        "displaySymbol": "AMPL/USDT",
+        "symbol": "KUCOIN:AMPL-USDT"
+    },
+    {
+        "description": "Kucoin AXPR/ETH",
+        "displaySymbol": "AXPR/ETH",
+        "symbol": "KUCOIN:AXPR-ETH"
+    },
+    {
+        "description": "Kucoin EOS3L/USDT",
+        "displaySymbol": "EOS3L/USDT",
+        "symbol": "KUCOIN:EOS3L-USDT"
+    },
+    {
+        "description": "Kucoin VEGA/ETH",
+        "displaySymbol": "VEGA/ETH",
+        "symbol": "KUCOIN:VEGA-ETH"
+    },
+    {
+        "description": "Kucoin UFO/USDT",
+        "displaySymbol": "UFO/USDT",
+        "symbol": "KUCOIN:UFO-USDT"
+    },
+    {
+        "description": "Kucoin PDEX/USDT",
+        "displaySymbol": "PDEX/USDT",
+        "symbol": "KUCOIN:PDEX-USDT"
+    },
+    {
+        "description": "Kucoin COMP/USDT",
+        "displaySymbol": "COMP/USDT",
+        "symbol": "KUCOIN:COMP-USDT"
+    },
+    {
+        "description": "Kucoin STORJ/BTC",
+        "displaySymbol": "STORJ/BTC",
+        "symbol": "KUCOIN:STORJ-BTC"
+    },
+    {
+        "description": "Kucoin POLX/USDT",
+        "displaySymbol": "POLX/USDT",
+        "symbol": "KUCOIN:POLX-USDT"
+    },
+    {
+        "description": "Kucoin API3/USDT",
+        "displaySymbol": "API3/USDT",
+        "symbol": "KUCOIN:API3-USDT"
+    },
+    {
+        "description": "Kucoin XYO/USDT",
+        "displaySymbol": "XYO/USDT",
+        "symbol": "KUCOIN:XYO-USDT"
+    },
+    {
+        "description": "Kucoin BUX/BTC",
+        "displaySymbol": "BUX/BTC",
+        "symbol": "KUCOIN:BUX-BTC"
+    },
+    {
+        "description": "Kucoin LITH/ETH",
+        "displaySymbol": "LITH/ETH",
+        "symbol": "KUCOIN:LITH-ETH"
+    },
+    {
+        "description": "Kucoin BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "KUCOIN:BCH-BTC"
+    },
+    {
+        "description": "Kucoin KEY/ETH",
+        "displaySymbol": "KEY/ETH",
+        "symbol": "KUCOIN:KEY-ETH"
+    },
+    {
+        "description": "Kucoin MVP/BTC",
+        "displaySymbol": "MVP/BTC",
+        "symbol": "KUCOIN:MVP-BTC"
+    },
+    {
+        "description": "Kucoin TONE/USDT",
+        "displaySymbol": "TONE/USDT",
+        "symbol": "KUCOIN:TONE-USDT"
+    },
+    {
+        "description": "Kucoin SUPER/BTC",
+        "displaySymbol": "SUPER/BTC",
+        "symbol": "KUCOIN:SUPER-BTC"
+    },
+    {
+        "description": "Kucoin FIL/USDT",
+        "displaySymbol": "FIL/USDT",
+        "symbol": "KUCOIN:FIL-USDT"
+    },
+    {
+        "description": "Kucoin BEPRO/BTC",
+        "displaySymbol": "BEPRO/BTC",
+        "symbol": "KUCOIN:BEPRO-BTC"
+    },
+    {
+        "description": "Kucoin MAN/USDT",
+        "displaySymbol": "MAN/USDT",
+        "symbol": "KUCOIN:MAN-USDT"
+    },
+    {
+        "description": "Kucoin TKY/USDT",
+        "displaySymbol": "TKY/USDT",
+        "symbol": "KUCOIN:TKY-USDT"
+    },
+    {
+        "description": "Kucoin TKO/USDT",
+        "displaySymbol": "TKO/USDT",
+        "symbol": "KUCOIN:TKO-USDT"
+    },
+    {
+        "description": "Kucoin FXS/BTC",
+        "displaySymbol": "FXS/BTC",
+        "symbol": "KUCOIN:FXS-BTC"
+    },
+    {
+        "description": "Kucoin VXV/USDT",
+        "displaySymbol": "VXV/USDT",
+        "symbol": "KUCOIN:VXV-USDT"
+    },
+    {
+        "description": "Kucoin WAX/USDT",
+        "displaySymbol": "WAX/USDT",
+        "symbol": "KUCOIN:WAX-USDT"
+    },
+    {
+        "description": "Kucoin MARSH/USDT",
+        "displaySymbol": "MARSH/USDT",
+        "symbol": "KUCOIN:MARSH-USDT"
+    },
+    {
+        "description": "Kucoin RLC/USDT",
+        "displaySymbol": "RLC/USDT",
+        "symbol": "KUCOIN:RLC-USDT"
+    },
+    {
+        "description": "Kucoin CKB/USDT",
+        "displaySymbol": "CKB/USDT",
+        "symbol": "KUCOIN:CKB-USDT"
+    },
+    {
+        "description": "Kucoin FRM/USDT",
+        "displaySymbol": "FRM/USDT",
+        "symbol": "KUCOIN:FRM-USDT"
+    },
+    {
+        "description": "Kucoin LOVE/USDT",
+        "displaySymbol": "LOVE/USDT",
+        "symbol": "KUCOIN:LOVE-USDT"
+    },
+    {
+        "description": "Kucoin STRK/BTC",
+        "displaySymbol": "STRK/BTC",
+        "symbol": "KUCOIN:STRK-BTC"
+    },
+    {
+        "description": "Kucoin STND/USDT",
+        "displaySymbol": "STND/USDT",
+        "symbol": "KUCOIN:STND-USDT"
+    },
+    {
+        "description": "Kucoin CRPT/ETH",
+        "displaySymbol": "CRPT/ETH",
+        "symbol": "KUCOIN:CRPT-ETH"
+    },
+    {
+        "description": "Kucoin KOL/ETH",
+        "displaySymbol": "KOL/ETH",
+        "symbol": "KUCOIN:KOL-ETH"
+    },
+    {
+        "description": "Kucoin DASH/USDT",
+        "displaySymbol": "DASH/USDT",
+        "symbol": "KUCOIN:DASH-USDT"
+    },
+    {
+        "description": "Kucoin VET3S/USDT",
+        "displaySymbol": "VET3S/USDT",
+        "symbol": "KUCOIN:VET3S-USDT"
+    },
+    {
+        "description": "Kucoin NULS/BTC",
+        "displaySymbol": "NULS/BTC",
+        "symbol": "KUCOIN:NULS-BTC"
+    },
+    {
+        "description": "Kucoin DPI/USDT",
+        "displaySymbol": "DPI/USDT",
+        "symbol": "KUCOIN:DPI-USDT"
+    },
+    {
+        "description": "Kucoin ERTHA/USDT",
+        "displaySymbol": "ERTHA/USDT",
+        "symbol": "KUCOIN:ERTHA-USDT"
+    },
+    {
+        "description": "Kucoin KAI/BTC",
+        "displaySymbol": "KAI/BTC",
+        "symbol": "KUCOIN:KAI-BTC"
+    },
+    {
+        "description": "Kucoin ROOBEE/BTC",
+        "displaySymbol": "ROOBEE/BTC",
+        "symbol": "KUCOIN:ROOBEE-BTC"
+    },
+    {
+        "description": "Kucoin EPS/USDT",
+        "displaySymbol": "EPS/USDT",
+        "symbol": "KUCOIN:EPS-USDT"
+    },
+    {
+        "description": "Kucoin LTX/USDT",
+        "displaySymbol": "LTX/USDT",
+        "symbol": "KUCOIN:LTX-USDT"
+    },
+    {
+        "description": "Kucoin DRGN/BTC",
+        "displaySymbol": "DRGN/BTC",
+        "symbol": "KUCOIN:DRGN-BTC"
+    },
+    {
+        "description": "Kucoin NRG/BTC",
+        "displaySymbol": "NRG/BTC",
+        "symbol": "KUCOIN:NRG-BTC"
+    },
+    {
+        "description": "Kucoin CRV/USDT",
+        "displaySymbol": "CRV/USDT",
+        "symbol": "KUCOIN:CRV-USDT"
+    },
+    {
+        "description": "Kucoin XMR/ETH",
+        "displaySymbol": "XMR/ETH",
+        "symbol": "KUCOIN:XMR-ETH"
+    },
+    {
+        "description": "Kucoin PLAY/BTC",
+        "displaySymbol": "PLAY/BTC",
+        "symbol": "KUCOIN:PLAY-BTC"
+    },
+    {
+        "description": "Kucoin BNB/KCS",
+        "displaySymbol": "BNB/KCS",
+        "symbol": "KUCOIN:BNB-KCS"
+    },
+    {
+        "description": "Kucoin NANO/KCS",
+        "displaySymbol": "NANO/KCS",
+        "symbol": "KUCOIN:NANO-KCS"
+    },
+    {
+        "description": "Kucoin BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "KUCOIN:BTC-USDC"
+    },
+    {
+        "description": "Kucoin PBR/USDT",
+        "displaySymbol": "PBR/USDT",
+        "symbol": "KUCOIN:PBR-USDT"
+    },
+    {
+        "description": "Kucoin MAKI/USDT",
+        "displaySymbol": "MAKI/USDT",
+        "symbol": "KUCOIN:MAKI-USDT"
+    },
+    {
+        "description": "Kucoin AVAX3L/USDT",
+        "displaySymbol": "AVAX3L/USDT",
+        "symbol": "KUCOIN:AVAX3L-USDT"
+    },
+    {
+        "description": "Kucoin SUTER/USDT",
+        "displaySymbol": "SUTER/USDT",
+        "symbol": "KUCOIN:SUTER-USDT"
+    },
+    {
+        "description": "Kucoin SOLVE/BTC",
+        "displaySymbol": "SOLVE/BTC",
+        "symbol": "KUCOIN:SOLVE-BTC"
+    },
+    {
+        "description": "Kucoin CFG/BTC",
+        "displaySymbol": "CFG/BTC",
+        "symbol": "KUCOIN:CFG-BTC"
+    },
+    {
+        "description": "Kucoin ZIL/USDT",
+        "displaySymbol": "ZIL/USDT",
+        "symbol": "KUCOIN:ZIL-USDT"
+    },
+    {
+        "description": "Kucoin FRONT/BTC",
+        "displaySymbol": "FRONT/BTC",
+        "symbol": "KUCOIN:FRONT-BTC"
+    },
+    {
+        "description": "Kucoin AUDIO/USDT",
+        "displaySymbol": "AUDIO/USDT",
+        "symbol": "KUCOIN:AUDIO-USDT"
+    },
+    {
+        "description": "Kucoin BCHSV/ETH",
+        "displaySymbol": "BCHSV/ETH",
+        "symbol": "KUCOIN:BCHSV-ETH"
+    },
+    {
+        "description": "Kucoin PCX/USDT",
+        "displaySymbol": "PCX/USDT",
+        "symbol": "KUCOIN:PCX-USDT"
+    },
+    {
+        "description": "Kucoin PAXG/BTC",
+        "displaySymbol": "PAXG/BTC",
+        "symbol": "KUCOIN:PAXG-BTC"
+    },
+    {
+        "description": "Kucoin DENT/BTC",
+        "displaySymbol": "DENT/BTC",
+        "symbol": "KUCOIN:DENT-BTC"
+    },
+    {
+        "description": "Kucoin ADB/ETH",
+        "displaySymbol": "ADB/ETH",
+        "symbol": "KUCOIN:ADB-ETH"
+    },
+    {
+        "description": "Kucoin SDN/USDT",
+        "displaySymbol": "SDN/USDT",
+        "symbol": "KUCOIN:SDN-USDT"
+    },
+    {
+        "description": "Kucoin VET/ETH",
+        "displaySymbol": "VET/ETH",
+        "symbol": "KUCOIN:VET-ETH"
+    },
+    {
+        "description": "Kucoin RFOX/USDT",
+        "displaySymbol": "RFOX/USDT",
+        "symbol": "KUCOIN:RFOX-USDT"
+    },
+    {
+        "description": "Kucoin DINO/USDT",
+        "displaySymbol": "DINO/USDT",
+        "symbol": "KUCOIN:DINO-USDT"
+    },
+    {
+        "description": "Kucoin KOL/USDT",
+        "displaySymbol": "KOL/USDT",
+        "symbol": "KUCOIN:KOL-USDT"
+    },
+    {
+        "description": "Kucoin AXS3S/USDT",
+        "displaySymbol": "AXS3S/USDT",
+        "symbol": "KUCOIN:AXS3S-USDT"
+    },
+    {
+        "description": "Kucoin NEAR/BTC",
+        "displaySymbol": "NEAR/BTC",
+        "symbol": "KUCOIN:NEAR-BTC"
+    },
+    {
+        "description": "Kucoin AGLD/USDT",
+        "displaySymbol": "AGLD/USDT",
+        "symbol": "KUCOIN:AGLD-USDT"
+    },
+    {
+        "description": "Kucoin DOT/BTC",
+        "displaySymbol": "DOT/BTC",
+        "symbol": "KUCOIN:DOT-BTC"
+    },
+    {
+        "description": "Kucoin EOS/USDC",
+        "displaySymbol": "EOS/USDC",
+        "symbol": "KUCOIN:EOS-USDC"
+    },
+    {
+        "description": "Kucoin NMR/BTC",
+        "displaySymbol": "NMR/BTC",
+        "symbol": "KUCOIN:NMR-BTC"
+    },
+    {
+        "description": "Kucoin CWAR/BTC",
+        "displaySymbol": "CWAR/BTC",
+        "symbol": "KUCOIN:CWAR-BTC"
+    },
+    {
+        "description": "Kucoin MKR/USDT",
+        "displaySymbol": "MKR/USDT",
+        "symbol": "KUCOIN:MKR-USDT"
+    },
+    {
+        "description": "Kucoin AKRO/USDT",
+        "displaySymbol": "AKRO/USDT",
+        "symbol": "KUCOIN:AKRO-USDT"
+    },
+    {
+        "description": "Kucoin GEEQ/USDT",
+        "displaySymbol": "GEEQ/USDT",
+        "symbol": "KUCOIN:GEEQ-USDT"
+    },
+    {
+        "description": "Kucoin DFI/BTC",
+        "displaySymbol": "DFI/BTC",
+        "symbol": "KUCOIN:DFI-BTC"
+    },
+    {
+        "description": "Kucoin XEM/BTC",
+        "displaySymbol": "XEM/BTC",
+        "symbol": "KUCOIN:XEM-BTC"
+    },
+    {
+        "description": "Kucoin TRX/ETH",
+        "displaySymbol": "TRX/ETH",
+        "symbol": "KUCOIN:TRX-ETH"
+    },
+    {
+        "description": "Kucoin REQ/BTC",
+        "displaySymbol": "REQ/BTC",
+        "symbol": "KUCOIN:REQ-BTC"
+    },
+    {
+        "description": "Kucoin BEPRO/USDT",
+        "displaySymbol": "BEPRO/USDT",
+        "symbol": "KUCOIN:BEPRO-USDT"
+    },
+    {
+        "description": "Kucoin XYO/ETH",
+        "displaySymbol": "XYO/ETH",
+        "symbol": "KUCOIN:XYO-ETH"
+    },
+    {
+        "description": "Kucoin FTT/BTC",
+        "displaySymbol": "FTT/BTC",
+        "symbol": "KUCOIN:FTT-BTC"
+    },
+    {
+        "description": "Kucoin LTC/ETH",
+        "displaySymbol": "LTC/ETH",
+        "symbol": "KUCOIN:LTC-ETH"
+    },
+    {
+        "description": "Kucoin LIKE/USDT",
+        "displaySymbol": "LIKE/USDT",
+        "symbol": "KUCOIN:LIKE-USDT"
+    },
+    {
+        "description": "Kucoin RUNE/BTC",
+        "displaySymbol": "RUNE/BTC",
+        "symbol": "KUCOIN:RUNE-BTC"
+    },
+    {
+        "description": "Kucoin XPRT/USDT",
+        "displaySymbol": "XPRT/USDT",
+        "symbol": "KUCOIN:XPRT-USDT"
+    },
+    {
+        "description": "Kucoin BCH/USDC",
+        "displaySymbol": "BCH/USDC",
+        "symbol": "KUCOIN:BCH-USDC"
+    },
+    {
+        "description": "Kucoin ANC/USDT",
+        "displaySymbol": "ANC/USDT",
+        "symbol": "KUCOIN:ANC-USDT"
+    },
+    {
+        "description": "Kucoin HYVE/BTC",
+        "displaySymbol": "HYVE/BTC",
+        "symbol": "KUCOIN:HYVE-BTC"
+    },
+    {
+        "description": "Kucoin AMB/BTC",
+        "displaySymbol": "AMB/BTC",
+        "symbol": "KUCOIN:AMB-BTC"
+    },
+    {
+        "description": "Kucoin MIR/USDT",
+        "displaySymbol": "MIR/USDT",
+        "symbol": "KUCOIN:MIR-USDT"
+    },
+    {
+        "description": "Kucoin ADS/USDT",
+        "displaySymbol": "ADS/USDT",
+        "symbol": "KUCOIN:ADS-USDT"
+    },
+    {
+        "description": "Kucoin MXW/USDT",
+        "displaySymbol": "MXW/USDT",
+        "symbol": "KUCOIN:MXW-USDT"
+    },
+    {
+        "description": "Kucoin AMB/ETH",
+        "displaySymbol": "AMB/ETH",
+        "symbol": "KUCOIN:AMB-ETH"
+    },
+    {
+        "description": "Kucoin TOKO/KCS",
+        "displaySymbol": "TOKO/KCS",
+        "symbol": "KUCOIN:TOKO-KCS"
+    },
+    {
+        "description": "Kucoin SOL/UST",
+        "displaySymbol": "SOL/UST",
+        "symbol": "KUCOIN:SOL-UST"
+    },
+    {
+        "description": "Kucoin ETHO/BTC",
+        "displaySymbol": "ETHO/BTC",
+        "symbol": "KUCOIN:ETHO-BTC"
+    },
+    {
+        "description": "Kucoin ARRR/BTC",
+        "displaySymbol": "ARRR/BTC",
+        "symbol": "KUCOIN:ARRR-BTC"
+    },
+    {
+        "description": "Kucoin DFI/USDT",
+        "displaySymbol": "DFI/USDT",
+        "symbol": "KUCOIN:DFI-USDT"
+    },
+    {
+        "description": "Kucoin SNX/BTC",
+        "displaySymbol": "SNX/BTC",
+        "symbol": "KUCOIN:SNX-BTC"
+    },
+    {
+        "description": "Kucoin GRIN/USDT",
+        "displaySymbol": "GRIN/USDT",
+        "symbol": "KUCOIN:GRIN-USDT"
+    },
+    {
+        "description": "Kucoin NMR/USDT",
+        "displaySymbol": "NMR/USDT",
+        "symbol": "KUCOIN:NMR-USDT"
+    },
+    {
+        "description": "Kucoin FXS/USDT",
+        "displaySymbol": "FXS/USDT",
+        "symbol": "KUCOIN:FXS-USDT"
+    },
+    {
+        "description": "Kucoin LINK3L/USDT",
+        "displaySymbol": "LINK3L/USDT",
+        "symbol": "KUCOIN:LINK3L-USDT"
+    },
+    {
+        "description": "Kucoin MATTER/USDT",
+        "displaySymbol": "MATTER/USDT",
+        "symbol": "KUCOIN:MATTER-USDT"
+    },
+    {
+        "description": "Kucoin OMG/BTC",
+        "displaySymbol": "OMG/BTC",
+        "symbol": "KUCOIN:OMG-BTC"
+    },
+    {
+        "description": "Kucoin OM/USDT",
+        "displaySymbol": "OM/USDT",
+        "symbol": "KUCOIN:OM-USDT"
+    },
+    {
+        "description": "Kucoin TRADE/BTC",
+        "displaySymbol": "TRADE/BTC",
+        "symbol": "KUCOIN:TRADE-BTC"
+    },
+    {
+        "description": "Kucoin HAI/BTC",
+        "displaySymbol": "HAI/BTC",
+        "symbol": "KUCOIN:HAI-BTC"
+    },
+    {
+        "description": "Kucoin GARI/USDT",
+        "displaySymbol": "GARI/USDT",
+        "symbol": "KUCOIN:GARI-USDT"
+    },
+    {
+        "description": "Kucoin WIN/TRX",
+        "displaySymbol": "WIN/TRX",
+        "symbol": "KUCOIN:WIN-TRX"
+    },
+    {
+        "description": "Kucoin WRX/USDT",
+        "displaySymbol": "WRX/USDT",
+        "symbol": "KUCOIN:WRX-USDT"
+    },
+    {
+        "description": "Kucoin CAPP/BTC",
+        "displaySymbol": "CAPP/BTC",
+        "symbol": "KUCOIN:CAPP-BTC"
+    },
+    {
+        "description": "Kucoin GSPI/USDT",
+        "displaySymbol": "GSPI/USDT",
+        "symbol": "KUCOIN:GSPI-USDT"
+    },
+    {
+        "description": "Kucoin FALCONS/USDT",
+        "displaySymbol": "FALCONS/USDT",
+        "symbol": "KUCOIN:FALCONS-USDT"
+    },
+    {
+        "description": "Kucoin UBXT/USDT",
+        "displaySymbol": "UBXT/USDT",
+        "symbol": "KUCOIN:UBXT-USDT"
+    },
+    {
+        "description": "Kucoin RFUEL/USDT",
+        "displaySymbol": "RFUEL/USDT",
+        "symbol": "KUCOIN:RFUEL-USDT"
+    },
+    {
+        "description": "Kucoin CS/BTC",
+        "displaySymbol": "CS/BTC",
+        "symbol": "KUCOIN:CS-BTC"
+    },
+    {
+        "description": "Kucoin DOGE/USDT",
+        "displaySymbol": "DOGE/USDT",
+        "symbol": "KUCOIN:DOGE-USDT"
+    },
+    {
+        "description": "Kucoin SOUL/ETH",
+        "displaySymbol": "SOUL/ETH",
+        "symbol": "KUCOIN:SOUL-ETH"
+    },
+    {
+        "description": "Kucoin BTC3S/USDT",
+        "displaySymbol": "BTC3S/USDT",
+        "symbol": "KUCOIN:BTC3S-USDT"
+    },
+    {
+        "description": "Kucoin LTC/KCS",
+        "displaySymbol": "LTC/KCS",
+        "symbol": "KUCOIN:LTC-KCS"
+    },
+    {
+        "description": "Kucoin PLU/USDT",
+        "displaySymbol": "PLU/USDT",
+        "symbol": "KUCOIN:PLU-USDT"
+    },
+    {
+        "description": "Kucoin GRT/KCS",
+        "displaySymbol": "GRT/KCS",
+        "symbol": "KUCOIN:GRT-KCS"
+    },
+    {
+        "description": "Kucoin KDA/USDT",
+        "displaySymbol": "KDA/USDT",
+        "symbol": "KUCOIN:KDA-USDT"
+    },
+    {
+        "description": "Kucoin KLAY/BTC",
+        "displaySymbol": "KLAY/BTC",
+        "symbol": "KUCOIN:KLAY-BTC"
+    },
+    {
+        "description": "Kucoin LACE/ETH",
+        "displaySymbol": "LACE/ETH",
+        "symbol": "KUCOIN:LACE-ETH"
+    },
+    {
+        "description": "Kucoin RMRK/USDT",
+        "displaySymbol": "RMRK/USDT",
+        "symbol": "KUCOIN:RMRK-USDT"
+    },
+    {
+        "description": "Kucoin LTC3L/USDT",
+        "displaySymbol": "LTC3L/USDT",
+        "symbol": "KUCOIN:LTC3L-USDT"
+    },
+    {
+        "description": "Kucoin SUSHI/USDT",
+        "displaySymbol": "SUSHI/USDT",
+        "symbol": "KUCOIN:SUSHI-USDT"
+    },
+    {
+        "description": "Kucoin SNX/USDT",
+        "displaySymbol": "SNX/USDT",
+        "symbol": "KUCOIN:SNX-USDT"
+    },
+    {
+        "description": "Kucoin MFT/USDT",
+        "displaySymbol": "MFT/USDT",
+        "symbol": "KUCOIN:MFT-USDT"
+    },
+    {
+        "description": "Kucoin AXS3L/USDT",
+        "displaySymbol": "AXS3L/USDT",
+        "symbol": "KUCOIN:AXS3L-USDT"
+    },
+    {
+        "description": "Kucoin ASTR/BTC",
+        "displaySymbol": "ASTR/BTC",
+        "symbol": "KUCOIN:ASTR-BTC"
+    },
+    {
+        "description": "Kucoin LITH/USDT",
+        "displaySymbol": "LITH/USDT",
+        "symbol": "KUCOIN:LITH-USDT"
+    },
+    {
+        "description": "Kucoin MTV/BTC",
+        "displaySymbol": "MTV/BTC",
+        "symbol": "KUCOIN:MTV-BTC"
+    },
+    {
+        "description": "Kucoin AVAX/USDT",
+        "displaySymbol": "AVAX/USDT",
+        "symbol": "KUCOIN:AVAX-USDT"
+    },
+    {
+        "description": "Kucoin NWC/USDT",
+        "displaySymbol": "NWC/USDT",
+        "symbol": "KUCOIN:NWC-USDT"
+    },
+    {
+        "description": "Kucoin HOTCROSS/USDT",
+        "displaySymbol": "HOTCROSS/USDT",
+        "symbol": "KUCOIN:HOTCROSS-USDT"
+    },
+    {
+        "description": "Kucoin DGTX/ETH",
+        "displaySymbol": "DGTX/ETH",
+        "symbol": "KUCOIN:DGTX-ETH"
+    },
+    {
+        "description": "Kucoin CARD/USDT",
+        "displaySymbol": "CARD/USDT",
+        "symbol": "KUCOIN:CARD-USDT"
+    },
+    {
+        "description": "Kucoin WNCG/BTC",
+        "displaySymbol": "WNCG/BTC",
+        "symbol": "KUCOIN:WNCG-BTC"
+    },
+    {
+        "description": "Kucoin MTL/USDT",
+        "displaySymbol": "MTL/USDT",
+        "symbol": "KUCOIN:MTL-USDT"
+    },
+    {
+        "description": "Kucoin GMB/BTC",
+        "displaySymbol": "GMB/BTC",
+        "symbol": "KUCOIN:GMB-BTC"
+    },
+    {
+        "description": "Kucoin ONE/BTC",
+        "displaySymbol": "ONE/BTC",
+        "symbol": "KUCOIN:ONE-BTC"
+    },
+    {
+        "description": "Kucoin BAL/BTC",
+        "displaySymbol": "BAL/BTC",
+        "symbol": "KUCOIN:BAL-BTC"
+    },
+    {
+        "description": "Kucoin USDT/DAI",
+        "displaySymbol": "USDT/DAI",
+        "symbol": "KUCOIN:USDT-DAI"
+    },
+    {
+        "description": "Kucoin XAVA/USDT",
+        "displaySymbol": "XAVA/USDT",
+        "symbol": "KUCOIN:XAVA-USDT"
+    },
+    {
+        "description": "Kucoin HEART/USDT",
+        "displaySymbol": "HEART/USDT",
+        "symbol": "KUCOIN:HEART-USDT"
+    },
+    {
+        "description": "Kucoin PCX/BTC",
+        "displaySymbol": "PCX/BTC",
+        "symbol": "KUCOIN:PCX-BTC"
+    },
+    {
+        "description": "Kucoin CVC/BTC",
+        "displaySymbol": "CVC/BTC",
+        "symbol": "KUCOIN:CVC-BTC"
+    },
+    {
+        "description": "Kucoin IOST/BTC",
+        "displaySymbol": "IOST/BTC",
+        "symbol": "KUCOIN:IOST-BTC"
+    },
+    {
+        "description": "Kucoin MEM/USDT",
+        "displaySymbol": "MEM/USDT",
+        "symbol": "KUCOIN:MEM-USDT"
+    },
+    {
+        "description": "Kucoin BTT/ETH",
+        "displaySymbol": "BTT/ETH",
+        "symbol": "KUCOIN:BTT-ETH"
+    },
+    {
+        "description": "Kucoin NORD/BTC",
+        "displaySymbol": "NORD/BTC",
+        "symbol": "KUCOIN:NORD-BTC"
+    },
+    {
+        "description": "Kucoin LTC/USDT",
+        "displaySymbol": "LTC/USDT",
+        "symbol": "KUCOIN:LTC-USDT"
+    },
+    {
+        "description": "Kucoin ENQ/USDT",
+        "displaySymbol": "ENQ/USDT",
+        "symbol": "KUCOIN:ENQ-USDT"
+    },
+    {
+        "description": "Kucoin MOVR/USDT",
+        "displaySymbol": "MOVR/USDT",
+        "symbol": "KUCOIN:MOVR-USDT"
+    },
+    {
+        "description": "Kucoin NU/USDT",
+        "displaySymbol": "NU/USDT",
+        "symbol": "KUCOIN:NU-USDT"
+    },
+    {
+        "description": "Kucoin ZRX/BTC",
+        "displaySymbol": "ZRX/BTC",
+        "symbol": "KUCOIN:ZRX-BTC"
+    },
+    {
+        "description": "Kucoin AAVE/BTC",
+        "displaySymbol": "AAVE/BTC",
+        "symbol": "KUCOIN:AAVE-BTC"
+    },
+    {
+        "description": "Kucoin RSR/BTC",
+        "displaySymbol": "RSR/BTC",
+        "symbol": "KUCOIN:RSR-BTC"
+    },
+    {
+        "description": "Kucoin BAKE/BTC",
+        "displaySymbol": "BAKE/BTC",
+        "symbol": "KUCOIN:BAKE-BTC"
+    },
+    {
+        "description": "Kucoin BNB/BTC",
+        "displaySymbol": "BNB/BTC",
+        "symbol": "KUCOIN:BNB-BTC"
+    },
+    {
+        "description": "Kucoin DOGE/BTC",
+        "displaySymbol": "DOGE/BTC",
+        "symbol": "KUCOIN:DOGE-BTC"
+    },
+    {
+        "description": "Kucoin SUKU/BTC",
+        "displaySymbol": "SUKU/BTC",
+        "symbol": "KUCOIN:SUKU-BTC"
+    },
+    {
+        "description": "Kucoin NEAR3S/USDT",
+        "displaySymbol": "NEAR3S/USDT",
+        "symbol": "KUCOIN:NEAR3S-USDT"
+    },
+    {
+        "description": "Kucoin LUNA/KCS",
+        "displaySymbol": "LUNA/KCS",
+        "symbol": "KUCOIN:LUNA-KCS"
+    },
+    {
+        "description": "Kucoin EQZ/BTC",
+        "displaySymbol": "EQZ/BTC",
+        "symbol": "KUCOIN:EQZ-BTC"
+    },
+    {
+        "description": "Kucoin ETHO/USDT",
+        "displaySymbol": "ETHO/USDT",
+        "symbol": "KUCOIN:ETHO-USDT"
+    },
+    {
+        "description": "Kucoin BNB/USDT",
+        "displaySymbol": "BNB/USDT",
+        "symbol": "KUCOIN:BNB-USDT"
+    },
+    {
+        "description": "Kucoin NEAR3L/USDT",
+        "displaySymbol": "NEAR3L/USDT",
+        "symbol": "KUCOIN:NEAR3L-USDT"
+    },
+    {
+        "description": "Kucoin BURP/USDT",
+        "displaySymbol": "BURP/USDT",
+        "symbol": "KUCOIN:BURP-USDT"
+    },
+    {
+        "description": "Kucoin SWP/USDT",
+        "displaySymbol": "SWP/USDT",
+        "symbol": "KUCOIN:SWP-USDT"
+    },
+    {
+        "description": "Kucoin HEGIC/BTC",
+        "displaySymbol": "HEGIC/BTC",
+        "symbol": "KUCOIN:HEGIC-BTC"
+    },
+    {
+        "description": "Kucoin BCD/ETH",
+        "displaySymbol": "BCD/ETH",
+        "symbol": "KUCOIN:BCD-ETH"
+    },
+    {
+        "description": "Kucoin ETC/BTC",
+        "displaySymbol": "ETC/BTC",
+        "symbol": "KUCOIN:ETC-BTC"
+    },
+    {
+        "description": "Kucoin TXA/USDT",
+        "displaySymbol": "TXA/USDT",
+        "symbol": "KUCOIN:TXA-USDT"
+    },
+    {
+        "description": "Kucoin PROM/USDT",
+        "displaySymbol": "PROM/USDT",
+        "symbol": "KUCOIN:PROM-USDT"
+    },
+    {
+        "description": "Kucoin REQ/ETH",
+        "displaySymbol": "REQ/ETH",
+        "symbol": "KUCOIN:REQ-ETH"
+    },
+    {
+        "description": "Kucoin CSP/ETH",
+        "displaySymbol": "CSP/ETH",
+        "symbol": "KUCOIN:CSP-ETH"
+    },
+    {
+        "description": "Kucoin USDC/UST",
+        "displaySymbol": "USDC/UST",
+        "symbol": "KUCOIN:USDC-UST"
+    },
+    {
+        "description": "Kucoin VSYS/BTC",
+        "displaySymbol": "VSYS/BTC",
+        "symbol": "KUCOIN:VSYS-BTC"
+    },
+    {
+        "description": "Kucoin OUSD/USDT",
+        "displaySymbol": "OUSD/USDT",
+        "symbol": "KUCOIN:OUSD-USDT"
+    },
+    {
+        "description": "Kucoin CIRUS/ETH",
+        "displaySymbol": "CIRUS/ETH",
+        "symbol": "KUCOIN:CIRUS-ETH"
+    },
+    {
+        "description": "Kucoin NOIA/BTC",
+        "displaySymbol": "NOIA/BTC",
+        "symbol": "KUCOIN:NOIA-BTC"
+    },
+    {
+        "description": "Kucoin TRX/KCS",
+        "displaySymbol": "TRX/KCS",
+        "symbol": "KUCOIN:TRX-KCS"
+    },
+    {
+        "description": "Kucoin SHR/USDT",
+        "displaySymbol": "SHR/USDT",
+        "symbol": "KUCOIN:SHR-USDT"
+    },
+    {
+        "description": "Kucoin PUSH/USDT",
+        "displaySymbol": "PUSH/USDT",
+        "symbol": "KUCOIN:PUSH-USDT"
+    },
+    {
+        "description": "Kucoin KAI/ETH",
+        "displaySymbol": "KAI/ETH",
+        "symbol": "KUCOIN:KAI-ETH"
+    },
+    {
+        "description": "Kucoin GRT/USDT",
+        "displaySymbol": "GRT/USDT",
+        "symbol": "KUCOIN:GRT-USDT"
+    },
+    {
+        "description": "Kucoin ELA/USDT",
+        "displaySymbol": "ELA/USDT",
+        "symbol": "KUCOIN:ELA-USDT"
+    },
+    {
+        "description": "Kucoin HTR/BTC",
+        "displaySymbol": "HTR/BTC",
+        "symbol": "KUCOIN:HTR-BTC"
+    },
+    {
+        "description": "Kucoin IOTX/ETH",
+        "displaySymbol": "IOTX/ETH",
+        "symbol": "KUCOIN:IOTX-ETH"
+    },
+    {
+        "description": "Kucoin CELO/BTC",
+        "displaySymbol": "CELO/BTC",
+        "symbol": "KUCOIN:CELO-BTC"
+    },
+    {
+        "description": "Kucoin ETN/BTC",
+        "displaySymbol": "ETN/BTC",
+        "symbol": "KUCOIN:ETN-BTC"
+    },
+    {
+        "description": "Kucoin PDEX/BTC",
+        "displaySymbol": "PDEX/BTC",
+        "symbol": "KUCOIN:PDEX-BTC"
+    },
+    {
+        "description": "Kucoin STRONG/USDT",
+        "displaySymbol": "STRONG/USDT",
+        "symbol": "KUCOIN:STRONG-USDT"
+    },
+    {
+        "description": "Kucoin XED/USDT",
+        "displaySymbol": "XED/USDT",
+        "symbol": "KUCOIN:XED-USDT"
+    },
+    {
+        "description": "Kucoin PHA/ETH",
+        "displaySymbol": "PHA/ETH",
+        "symbol": "KUCOIN:PHA-ETH"
+    },
+    {
+        "description": "Kucoin ATOM3L/USDT",
+        "displaySymbol": "ATOM3L/USDT",
+        "symbol": "KUCOIN:ATOM3L-USDT"
+    },
+    {
+        "description": "Kucoin GOVI/USDT",
+        "displaySymbol": "GOVI/USDT",
+        "symbol": "KUCOIN:GOVI-USDT"
+    },
+    {
+        "description": "Kucoin BOSON/USDT",
+        "displaySymbol": "BOSON/USDT",
+        "symbol": "KUCOIN:BOSON-USDT"
+    },
+    {
+        "description": "Kucoin FLUX/USDT",
+        "displaySymbol": "FLUX/USDT",
+        "symbol": "KUCOIN:FLUX-USDT"
+    },
+    {
+        "description": "Kucoin FLOW/USDT",
+        "displaySymbol": "FLOW/USDT",
+        "symbol": "KUCOIN:FLOW-USDT"
+    },
+    {
+        "description": "Kucoin KLV/BTC",
+        "displaySymbol": "KLV/BTC",
+        "symbol": "KUCOIN:KLV-BTC"
+    },
+    {
+        "description": "Kucoin SRM/USDT",
+        "displaySymbol": "SRM/USDT",
+        "symbol": "KUCOIN:SRM-USDT"
+    },
+    {
+        "description": "Kucoin ORBS/BTC",
+        "displaySymbol": "ORBS/BTC",
+        "symbol": "KUCOIN:ORBS-BTC"
+    },
+    {
+        "description": "Kucoin MANA3L/USDT",
+        "displaySymbol": "MANA3L/USDT",
+        "symbol": "KUCOIN:MANA3L-USDT"
+    },
+    {
+        "description": "Kucoin KMD/BTC",
+        "displaySymbol": "KMD/BTC",
+        "symbol": "KUCOIN:KMD-BTC"
+    },
+    {
+        "description": "Kucoin DOT/KCS",
+        "displaySymbol": "DOT/KCS",
+        "symbol": "KUCOIN:DOT-KCS"
+    },
+    {
+        "description": "Kucoin ETH/USDT",
+        "displaySymbol": "ETH/USDT",
+        "symbol": "KUCOIN:ETH-USDT"
+    },
+    {
+        "description": "Kucoin IMX/USDT",
+        "displaySymbol": "IMX/USDT",
+        "symbol": "KUCOIN:IMX-USDT"
+    },
+    {
+        "description": "Kucoin STX/USDT",
+        "displaySymbol": "STX/USDT",
+        "symbol": "KUCOIN:STX-USDT"
+    },
+    {
+        "description": "Kucoin ABBC/USDT",
+        "displaySymbol": "ABBC/USDT",
+        "symbol": "KUCOIN:ABBC-USDT"
+    },
+    {
+        "description": "Kucoin PRE/BTC",
+        "displaySymbol": "PRE/BTC",
+        "symbol": "KUCOIN:PRE-BTC"
+    },
+    {
+        "description": "Kucoin AXC/USDT",
+        "displaySymbol": "AXC/USDT",
+        "symbol": "KUCOIN:AXC-USDT"
+    },
+    {
+        "description": "Kucoin KAT/USDT",
+        "displaySymbol": "KAT/USDT",
+        "symbol": "KUCOIN:KAT-USDT"
+    },
+    {
+        "description": "Kucoin OM/BTC",
+        "displaySymbol": "OM/BTC",
+        "symbol": "KUCOIN:OM-BTC"
+    },
+    {
+        "description": "Kucoin WAX/BTC",
+        "displaySymbol": "WAX/BTC",
+        "symbol": "KUCOIN:WAX-BTC"
+    },
+    {
+        "description": "Kucoin SWINGBY/USDT",
+        "displaySymbol": "SWINGBY/USDT",
+        "symbol": "KUCOIN:SWINGBY-USDT"
+    },
+    {
+        "description": "Kucoin BNS/USDT",
+        "displaySymbol": "BNS/USDT",
+        "symbol": "KUCOIN:BNS-USDT"
+    },
+    {
+        "description": "Kucoin MNET/USDT",
+        "displaySymbol": "MNET/USDT",
+        "symbol": "KUCOIN:MNET-USDT"
+    },
+    {
+        "description": "Kucoin KNC/ETH",
+        "displaySymbol": "KNC/ETH",
+        "symbol": "KUCOIN:KNC-ETH"
+    },
+    {
+        "description": "Kucoin DRGN/ETH",
+        "displaySymbol": "DRGN/ETH",
+        "symbol": "KUCOIN:DRGN-ETH"
+    },
+    {
+        "description": "Kucoin 2CRZ/USDT",
+        "displaySymbol": "2CRZ/USDT",
+        "symbol": "KUCOIN:2CRZ-USDT"
+    },
+    {
+        "description": "Kucoin 2CRZ/BTC",
+        "displaySymbol": "2CRZ/BTC",
+        "symbol": "KUCOIN:2CRZ-BTC"
+    },
+    {
+        "description": "Kucoin MFT/BTC",
+        "displaySymbol": "MFT/BTC",
+        "symbol": "KUCOIN:MFT-BTC"
+    },
+    {
+        "description": "Kucoin USDN/USDT",
+        "displaySymbol": "USDN/USDT",
+        "symbol": "KUCOIN:USDN-USDT"
+    },
+    {
+        "description": "Kucoin CRPT/BTC",
+        "displaySymbol": "CRPT/BTC",
+        "symbol": "KUCOIN:CRPT-BTC"
+    },
+    {
+        "description": "Kucoin TRADE/USDT",
+        "displaySymbol": "TRADE/USDT",
+        "symbol": "KUCOIN:TRADE-USDT"
+    },
+    {
+        "description": "Kucoin XVS/USDT",
+        "displaySymbol": "XVS/USDT",
+        "symbol": "KUCOIN:XVS-USDT"
+    },
+    {
+        "description": "Kucoin CHR/USDT",
+        "displaySymbol": "CHR/USDT",
+        "symbol": "KUCOIN:CHR-USDT"
+    },
+    {
+        "description": "Kucoin EOSC/USDT",
+        "displaySymbol": "EOSC/USDT",
+        "symbol": "KUCOIN:EOSC-USDT"
+    },
+    {
+        "description": "Kucoin XMR/BTC",
+        "displaySymbol": "XMR/BTC",
+        "symbol": "KUCOIN:XMR-BTC"
+    },
+    {
+        "description": "Kucoin REP/USDT",
+        "displaySymbol": "REP/USDT",
+        "symbol": "KUCOIN:REP-USDT"
+    },
+    {
+        "description": "Kucoin UNB/USDT",
+        "displaySymbol": "UNB/USDT",
+        "symbol": "KUCOIN:UNB-USDT"
+    },
+    {
+        "description": "Kucoin ADA/USDC",
+        "displaySymbol": "ADA/USDC",
+        "symbol": "KUCOIN:ADA-USDC"
+    },
+    {
+        "description": "Kucoin KMA/USDT",
+        "displaySymbol": "KMA/USDT",
+        "symbol": "KUCOIN:KMA-USDT"
+    },
+    {
+        "description": "Kucoin XMR/USDT",
+        "displaySymbol": "XMR/USDT",
+        "symbol": "KUCOIN:XMR-USDT"
+    },
+    {
+        "description": "Kucoin FKX/ETH",
+        "displaySymbol": "FKX/ETH",
+        "symbol": "KUCOIN:FKX-ETH"
+    },
+    {
+        "description": "Kucoin NANO/USDT",
+        "displaySymbol": "NANO/USDT",
+        "symbol": "KUCOIN:NANO-USDT"
+    },
+    {
+        "description": "Kucoin EQX/BTC",
+        "displaySymbol": "EQX/BTC",
+        "symbol": "KUCOIN:EQX-BTC"
+    },
+    {
+        "description": "Kucoin WAVES/BTC",
+        "displaySymbol": "WAVES/BTC",
+        "symbol": "KUCOIN:WAVES-BTC"
+    },
+    {
+        "description": "Kucoin FKX/USDT",
+        "displaySymbol": "FKX/USDT",
+        "symbol": "KUCOIN:FKX-USDT"
+    },
+    {
+        "description": "Kucoin ETH/TUSD",
+        "displaySymbol": "ETH/TUSD",
+        "symbol": "KUCOIN:ETH-TUSD"
+    },
+    {
+        "description": "Kucoin CKB/BTC",
+        "displaySymbol": "CKB/BTC",
+        "symbol": "KUCOIN:CKB-BTC"
+    },
+    {
+        "description": "Kucoin NOIA/USDT",
+        "displaySymbol": "NOIA/USDT",
+        "symbol": "KUCOIN:NOIA-USDT"
+    },
+    {
+        "description": "Kucoin TWT/BTC",
+        "displaySymbol": "TWT/BTC",
+        "symbol": "KUCOIN:TWT-BTC"
+    },
+    {
+        "description": "Kucoin CTC/BTC",
+        "displaySymbol": "CTC/BTC",
+        "symbol": "KUCOIN:CTC-BTC"
+    },
+    {
+        "description": "Kucoin CIX100/USDT",
+        "displaySymbol": "CIX100/USDT",
+        "symbol": "KUCOIN:CIX100-USDT"
+    },
+    {
+        "description": "Kucoin CS/ETH",
+        "displaySymbol": "CS/ETH",
+        "symbol": "KUCOIN:CS-ETH"
+    },
+    {
+        "description": "Kucoin LUNA/UST",
+        "displaySymbol": "LUNA/UST",
+        "symbol": "KUCOIN:LUNA-UST"
+    },
+    {
+        "description": "Kucoin HPB/BTC",
+        "displaySymbol": "HPB/BTC",
+        "symbol": "KUCOIN:HPB-BTC"
+    },
+    {
+        "description": "Kucoin SUSHI3L/USDT",
+        "displaySymbol": "SUSHI3L/USDT",
+        "symbol": "KUCOIN:SUSHI3L-USDT"
+    },
+    {
+        "description": "Kucoin DATA/USDT",
+        "displaySymbol": "DATA/USDT",
+        "symbol": "KUCOIN:DATA-USDT"
+    },
+    {
+        "description": "Kucoin ZEC/USDT",
+        "displaySymbol": "ZEC/USDT",
+        "symbol": "KUCOIN:ZEC-USDT"
+    },
+    {
+        "description": "Kucoin MLN/USDT",
+        "displaySymbol": "MLN/USDT",
+        "symbol": "KUCOIN:MLN-USDT"
+    },
+    {
+        "description": "Kucoin ZCX/USDT",
+        "displaySymbol": "ZCX/USDT",
+        "symbol": "KUCOIN:ZCX-USDT"
+    },
+    {
+        "description": "Kucoin DYP/USDT",
+        "displaySymbol": "DYP/USDT",
+        "symbol": "KUCOIN:DYP-USDT"
+    },
+    {
+        "description": "Kucoin ANT/USDT",
+        "displaySymbol": "ANT/USDT",
+        "symbol": "KUCOIN:ANT-USDT"
+    },
+    {
+        "description": "Kucoin PLGR/USDT",
+        "displaySymbol": "PLGR/USDT",
+        "symbol": "KUCOIN:PLGR-USDT"
+    },
+    {
+        "description": "Kucoin ORC/USDT",
+        "displaySymbol": "ORC/USDT",
+        "symbol": "KUCOIN:ORC-USDT"
+    },
+    {
+        "description": "Kucoin VET/USDT",
+        "displaySymbol": "VET/USDT",
+        "symbol": "KUCOIN:VET-USDT"
+    },
+    {
+        "description": "Kucoin XTM/USDT",
+        "displaySymbol": "XTM/USDT",
+        "symbol": "KUCOIN:XTM-USDT"
+    },
+    {
+        "description": "Kucoin HEGIC/USDT",
+        "displaySymbol": "HEGIC/USDT",
+        "symbol": "KUCOIN:HEGIC-USDT"
+    },
+    {
+        "description": "Kucoin SCLP/BTC",
+        "displaySymbol": "SCLP/BTC",
+        "symbol": "KUCOIN:SCLP-BTC"
+    },
+    {
+        "description": "Kucoin MAHA/BTC",
+        "displaySymbol": "MAHA/BTC",
+        "symbol": "KUCOIN:MAHA-BTC"
+    },
+    {
+        "description": "Kucoin TVK/BTC",
+        "displaySymbol": "TVK/BTC",
+        "symbol": "KUCOIN:TVK-BTC"
+    },
+    {
+        "description": "Kucoin FKX/BTC",
+        "displaySymbol": "FKX/BTC",
+        "symbol": "KUCOIN:FKX-BTC"
+    },
+    {
+        "description": "Kucoin AVAX3S/USDT",
+        "displaySymbol": "AVAX3S/USDT",
+        "symbol": "KUCOIN:AVAX3S-USDT"
+    },
+    {
+        "description": "Kucoin XTAG/USDT",
+        "displaySymbol": "XTAG/USDT",
+        "symbol": "KUCOIN:XTAG-USDT"
+    },
+    {
+        "description": "Kucoin MKR/DAI",
+        "displaySymbol": "MKR/DAI",
+        "symbol": "KUCOIN:MKR-DAI"
+    },
+    {
+        "description": "Kucoin SUSHI3S/USDT",
+        "displaySymbol": "SUSHI3S/USDT",
+        "symbol": "KUCOIN:SUSHI3S-USDT"
+    },
+    {
+        "description": "Kucoin OGN/USDT",
+        "displaySymbol": "OGN/USDT",
+        "symbol": "KUCOIN:OGN-USDT"
+    },
+    {
+        "description": "Kucoin LYXE/USDT",
+        "displaySymbol": "LYXE/USDT",
+        "symbol": "KUCOIN:LYXE-USDT"
+    },
+    {
+        "description": "Kucoin NAKA/USDT",
+        "displaySymbol": "NAKA/USDT",
+        "symbol": "KUCOIN:NAKA-USDT"
+    },
+    {
+        "description": "Kucoin WILD/USDT",
+        "displaySymbol": "WILD/USDT",
+        "symbol": "KUCOIN:WILD-USDT"
+    },
+    {
+        "description": "Kucoin KEEP/USDT",
+        "displaySymbol": "KEEP/USDT",
+        "symbol": "KUCOIN:KEEP-USDT"
+    },
+    {
+        "description": "Kucoin REN/USDT",
+        "displaySymbol": "REN/USDT",
+        "symbol": "KUCOIN:REN-USDT"
+    },
+    {
+        "description": "Kucoin MANA/BTC",
+        "displaySymbol": "MANA/BTC",
+        "symbol": "KUCOIN:MANA-BTC"
+    },
+    {
+        "description": "Kucoin OCEAN/ETH",
+        "displaySymbol": "OCEAN/ETH",
+        "symbol": "KUCOIN:OCEAN-ETH"
+    },
+    {
+        "description": "Kucoin ORBS/USDT",
+        "displaySymbol": "ORBS/USDT",
+        "symbol": "KUCOIN:ORBS-USDT"
+    },
+    {
+        "description": "Kucoin EGLD/BTC",
+        "displaySymbol": "EGLD/BTC",
+        "symbol": "KUCOIN:EGLD-BTC"
+    },
+    {
+        "description": "Kucoin DOT3L/USDT",
+        "displaySymbol": "DOT3L/USDT",
+        "symbol": "KUCOIN:DOT3L-USDT"
+    },
+    {
+        "description": "Kucoin WNXM/BTC",
+        "displaySymbol": "WNXM/BTC",
+        "symbol": "KUCOIN:WNXM-BTC"
+    },
+    {
+        "description": "Kucoin AERGO/USDT",
+        "displaySymbol": "AERGO/USDT",
+        "symbol": "KUCOIN:AERGO-USDT"
+    },
+    {
+        "description": "Kucoin MTL/BTC",
+        "displaySymbol": "MTL/BTC",
+        "symbol": "KUCOIN:MTL-BTC"
+    },
+    {
+        "description": "Kucoin HT/USDT",
+        "displaySymbol": "HT/USDT",
+        "symbol": "KUCOIN:HT-USDT"
+    },
+    {
+        "description": "Kucoin ANKR/BTC",
+        "displaySymbol": "ANKR/BTC",
+        "symbol": "KUCOIN:ANKR-BTC"
+    },
+    {
+        "description": "Kucoin VRA/BTC",
+        "displaySymbol": "VRA/BTC",
+        "symbol": "KUCOIN:VRA-BTC"
+    },
+    {
+        "description": "Kucoin INJ/USDT",
+        "displaySymbol": "INJ/USDT",
+        "symbol": "KUCOIN:INJ-USDT"
+    },
+    {
+        "description": "Kucoin ETC/USDT",
+        "displaySymbol": "ETC/USDT",
+        "symbol": "KUCOIN:ETC-USDT"
+    },
+    {
+        "description": "Kucoin NTVRK/USDC",
+        "displaySymbol": "NTVRK/USDC",
+        "symbol": "KUCOIN:NTVRK-USDC"
+    },
+    {
+        "description": "Kucoin SKU/USDT",
+        "displaySymbol": "SKU/USDT",
+        "symbol": "KUCOIN:SKU-USDT"
+    },
+    {
+        "description": "Kucoin TOMO/BTC",
+        "displaySymbol": "TOMO/BTC",
+        "symbol": "KUCOIN:TOMO-BTC"
+    },
+    {
+        "description": "Kucoin POWR/BTC",
+        "displaySymbol": "POWR/BTC",
+        "symbol": "KUCOIN:POWR-BTC"
+    },
+    {
+        "description": "Kucoin VID/BTC",
+        "displaySymbol": "VID/BTC",
+        "symbol": "KUCOIN:VID-BTC"
+    },
+    {
+        "description": "Kucoin ONT/BTC",
+        "displaySymbol": "ONT/BTC",
+        "symbol": "KUCOIN:ONT-BTC"
+    },
+    {
+        "description": "Kucoin EFX/BTC",
+        "displaySymbol": "EFX/BTC",
+        "symbol": "KUCOIN:EFX-BTC"
+    },
+    {
+        "description": "Kucoin ORAI/USDT",
+        "displaySymbol": "ORAI/USDT",
+        "symbol": "KUCOIN:ORAI-USDT"
+    },
+    {
+        "description": "Kucoin AAVE3L/USDT",
+        "displaySymbol": "AAVE3L/USDT",
+        "symbol": "KUCOIN:AAVE3L-USDT"
+    },
+    {
+        "description": "Kucoin FTT/USDT",
+        "displaySymbol": "FTT/USDT",
+        "symbol": "KUCOIN:FTT-USDT"
+    },
+    {
+        "description": "Kucoin BAX/ETH",
+        "displaySymbol": "BAX/ETH",
+        "symbol": "KUCOIN:BAX-ETH"
+    },
+    {
+        "description": "Kucoin BURGER/USDT",
+        "displaySymbol": "BURGER/USDT",
+        "symbol": "KUCOIN:BURGER-USDT"
+    },
+    {
+        "description": "Kucoin EOS/USDT",
+        "displaySymbol": "EOS/USDT",
+        "symbol": "KUCOIN:EOS-USDT"
+    },
+    {
+        "description": "Kucoin CREAM/BTC",
+        "displaySymbol": "CREAM/BTC",
+        "symbol": "KUCOIN:CREAM-BTC"
+    },
+    {
+        "description": "Kucoin AGIX/ETH",
+        "displaySymbol": "AGIX/ETH",
+        "symbol": "KUCOIN:AGIX-ETH"
+    },
+    {
+        "description": "Kucoin POWR/ETH",
+        "displaySymbol": "POWR/ETH",
+        "symbol": "KUCOIN:POWR-ETH"
+    },
+    {
+        "description": "Kucoin BNS/BTC",
+        "displaySymbol": "BNS/BTC",
+        "symbol": "KUCOIN:BNS-BTC"
+    },
+    {
+        "description": "Kucoin DEGO/ETH",
+        "displaySymbol": "DEGO/ETH",
+        "symbol": "KUCOIN:DEGO-ETH"
+    },
+    {
+        "description": "Kucoin GGG/USDT",
+        "displaySymbol": "GGG/USDT",
+        "symbol": "KUCOIN:GGG-USDT"
+    },
+    {
+        "description": "Kucoin STX/BTC",
+        "displaySymbol": "STX/BTC",
+        "symbol": "KUCOIN:STX-BTC"
+    },
+    {
+        "description": "Kucoin SNTVT/ETH",
+        "displaySymbol": "SNTVT/ETH",
+        "symbol": "KUCOIN:SNTVT-ETH"
+    },
+    {
+        "description": "Kucoin FORESTPLUS/BTC",
+        "displaySymbol": "FORESTPLUS/BTC",
+        "symbol": "KUCOIN:FORESTPLUS-BTC"
+    },
+    {
+        "description": "Kucoin OLT/BTC",
+        "displaySymbol": "OLT/BTC",
+        "symbol": "KUCOIN:OLT-BTC"
+    },
+    {
+        "description": "Kucoin GMB/USDT",
+        "displaySymbol": "GMB/USDT",
+        "symbol": "KUCOIN:GMB-USDT"
+    },
+    {
+        "description": "Kucoin ARX/USDT",
+        "displaySymbol": "ARX/USDT",
+        "symbol": "KUCOIN:ARX-USDT"
+    },
+    {
+        "description": "Kucoin BTC/TUSD",
+        "displaySymbol": "BTC/TUSD",
+        "symbol": "KUCOIN:BTC-TUSD"
+    },
+    {
+        "description": "Kucoin OPCT/BTC",
+        "displaySymbol": "OPCT/BTC",
+        "symbol": "KUCOIN:OPCT-BTC"
+    },
+    {
+        "description": "Kucoin VET3L/USDT",
+        "displaySymbol": "VET3L/USDT",
+        "symbol": "KUCOIN:VET3L-USDT"
+    },
+    {
+        "description": "Kucoin DORA/USDT",
+        "displaySymbol": "DORA/USDT",
+        "symbol": "KUCOIN:DORA-USDT"
+    },
+    {
+        "description": "Kucoin CAKE/USDT",
+        "displaySymbol": "CAKE/USDT",
+        "symbol": "KUCOIN:CAKE-USDT"
+    },
+    {
+        "description": "Kucoin BNT/BTC",
+        "displaySymbol": "BNT/BTC",
+        "symbol": "KUCOIN:BNT-BTC"
+    },
+    {
+        "description": "Kucoin WOM/USDT",
+        "displaySymbol": "WOM/USDT",
+        "symbol": "KUCOIN:WOM-USDT"
+    },
+    {
+        "description": "Kucoin KLAY/USDT",
+        "displaySymbol": "KLAY/USDT",
+        "symbol": "KUCOIN:KLAY-USDT"
+    },
+    {
+        "description": "Kucoin HTR/USDT",
+        "displaySymbol": "HTR/USDT",
+        "symbol": "KUCOIN:HTR-USDT"
+    },
+    {
+        "description": "Kucoin CTSI/BTC",
+        "displaySymbol": "CTSI/BTC",
+        "symbol": "KUCOIN:CTSI-BTC"
+    },
+    {
+        "description": "Kucoin BCHA/USDT",
+        "displaySymbol": "BCHA/USDT",
+        "symbol": "KUCOIN:BCHA-USDT"
+    },
+    {
+        "description": "Kucoin ISP/USDT",
+        "displaySymbol": "ISP/USDT",
+        "symbol": "KUCOIN:ISP-USDT"
+    },
+    {
+        "description": "Kucoin NIM/BTC",
+        "displaySymbol": "NIM/BTC",
+        "symbol": "KUCOIN:NIM-BTC"
+    },
+    {
+        "description": "Kucoin STC/BTC",
+        "displaySymbol": "STC/BTC",
+        "symbol": "KUCOIN:STC-BTC"
+    },
+    {
+        "description": "Kucoin TEL/ETH",
+        "displaySymbol": "TEL/ETH",
+        "symbol": "KUCOIN:TEL-ETH"
+    },
+    {
+        "description": "Kucoin GLCH/USDT",
+        "displaySymbol": "GLCH/USDT",
+        "symbol": "KUCOIN:GLCH-USDT"
+    },
+    {
+        "description": "Kucoin WBTC/ETH",
+        "displaySymbol": "WBTC/ETH",
+        "symbol": "KUCOIN:WBTC-ETH"
+    },
+    {
+        "description": "Kucoin BCHSV/KCS",
+        "displaySymbol": "BCHSV/KCS",
+        "symbol": "KUCOIN:BCHSV-KCS"
+    },
+    {
+        "description": "Kucoin VR/USDT",
+        "displaySymbol": "VR/USDT",
+        "symbol": "KUCOIN:VR-USDT"
+    },
+    {
+        "description": "Kucoin VLX/BTC",
+        "displaySymbol": "VLX/BTC",
+        "symbol": "KUCOIN:VLX-BTC"
+    },
+    {
+        "description": "Kucoin XLM/BTC",
+        "displaySymbol": "XLM/BTC",
+        "symbol": "KUCOIN:XLM-BTC"
+    },
+    {
+        "description": "Kucoin SAND3L/USDT",
+        "displaySymbol": "SAND3L/USDT",
+        "symbol": "KUCOIN:SAND3L-USDT"
+    },
+    {
+        "description": "Kucoin LAYER/BTC",
+        "displaySymbol": "LAYER/BTC",
+        "symbol": "KUCOIN:LAYER-BTC"
+    },
+    {
+        "description": "Kucoin COMB/USDT",
+        "displaySymbol": "COMB/USDT",
+        "symbol": "KUCOIN:COMB-USDT"
+    },
+    {
+        "description": "Kucoin RNDR/BTC",
+        "displaySymbol": "RNDR/BTC",
+        "symbol": "KUCOIN:RNDR-BTC"
+    },
+    {
+        "description": "Kucoin DIVI/USDT",
+        "displaySymbol": "DIVI/USDT",
+        "symbol": "KUCOIN:DIVI-USDT"
+    },
+    {
+        "description": "Kucoin XHV/BTC",
+        "displaySymbol": "XHV/BTC",
+        "symbol": "KUCOIN:XHV-BTC"
+    },
+    {
+        "description": "Kucoin GLMR/USDT",
+        "displaySymbol": "GLMR/USDT",
+        "symbol": "KUCOIN:GLMR-USDT"
+    },
+    {
+        "description": "Kucoin RLY/USDT",
+        "displaySymbol": "RLY/USDT",
+        "symbol": "KUCOIN:RLY-USDT"
+    },
+    {
+        "description": "Kucoin OOKI/USDT",
+        "displaySymbol": "OOKI/USDT",
+        "symbol": "KUCOIN:OOKI-USDT"
+    },
+    {
+        "description": "Kucoin KCS/BTC",
+        "displaySymbol": "KCS/BTC",
+        "symbol": "KUCOIN:KCS-BTC"
+    },
+    {
+        "description": "Kucoin FORM/ETH",
+        "displaySymbol": "FORM/ETH",
+        "symbol": "KUCOIN:FORM-ETH"
+    },
+    {
+        "description": "Kucoin MAP/USDT",
+        "displaySymbol": "MAP/USDT",
+        "symbol": "KUCOIN:MAP-USDT"
+    },
+    {
+        "description": "Kucoin DIA/BTC",
+        "displaySymbol": "DIA/BTC",
+        "symbol": "KUCOIN:DIA-BTC"
+    },
+    {
+        "description": "Kucoin LTX/BTC",
+        "displaySymbol": "LTX/BTC",
+        "symbol": "KUCOIN:LTX-BTC"
+    },
+    {
+        "description": "Kucoin BCD/BTC",
+        "displaySymbol": "BCD/BTC",
+        "symbol": "KUCOIN:BCD-BTC"
+    },
+    {
+        "description": "Kucoin USDC/USDT",
+        "displaySymbol": "USDC/USDT",
+        "symbol": "KUCOIN:USDC-USDT"
+    },
+    {
+        "description": "Kucoin SRM/BTC",
+        "displaySymbol": "SRM/BTC",
+        "symbol": "KUCOIN:SRM-BTC"
+    },
+    {
+        "description": "Kucoin QI/BTC",
+        "displaySymbol": "QI/BTC",
+        "symbol": "KUCOIN:QI-BTC"
+    },
+    {
+        "description": "Kucoin NFTB/USDT",
+        "displaySymbol": "NFTB/USDT",
+        "symbol": "KUCOIN:NFTB-USDT"
+    },
+    {
+        "description": "Kucoin BMON/USDT",
+        "displaySymbol": "BMON/USDT",
+        "symbol": "KUCOIN:BMON-USDT"
+    },
+    {
+        "description": "Kucoin KCS/USDT",
+        "displaySymbol": "KCS/USDT",
+        "symbol": "KUCOIN:KCS-USDT"
+    },
+    {
+        "description": "Kucoin SHFT/BTC",
+        "displaySymbol": "SHFT/BTC",
+        "symbol": "KUCOIN:SHFT-BTC"
+    },
+    {
+        "description": "Kucoin TONE/BTC",
+        "displaySymbol": "TONE/BTC",
+        "symbol": "KUCOIN:TONE-BTC"
+    },
+    {
+        "description": "Kucoin POLC/USDT",
+        "displaySymbol": "POLC/USDT",
+        "symbol": "KUCOIN:POLC-USDT"
+    },
+    {
+        "description": "Kucoin SRK/USDT",
+        "displaySymbol": "SRK/USDT",
+        "symbol": "KUCOIN:SRK-USDT"
+    },
+    {
+        "description": "Kucoin XCUR/BTC",
+        "displaySymbol": "XCUR/BTC",
+        "symbol": "KUCOIN:XCUR-BTC"
+    },
+    {
+        "description": "Kucoin QUICK/USDT",
+        "displaySymbol": "QUICK/USDT",
+        "symbol": "KUCOIN:QUICK-USDT"
+    },
+    {
+        "description": "Kucoin XRP/KCS",
+        "displaySymbol": "XRP/KCS",
+        "symbol": "KUCOIN:XRP-KCS"
+    },
+    {
+        "description": "Kucoin UNIC/USDT",
+        "displaySymbol": "UNIC/USDT",
+        "symbol": "KUCOIN:UNIC-USDT"
+    },
+    {
+        "description": "Kucoin OOKI/BTC",
+        "displaySymbol": "OOKI/BTC",
+        "symbol": "KUCOIN:OOKI-BTC"
+    },
+    {
+        "description": "Kucoin TLM/ETH",
+        "displaySymbol": "TLM/ETH",
+        "symbol": "KUCOIN:TLM-ETH"
+    },
+    {
+        "description": "Kucoin VIDT/USDT",
+        "displaySymbol": "VIDT/USDT",
+        "symbol": "KUCOIN:VIDT-USDT"
+    },
+    {
+        "description": "Kucoin REQ/USDT",
+        "displaySymbol": "REQ/USDT",
+        "symbol": "KUCOIN:REQ-USDT"
+    },
+    {
+        "description": "Kucoin ROSN/USDT",
+        "displaySymbol": "ROSN/USDT",
+        "symbol": "KUCOIN:ROSN-USDT"
+    },
+    {
+        "description": "Kucoin ERG/USDT",
+        "displaySymbol": "ERG/USDT",
+        "symbol": "KUCOIN:ERG-USDT"
+    },
+    {
+        "description": "Kucoin AMPL/ETH",
+        "displaySymbol": "AMPL/ETH",
+        "symbol": "KUCOIN:AMPL-ETH"
+    },
+    {
+        "description": "Kucoin UDOO/ETH",
+        "displaySymbol": "UDOO/ETH",
+        "symbol": "KUCOIN:UDOO-ETH"
+    },
+    {
+        "description": "Kucoin ENJ/BTC",
+        "displaySymbol": "ENJ/BTC",
+        "symbol": "KUCOIN:ENJ-BTC"
+    },
+    {
+        "description": "Kucoin FCL/ETH",
+        "displaySymbol": "FCL/ETH",
+        "symbol": "KUCOIN:FCL-ETH"
+    },
+    {
+        "description": "Kucoin UMA/USDT",
+        "displaySymbol": "UMA/USDT",
+        "symbol": "KUCOIN:UMA-USDT"
+    },
+    {
+        "description": "Kucoin SHR/BTC",
+        "displaySymbol": "SHR/BTC",
+        "symbol": "KUCOIN:SHR-BTC"
+    },
+    {
+        "description": "Kucoin SUPER/USDT",
+        "displaySymbol": "SUPER/USDT",
+        "symbol": "KUCOIN:SUPER-USDT"
+    },
+    {
+        "description": "Kucoin DPET/USDT",
+        "displaySymbol": "DPET/USDT",
+        "symbol": "KUCOIN:DPET-USDT"
+    },
+    {
+        "description": "Kucoin JAR/USDT",
+        "displaySymbol": "JAR/USDT",
+        "symbol": "KUCOIN:JAR-USDT"
+    },
+    {
+        "description": "Kucoin SFP/USDT",
+        "displaySymbol": "SFP/USDT",
+        "symbol": "KUCOIN:SFP-USDT"
+    },
+    {
+        "description": "Kucoin OOE/USDT",
+        "displaySymbol": "OOE/USDT",
+        "symbol": "KUCOIN:OOE-USDT"
+    },
+    {
+        "description": "Kucoin DCR/BTC",
+        "displaySymbol": "DCR/BTC",
+        "symbol": "KUCOIN:DCR-BTC"
+    },
+    {
+        "description": "Kucoin SHA/USDT",
+        "displaySymbol": "SHA/USDT",
+        "symbol": "KUCOIN:SHA-USDT"
+    },
+    {
+        "description": "Kucoin KSM/BTC",
+        "displaySymbol": "KSM/BTC",
+        "symbol": "KUCOIN:KSM-BTC"
+    },
+    {
+        "description": "Kucoin DAG/BTC",
+        "displaySymbol": "DAG/BTC",
+        "symbol": "KUCOIN:DAG-BTC"
+    },
+    {
+        "description": "Kucoin PPT/ETH",
+        "displaySymbol": "PPT/ETH",
+        "symbol": "KUCOIN:PPT-ETH"
+    },
+    {
+        "description": "Kucoin CHSB/ETH",
+        "displaySymbol": "CHSB/ETH",
+        "symbol": "KUCOIN:CHSB-ETH"
+    },
+    {
+        "description": "Kucoin ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "KUCOIN:ETH-BTC"
+    },
+    {
+        "description": "Kucoin BTC3L/USDT",
+        "displaySymbol": "BTC3L/USDT",
+        "symbol": "KUCOIN:BTC3L-USDT"
+    },
+    {
+        "description": "Kucoin ZRX/ETH",
+        "displaySymbol": "ZRX/ETH",
+        "symbol": "KUCOIN:ZRX-ETH"
+    },
+    {
+        "description": "Kucoin DEXE/ETH",
+        "displaySymbol": "DEXE/ETH",
+        "symbol": "KUCOIN:DEXE-ETH"
+    },
+    {
+        "description": "Kucoin ZORT/USDT",
+        "displaySymbol": "ZORT/USDT",
+        "symbol": "KUCOIN:ZORT-USDT"
+    },
+    {
+        "description": "Kucoin JAR/BTC",
+        "displaySymbol": "JAR/BTC",
+        "symbol": "KUCOIN:JAR-BTC"
+    },
+    {
+        "description": "Kucoin XLM/KCS",
+        "displaySymbol": "XLM/KCS",
+        "symbol": "KUCOIN:XLM-KCS"
+    },
+    {
+        "description": "Kucoin TEL/USDT",
+        "displaySymbol": "TEL/USDT",
+        "symbol": "KUCOIN:TEL-USDT"
+    },
+    {
+        "description": "Kucoin NEO/ETH",
+        "displaySymbol": "NEO/ETH",
+        "symbol": "KUCOIN:NEO-ETH"
+    },
+    {
+        "description": "Kucoin FRR/USDT",
+        "displaySymbol": "FRR/USDT",
+        "symbol": "KUCOIN:FRR-USDT"
+    },
+    {
+        "description": "Kucoin XRP3L/USDT",
+        "displaySymbol": "XRP3L/USDT",
+        "symbol": "KUCOIN:XRP3L-USDT"
+    },
+    {
+        "description": "Kucoin ANT/BTC",
+        "displaySymbol": "ANT/BTC",
+        "symbol": "KUCOIN:ANT-BTC"
+    },
+    {
+        "description": "Kucoin TOKO/USDT",
+        "displaySymbol": "TOKO/USDT",
+        "symbol": "KUCOIN:TOKO-USDT"
+    },
+    {
+        "description": "Kucoin AERGO/BTC",
+        "displaySymbol": "AERGO/BTC",
+        "symbol": "KUCOIN:AERGO-BTC"
+    },
+    {
+        "description": "Kucoin TOKO/BTC",
+        "displaySymbol": "TOKO/BTC",
+        "symbol": "KUCOIN:TOKO-BTC"
+    },
+    {
+        "description": "Kucoin H3RO3S/USDT",
+        "displaySymbol": "H3RO3S/USDT",
+        "symbol": "KUCOIN:H3RO3S-USDT"
+    },
+    {
+        "description": "Kucoin DOGE/KCS",
+        "displaySymbol": "DOGE/KCS",
+        "symbol": "KUCOIN:DOGE-KCS"
+    },
+    {
+        "description": "Kucoin QNT/USDT",
+        "displaySymbol": "QNT/USDT",
+        "symbol": "KUCOIN:QNT-USDT"
+    },
+    {
+        "description": "Kucoin DGB/USDT",
+        "displaySymbol": "DGB/USDT",
+        "symbol": "KUCOIN:DGB-USDT"
+    },
+    {
+        "description": "Kucoin FET/ETH",
+        "displaySymbol": "FET/ETH",
+        "symbol": "KUCOIN:FET-ETH"
+    },
+    {
+        "description": "Kucoin AVA/USDT",
+        "displaySymbol": "AVA/USDT",
+        "symbol": "KUCOIN:AVA-USDT"
+    },
+    {
+        "description": "Kucoin CERE/USDT",
+        "displaySymbol": "CERE/USDT",
+        "symbol": "KUCOIN:CERE-USDT"
+    },
+    {
+        "description": "Kucoin PBX/USDT",
+        "displaySymbol": "PBX/USDT",
+        "symbol": "KUCOIN:PBX-USDT"
+    },
+    {
+        "description": "Kucoin UBX/ETH",
+        "displaySymbol": "UBX/ETH",
+        "symbol": "KUCOIN:UBX-ETH"
+    },
+    {
+        "description": "Kucoin ALBT/ETH",
+        "displaySymbol": "ALBT/ETH",
+        "symbol": "KUCOIN:ALBT-ETH"
+    },
+    {
+        "description": "Kucoin ATA/BTC",
+        "displaySymbol": "ATA/BTC",
+        "symbol": "KUCOIN:ATA-BTC"
+    },
+    {
+        "description": "Kucoin ZCX/BTC",
+        "displaySymbol": "ZCX/BTC",
+        "symbol": "KUCOIN:ZCX-BTC"
+    },
+    {
+        "description": "Kucoin CARR/USDT",
+        "displaySymbol": "CARR/USDT",
+        "symbol": "KUCOIN:CARR-USDT"
+    },
+    {
+        "description": "Kucoin CPOOL/USDT",
+        "displaySymbol": "CPOOL/USDT",
+        "symbol": "KUCOIN:CPOOL-USDT"
+    },
+    {
+        "description": "Kucoin TLOS/BTC",
+        "displaySymbol": "TLOS/BTC",
+        "symbol": "KUCOIN:TLOS-BTC"
+    },
+    {
+        "description": "Kucoin PIVX/ETH",
+        "displaySymbol": "PIVX/ETH",
+        "symbol": "KUCOIN:PIVX-ETH"
+    },
+    {
+        "description": "Kucoin AAVE3S/USDT",
+        "displaySymbol": "AAVE3S/USDT",
+        "symbol": "KUCOIN:AAVE3S-USDT"
+    },
+    {
+        "description": "Kucoin AAVE/KCS",
+        "displaySymbol": "AAVE/KCS",
+        "symbol": "KUCOIN:AAVE-KCS"
+    },
+    {
+        "description": "Kucoin WAN/BTC",
+        "displaySymbol": "WAN/BTC",
+        "symbol": "KUCOIN:WAN-BTC"
+    },
+    {
+        "description": "Kucoin MTV/USDT",
+        "displaySymbol": "MTV/USDT",
+        "symbol": "KUCOIN:MTV-USDT"
+    },
+    {
+        "description": "Kucoin DAPPX/USDT",
+        "displaySymbol": "DAPPX/USDT",
+        "symbol": "KUCOIN:DAPPX-USDT"
+    },
+    {
+        "description": "Kucoin ETH/PAX",
+        "displaySymbol": "ETH/PAX",
+        "symbol": "KUCOIN:ETH-PAX"
+    },
+    {
+        "description": "Kucoin XTZ/KCS",
+        "displaySymbol": "XTZ/KCS",
+        "symbol": "KUCOIN:XTZ-KCS"
+    },
+    {
+        "description": "Kucoin ROUTE/USDT",
+        "displaySymbol": "ROUTE/USDT",
+        "symbol": "KUCOIN:ROUTE-USDT"
+    },
+    {
+        "description": "Kucoin MLK/BTC",
+        "displaySymbol": "MLK/BTC",
+        "symbol": "KUCOIN:MLK-BTC"
+    },
+    {
+        "description": "Kucoin SNT/BTC",
+        "displaySymbol": "SNT/BTC",
+        "symbol": "KUCOIN:SNT-BTC"
+    },
+    {
+        "description": "Kucoin ILV/USDT",
+        "displaySymbol": "ILV/USDT",
+        "symbol": "KUCOIN:ILV-USDT"
+    },
+    {
+        "description": "Kucoin ERN/BTC",
+        "displaySymbol": "ERN/BTC",
+        "symbol": "KUCOIN:ERN-BTC"
+    },
+    {
+        "description": "Kucoin BNT/USDT",
+        "displaySymbol": "BNT/USDT",
+        "symbol": "KUCOIN:BNT-USDT"
+    },
+    {
+        "description": "Kucoin TLM/BTC",
+        "displaySymbol": "TLM/BTC",
+        "symbol": "KUCOIN:TLM-BTC"
+    },
+    {
+        "description": "Kucoin BAND/BTC",
+        "displaySymbol": "BAND/BTC",
+        "symbol": "KUCOIN:BAND-BTC"
+    },
+    {
+        "description": "Kucoin CELO/USDT",
+        "displaySymbol": "CELO/USDT",
+        "symbol": "KUCOIN:CELO-USDT"
+    },
+    {
+        "description": "Kucoin VEED/BTC",
+        "displaySymbol": "VEED/BTC",
+        "symbol": "KUCOIN:VEED-BTC"
+    },
+    {
+        "description": "Kucoin BAND/USDT",
+        "displaySymbol": "BAND/USDT",
+        "symbol": "KUCOIN:BAND-USDT"
+    },
+    {
+        "description": "Kucoin FTG/USDT",
+        "displaySymbol": "FTG/USDT",
+        "symbol": "KUCOIN:FTG-USDT"
+    },
+    {
+        "description": "Kucoin SOV/USDT",
+        "displaySymbol": "SOV/USDT",
+        "symbol": "KUCOIN:SOV-USDT"
+    },
+    {
+        "description": "Kucoin LOCG/USDT",
+        "displaySymbol": "LOCG/USDT",
+        "symbol": "KUCOIN:LOCG-USDT"
+    },
+    {
+        "description": "Kucoin BAX/USDT",
+        "displaySymbol": "BAX/USDT",
+        "symbol": "KUCOIN:BAX-USDT"
+    },
+    {
+        "description": "Kucoin DASH/ETH",
+        "displaySymbol": "DASH/ETH",
+        "symbol": "KUCOIN:DASH-ETH"
+    },
+    {
+        "description": "Kucoin MVP/ETH",
+        "displaySymbol": "MVP/ETH",
+        "symbol": "KUCOIN:MVP-ETH"
+    },
+    {
+        "description": "Kucoin LYXE/ETH",
+        "displaySymbol": "LYXE/ETH",
+        "symbol": "KUCOIN:LYXE-ETH"
+    },
+    {
+        "description": "Kucoin WNCG/USDT",
+        "displaySymbol": "WNCG/USDT",
+        "symbol": "KUCOIN:WNCG-USDT"
+    },
+    {
+        "description": "Kucoin LINK/BTC",
+        "displaySymbol": "LINK/BTC",
+        "symbol": "KUCOIN:LINK-BTC"
+    },
+    {
+        "description": "Kucoin ASD/USDT",
+        "displaySymbol": "ASD/USDT",
+        "symbol": "KUCOIN:ASD-USDT"
+    },
+    {
+        "description": "Kucoin BCH/KCS",
+        "displaySymbol": "BCH/KCS",
+        "symbol": "KUCOIN:BCH-KCS"
+    },
+    {
+        "description": "Kucoin SWASH/USDT",
+        "displaySymbol": "SWASH/USDT",
+        "symbol": "KUCOIN:SWASH-USDT"
+    },
+    {
+        "description": "Kucoin ELF/ETH",
+        "displaySymbol": "ELF/ETH",
+        "symbol": "KUCOIN:ELF-ETH"
+    },
+    {
+        "description": "Kucoin CLH/USDT",
+        "displaySymbol": "CLH/USDT",
+        "symbol": "KUCOIN:CLH-USDT"
+    },
+    {
+        "description": "Kucoin LYM/ETH",
+        "displaySymbol": "LYM/ETH",
+        "symbol": "KUCOIN:LYM-ETH"
+    },
+    {
+        "description": "Kucoin SOUL/BTC",
+        "displaySymbol": "SOUL/BTC",
+        "symbol": "KUCOIN:SOUL-BTC"
+    },
+    {
+        "description": "Kucoin LOOM/ETH",
+        "displaySymbol": "LOOM/ETH",
+        "symbol": "KUCOIN:LOOM-ETH"
+    },
+    {
+        "description": "Kucoin DERO/BTC",
+        "displaySymbol": "DERO/BTC",
+        "symbol": "KUCOIN:DERO-BTC"
+    },
+    {
+        "description": "Kucoin SUSD/ETH",
+        "displaySymbol": "SUSD/ETH",
+        "symbol": "KUCOIN:SUSD-ETH"
+    },
+    {
+        "description": "Kucoin APL/USDT",
+        "displaySymbol": "APL/USDT",
+        "symbol": "KUCOIN:APL-USDT"
+    },
+    {
+        "description": "Kucoin NKN/USDT",
+        "displaySymbol": "NKN/USDT",
+        "symbol": "KUCOIN:NKN-USDT"
+    },
+    {
+        "description": "Kucoin FET/BTC",
+        "displaySymbol": "FET/BTC",
+        "symbol": "KUCOIN:FET-BTC"
+    },
+    {
+        "description": "Kucoin ETN/USDT",
+        "displaySymbol": "ETN/USDT",
+        "symbol": "KUCOIN:ETN-USDT"
+    },
+    {
+        "description": "Kucoin TRAC/BTC",
+        "displaySymbol": "TRAC/BTC",
+        "symbol": "KUCOIN:TRAC-BTC"
+    },
+    {
+        "description": "Kucoin ARRR/USDT",
+        "displaySymbol": "ARRR/USDT",
+        "symbol": "KUCOIN:ARRR-USDT"
+    },
+    {
+        "description": "Kucoin TIME/ETH",
+        "displaySymbol": "TIME/ETH",
+        "symbol": "KUCOIN:TIME-ETH"
+    },
+    {
+        "description": "Kucoin WEST/USDT",
+        "displaySymbol": "WEST/USDT",
+        "symbol": "KUCOIN:WEST-USDT"
+    },
+    {
+        "description": "Kucoin ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "KUCOIN:ETH-USDC"
+    },
+    {
+        "description": "Kucoin FX/ETH",
+        "displaySymbol": "FX/ETH",
+        "symbol": "KUCOIN:FX-ETH"
+    },
+    {
+        "description": "Kucoin ALGO/ETH",
+        "displaySymbol": "ALGO/ETH",
+        "symbol": "KUCOIN:ALGO-ETH"
+    },
+    {
+        "description": "Kucoin OXT/USDT",
+        "displaySymbol": "OXT/USDT",
+        "symbol": "KUCOIN:OXT-USDT"
+    },
+    {
+        "description": "Kucoin CBC/USDT",
+        "displaySymbol": "CBC/USDT",
+        "symbol": "KUCOIN:CBC-USDT"
+    },
+    {
+        "description": "Kucoin CUDOS/BTC",
+        "displaySymbol": "CUDOS/BTC",
+        "symbol": "KUCOIN:CUDOS-BTC"
+    },
+    {
+        "description": "Kucoin AURY/USDT",
+        "displaySymbol": "AURY/USDT",
+        "symbol": "KUCOIN:AURY-USDT"
+    },
+    {
+        "description": "Kucoin SNX/ETH",
+        "displaySymbol": "SNX/ETH",
+        "symbol": "KUCOIN:SNX-ETH"
+    },
+    {
+        "description": "Kucoin SDAO/USDT",
+        "displaySymbol": "SDAO/USDT",
+        "symbol": "KUCOIN:SDAO-USDT"
+    },
+    {
+        "description": "Kucoin STND/ETH",
+        "displaySymbol": "STND/ETH",
+        "symbol": "KUCOIN:STND-ETH"
+    },
+    {
+        "description": "Kucoin HAI/USDT",
+        "displaySymbol": "HAI/USDT",
+        "symbol": "KUCOIN:HAI-USDT"
+    },
+    {
+        "description": "Kucoin TONE/ETH",
+        "displaySymbol": "TONE/ETH",
+        "symbol": "KUCOIN:TONE-ETH"
+    },
+    {
+        "description": "Kucoin HYVE/USDT",
+        "displaySymbol": "HYVE/USDT",
+        "symbol": "KUCOIN:HYVE-USDT"
+    },
+    {
+        "description": "Kucoin HNT/USDT",
+        "displaySymbol": "HNT/USDT",
+        "symbol": "KUCOIN:HNT-USDT"
+    },
+    {
+        "description": "Kucoin TWT/USDT",
+        "displaySymbol": "TWT/USDT",
+        "symbol": "KUCOIN:TWT-USDT"
+    },
+    {
+        "description": "Kucoin LTO/USDT",
+        "displaySymbol": "LTO/USDT",
+        "symbol": "KUCOIN:LTO-USDT"
+    },
+    {
+        "description": "Kucoin EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "KUCOIN:EOS-ETH"
+    },
+    {
+        "description": "Kucoin WNXM/USDT",
+        "displaySymbol": "WNXM/USDT",
+        "symbol": "KUCOIN:WNXM-USDT"
+    },
+    {
+        "description": "Kucoin CHZ/USDT",
+        "displaySymbol": "CHZ/USDT",
+        "symbol": "KUCOIN:CHZ-USDT"
+    },
+    {
+        "description": "Kucoin XDB/USDT",
+        "displaySymbol": "XDB/USDT",
+        "symbol": "KUCOIN:XDB-USDT"
+    },
+    {
+        "description": "Kucoin EDG/USDT",
+        "displaySymbol": "EDG/USDT",
+        "symbol": "KUCOIN:EDG-USDT"
+    },
+    {
+        "description": "Kucoin KEEP/BTC",
+        "displaySymbol": "KEEP/BTC",
+        "symbol": "KUCOIN:KEEP-BTC"
+    },
+    {
+        "description": "Kucoin XYM/USDT",
+        "displaySymbol": "XYM/USDT",
+        "symbol": "KUCOIN:XYM-USDT"
+    },
+    {
+        "description": "Kucoin 1INCH/USDT",
+        "displaySymbol": "1INCH/USDT",
+        "symbol": "KUCOIN:1INCH-USDT"
+    },
+    {
+        "description": "Kucoin WXT/BTC",
+        "displaySymbol": "WXT/BTC",
+        "symbol": "KUCOIN:WXT-BTC"
+    },
+    {
+        "description": "Kucoin ZEN/USDT",
+        "displaySymbol": "ZEN/USDT",
+        "symbol": "KUCOIN:ZEN-USDT"
+    },
+    {
+        "description": "Kucoin USDJ/USDT",
+        "displaySymbol": "USDJ/USDT",
+        "symbol": "KUCOIN:USDJ-USDT"
+    },
+    {
+        "description": "Kucoin OMG/ETH",
+        "displaySymbol": "OMG/ETH",
+        "symbol": "KUCOIN:OMG-ETH"
+    },
+    {
+        "description": "Kucoin CAS/USDT",
+        "displaySymbol": "CAS/USDT",
+        "symbol": "KUCOIN:CAS-USDT"
+    },
+    {
+        "description": "Kucoin STORJ/ETH",
+        "displaySymbol": "STORJ/ETH",
+        "symbol": "KUCOIN:STORJ-ETH"
+    },
+    {
+        "description": "Kucoin GTC/BTC",
+        "displaySymbol": "GTC/BTC",
+        "symbol": "KUCOIN:GTC-BTC"
+    },
+    {
+        "description": "Kucoin ETC/ETH",
+        "displaySymbol": "ETC/ETH",
+        "symbol": "KUCOIN:ETC-ETH"
+    },
+    {
+        "description": "Kucoin VEED/USDT",
+        "displaySymbol": "VEED/USDT",
+        "symbol": "KUCOIN:VEED-USDT"
+    },
+    {
+        "description": "Kucoin QTUM/BTC",
+        "displaySymbol": "QTUM/BTC",
+        "symbol": "KUCOIN:QTUM-BTC"
+    },
+    {
+        "description": "Kucoin IOTX/USDT",
+        "displaySymbol": "IOTX/USDT",
+        "symbol": "KUCOIN:IOTX-USDT"
+    },
+    {
+        "description": "Kucoin GAFI/USDT",
+        "displaySymbol": "GAFI/USDT",
+        "symbol": "KUCOIN:GAFI-USDT"
+    },
+    {
+        "description": "Kucoin KAT/BTC",
+        "displaySymbol": "KAT/BTC",
+        "symbol": "KUCOIN:KAT-BTC"
+    },
+    {
+        "description": "Kucoin DOGE3L/USDT",
+        "displaySymbol": "DOGE3L/USDT",
+        "symbol": "KUCOIN:DOGE3L-USDT"
+    },
+    {
+        "description": "Kucoin DOT/UST",
+        "displaySymbol": "DOT/UST",
+        "symbol": "KUCOIN:DOT-UST"
+    },
+    {
+        "description": "Kucoin MOVR/ETH",
+        "displaySymbol": "MOVR/ETH",
+        "symbol": "KUCOIN:MOVR-ETH"
+    },
+    {
+        "description": "Kucoin TRU/USDT",
+        "displaySymbol": "TRU/USDT",
+        "symbol": "KUCOIN:TRU-USDT"
+    },
+    {
+        "description": "Kucoin YFDAI/BTC",
+        "displaySymbol": "YFDAI/BTC",
+        "symbol": "KUCOIN:YFDAI-BTC"
+    },
+    {
+        "description": "Kucoin AUDIO/BTC",
+        "displaySymbol": "AUDIO/BTC",
+        "symbol": "KUCOIN:AUDIO-BTC"
+    },
+    {
+        "description": "Kucoin MHC/BTC",
+        "displaySymbol": "MHC/BTC",
+        "symbol": "KUCOIN:MHC-BTC"
+    },
+    {
+        "description": "Kucoin PNT/BTC",
+        "displaySymbol": "PNT/BTC",
+        "symbol": "KUCOIN:PNT-BTC"
+    },
+    {
+        "description": "Kucoin EQX/USDT",
+        "displaySymbol": "EQX/USDT",
+        "symbol": "KUCOIN:EQX-USDT"
+    },
+    {
+        "description": "Kucoin PROM/BTC",
+        "displaySymbol": "PROM/BTC",
+        "symbol": "KUCOIN:PROM-BTC"
+    },
+    {
+        "description": "Kucoin CHSB/BTC",
+        "displaySymbol": "CHSB/BTC",
+        "symbol": "KUCOIN:CHSB-BTC"
+    },
+    {
+        "description": "Kucoin PNT/USDT",
+        "displaySymbol": "PNT/USDT",
+        "symbol": "KUCOIN:PNT-USDT"
+    },
+    {
+        "description": "Kucoin KLV/USDT",
+        "displaySymbol": "KLV/USDT",
+        "symbol": "KUCOIN:KLV-USDT"
+    },
+    {
+        "description": "Kucoin VRA/USDT",
+        "displaySymbol": "VRA/USDT",
+        "symbol": "KUCOIN:VRA-USDT"
+    },
+    {
+        "description": "Kucoin SLP/USDT",
+        "displaySymbol": "SLP/USDT",
+        "symbol": "KUCOIN:SLP-USDT"
+    },
+    {
+        "description": "Kucoin STORJ/USDT",
+        "displaySymbol": "STORJ/USDT",
+        "symbol": "KUCOIN:STORJ-USDT"
+    },
+    {
+        "description": "Kucoin FTM/USDT",
+        "displaySymbol": "FTM/USDT",
+        "symbol": "KUCOIN:FTM-USDT"
+    },
+    {
+        "description": "Kucoin HBAR/USDT",
+        "displaySymbol": "HBAR/USDT",
+        "symbol": "KUCOIN:HBAR-USDT"
+    },
+    {
+        "description": "Kucoin NORD/USDT",
+        "displaySymbol": "NORD/USDT",
+        "symbol": "KUCOIN:NORD-USDT"
+    },
+    {
+        "description": "Kucoin BUX/USDT",
+        "displaySymbol": "BUX/USDT",
+        "symbol": "KUCOIN:BUX-USDT"
+    },
+    {
+        "description": "Kucoin SKL/USDT",
+        "displaySymbol": "SKL/USDT",
+        "symbol": "KUCOIN:SKL-USDT"
+    },
+    {
+        "description": "Kucoin MTV/ETH",
+        "displaySymbol": "MTV/ETH",
+        "symbol": "KUCOIN:MTV-ETH"
+    },
+    {
+        "description": "Kucoin FX/BTC",
+        "displaySymbol": "FX/BTC",
+        "symbol": "KUCOIN:FX-BTC"
+    },
+    {
+        "description": "Kucoin ACT/BTC",
+        "displaySymbol": "ACT/BTC",
+        "symbol": "KUCOIN:ACT-BTC"
+    },
+    {
+        "description": "Kucoin AR/USDT",
+        "displaySymbol": "AR/USDT",
+        "symbol": "KUCOIN:AR-USDT"
+    },
+    {
+        "description": "Kucoin LUNA3L/USDT",
+        "displaySymbol": "LUNA3L/USDT",
+        "symbol": "KUCOIN:LUNA3L-USDT"
+    },
+    {
+        "description": "Kucoin HBAR/BTC",
+        "displaySymbol": "HBAR/BTC",
+        "symbol": "KUCOIN:HBAR-BTC"
+    },
+    {
+        "description": "Kucoin ICP/BTC",
+        "displaySymbol": "ICP/BTC",
+        "symbol": "KUCOIN:ICP-BTC"
+    },
+    {
+        "description": "Kucoin ACT/ETH",
+        "displaySymbol": "ACT/ETH",
+        "symbol": "KUCOIN:ACT-ETH"
+    },
+    {
+        "description": "Kucoin COV/ETH",
+        "displaySymbol": "COV/ETH",
+        "symbol": "KUCOIN:COV-ETH"
+    },
+    {
+        "description": "Kucoin ODDZ/USDT",
+        "displaySymbol": "ODDZ/USDT",
+        "symbol": "KUCOIN:ODDZ-USDT"
+    },
+    {
+        "description": "Kucoin BTC/PAX",
+        "displaySymbol": "BTC/PAX",
+        "symbol": "KUCOIN:BTC-PAX"
+    },
+    {
+        "description": "Kucoin KDA/BTC",
+        "displaySymbol": "KDA/BTC",
+        "symbol": "KUCOIN:KDA-BTC"
+    },
+    {
+        "description": "Kucoin ATOM/USDT",
+        "displaySymbol": "ATOM/USDT",
+        "symbol": "KUCOIN:ATOM-USDT"
+    },
+    {
+        "description": "Kucoin MAP/BTC",
+        "displaySymbol": "MAP/BTC",
+        "symbol": "KUCOIN:MAP-BTC"
+    },
+    {
+        "description": "Kucoin TRVL/USDT",
+        "displaySymbol": "TRVL/USDT",
+        "symbol": "KUCOIN:TRVL-USDT"
+    },
+    {
+        "description": "Kucoin BAL/ETH",
+        "displaySymbol": "BAL/ETH",
+        "symbol": "KUCOIN:BAL-ETH"
+    },
+    {
+        "description": "Kucoin LIT/BTC",
+        "displaySymbol": "LIT/BTC",
+        "symbol": "KUCOIN:LIT-BTC"
+    },
+    {
+        "description": "Kucoin ALICE/BTC",
+        "displaySymbol": "ALICE/BTC",
+        "symbol": "KUCOIN:ALICE-BTC"
+    },
+    {
+        "description": "Kucoin TRAC/ETH",
+        "displaySymbol": "TRAC/ETH",
+        "symbol": "KUCOIN:TRAC-ETH"
+    },
+    {
+        "description": "Kucoin GO/USDT",
+        "displaySymbol": "GO/USDT",
+        "symbol": "KUCOIN:GO-USDT"
+    },
+    {
+        "description": "Kucoin PUNDIX/USDT",
+        "displaySymbol": "PUNDIX/USDT",
+        "symbol": "KUCOIN:PUNDIX-USDT"
+    },
+    {
+        "description": "Kucoin AOA/USDT",
+        "displaySymbol": "AOA/USDT",
+        "symbol": "KUCOIN:AOA-USDT"
+    },
+    {
+        "description": "Kucoin ACE/USDT",
+        "displaySymbol": "ACE/USDT",
+        "symbol": "KUCOIN:ACE-USDT"
+    },
+    {
+        "description": "Kucoin HEART/BTC",
+        "displaySymbol": "HEART/BTC",
+        "symbol": "KUCOIN:HEART-BTC"
+    },
+    {
+        "description": "Kucoin BNB3S/USDT",
+        "displaySymbol": "BNB3S/USDT",
+        "symbol": "KUCOIN:BNB3S-USDT"
+    },
+    {
+        "description": "Kucoin MNW/USDT",
+        "displaySymbol": "MNW/USDT",
+        "symbol": "KUCOIN:MNW-USDT"
+    },
+    {
+        "description": "Kucoin OLT/ETH",
+        "displaySymbol": "OLT/ETH",
+        "symbol": "KUCOIN:OLT-ETH"
+    },
+    {
+        "description": "Kucoin BCHSV/USDT",
+        "displaySymbol": "BCHSV/USDT",
+        "symbol": "KUCOIN:BCHSV-USDT"
+    },
+    {
+        "description": "Kucoin MKR/BTC",
+        "displaySymbol": "MKR/BTC",
+        "symbol": "KUCOIN:MKR-BTC"
+    },
+    {
+        "description": "Kucoin ADA/BTC",
+        "displaySymbol": "ADA/BTC",
+        "symbol": "KUCOIN:ADA-BTC"
+    },
+    {
+        "description": "Kucoin TRB/BTC",
+        "displaySymbol": "TRB/BTC",
+        "symbol": "KUCOIN:TRB-BTC"
+    },
+    {
+        "description": "Kucoin UNO/USDT",
+        "displaySymbol": "UNO/USDT",
+        "symbol": "KUCOIN:UNO-USDT"
+    },
+    {
+        "description": "Kucoin TKY/BTC",
+        "displaySymbol": "TKY/BTC",
+        "symbol": "KUCOIN:TKY-BTC"
+    },
+    {
+        "description": "Kucoin ERSDL/USDT",
+        "displaySymbol": "ERSDL/USDT",
+        "symbol": "KUCOIN:ERSDL-USDT"
+    },
+    {
+        "description": "Kucoin PEOPLE/USDT",
+        "displaySymbol": "PEOPLE/USDT",
+        "symbol": "KUCOIN:PEOPLE-USDT"
+    },
+    {
+        "description": "Kucoin ATOM3S/USDT",
+        "displaySymbol": "ATOM3S/USDT",
+        "symbol": "KUCOIN:ATOM3S-USDT"
+    },
+    {
+        "description": "Kucoin TARA/ETH",
+        "displaySymbol": "TARA/ETH",
+        "symbol": "KUCOIN:TARA-ETH"
+    },
+    {
+        "description": "Kucoin REP/BTC",
+        "displaySymbol": "REP/BTC",
+        "symbol": "KUCOIN:REP-BTC"
+    },
+    {
+        "description": "Kucoin SUSD/BTC",
+        "displaySymbol": "SUSD/BTC",
+        "symbol": "KUCOIN:SUSD-BTC"
+    },
+    {
+        "description": "Kucoin ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "KUCOIN:ETH-DAI"
+    },
+    {
+        "description": "Kucoin PRE/USDT",
+        "displaySymbol": "PRE/USDT",
+        "symbol": "KUCOIN:PRE-USDT"
+    },
+    {
+        "description": "Kucoin INJ/BTC",
+        "displaySymbol": "INJ/BTC",
+        "symbol": "KUCOIN:INJ-BTC"
+    },
+    {
+        "description": "Kucoin XRP/TUSD",
+        "displaySymbol": "XRP/TUSD",
+        "symbol": "KUCOIN:XRP-TUSD"
+    },
+    {
+        "description": "Kucoin XTZ/BTC",
+        "displaySymbol": "XTZ/BTC",
+        "symbol": "KUCOIN:XTZ-BTC"
+    },
+    {
+        "description": "Kucoin GLMR/BTC",
+        "displaySymbol": "GLMR/BTC",
+        "symbol": "KUCOIN:GLMR-BTC"
+    },
+    {
+        "description": "Kucoin TLM/USDT",
+        "displaySymbol": "TLM/USDT",
+        "symbol": "KUCOIN:TLM-USDT"
+    },
+    {
+        "description": "Kucoin XRP/USDC",
+        "displaySymbol": "XRP/USDC",
+        "symbol": "KUCOIN:XRP-USDC"
+    },
+    {
+        "description": "Kucoin TRX/USDT",
+        "displaySymbol": "TRX/USDT",
+        "symbol": "KUCOIN:TRX-USDT"
+    },
+    {
+        "description": "Kucoin BAL/USDT",
+        "displaySymbol": "BAL/USDT",
+        "symbol": "KUCOIN:BAL-USDT"
+    },
+    {
+        "description": "Kucoin WRX/BTC",
+        "displaySymbol": "WRX/BTC",
+        "symbol": "KUCOIN:WRX-BTC"
+    },
+    {
+        "description": "Kucoin NUM/USDT",
+        "displaySymbol": "NUM/USDT",
+        "symbol": "KUCOIN:NUM-USDT"
+    },
+    {
+        "description": "Kucoin SWINGBY/BTC",
+        "displaySymbol": "SWINGBY/BTC",
+        "symbol": "KUCOIN:SWINGBY-BTC"
+    },
+    {
+        "description": "Kucoin QRDO/USDT",
+        "displaySymbol": "QRDO/USDT",
+        "symbol": "KUCOIN:QRDO-USDT"
+    },
+    {
+        "description": "Kucoin NKN/BTC",
+        "displaySymbol": "NKN/BTC",
+        "symbol": "KUCOIN:NKN-BTC"
+    },
+    {
+        "description": "Kucoin YGG/USDT",
+        "displaySymbol": "YGG/USDT",
+        "symbol": "KUCOIN:YGG-USDT"
+    },
+    {
+        "description": "Kucoin SAND3S/USDT",
+        "displaySymbol": "SAND3S/USDT",
+        "symbol": "KUCOIN:SAND3S-USDT"
+    },
+    {
+        "description": "Kucoin NWC/BTC",
+        "displaySymbol": "NWC/BTC",
+        "symbol": "KUCOIN:NWC-BTC"
+    },
+    {
+        "description": "Kucoin HYDRA/USDT",
+        "displaySymbol": "HYDRA/USDT",
+        "symbol": "KUCOIN:HYDRA-USDT"
+    },
+    {
+        "description": "Kucoin XVS/BTC",
+        "displaySymbol": "XVS/BTC",
+        "symbol": "KUCOIN:XVS-BTC"
+    },
+    {
+        "description": "Kucoin MANA/USDT",
+        "displaySymbol": "MANA/USDT",
+        "symbol": "KUCOIN:MANA-USDT"
+    },
+    {
+        "description": "Kucoin ETH3S/USDT",
+        "displaySymbol": "ETH3S/USDT",
+        "symbol": "KUCOIN:ETH3S-USDT"
+    },
+    {
+        "description": "Kucoin KMD/USDT",
+        "displaySymbol": "KMD/USDT",
+        "symbol": "KUCOIN:KMD-USDT"
+    },
+    {
+        "description": "Kucoin DAPPT/USDT",
+        "displaySymbol": "DAPPT/USDT",
+        "symbol": "KUCOIN:DAPPT-USDT"
+    },
+    {
+        "description": "Kucoin EOS/BTC",
+        "displaySymbol": "EOS/BTC",
+        "symbol": "KUCOIN:EOS-BTC"
+    },
+    {
+        "description": "Kucoin OXT/ETH",
+        "displaySymbol": "OXT/ETH",
+        "symbol": "KUCOIN:OXT-ETH"
+    },
+    {
+        "description": "Kucoin CGG/USDT",
+        "displaySymbol": "CGG/USDT",
+        "symbol": "KUCOIN:CGG-USDT"
+    },
+    {
+        "description": "Kucoin PHNX/USDT",
+        "displaySymbol": "PHNX/USDT",
+        "symbol": "KUCOIN:PHNX-USDT"
+    },
+    {
+        "description": "Kucoin PPT/BTC",
+        "displaySymbol": "PPT/BTC",
+        "symbol": "KUCOIN:PPT-BTC"
+    },
+    {
+        "description": "Kucoin LABS/USDT",
+        "displaySymbol": "LABS/USDT",
+        "symbol": "KUCOIN:LABS-USDT"
+    },
+    {
+        "description": "Kucoin MLN/BTC",
+        "displaySymbol": "MLN/BTC",
+        "symbol": "KUCOIN:MLN-BTC"
+    },
+    {
+        "description": "Kucoin LINA/USDT",
+        "displaySymbol": "LINA/USDT",
+        "symbol": "KUCOIN:LINA-USDT"
+    },
+    {
+        "description": "Kucoin BOSON/ETH",
+        "displaySymbol": "BOSON/ETH",
+        "symbol": "KUCOIN:BOSON-ETH"
+    },
+    {
+        "description": "Kucoin AION/BTC",
+        "displaySymbol": "AION/BTC",
+        "symbol": "KUCOIN:AION-BTC"
+    },
+    {
+        "description": "Kucoin LINA/BTC",
+        "displaySymbol": "LINA/BTC",
+        "symbol": "KUCOIN:LINA-BTC"
+    },
+    {
+        "description": "Kucoin CRO/BTC",
+        "displaySymbol": "CRO/BTC",
+        "symbol": "KUCOIN:CRO-BTC"
+    },
+    {
+        "description": "Kucoin SDN/ETH",
+        "displaySymbol": "SDN/ETH",
+        "symbol": "KUCOIN:SDN-ETH"
+    },
+    {
+        "description": "Kucoin LOKI/BTC",
+        "displaySymbol": "LOKI/BTC",
+        "symbol": "KUCOIN:LOKI-BTC"
+    },
+    {
+        "description": "Kucoin IOI/USDT",
+        "displaySymbol": "IOI/USDT",
+        "symbol": "KUCOIN:IOI-USDT"
+    },
+    {
+        "description": "Kucoin DFYN/USDT",
+        "displaySymbol": "DFYN/USDT",
+        "symbol": "KUCOIN:DFYN-USDT"
+    },
+    {
+        "description": "Kucoin OUSD/BTC",
+        "displaySymbol": "OUSD/BTC",
+        "symbol": "KUCOIN:OUSD-BTC"
+    },
+    {
+        "description": "Kucoin TIME/USDT",
+        "displaySymbol": "TIME/USDT",
+        "symbol": "KUCOIN:TIME-USDT"
+    },
+    {
+        "description": "Kucoin ALGO/BTC",
+        "displaySymbol": "ALGO/BTC",
+        "symbol": "KUCOIN:ALGO-BTC"
+    },
+    {
+        "description": "Kucoin XEC/USDT",
+        "displaySymbol": "XEC/USDT",
+        "symbol": "KUCOIN:XEC-USDT"
+    },
+    {
+        "description": "Kucoin ALGO/USDT",
+        "displaySymbol": "ALGO/USDT",
+        "symbol": "KUCOIN:ALGO-USDT"
+    },
+    {
+        "description": "Kucoin FORTH/USDT",
+        "displaySymbol": "FORTH/USDT",
+        "symbol": "KUCOIN:FORTH-USDT"
+    },
+    {
+        "description": "Kucoin ETH/UST",
+        "displaySymbol": "ETH/UST",
+        "symbol": "KUCOIN:ETH-UST"
+    },
+    {
+        "description": "Kucoin OCEAN/USDT",
+        "displaySymbol": "OCEAN/USDT",
+        "symbol": "KUCOIN:OCEAN-USDT"
+    },
+    {
+        "description": "Kucoin GMB/ETH",
+        "displaySymbol": "GMB/ETH",
+        "symbol": "KUCOIN:GMB-ETH"
+    },
+    {
+        "description": "Kucoin ABBC/BTC",
+        "displaySymbol": "ABBC/BTC",
+        "symbol": "KUCOIN:ABBC-BTC"
+    },
+    {
+        "description": "Kucoin LPOOL/USDT",
+        "displaySymbol": "LPOOL/USDT",
+        "symbol": "KUCOIN:LPOOL-USDT"
+    },
+    {
+        "description": "Kucoin XDC/USDT",
+        "displaySymbol": "XDC/USDT",
+        "symbol": "KUCOIN:XDC-USDT"
+    },
+    {
+        "description": "Kucoin GRIN/BTC",
+        "displaySymbol": "GRIN/BTC",
+        "symbol": "KUCOIN:GRIN-BTC"
+    },
+    {
+        "description": "Kucoin DEXE/BTC",
+        "displaySymbol": "DEXE/BTC",
+        "symbol": "KUCOIN:DEXE-BTC"
+    },
+    {
+        "description": "Kucoin BONDLY/ETH",
+        "displaySymbol": "BONDLY/ETH",
+        "symbol": "KUCOIN:BONDLY-ETH"
+    },
+    {
+        "description": "Kucoin BASIC/USDT",
+        "displaySymbol": "BASIC/USDT",
+        "symbol": "KUCOIN:BASIC-USDT"
+    },
+    {
+        "description": "Kucoin FEAR/USDT",
+        "displaySymbol": "FEAR/USDT",
+        "symbol": "KUCOIN:FEAR-USDT"
+    },
+    {
+        "description": "Kucoin OMG/USDT",
+        "displaySymbol": "OMG/USDT",
+        "symbol": "KUCOIN:OMG-USDT"
+    },
+    {
+        "description": "Kucoin VET/BTC",
+        "displaySymbol": "VET/BTC",
+        "symbol": "KUCOIN:VET-BTC"
+    },
+    {
+        "description": "Kucoin LUNA/ETH",
+        "displaySymbol": "LUNA/ETH",
+        "symbol": "KUCOIN:LUNA-ETH"
+    },
+    {
+        "description": "Kucoin DYP/ETH",
+        "displaySymbol": "DYP/ETH",
+        "symbol": "KUCOIN:DYP-ETH"
+    },
+    {
+        "description": "Kucoin MTRG/USDT",
+        "displaySymbol": "MTRG/USDT",
+        "symbol": "KUCOIN:MTRG-USDT"
+    },
+    {
+        "description": "Kucoin CTI/ETH",
+        "displaySymbol": "CTI/ETH",
+        "symbol": "KUCOIN:CTI-ETH"
+    },
+    {
+        "description": "Kucoin HNT/BTC",
+        "displaySymbol": "HNT/BTC",
+        "symbol": "KUCOIN:HNT-BTC"
+    },
+    {
+        "description": "Kucoin LRC/ETH",
+        "displaySymbol": "LRC/ETH",
+        "symbol": "KUCOIN:LRC-ETH"
+    },
+    {
+        "description": "Kucoin PUNDIX/BTC",
+        "displaySymbol": "PUNDIX/BTC",
+        "symbol": "KUCOIN:PUNDIX-BTC"
+    },
+    {
+        "description": "Kucoin CTI/USDT",
+        "displaySymbol": "CTI/USDT",
+        "symbol": "KUCOIN:CTI-USDT"
+    },
+    {
+        "description": "Kucoin XDC/BTC",
+        "displaySymbol": "XDC/BTC",
+        "symbol": "KUCOIN:XDC-BTC"
+    },
+    {
+        "description": "Kucoin REAP/USDT",
+        "displaySymbol": "REAP/USDT",
+        "symbol": "KUCOIN:REAP-USDT"
+    },
+    {
+        "description": "Kucoin BONDLY/USDT",
+        "displaySymbol": "BONDLY/USDT",
+        "symbol": "KUCOIN:BONDLY-USDT"
+    },
+    {
+        "description": "Kucoin OCEAN/BTC",
+        "displaySymbol": "OCEAN/BTC",
+        "symbol": "KUCOIN:OCEAN-BTC"
+    },
+    {
+        "description": "Kucoin ACOIN/USDT",
+        "displaySymbol": "ACOIN/USDT",
+        "symbol": "KUCOIN:ACOIN-USDT"
+    },
+    {
+        "description": "Kucoin ZIL/ETH",
+        "displaySymbol": "ZIL/ETH",
+        "symbol": "KUCOIN:ZIL-ETH"
+    },
+    {
+        "description": "Kucoin LOKI/ETH",
+        "displaySymbol": "LOKI/ETH",
+        "symbol": "KUCOIN:LOKI-ETH"
+    },
+    {
+        "description": "Kucoin TIME/BTC",
+        "displaySymbol": "TIME/BTC",
+        "symbol": "KUCOIN:TIME-BTC"
+    },
+    {
+        "description": "Kucoin FLAME/USDT",
+        "displaySymbol": "FLAME/USDT",
+        "symbol": "KUCOIN:FLAME-USDT"
+    },
+    {
+        "description": "Kucoin GAS/BTC",
+        "displaySymbol": "GAS/BTC",
+        "symbol": "KUCOIN:GAS-BTC"
+    },
+    {
+        "description": "Kucoin MLK/USDT",
+        "displaySymbol": "MLK/USDT",
+        "symbol": "KUCOIN:MLK-USDT"
+    },
+    {
+        "description": "Kucoin FTM/BTC",
+        "displaySymbol": "FTM/BTC",
+        "symbol": "KUCOIN:FTM-BTC"
+    },
+    {
+        "description": "Kucoin NGM/USDT",
+        "displaySymbol": "NGM/USDT",
+        "symbol": "KUCOIN:NGM-USDT"
+    },
+    {
+        "description": "Kucoin NTVRK/USDT",
+        "displaySymbol": "NTVRK/USDT",
+        "symbol": "KUCOIN:NTVRK-USDT"
+    },
+    {
+        "description": "Kucoin CWEB/USDT",
+        "displaySymbol": "CWEB/USDT",
+        "symbol": "KUCOIN:CWEB-USDT"
+    },
+    {
+        "description": "Kucoin LTO/BTC",
+        "displaySymbol": "LTO/BTC",
+        "symbol": "KUCOIN:LTO-BTC"
+    },
+    {
+        "description": "Kucoin ELA/BTC",
+        "displaySymbol": "ELA/BTC",
+        "symbol": "KUCOIN:ELA-BTC"
+    },
+    {
+        "description": "Kucoin 1EARTH/USDT",
+        "displaySymbol": "1EARTH/USDT",
+        "symbol": "KUCOIN:1EARTH-USDT"
+    },
+    {
+        "description": "Kucoin MODEFI/BTC",
+        "displaySymbol": "MODEFI/BTC",
+        "symbol": "KUCOIN:MODEFI-BTC"
+    },
+    {
+        "description": "Kucoin KAR/USDT",
+        "displaySymbol": "KAR/USDT",
+        "symbol": "KUCOIN:KAR-USDT"
+    },
+    {
+        "description": "Kucoin ALPHA/USDT",
+        "displaySymbol": "ALPHA/USDT",
+        "symbol": "KUCOIN:ALPHA-USDT"
+    },
+    {
+        "description": "Kucoin ARKER/USDT",
+        "displaySymbol": "ARKER/USDT",
+        "symbol": "KUCOIN:ARKER-USDT"
+    },
+    {
+        "description": "Kucoin MSWAP/USDT",
+        "displaySymbol": "MSWAP/USDT",
+        "symbol": "KUCOIN:MSWAP-USDT"
+    },
+    {
+        "description": "Kucoin DYDX/USDT",
+        "displaySymbol": "DYDX/USDT",
+        "symbol": "KUCOIN:DYDX-USDT"
+    },
+    {
+        "description": "Kucoin KLV/TRX",
+        "displaySymbol": "KLV/TRX",
+        "symbol": "KUCOIN:KLV-TRX"
+    },
+    {
+        "description": "Kucoin REP/ETH",
+        "displaySymbol": "REP/ETH",
+        "symbol": "KUCOIN:REP-ETH"
+    },
+    {
+        "description": "Kucoin AION/ETH",
+        "displaySymbol": "AION/ETH",
+        "symbol": "KUCOIN:AION-ETH"
+    },
+    {
+        "description": "Kucoin PLAY/ETH",
+        "displaySymbol": "PLAY/ETH",
+        "symbol": "KUCOIN:PLAY-ETH"
+    },
+    {
+        "description": "Kucoin AVAX/BTC",
+        "displaySymbol": "AVAX/BTC",
+        "symbol": "KUCOIN:AVAX-BTC"
+    },
+    {
+        "description": "Kucoin ILA/USDT",
+        "displaySymbol": "ILA/USDT",
+        "symbol": "KUCOIN:ILA-USDT"
+    },
+    {
+        "description": "Kucoin MONI/USDT",
+        "displaySymbol": "MONI/USDT",
+        "symbol": "KUCOIN:MONI-USDT"
+    },
+    {
+        "description": "Kucoin PIVX/USDT",
+        "displaySymbol": "PIVX/USDT",
+        "symbol": "KUCOIN:PIVX-USDT"
+    },
+    {
+        "description": "Kucoin BTC/UST",
+        "displaySymbol": "BTC/UST",
+        "symbol": "KUCOIN:BTC-UST"
+    },
+    {
+        "description": "Kucoin TOWER/USDT",
+        "displaySymbol": "TOWER/USDT",
+        "symbol": "KUCOIN:TOWER-USDT"
+    },
+    {
+        "description": "Kucoin APL/BTC",
+        "displaySymbol": "APL/BTC",
+        "symbol": "KUCOIN:APL-BTC"
+    },
+    {
+        "description": "Kucoin ETH2/ETH",
+        "displaySymbol": "ETH2/ETH",
+        "symbol": "KUCOIN:ETH2-ETH"
+    },
+    {
+        "description": "Kucoin BTT/BTC",
+        "displaySymbol": "BTT/BTC",
+        "symbol": "KUCOIN:BTT-BTC"
+    },
+    {
+        "description": "Kucoin EWT/USDT",
+        "displaySymbol": "EWT/USDT",
+        "symbol": "KUCOIN:EWT-USDT"
+    },
+    {
+        "description": "Kucoin CV/BTC",
+        "displaySymbol": "CV/BTC",
+        "symbol": "KUCOIN:CV-BTC"
+    },
+    {
+        "description": "Kucoin SHFT/USDT",
+        "displaySymbol": "SHFT/USDT",
+        "symbol": "KUCOIN:SHFT-USDT"
+    },
+    {
+        "description": "Kucoin OGN/BTC",
+        "displaySymbol": "OGN/BTC",
+        "symbol": "KUCOIN:OGN-BTC"
+    },
+    {
+        "description": "Kucoin ALGO/KCS",
+        "displaySymbol": "ALGO/KCS",
+        "symbol": "KUCOIN:ALGO-KCS"
+    },
+    {
+        "description": "Kucoin VELO/USDT",
+        "displaySymbol": "VELO/USDT",
+        "symbol": "KUCOIN:VELO-USDT"
+    },
+    {
+        "description": "Kucoin HAPI/USDT",
+        "displaySymbol": "HAPI/USDT",
+        "symbol": "KUCOIN:HAPI-USDT"
+    },
+    {
+        "description": "Kucoin ALEPH/USDT",
+        "displaySymbol": "ALEPH/USDT",
+        "symbol": "KUCOIN:ALEPH-USDT"
+    },
+    {
+        "description": "Kucoin ORN/USDT",
+        "displaySymbol": "ORN/USDT",
+        "symbol": "KUCOIN:ORN-USDT"
+    },
+    {
+        "description": "Kucoin LUNA/USDT",
+        "displaySymbol": "LUNA/USDT",
+        "symbol": "KUCOIN:LUNA-USDT"
+    },
+    {
+        "description": "Kucoin XTZ/USDT",
+        "displaySymbol": "XTZ/USDT",
+        "symbol": "KUCOIN:XTZ-USDT"
+    },
+    {
+        "description": "Kucoin ERG/BTC",
+        "displaySymbol": "ERG/BTC",
+        "symbol": "KUCOIN:ERG-BTC"
+    },
+    {
+        "description": "Kucoin SOL/USDT",
+        "displaySymbol": "SOL/USDT",
+        "symbol": "KUCOIN:SOL-USDT"
+    },
+    {
+        "description": "Kucoin IOTA/BTC",
+        "displaySymbol": "IOTA/BTC",
+        "symbol": "KUCOIN:IOTA-BTC"
+    },
+    {
+        "description": "Kucoin SOL3L/USDT",
+        "displaySymbol": "SOL3L/USDT",
+        "symbol": "KUCOIN:SOL3L-USDT"
+    },
+    {
+        "description": "Kucoin TXA/USDC",
+        "displaySymbol": "TXA/USDC",
+        "symbol": "KUCOIN:TXA-USDC"
+    },
+    {
+        "description": "Kucoin CAPP/ETH",
+        "displaySymbol": "CAPP/ETH",
+        "symbol": "KUCOIN:CAPP-ETH"
+    },
+    {
+        "description": "Kucoin ETH3L/USDT",
+        "displaySymbol": "ETH3L/USDT",
+        "symbol": "KUCOIN:ETH3L-USDT"
+    },
+    {
+        "description": "Kucoin CTC/USDT",
+        "displaySymbol": "CTC/USDT",
+        "symbol": "KUCOIN:CTC-USDT"
+    },
+    {
+        "description": "Kucoin SRK/BTC",
+        "displaySymbol": "SRK/BTC",
+        "symbol": "KUCOIN:SRK-BTC"
+    },
+    {
+        "description": "Kucoin NULS/ETH",
+        "displaySymbol": "NULS/ETH",
+        "symbol": "KUCOIN:NULS-ETH"
+    },
+    {
+        "description": "Kucoin RLC/BTC",
+        "displaySymbol": "RLC/BTC",
+        "symbol": "KUCOIN:RLC-BTC"
+    },
+    {
+        "description": "Kucoin XRP3S/USDT",
+        "displaySymbol": "XRP3S/USDT",
+        "symbol": "KUCOIN:XRP3S-USDT"
+    },
+    {
+        "description": "Kucoin LRC/BTC",
+        "displaySymbol": "LRC/BTC",
+        "symbol": "KUCOIN:LRC-BTC"
+    },
+    {
+        "description": "Kucoin WAN/ETH",
+        "displaySymbol": "WAN/ETH",
+        "symbol": "KUCOIN:WAN-ETH"
+    },
+    {
+        "description": "Kucoin SHIB/DOGE",
+        "displaySymbol": "SHIB/DOGE",
+        "symbol": "KUCOIN:SHIB-DOGE"
+    },
+    {
+        "description": "Kucoin WAVES/USDT",
+        "displaySymbol": "WAVES/USDT",
+        "symbol": "KUCOIN:WAVES-USDT"
+    },
+    {
+        "description": "Kucoin FTM/ETH",
+        "displaySymbol": "FTM/ETH",
+        "symbol": "KUCOIN:FTM-ETH"
+    },
+    {
+        "description": "Kucoin DSLA/USDT",
+        "displaySymbol": "DSLA/USDT",
+        "symbol": "KUCOIN:DSLA-USDT"
+    },
+    {
+        "description": "Kucoin ENQ/BTC",
+        "displaySymbol": "ENQ/BTC",
+        "symbol": "KUCOIN:ENQ-BTC"
+    },
+    {
+        "description": "Kucoin CREAM/USDT",
+        "displaySymbol": "CREAM/USDT",
+        "symbol": "KUCOIN:CREAM-USDT"
+    },
+    {
+        "description": "Kucoin VLX/USDT",
+        "displaySymbol": "VLX/USDT",
+        "symbol": "KUCOIN:VLX-USDT"
+    },
+    {
+        "description": "Kucoin DERO/USDT",
+        "displaySymbol": "DERO/USDT",
+        "symbol": "KUCOIN:DERO-USDT"
+    },
+    {
+        "description": "Kucoin ANKR/USDT",
+        "displaySymbol": "ANKR/USDT",
+        "symbol": "KUCOIN:ANKR-USDT"
+    },
+    {
+        "description": "Kucoin GHST/USDT",
+        "displaySymbol": "GHST/USDT",
+        "symbol": "KUCOIN:GHST-USDT"
+    },
+    {
+        "description": "Kucoin ETN/ETH",
+        "displaySymbol": "ETN/ETH",
+        "symbol": "KUCOIN:ETN-ETH"
+    },
+    {
+        "description": "Kucoin YOP/USDT",
+        "displaySymbol": "YOP/USDT",
+        "symbol": "KUCOIN:YOP-USDT"
+    },
+    {
+        "description": "Kucoin BUY/USDT",
+        "displaySymbol": "BUY/USDT",
+        "symbol": "KUCOIN:BUY-USDT"
+    },
+    {
+        "description": "Kucoin LON/USDT",
+        "displaySymbol": "LON/USDT",
+        "symbol": "KUCOIN:LON-USDT"
+    },
+    {
+        "description": "Kucoin XCUR/USDT",
+        "displaySymbol": "XCUR/USDT",
+        "symbol": "KUCOIN:XCUR-USDT"
+    },
+    {
+        "description": "Kucoin SHA/BTC",
+        "displaySymbol": "SHA/BTC",
+        "symbol": "KUCOIN:SHA-BTC"
+    },
+    {
+        "description": "Kucoin XLM/USDT",
+        "displaySymbol": "XLM/USDT",
+        "symbol": "KUCOIN:XLM-USDT"
+    },
+    {
+        "description": "Kucoin GODS/USDT",
+        "displaySymbol": "GODS/USDT",
+        "symbol": "KUCOIN:GODS-USDT"
+    },
+    {
+        "description": "Kucoin HERO/USDT",
+        "displaySymbol": "HERO/USDT",
+        "symbol": "KUCOIN:HERO-USDT"
+    },
+    {
+        "description": "Kucoin VEGA/USDT",
+        "displaySymbol": "VEGA/USDT",
+        "symbol": "KUCOIN:VEGA-USDT"
+    },
+    {
+        "description": "Kucoin IOST/USDT",
+        "displaySymbol": "IOST/USDT",
+        "symbol": "KUCOIN:IOST-USDT"
+    },
+    {
+        "description": "Kucoin SUKU/USDT",
+        "displaySymbol": "SUKU/USDT",
+        "symbol": "KUCOIN:SUKU-USDT"
+    },
+    {
+        "description": "Kucoin DAG/ETH",
+        "displaySymbol": "DAG/ETH",
+        "symbol": "KUCOIN:DAG-ETH"
+    },
+    {
+        "description": "Kucoin SNT/ETH",
+        "displaySymbol": "SNT/ETH",
+        "symbol": "KUCOIN:SNT-ETH"
+    },
+    {
+        "description": "Kucoin AXS/USDT",
+        "displaySymbol": "AXS/USDT",
+        "symbol": "KUCOIN:AXS-USDT"
+    },
+    {
+        "description": "Kucoin CARR/BTC",
+        "displaySymbol": "CARR/BTC",
+        "symbol": "KUCOIN:CARR-BTC"
+    },
+    {
+        "description": "Kucoin R/USDT",
+        "displaySymbol": "R/USDT",
+        "symbol": "KUCOIN:R-USDT"
+    },
+    {
+        "description": "Kucoin UOS/BTC",
+        "displaySymbol": "UOS/BTC",
+        "symbol": "KUCOIN:UOS-BTC"
+    },
+    {
+        "description": "Kucoin CAS/BTC",
+        "displaySymbol": "CAS/BTC",
+        "symbol": "KUCOIN:CAS-BTC"
+    },
+    {
+        "description": "Kucoin BURGER/BTC",
+        "displaySymbol": "BURGER/BTC",
+        "symbol": "KUCOIN:BURGER-BTC"
+    },
+    {
+        "description": "Kucoin KAVA/USDT",
+        "displaySymbol": "KAVA/USDT",
+        "symbol": "KUCOIN:KAVA-USDT"
+    },
+    {
+        "description": "Kucoin FLY/USDT",
+        "displaySymbol": "FLY/USDT",
+        "symbol": "KUCOIN:FLY-USDT"
+    },
+    {
+        "description": "Kucoin IOTX/BTC",
+        "displaySymbol": "IOTX/BTC",
+        "symbol": "KUCOIN:IOTX-BTC"
+    },
+    {
+        "description": "Kucoin GO/BTC",
+        "displaySymbol": "GO/BTC",
+        "symbol": "KUCOIN:GO-BTC"
+    },
+    {
+        "description": "Kucoin LINK3S/USDT",
+        "displaySymbol": "LINK3S/USDT",
+        "symbol": "KUCOIN:LINK3S-USDT"
+    },
+    {
+        "description": "Kucoin KCS/ETH",
+        "displaySymbol": "KCS/ETH",
+        "symbol": "KUCOIN:KCS-ETH"
+    },
+    {
+        "description": "Kucoin XLM/ETH",
+        "displaySymbol": "XLM/ETH",
+        "symbol": "KUCOIN:XLM-ETH"
+    },
+    {
+        "description": "Kucoin DMTR/USDT",
+        "displaySymbol": "DMTR/USDT",
+        "symbol": "KUCOIN:DMTR-USDT"
+    },
+    {
+        "description": "Kucoin XHV/USDT",
+        "displaySymbol": "XHV/USDT",
+        "symbol": "KUCOIN:XHV-USDT"
+    },
+    {
+        "description": "Kucoin DGTX/BTC",
+        "displaySymbol": "DGTX/BTC",
+        "symbol": "KUCOIN:DGTX-BTC"
+    },
+    {
+        "description": "Kucoin EGLD/USDT",
+        "displaySymbol": "EGLD/USDT",
+        "symbol": "KUCOIN:EGLD-USDT"
+    },
+    {
+        "description": "Kucoin DAG/USDT",
+        "displaySymbol": "DAG/USDT",
+        "symbol": "KUCOIN:DAG-USDT"
+    },
+    {
+        "description": "Kucoin UQC/BTC",
+        "displaySymbol": "UQC/BTC",
+        "symbol": "KUCOIN:UQC-BTC"
+    },
+    {
+        "description": "Kucoin QKC/ETH",
+        "displaySymbol": "QKC/ETH",
+        "symbol": "KUCOIN:QKC-ETH"
+    },
+    {
+        "description": "Kucoin LYM/USDT",
+        "displaySymbol": "LYM/USDT",
+        "symbol": "KUCOIN:LYM-USDT"
+    },
+    {
+        "description": "Kucoin POL/USDT",
+        "displaySymbol": "POL/USDT",
+        "symbol": "KUCOIN:POL-USDT"
+    },
+    {
+        "description": "Kucoin AMPL/BTC",
+        "displaySymbol": "AMPL/BTC",
+        "symbol": "KUCOIN:AMPL-BTC"
+    },
+    {
+        "description": "Kucoin MSWAP/BTC",
+        "displaySymbol": "MSWAP/BTC",
+        "symbol": "KUCOIN:MSWAP-BTC"
+    },
+    {
+        "description": "Kucoin CHMB/USDT",
+        "displaySymbol": "CHMB/USDT",
+        "symbol": "KUCOIN:CHMB-USDT"
+    },
+    {
+        "description": "Kucoin CEUR/USDT",
+        "displaySymbol": "CEUR/USDT",
+        "symbol": "KUCOIN:CEUR-USDT"
+    },
+    {
+        "description": "Kucoin ELA/ETH",
+        "displaySymbol": "ELA/ETH",
+        "symbol": "KUCOIN:ELA-ETH"
+    },
+    {
+        "description": "Kucoin ROSE/USDT",
+        "displaySymbol": "ROSE/USDT",
+        "symbol": "KUCOIN:ROSE-USDT"
+    },
+    {
+        "description": "Kucoin MAHA/USDT",
+        "displaySymbol": "MAHA/USDT",
+        "symbol": "KUCOIN:MAHA-USDT"
+    },
+    {
+        "description": "Kucoin EDG/BTC",
+        "displaySymbol": "EDG/BTC",
+        "symbol": "KUCOIN:EDG-BTC"
+    },
+    {
+        "description": "Kucoin ASTR/USDT",
+        "displaySymbol": "ASTR/USDT",
+        "symbol": "KUCOIN:ASTR-USDT"
+    },
+    {
+        "description": "Kucoin LIT/USDT",
+        "displaySymbol": "LIT/USDT",
+        "symbol": "KUCOIN:LIT-USDT"
+    },
+    {
+        "description": "Kucoin CRPT/USDT",
+        "displaySymbol": "CRPT/USDT",
+        "symbol": "KUCOIN:CRPT-USDT"
+    },
+    {
+        "description": "Kucoin SOLVE/USDT",
+        "displaySymbol": "SOLVE/USDT",
+        "symbol": "KUCOIN:SOLVE-USDT"
+    },
+    {
+        "description": "Kucoin CEUR/BTC",
+        "displaySymbol": "CEUR/BTC",
+        "symbol": "KUCOIN:CEUR-BTC"
+    },
+    {
+        "description": "Kucoin DGB/ETH",
+        "displaySymbol": "DGB/ETH",
+        "symbol": "KUCOIN:DGB-ETH"
+    },
+    {
+        "description": "Kucoin NGL/USDT",
+        "displaySymbol": "NGL/USDT",
+        "symbol": "KUCOIN:NGL-USDT"
+    },
+    {
+        "description": "Kucoin UNO/BTC",
+        "displaySymbol": "UNO/BTC",
+        "symbol": "KUCOIN:UNO-BTC"
+    },
+    {
+        "description": "Kucoin XPR/USDT",
+        "displaySymbol": "XPR/USDT",
+        "symbol": "KUCOIN:XPR-USDT"
+    },
+    {
+        "description": "Kucoin LSK/ETH",
+        "displaySymbol": "LSK/ETH",
+        "symbol": "KUCOIN:LSK-ETH"
+    },
+    {
+        "description": "Kucoin COV/BTC",
+        "displaySymbol": "COV/BTC",
+        "symbol": "KUCOIN:COV-BTC"
+    },
+    {
+        "description": "Kucoin MAN/BTC",
+        "displaySymbol": "MAN/BTC",
+        "symbol": "KUCOIN:MAN-BTC"
+    },
+    {
+        "description": "Kucoin JASMY/USDT",
+        "displaySymbol": "JASMY/USDT",
+        "symbol": "KUCOIN:JASMY-USDT"
+    },
+    {
+        "description": "Kucoin TRIAS/USDT",
+        "displaySymbol": "TRIAS/USDT",
+        "symbol": "KUCOIN:TRIAS-USDT"
+    },
+    {
+        "description": "Kucoin MATIC/UST",
+        "displaySymbol": "MATIC/UST",
+        "symbol": "KUCOIN:MATIC-UST"
+    },
+    {
+        "description": "Kucoin CIRUS/USDT",
+        "displaySymbol": "CIRUS/USDT",
+        "symbol": "KUCOIN:CIRUS-USDT"
+    },
+    {
+        "description": "Kucoin TRX/BTC",
+        "displaySymbol": "TRX/BTC",
+        "symbol": "KUCOIN:TRX-BTC"
+    },
+    {
+        "description": "Kucoin UNI3S/USDT",
+        "displaySymbol": "UNI3S/USDT",
+        "symbol": "KUCOIN:UNI3S-USDT"
+    },
+    {
+        "description": "Kucoin WHALE/USDT",
+        "displaySymbol": "WHALE/USDT",
+        "symbol": "KUCOIN:WHALE-USDT"
+    },
+    {
+        "description": "Kucoin UMB/USDT",
+        "displaySymbol": "UMB/USDT",
+        "symbol": "KUCOIN:UMB-USDT"
+    },
+    {
+        "description": "Kucoin GALAX3S/USDT",
+        "displaySymbol": "GALAX3S/USDT",
+        "symbol": "KUCOIN:GALAX3S-USDT"
+    },
+    {
+        "description": "Kucoin ATOM/BTC",
+        "displaySymbol": "ATOM/BTC",
+        "symbol": "KUCOIN:ATOM-BTC"
+    },
+    {
+        "description": "Kucoin IXS/USDT",
+        "displaySymbol": "IXS/USDT",
+        "symbol": "KUCOIN:IXS-USDT"
+    },
+    {
+        "description": "Kucoin CUSD/BTC",
+        "displaySymbol": "CUSD/BTC",
+        "symbol": "KUCOIN:CUSD-BTC"
+    },
+    {
+        "description": "Kucoin IOST/ETH",
+        "displaySymbol": "IOST/ETH",
+        "symbol": "KUCOIN:IOST-ETH"
+    },
+    {
+        "description": "Kucoin SOL3S/USDT",
+        "displaySymbol": "SOL3S/USDT",
+        "symbol": "KUCOIN:SOL3S-USDT"
+    },
+    {
+        "description": "Kucoin REVV/BTC",
+        "displaySymbol": "REVV/BTC",
+        "symbol": "KUCOIN:REVV-BTC"
+    },
+    {
+        "description": "Kucoin YFDAI/USDT",
+        "displaySymbol": "YFDAI/USDT",
+        "symbol": "KUCOIN:YFDAI-USDT"
+    },
+    {
+        "description": "Kucoin ERN/USDT",
+        "displaySymbol": "ERN/USDT",
+        "symbol": "KUCOIN:ERN-USDT"
+    },
+    {
+        "description": "Kucoin NFT/USDT",
+        "displaySymbol": "NFT/USDT",
+        "symbol": "KUCOIN:NFT-USDT"
+    },
+    {
+        "description": "Kucoin XCH/USDT",
+        "displaySymbol": "XCH/USDT",
+        "symbol": "KUCOIN:XCH-USDT"
+    },
+    {
+        "description": "Kucoin CPC/BTC",
+        "displaySymbol": "CPC/BTC",
+        "symbol": "KUCOIN:CPC-BTC"
+    },
+    {
+        "description": "Kucoin GHST/BTC",
+        "displaySymbol": "GHST/BTC",
+        "symbol": "KUCOIN:GHST-BTC"
+    },
+    {
+        "description": "Kucoin CV/ETH",
+        "displaySymbol": "CV/ETH",
+        "symbol": "KUCOIN:CV-ETH"
+    },
+    {
+        "description": "Kucoin ALPHA/BTC",
+        "displaySymbol": "ALPHA/BTC",
+        "symbol": "KUCOIN:ALPHA-BTC"
+    },
+    {
+        "description": "Kucoin C98/USDT",
+        "displaySymbol": "C98/USDT",
+        "symbol": "KUCOIN:C98-USDT"
+    },
+    {
+        "description": "Kucoin SKEY/USDT",
+        "displaySymbol": "SKEY/USDT",
+        "symbol": "KUCOIN:SKEY-USDT"
+    },
+    {
+        "description": "Kucoin USDT/TUSD",
+        "displaySymbol": "USDT/TUSD",
+        "symbol": "KUCOIN:USDT-TUSD"
+    },
+    {
+        "description": "Kucoin XSR/USDT",
+        "displaySymbol": "XSR/USDT",
+        "symbol": "KUCOIN:XSR-USDT"
+    },
+    {
+        "description": "Kucoin AIOZ/USDT",
+        "displaySymbol": "AIOZ/USDT",
+        "symbol": "KUCOIN:AIOZ-USDT"
+    },
+    {
+        "description": "Kucoin REVV/USDT",
+        "displaySymbol": "REVV/USDT",
+        "symbol": "KUCOIN:REVV-USDT"
+    },
+    {
+        "description": "Kucoin CXO/ETH",
+        "displaySymbol": "CXO/ETH",
+        "symbol": "KUCOIN:CXO-ETH"
+    },
+    {
+        "description": "Kucoin OXT/BTC",
+        "displaySymbol": "OXT/BTC",
+        "symbol": "KUCOIN:OXT-BTC"
+    },
+    {
+        "description": "Kucoin NGC/USDT",
+        "displaySymbol": "NGC/USDT",
+        "symbol": "KUCOIN:NGC-USDT"
+    },
+    {
+        "description": "Kucoin DENT/ETH",
+        "displaySymbol": "DENT/ETH",
+        "symbol": "KUCOIN:DENT-ETH"
+    },
+    {
+        "description": "Kucoin DODO/USDT",
+        "displaySymbol": "DODO/USDT",
+        "symbol": "KUCOIN:DODO-USDT"
+    },
+    {
+        "description": "Kucoin BUY/BTC",
+        "displaySymbol": "BUY/BTC",
+        "symbol": "KUCOIN:BUY-BTC"
+    },
+    {
+        "description": "Kucoin WAX/ETH",
+        "displaySymbol": "WAX/ETH",
+        "symbol": "KUCOIN:WAX-ETH"
+    },
+    {
+        "description": "Kucoin UQC/ETH",
+        "displaySymbol": "UQC/ETH",
+        "symbol": "KUCOIN:UQC-ETH"
+    },
+    {
+        "description": "Kucoin TVK/USDT",
+        "displaySymbol": "TVK/USDT",
+        "symbol": "KUCOIN:TVK-USDT"
+    },
+    {
+        "description": "Kucoin EWT/BTC",
+        "displaySymbol": "EWT/BTC",
+        "symbol": "KUCOIN:EWT-BTC"
+    },
+    {
+        "description": "Kucoin ENJ/USDT",
+        "displaySymbol": "ENJ/USDT",
+        "symbol": "KUCOIN:ENJ-USDT"
+    },
+    {
+        "description": "Kucoin DASH/KCS",
+        "displaySymbol": "DASH/KCS",
+        "symbol": "KUCOIN:DASH-KCS"
+    },
+    {
+        "description": "Kucoin ONT/USDT",
+        "displaySymbol": "ONT/USDT",
+        "symbol": "KUCOIN:ONT-USDT"
+    },
+    {
+        "description": "Kucoin AGIX/BTC",
+        "displaySymbol": "AGIX/BTC",
+        "symbol": "KUCOIN:AGIX-BTC"
+    },
+    {
+        "description": "Kucoin SYLO/USDT",
+        "displaySymbol": "SYLO/USDT",
+        "symbol": "KUCOIN:SYLO-USDT"
+    },
+    {
+        "description": "Kucoin ARPA/USDT",
+        "displaySymbol": "ARPA/USDT",
+        "symbol": "KUCOIN:ARPA-USDT"
+    },
+    {
+        "description": "Kucoin UOS/USDT",
+        "displaySymbol": "UOS/USDT",
+        "symbol": "KUCOIN:UOS-USDT"
+    },
+    {
+        "description": "Kucoin AI/USDT",
+        "displaySymbol": "AI/USDT",
+        "symbol": "KUCOIN:AI-USDT"
+    },
+    {
+        "description": "Kucoin IOTA/USDT",
+        "displaySymbol": "IOTA/USDT",
+        "symbol": "KUCOIN:IOTA-USDT"
+    },
+    {
+        "description": "Kucoin MANA/ETH",
+        "displaySymbol": "MANA/ETH",
+        "symbol": "KUCOIN:MANA-ETH"
+    },
+    {
+        "description": "Kucoin LINK/USDT",
+        "displaySymbol": "LINK/USDT",
+        "symbol": "KUCOIN:LINK-USDT"
+    },
+    {
+        "description": "Kucoin POLS/USDT",
+        "displaySymbol": "POLS/USDT",
+        "symbol": "KUCOIN:POLS-USDT"
+    },
+    {
+        "description": "Kucoin ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "KUCOIN:ZEC-BTC"
+    },
+    {
+        "description": "Kucoin ENS/USDT",
+        "displaySymbol": "ENS/USDT",
+        "symbol": "KUCOIN:ENS-USDT"
+    },
+    {
+        "description": "Kucoin NEO/BTC",
+        "displaySymbol": "NEO/BTC",
+        "symbol": "KUCOIN:NEO-BTC"
+    },
+    {
+        "description": "Kucoin MITX/BTC",
+        "displaySymbol": "MITX/BTC",
+        "symbol": "KUCOIN:MITX-BTC"
+    },
+    {
+        "description": "Kucoin BNB3L/USDT",
+        "displaySymbol": "BNB3L/USDT",
+        "symbol": "KUCOIN:BNB3L-USDT"
+    },
+    {
+        "description": "Kucoin LNCHX/USDT",
+        "displaySymbol": "LNCHX/USDT",
+        "symbol": "KUCOIN:LNCHX-USDT"
+    },
+    {
+        "description": "Kucoin RBTC/BTC",
+        "displaySymbol": "RBTC/BTC",
+        "symbol": "KUCOIN:RBTC-BTC"
+    },
+    {
+        "description": "Kucoin TOWER/BTC",
+        "displaySymbol": "TOWER/BTC",
+        "symbol": "KUCOIN:TOWER-BTC"
+    },
+    {
+        "description": "Kucoin TCP/USDT",
+        "displaySymbol": "TCP/USDT",
+        "symbol": "KUCOIN:TCP-USDT"
+    },
+    {
+        "description": "Kucoin AGIX/USDT",
+        "displaySymbol": "AGIX/USDT",
+        "symbol": "KUCOIN:AGIX-USDT"
+    },
+    {
+        "description": "Kucoin KOK/USDT",
+        "displaySymbol": "KOK/USDT",
+        "symbol": "KUCOIN:KOK-USDT"
+    },
+    {
+        "description": "Kucoin NRG/ETH",
+        "displaySymbol": "NRG/ETH",
+        "symbol": "KUCOIN:NRG-ETH"
+    },
+    {
+        "description": "Kucoin ENJ/ETH",
+        "displaySymbol": "ENJ/ETH",
+        "symbol": "KUCOIN:ENJ-ETH"
+    },
+    {
+        "description": "Kucoin DVPN/USDT",
+        "displaySymbol": "DVPN/USDT",
+        "symbol": "KUCOIN:DVPN-USDT"
+    },
+    {
+        "description": "Kucoin BAKE/USDT",
+        "displaySymbol": "BAKE/USDT",
+        "symbol": "KUCOIN:BAKE-USDT"
+    },
+    {
+        "description": "Kucoin XYM/BTC",
+        "displaySymbol": "XYM/BTC",
+        "symbol": "KUCOIN:XYM-BTC"
+    },
+    {
+        "description": "Kucoin ICP/USDT",
+        "displaySymbol": "ICP/USDT",
+        "symbol": "KUCOIN:ICP-USDT"
+    },
+    {
+        "description": "Kucoin SOLR/USDT",
+        "displaySymbol": "SOLR/USDT",
+        "symbol": "KUCOIN:SOLR-USDT"
+    },
+    {
+        "description": "Kucoin KEY/BTC",
+        "displaySymbol": "KEY/BTC",
+        "symbol": "KUCOIN:KEY-BTC"
+    },
+    {
+        "description": "Kucoin LINK/USDC",
+        "displaySymbol": "LINK/USDC",
+        "symbol": "KUCOIN:LINK-USDC"
+    },
+    {
+        "description": "Kucoin LUNA3S/USDT",
+        "displaySymbol": "LUNA3S/USDT",
+        "symbol": "KUCOIN:LUNA3S-USDT"
+    },
+    {
+        "description": "Kucoin BCHSV/USDC",
+        "displaySymbol": "BCHSV/USDC",
+        "symbol": "KUCOIN:BCHSV-USDC"
+    },
+    {
+        "description": "Kucoin GOVI/BTC",
+        "displaySymbol": "GOVI/BTC",
+        "symbol": "KUCOIN:GOVI-BTC"
+    },
+    {
+        "description": "Kucoin DCR/ETH",
+        "displaySymbol": "DCR/ETH",
+        "symbol": "KUCOIN:DCR-ETH"
+    },
+    {
+        "description": "Kucoin EPIK/USDT",
+        "displaySymbol": "EPIK/USDT",
+        "symbol": "KUCOIN:EPIK-USDT"
+    },
+    {
+        "description": "Kucoin LSK/BTC",
+        "displaySymbol": "LSK/BTC",
+        "symbol": "KUCOIN:LSK-BTC"
+    },
+    {
+        "description": "Kucoin AAVE/UST",
+        "displaySymbol": "AAVE/UST",
+        "symbol": "KUCOIN:AAVE-UST"
+    },
+    {
+        "description": "Kucoin EWT/KCS",
+        "displaySymbol": "EWT/KCS",
+        "symbol": "KUCOIN:EWT-KCS"
+    },
+    {
+        "description": "Kucoin WIN/USDT",
+        "displaySymbol": "WIN/USDT",
+        "symbol": "KUCOIN:WIN-USDT"
+    },
+    {
+        "description": "Kucoin BAT/USDT",
+        "displaySymbol": "BAT/USDT",
+        "symbol": "KUCOIN:BAT-USDT"
+    },
+    {
+        "description": "Kucoin DSLA/BTC",
+        "displaySymbol": "DSLA/BTC",
+        "symbol": "KUCOIN:DSLA-BTC"
+    },
+    {
+        "description": "Kucoin GLQ/BTC",
+        "displaySymbol": "GLQ/BTC",
+        "symbol": "KUCOIN:GLQ-BTC"
+    },
+    {
+        "description": "Kucoin KDON/USDT",
+        "displaySymbol": "KDON/USDT",
+        "symbol": "KUCOIN:KDON-USDT"
+    },
+    {
+        "description": "Kucoin CUSD/USDT",
+        "displaySymbol": "CUSD/USDT",
+        "symbol": "KUCOIN:CUSD-USDT"
+    },
+    {
+        "description": "Kucoin BADGER/BTC",
+        "displaySymbol": "BADGER/BTC",
+        "symbol": "KUCOIN:BADGER-BTC"
+    },
+    {
+        "description": "Kucoin HPB/ETH",
+        "displaySymbol": "HPB/ETH",
+        "symbol": "KUCOIN:HPB-ETH"
+    },
+    {
+        "description": "Kucoin MATIC/USDT",
+        "displaySymbol": "MATIC/USDT",
+        "symbol": "KUCOIN:MATIC-USDT"
+    },
+    {
+        "description": "Kucoin SXP/BTC",
+        "displaySymbol": "SXP/BTC",
+        "symbol": "KUCOIN:SXP-BTC"
+    },
+    {
+        "description": "Kucoin ADS/BTC",
+        "displaySymbol": "ADS/BTC",
+        "symbol": "KUCOIN:ADS-BTC"
+    },
+    {
+        "description": "Kucoin XDC/ETH",
+        "displaySymbol": "XDC/ETH",
+        "symbol": "KUCOIN:XDC-ETH"
+    },
+    {
+        "description": "Kucoin DATA/BTC",
+        "displaySymbol": "DATA/BTC",
+        "symbol": "KUCOIN:DATA-BTC"
+    },
+    {
+        "description": "Kucoin EFX/USDT",
+        "displaySymbol": "EFX/USDT",
+        "symbol": "KUCOIN:EFX-USDT"
+    },
+    {
+        "description": "Kucoin GOM2/BTC",
+        "displaySymbol": "GOM2/BTC",
+        "symbol": "KUCOIN:GOM2-BTC"
+    },
+    {
+        "description": "Kucoin SHILL/USDT",
+        "displaySymbol": "SHILL/USDT",
+        "symbol": "KUCOIN:SHILL-USDT"
+    },
+    {
+        "description": "Kucoin WXT/USDT",
+        "displaySymbol": "WXT/USDT",
+        "symbol": "KUCOIN:WXT-USDT"
+    },
+    {
+        "description": "Kucoin IDEA/USDT",
+        "displaySymbol": "IDEA/USDT",
+        "symbol": "KUCOIN:IDEA-USDT"
+    },
+    {
+        "description": "Kucoin DOCK/ETH",
+        "displaySymbol": "DOCK/ETH",
+        "symbol": "KUCOIN:DOCK-ETH"
+    },
+    {
+        "description": "Kucoin DOT3S/USDT",
+        "displaySymbol": "DOT3S/USDT",
+        "symbol": "KUCOIN:DOT3S-USDT"
+    },
+    {
+        "description": "Kucoin EXRD/USDT",
+        "displaySymbol": "EXRD/USDT",
+        "symbol": "KUCOIN:EXRD-USDT"
+    },
+    {
+        "description": "Kucoin FLOW/BTC",
+        "displaySymbol": "FLOW/BTC",
+        "symbol": "KUCOIN:FLOW-BTC"
+    },
+    {
+        "description": "Kucoin XED/BTC",
+        "displaySymbol": "XED/BTC",
+        "symbol": "KUCOIN:XED-BTC"
+    },
+    {
+        "description": "Kucoin SUSD/USDT",
+        "displaySymbol": "SUSD/USDT",
+        "symbol": "KUCOIN:SUSD-USDT"
+    },
+    {
+        "description": "Kucoin CTSI/USDT",
+        "displaySymbol": "CTSI/USDT",
+        "symbol": "KUCOIN:CTSI-USDT"
+    },
+    {
+        "description": "Kucoin ATOM/ETH",
+        "displaySymbol": "ATOM/ETH",
+        "symbol": "KUCOIN:ATOM-ETH"
+    },
+    {
+        "description": "Kucoin JUP/ETH",
+        "displaySymbol": "JUP/ETH",
+        "symbol": "KUCOIN:JUP-ETH"
+    },
+    {
+        "description": "Kucoin ADB/BTC",
+        "displaySymbol": "ADB/BTC",
+        "symbol": "KUCOIN:ADB-BTC"
+    },
+    {
+        "description": "Kucoin ALPACA/USDT",
+        "displaySymbol": "ALPACA/USDT",
+        "symbol": "KUCOIN:ALPACA-USDT"
+    },
+    {
+        "description": "Kucoin QI/USDT",
+        "displaySymbol": "QI/USDT",
+        "symbol": "KUCOIN:QI-USDT"
+    },
+    {
+        "description": "Kucoin WBTC/BTC",
+        "displaySymbol": "WBTC/BTC",
+        "symbol": "KUCOIN:WBTC-BTC"
+    },
+    {
+        "description": "Kucoin CHZ/BTC",
+        "displaySymbol": "CHZ/BTC",
+        "symbol": "KUCOIN:CHZ-BTC"
+    },
+    {
+        "description": "Kucoin POLK/USDT",
+        "displaySymbol": "POLK/USDT",
+        "symbol": "KUCOIN:POLK-USDT"
+    },
+    {
+        "description": "Kucoin YFI/UST",
+        "displaySymbol": "YFI/UST",
+        "symbol": "KUCOIN:YFI-UST"
+    },
+    {
+        "description": "Kucoin WTC/BTC",
+        "displaySymbol": "WTC/BTC",
+        "symbol": "KUCOIN:WTC-BTC"
+    },
+    {
+        "description": "Kucoin HORD/USDT",
+        "displaySymbol": "HORD/USDT",
+        "symbol": "KUCOIN:HORD-USDT"
+    },
+    {
+        "description": "Kucoin FORM/USDT",
+        "displaySymbol": "FORM/USDT",
+        "symbol": "KUCOIN:FORM-USDT"
+    },
+    {
+        "description": "Kucoin LUNA/BTC",
+        "displaySymbol": "LUNA/BTC",
+        "symbol": "KUCOIN:LUNA-BTC"
+    },
+    {
+        "description": "Kucoin DOCK/BTC",
+        "displaySymbol": "DOCK/BTC",
+        "symbol": "KUCOIN:DOCK-BTC"
+    },
+    {
+        "description": "Kucoin YFI/USDT",
+        "displaySymbol": "YFI/USDT",
+        "symbol": "KUCOIN:YFI-USDT"
+    },
+    {
+        "description": "Kucoin HARD/USDT",
+        "displaySymbol": "HARD/USDT",
+        "symbol": "KUCOIN:HARD-USDT"
+    },
+    {
+        "description": "Kucoin DORA/BTC",
+        "displaySymbol": "DORA/BTC",
+        "symbol": "KUCOIN:DORA-BTC"
+    },
+    {
+        "description": "Kucoin EOS/KCS",
+        "displaySymbol": "EOS/KCS",
+        "symbol": "KUCOIN:EOS-KCS"
+    },
+    {
+        "description": "Kucoin ONT/ETH",
+        "displaySymbol": "ONT/ETH",
+        "symbol": "KUCOIN:ONT-ETH"
+    },
+    {
+        "description": "Kucoin VAI/USDT",
+        "displaySymbol": "VAI/USDT",
+        "symbol": "KUCOIN:VAI-USDT"
+    },
+    {
+        "description": "Kucoin LTC/USDC",
+        "displaySymbol": "LTC/USDC",
+        "symbol": "KUCOIN:LTC-USDC"
+    },
+    {
+        "description": "Kucoin NIF/USDT",
+        "displaySymbol": "NIF/USDT",
+        "symbol": "KUCOIN:NIF-USDT"
+    },
+    {
+        "description": "Kucoin ADA3S/USDT",
+        "displaySymbol": "ADA3S/USDT",
+        "symbol": "KUCOIN:ADA3S-USDT"
+    },
+    {
+        "description": "Kucoin TRB/USDT",
+        "displaySymbol": "TRB/USDT",
+        "symbol": "KUCOIN:TRB-USDT"
+    },
+    {
+        "description": "Kucoin SOS/USDT",
+        "displaySymbol": "SOS/USDT",
+        "symbol": "KUCOIN:SOS-USDT"
+    },
+    {
+        "description": "Kucoin RSR/USDT",
+        "displaySymbol": "RSR/USDT",
+        "symbol": "KUCOIN:RSR-USDT"
+    },
+    {
+        "description": "Kucoin POND/BTC",
+        "displaySymbol": "POND/BTC",
+        "symbol": "KUCOIN:POND-BTC"
+    },
+    {
+        "description": "Kucoin BOA/USDT",
+        "displaySymbol": "BOA/USDT",
+        "symbol": "KUCOIN:BOA-USDT"
+    },
+    {
+        "description": "Kucoin AAVE/USDT",
+        "displaySymbol": "AAVE/USDT",
+        "symbol": "KUCOIN:AAVE-USDT"
+    },
+    {
+        "description": "Kucoin NGL/BTC",
+        "displaySymbol": "NGL/BTC",
+        "symbol": "KUCOIN:NGL-BTC"
+    },
+    {
+        "description": "Kucoin PYR/BTC",
+        "displaySymbol": "PYR/BTC",
+        "symbol": "KUCOIN:PYR-BTC"
+    },
+    {
+        "description": "Kucoin HAKA/USDT",
+        "displaySymbol": "HAKA/USDT",
+        "symbol": "KUCOIN:HAKA-USDT"
+    },
+    {
+        "description": "Kucoin NANO/ETH",
+        "displaySymbol": "NANO/ETH",
+        "symbol": "KUCOIN:NANO-ETH"
+    },
+    {
+        "description": "Kucoin XRP/ETH",
+        "displaySymbol": "XRP/ETH",
+        "symbol": "KUCOIN:XRP-ETH"
+    },
+    {
+        "description": "Kucoin PYR/USDT",
+        "displaySymbol": "PYR/USDT",
+        "symbol": "KUCOIN:PYR-USDT"
+    },
+    {
+        "description": "Kucoin AR/BTC",
+        "displaySymbol": "AR/BTC",
+        "symbol": "KUCOIN:AR-BTC"
+    },
+    {
+        "description": "Kucoin KNC/BTC",
+        "displaySymbol": "KNC/BTC",
+        "symbol": "KUCOIN:KNC-BTC"
+    },
+    {
+        "description": "Kucoin PRQ/USDT",
+        "displaySymbol": "PRQ/USDT",
+        "symbol": "KUCOIN:PRQ-USDT"
+    },
+    {
+        "description": "Kucoin SXP/USDT",
+        "displaySymbol": "SXP/USDT",
+        "symbol": "KUCOIN:SXP-USDT"
+    },
+    {
+        "description": "Kucoin SENSO/BTC",
+        "displaySymbol": "SENSO/BTC",
+        "symbol": "KUCOIN:SENSO-BTC"
+    },
+    {
+        "description": "Kucoin OPCT/USDT",
+        "displaySymbol": "OPCT/USDT",
+        "symbol": "KUCOIN:OPCT-USDT"
+    },
+    {
+        "description": "Kucoin GLQ/USDT",
+        "displaySymbol": "GLQ/USDT",
+        "symbol": "KUCOIN:GLQ-USDT"
+    },
+    {
+        "description": "Kucoin FTM3L/USDT",
+        "displaySymbol": "FTM3L/USDT",
+        "symbol": "KUCOIN:FTM3L-USDT"
+    },
+    {
+        "description": "Kucoin POLK/BTC",
+        "displaySymbol": "POLK/BTC",
+        "symbol": "KUCOIN:POLK-BTC"
+    },
+    {
+        "description": "Kucoin NU/BTC",
+        "displaySymbol": "NU/BTC",
+        "symbol": "KUCOIN:NU-BTC"
+    },
+    {
+        "description": "Kucoin CBC/BTC",
+        "displaySymbol": "CBC/BTC",
+        "symbol": "KUCOIN:CBC-BTC"
+    },
+    {
+        "description": "Kucoin REVU/USDT",
+        "displaySymbol": "REVU/USDT",
+        "symbol": "KUCOIN:REVU-USDT"
+    },
+    {
+        "description": "Kucoin FORESTPLUS/USDT",
+        "displaySymbol": "FORESTPLUS/USDT",
+        "symbol": "KUCOIN:FORESTPLUS-USDT"
+    },
+    {
+        "description": "Kucoin QUICK/BTC",
+        "displaySymbol": "QUICK/BTC",
+        "symbol": "KUCOIN:QUICK-BTC"
+    },
+    {
+        "description": "Kucoin GRIN/ETH",
+        "displaySymbol": "GRIN/ETH",
+        "symbol": "KUCOIN:GRIN-ETH"
+    },
+    {
+        "description": "Kucoin VID/USDT",
+        "displaySymbol": "VID/USDT",
+        "symbol": "KUCOIN:VID-USDT"
+    },
+    {
+        "description": "Kucoin DASH/BTC",
+        "displaySymbol": "DASH/BTC",
+        "symbol": "KUCOIN:DASH-BTC"
+    },
+    {
+        "description": "Kucoin UTK/ETH",
+        "displaySymbol": "UTK/ETH",
+        "symbol": "KUCOIN:UTK-ETH"
+    },
+    {
+        "description": "Kucoin STMX/USDT",
+        "displaySymbol": "STMX/USDT",
+        "symbol": "KUCOIN:STMX-USDT"
+    },
+    {
+        "description": "Kucoin TKO/BTC",
+        "displaySymbol": "TKO/BTC",
+        "symbol": "KUCOIN:TKO-BTC"
+    },
+    {
+        "description": "Kucoin NANO/BTC",
+        "displaySymbol": "NANO/BTC",
+        "symbol": "KUCOIN:NANO-BTC"
+    },
+    {
+        "description": "Kucoin ZEC/KCS",
+        "displaySymbol": "ZEC/KCS",
+        "symbol": "KUCOIN:ZEC-KCS"
+    },
+    {
+        "description": "Kucoin LAYER/USDT",
+        "displaySymbol": "LAYER/USDT",
+        "symbol": "KUCOIN:LAYER-USDT"
+    },
+    {
+        "description": "Kucoin UNI/KCS",
+        "displaySymbol": "UNI/KCS",
+        "symbol": "KUCOIN:UNI-KCS"
+    },
+    {
+        "description": "Kucoin NEO/KCS",
+        "displaySymbol": "NEO/KCS",
+        "symbol": "KUCOIN:NEO-KCS"
+    },
+    {
+        "description": "Kucoin PUSH/BTC",
+        "displaySymbol": "PUSH/BTC",
+        "symbol": "KUCOIN:PUSH-BTC"
+    },
+    {
+        "description": "Kucoin MATIC/BTC",
+        "displaySymbol": "MATIC/BTC",
+        "symbol": "KUCOIN:MATIC-BTC"
+    },
+    {
+        "description": "Kucoin MKR/ETH",
+        "displaySymbol": "MKR/ETH",
+        "symbol": "KUCOIN:MKR-ETH"
+    },
+    {
+        "description": "Kucoin PMON/USDT",
+        "displaySymbol": "PMON/USDT",
+        "symbol": "KUCOIN:PMON-USDT"
+    },
+    {
+        "description": "Kucoin WSIENNA/USDT",
+        "displaySymbol": "WSIENNA/USDT",
+        "symbol": "KUCOIN:WSIENNA-USDT"
+    },
+    {
+        "description": "Kucoin ADA/USDT",
+        "displaySymbol": "ADA/USDT",
+        "symbol": "KUCOIN:ADA-USDT"
+    },
+    {
+        "description": "Kucoin USDT/PAX",
+        "displaySymbol": "USDT/PAX",
+        "symbol": "KUCOIN:USDT-PAX"
+    },
+    {
+        "description": "Kucoin XRP/BTC",
+        "displaySymbol": "XRP/BTC",
+        "symbol": "KUCOIN:XRP-BTC"
+    },
+    {
+        "description": "Kucoin DATX/ETH",
+        "displaySymbol": "DATX/ETH",
+        "symbol": "KUCOIN:DATX-ETH"
+    },
+    {
+        "description": "Kucoin EPS/BTC",
+        "displaySymbol": "EPS/BTC",
+        "symbol": "KUCOIN:EPS-BTC"
+    },
+    {
+        "description": "Kucoin BCHSV/BTC",
+        "displaySymbol": "BCHSV/BTC",
+        "symbol": "KUCOIN:BCHSV-BTC"
+    },
+    {
+        "description": "Kucoin USDT/UST",
+        "displaySymbol": "USDT/UST",
+        "symbol": "KUCOIN:USDT-UST"
+    },
+    {
+        "description": "Kucoin STC/USDT",
+        "displaySymbol": "STC/USDT",
+        "symbol": "KUCOIN:STC-USDT"
+    },
+    {
+        "description": "Kucoin DGB/BTC",
+        "displaySymbol": "DGB/BTC",
+        "symbol": "KUCOIN:DGB-BTC"
+    },
+    {
+        "description": "Kucoin PEL/USDT",
+        "displaySymbol": "PEL/USDT",
+        "symbol": "KUCOIN:PEL-USDT"
+    },
+    {
+        "description": "Kucoin POLS/BTC",
+        "displaySymbol": "POLS/BTC",
+        "symbol": "KUCOIN:POLS-BTC"
+    },
+    {
+        "description": "Kucoin KIN/USDT",
+        "displaySymbol": "KIN/USDT",
+        "symbol": "KUCOIN:KIN-USDT"
+    },
+    {
+        "description": "Kucoin LPOOL/BTC",
+        "displaySymbol": "LPOOL/BTC",
+        "symbol": "KUCOIN:LPOOL-BTC"
+    },
+    {
+        "description": "Kucoin PERP/BTC",
+        "displaySymbol": "PERP/BTC",
+        "symbol": "KUCOIN:PERP-BTC"
+    },
+    {
+        "description": "Kucoin GENS/USDT",
+        "displaySymbol": "GENS/USDT",
+        "symbol": "KUCOIN:GENS-USDT"
+    },
+    {
+        "description": "Kucoin FCL/USDT",
+        "displaySymbol": "FCL/USDT",
+        "symbol": "KUCOIN:FCL-USDT"
+    },
+    {
+        "description": "Kucoin LYM/BTC",
+        "displaySymbol": "LYM/BTC",
+        "symbol": "KUCOIN:LYM-BTC"
+    },
+    {
+        "description": "Kucoin SPI/USDT",
+        "displaySymbol": "SPI/USDT",
+        "symbol": "KUCOIN:SPI-USDT"
+    },
+    {
+        "description": "Kucoin NDAU/USDT",
+        "displaySymbol": "NDAU/USDT",
+        "symbol": "KUCOIN:NDAU-USDT"
+    },
+    {
+        "description": "Kucoin RUNE/USDT",
+        "displaySymbol": "RUNE/USDT",
+        "symbol": "KUCOIN:RUNE-USDT"
+    },
+    {
+        "description": "Kucoin GLM/USDT",
+        "displaySymbol": "GLM/USDT",
+        "symbol": "KUCOIN:GLM-USDT"
+    },
+    {
+        "description": "Kucoin UNFI/USDT",
+        "displaySymbol": "UNFI/USDT",
+        "symbol": "KUCOIN:UNFI-USDT"
+    },
+    {
+        "description": "Kucoin DOGE3S/USDT",
+        "displaySymbol": "DOGE3S/USDT",
+        "symbol": "KUCOIN:DOGE3S-USDT"
+    },
+    {
+        "description": "Kucoin JST/USDT",
+        "displaySymbol": "JST/USDT",
+        "symbol": "KUCOIN:JST-USDT"
+    },
+    {
+        "description": "Kucoin GAS/USDT",
+        "displaySymbol": "GAS/USDT",
+        "symbol": "KUCOIN:GAS-USDT"
+    },
+    {
+        "description": "Kucoin DAO/USDT",
+        "displaySymbol": "DAO/USDT",
+        "symbol": "KUCOIN:DAO-USDT"
+    }
+]

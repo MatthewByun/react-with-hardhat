@@ -1,0 +1,2447 @@
+[
+    {
+        "description": "Poloniex AMP/USDT",
+        "displaySymbol": "AMP/USDT",
+        "symbol": "POLONIEX:USDT_AMP"
+    },
+    {
+        "description": "Poloniex RARE/USDT",
+        "displaySymbol": "RARE/USDT",
+        "symbol": "POLONIEX:USDT_RARE"
+    },
+    {
+        "description": "Poloniex GAS/BTC",
+        "displaySymbol": "GAS/BTC",
+        "symbol": "POLONIEX:BTC_GAS"
+    },
+    {
+        "description": "Poloniex SSG/USDT",
+        "displaySymbol": "SSG/USDT",
+        "symbol": "POLONIEX:USDT_SSG"
+    },
+    {
+        "description": "Poloniex RFUEL/USDT",
+        "displaySymbol": "RFUEL/USDT",
+        "symbol": "POLONIEX:USDT_RFUEL"
+    },
+    {
+        "description": "Poloniex ZKS/USDT",
+        "displaySymbol": "ZKS/USDT",
+        "symbol": "POLONIEX:USDT_ZKS"
+    },
+    {
+        "description": "Poloniex XTZ/TRX",
+        "displaySymbol": "XTZ/TRX",
+        "symbol": "POLONIEX:TRX_XTZ"
+    },
+    {
+        "description": "Poloniex DYDX/USDT",
+        "displaySymbol": "DYDX/USDT",
+        "symbol": "POLONIEX:USDT_DYDX"
+    },
+    {
+        "description": "Poloniex KLV/BTC",
+        "displaySymbol": "KLV/BTC",
+        "symbol": "POLONIEX:BTC_KLV"
+    },
+    {
+        "description": "Poloniex STEEM/BTC",
+        "displaySymbol": "STEEM/BTC",
+        "symbol": "POLONIEX:BTC_STEEM"
+    },
+    {
+        "description": "Poloniex UMA/USDT",
+        "displaySymbol": "UMA/USDT",
+        "symbol": "POLONIEX:USDT_UMA"
+    },
+    {
+        "description": "Poloniex BDP/USDT",
+        "displaySymbol": "BDP/USDT",
+        "symbol": "POLONIEX:USDT_BDP"
+    },
+    {
+        "description": "Poloniex LTC/USDC",
+        "displaySymbol": "LTC/USDC",
+        "symbol": "POLONIEX:USDC_LTC"
+    },
+    {
+        "description": "Poloniex BICO/USDT",
+        "displaySymbol": "BICO/USDT",
+        "symbol": "POLONIEX:USDT_BICO"
+    },
+    {
+        "description": "Poloniex ALPHA/USDT",
+        "displaySymbol": "ALPHA/USDT",
+        "symbol": "POLONIEX:USDT_ALPHA"
+    },
+    {
+        "description": "Poloniex ETH/TRX",
+        "displaySymbol": "ETH/TRX",
+        "symbol": "POLONIEX:TRX_ETH"
+    },
+    {
+        "description": "Poloniex SWAP/BTC",
+        "displaySymbol": "SWAP/BTC",
+        "symbol": "POLONIEX:BTC_SWAP"
+    },
+    {
+        "description": "Poloniex EOSBULL/USDT",
+        "displaySymbol": "EOSBULL/USDT",
+        "symbol": "POLONIEX:USDT_EOSBULL"
+    },
+    {
+        "description": "Poloniex ICE/USDT",
+        "displaySymbol": "ICE/USDT",
+        "symbol": "POLONIEX:USDT_ICE"
+    },
+    {
+        "description": "Poloniex FOAM/BTC",
+        "displaySymbol": "FOAM/BTC",
+        "symbol": "POLONIEX:BTC_FOAM"
+    },
+    {
+        "description": "Poloniex LATTE/USDT",
+        "displaySymbol": "LATTE/USDT",
+        "symbol": "POLONIEX:USDT_LATTE"
+    },
+    {
+        "description": "Poloniex C98/USDT",
+        "displaySymbol": "C98/USDT",
+        "symbol": "POLONIEX:USDT_C98"
+    },
+    {
+        "description": "Poloniex TAI/USDT",
+        "displaySymbol": "TAI/USDT",
+        "symbol": "POLONIEX:USDT_TAI"
+    },
+    {
+        "description": "Poloniex ADA/BTC",
+        "displaySymbol": "ADA/BTC",
+        "symbol": "POLONIEX:BTC_ADA"
+    },
+    {
+        "description": "Poloniex DAI/USDT",
+        "displaySymbol": "DAI/USDT",
+        "symbol": "POLONIEX:USDT_DAI"
+    },
+    {
+        "description": "Poloniex NEXO/USDT",
+        "displaySymbol": "NEXO/USDT",
+        "symbol": "POLONIEX:USDT_NEXO"
+    },
+    {
+        "description": "Poloniex BNB/USDC",
+        "displaySymbol": "BNB/USDC",
+        "symbol": "POLONIEX:USDC_BNB"
+    },
+    {
+        "description": "Poloniex MLN/USDT",
+        "displaySymbol": "MLN/USDT",
+        "symbol": "POLONIEX:USDT_MLN"
+    },
+    {
+        "description": "Poloniex NEO/BTC",
+        "displaySymbol": "NEO/BTC",
+        "symbol": "POLONIEX:BTC_NEO"
+    },
+    {
+        "description": "Poloniex QTUM/BTC",
+        "displaySymbol": "QTUM/BTC",
+        "symbol": "POLONIEX:BTC_QTUM"
+    },
+    {
+        "description": "Poloniex POLY/BTC",
+        "displaySymbol": "POLY/BTC",
+        "symbol": "POLONIEX:BTC_POLY"
+    },
+    {
+        "description": "Poloniex BADGER/USDT",
+        "displaySymbol": "BADGER/USDT",
+        "symbol": "POLONIEX:USDT_BADGER"
+    },
+    {
+        "description": "Poloniex RLC/USDT",
+        "displaySymbol": "RLC/USDT",
+        "symbol": "POLONIEX:USDT_RLC"
+    },
+    {
+        "description": "Poloniex GTC/USDT",
+        "displaySymbol": "GTC/USDT",
+        "symbol": "POLONIEX:USDT_GTC"
+    },
+    {
+        "description": "Poloniex OKB/USDT",
+        "displaySymbol": "OKB/USDT",
+        "symbol": "POLONIEX:USDT_OKB"
+    },
+    {
+        "description": "Poloniex SNX/BTC",
+        "displaySymbol": "SNX/BTC",
+        "symbol": "POLONIEX:BTC_SNX"
+    },
+    {
+        "description": "Poloniex AMP/BTC",
+        "displaySymbol": "AMP/BTC",
+        "symbol": "POLONIEX:BTC_AMP"
+    },
+    {
+        "description": "Poloniex ATOM/USDT",
+        "displaySymbol": "ATOM/USDT",
+        "symbol": "POLONIEX:USDT_ATOM"
+    },
+    {
+        "description": "Poloniex EFI/USDT",
+        "displaySymbol": "EFI/USDT",
+        "symbol": "POLONIEX:USDT_EFI"
+    },
+    {
+        "description": "Poloniex FRONT/BTC",
+        "displaySymbol": "FRONT/BTC",
+        "symbol": "POLONIEX:BTC_FRONT"
+    },
+    {
+        "description": "Poloniex BLY/USDT",
+        "displaySymbol": "BLY/USDT",
+        "symbol": "POLONIEX:USDT_BLY"
+    },
+    {
+        "description": "Poloniex GMEE/USDT",
+        "displaySymbol": "GMEE/USDT",
+        "symbol": "POLONIEX:USDT_GMEE"
+    },
+    {
+        "description": "Poloniex FIL/USDT",
+        "displaySymbol": "FIL/USDT",
+        "symbol": "POLONIEX:USDT_FIL"
+    },
+    {
+        "description": "Poloniex CVT/USDT",
+        "displaySymbol": "CVT/USDT",
+        "symbol": "POLONIEX:USDT_CVT"
+    },
+    {
+        "description": "Poloniex MATIC/TRX",
+        "displaySymbol": "MATIC/TRX",
+        "symbol": "POLONIEX:TRX_MATIC"
+    },
+    {
+        "description": "Poloniex SOL/BTC",
+        "displaySymbol": "SOL/BTC",
+        "symbol": "POLONIEX:BTC_SOL"
+    },
+    {
+        "description": "Poloniex PERX/USDT",
+        "displaySymbol": "PERX/USDT",
+        "symbol": "POLONIEX:USDT_PERX"
+    },
+    {
+        "description": "Poloniex LINKBULL/USDT",
+        "displaySymbol": "LINKBULL/USDT",
+        "symbol": "POLONIEX:USDT_LINKBULL"
+    },
+    {
+        "description": "Poloniex BOBA/USDT",
+        "displaySymbol": "BOBA/USDT",
+        "symbol": "POLONIEX:USDT_BOBA"
+    },
+    {
+        "description": "Poloniex XLMBEAR/USDT",
+        "displaySymbol": "XLMBEAR/USDT",
+        "symbol": "POLONIEX:USDT_XLMBEAR"
+    },
+    {
+        "description": "Poloniex ALPACA/USDT",
+        "displaySymbol": "ALPACA/USDT",
+        "symbol": "POLONIEX:USDT_ALPACA"
+    },
+    {
+        "description": "Poloniex BTC/USDT",
+        "displaySymbol": "BTC/USDT",
+        "symbol": "POLONIEX:USDT_BTC"
+    },
+    {
+        "description": "Poloniex SNT/BTC",
+        "displaySymbol": "SNT/BTC",
+        "symbol": "POLONIEX:BTC_SNT"
+    },
+    {
+        "description": "Poloniex TRX/USDT",
+        "displaySymbol": "TRX/USDT",
+        "symbol": "POLONIEX:USDT_TRX"
+    },
+    {
+        "description": "Poloniex FUND/USDT",
+        "displaySymbol": "FUND/USDT",
+        "symbol": "POLONIEX:USDT_FUND"
+    },
+    {
+        "description": "Poloniex eRSDL/USDT",
+        "displaySymbol": "eRSDL/USDT",
+        "symbol": "POLONIEX:USDT_eRSDL"
+    },
+    {
+        "description": "Poloniex RBN/USDT",
+        "displaySymbol": "RBN/USDT",
+        "symbol": "POLONIEX:USDT_RBN"
+    },
+    {
+        "description": "Poloniex BNT/BTC",
+        "displaySymbol": "BNT/BTC",
+        "symbol": "POLONIEX:BTC_BNT"
+    },
+    {
+        "description": "Poloniex COMP/USDT",
+        "displaySymbol": "COMP/USDT",
+        "symbol": "POLONIEX:USDT_COMP"
+    },
+    {
+        "description": "Poloniex ERN/USDT",
+        "displaySymbol": "ERN/USDT",
+        "symbol": "POLONIEX:USDT_ERN"
+    },
+    {
+        "description": "Poloniex ENS/USDT",
+        "displaySymbol": "ENS/USDT",
+        "symbol": "POLONIEX:USDT_ENS"
+    },
+    {
+        "description": "Poloniex BIFI/USDT",
+        "displaySymbol": "BIFI/USDT",
+        "symbol": "POLONIEX:USDT_BIFI"
+    },
+    {
+        "description": "Poloniex CUDOS/USDT",
+        "displaySymbol": "CUDOS/USDT",
+        "symbol": "POLONIEX:USDT_CUDOS"
+    },
+    {
+        "description": "Poloniex CAKE/USDT",
+        "displaySymbol": "CAKE/USDT",
+        "symbol": "POLONIEX:USDT_CAKE"
+    },
+    {
+        "description": "Poloniex CLV/USDT",
+        "displaySymbol": "CLV/USDT",
+        "symbol": "POLONIEX:USDT_CLV"
+    },
+    {
+        "description": "Poloniex VADER/USDT",
+        "displaySymbol": "VADER/USDT",
+        "symbol": "POLONIEX:USDT_VADER"
+    },
+    {
+        "description": "Poloniex YFX/USDT",
+        "displaySymbol": "YFX/USDT",
+        "symbol": "POLONIEX:USDT_YFX"
+    },
+    {
+        "description": "Poloniex SWFTC/USDT",
+        "displaySymbol": "SWFTC/USDT",
+        "symbol": "POLONIEX:USDT_SWFTC"
+    },
+    {
+        "description": "Poloniex EOS/USDT",
+        "displaySymbol": "EOS/USDT",
+        "symbol": "POLONIEX:USDT_EOS"
+    },
+    {
+        "description": "Poloniex WNXM/USDT",
+        "displaySymbol": "WNXM/USDT",
+        "symbol": "POLONIEX:USDT_WNXM"
+    },
+    {
+        "description": "Poloniex MIST/USDT",
+        "displaySymbol": "MIST/USDT",
+        "symbol": "POLONIEX:USDT_MIST"
+    },
+    {
+        "description": "Poloniex LUMI/USDT",
+        "displaySymbol": "LUMI/USDT",
+        "symbol": "POLONIEX:USDT_LUMI"
+    },
+    {
+        "description": "Poloniex FLOKI/USDT",
+        "displaySymbol": "FLOKI/USDT",
+        "symbol": "POLONIEX:USDT_FLOKI"
+    },
+    {
+        "description": "Poloniex UNI/USDT",
+        "displaySymbol": "UNI/USDT",
+        "symbol": "POLONIEX:USDT_UNI"
+    },
+    {
+        "description": "Poloniex YFI/USDT",
+        "displaySymbol": "YFI/USDT",
+        "symbol": "POLONIEX:USDT_YFI"
+    },
+    {
+        "description": "Poloniex WETH/USDT",
+        "displaySymbol": "WETH/USDT",
+        "symbol": "POLONIEX:USDT_WETH"
+    },
+    {
+        "description": "Poloniex DOGE/BTC",
+        "displaySymbol": "DOGE/BTC",
+        "symbol": "POLONIEX:BTC_DOGE"
+    },
+    {
+        "description": "Poloniex AKRO/BTC",
+        "displaySymbol": "AKRO/BTC",
+        "symbol": "POLONIEX:BTC_AKRO"
+    },
+    {
+        "description": "Poloniex ONEINCH/USDT",
+        "displaySymbol": "ONEINCH/USDT",
+        "symbol": "POLONIEX:USDT_ONEINCH"
+    },
+    {
+        "description": "Poloniex NCR/USDT",
+        "displaySymbol": "NCR/USDT",
+        "symbol": "POLONIEX:USDT_NCR"
+    },
+    {
+        "description": "Poloniex ANY/USDT",
+        "displaySymbol": "ANY/USDT",
+        "symbol": "POLONIEX:USDT_ANY"
+    },
+    {
+        "description": "Poloniex VALUE/USDT",
+        "displaySymbol": "VALUE/USDT",
+        "symbol": "POLONIEX:USDT_VALUE"
+    },
+    {
+        "description": "Poloniex TRXBULL/USDT",
+        "displaySymbol": "TRXBULL/USDT",
+        "symbol": "POLONIEX:USDT_TRXBULL"
+    },
+    {
+        "description": "Poloniex SWFTC/BTC",
+        "displaySymbol": "SWFTC/BTC",
+        "symbol": "POLONIEX:BTC_SWFTC"
+    },
+    {
+        "description": "Poloniex BLZ/USDT",
+        "displaySymbol": "BLZ/USDT",
+        "symbol": "POLONIEX:USDT_BLZ"
+    },
+    {
+        "description": "Poloniex AMP/TRX",
+        "displaySymbol": "AMP/TRX",
+        "symbol": "POLONIEX:TRX_AMP"
+    },
+    {
+        "description": "Poloniex FARM/USDT",
+        "displaySymbol": "FARM/USDT",
+        "symbol": "POLONIEX:USDT_FARM"
+    },
+    {
+        "description": "Poloniex ETC/BTC",
+        "displaySymbol": "ETC/BTC",
+        "symbol": "POLONIEX:BTC_ETC"
+    },
+    {
+        "description": "Poloniex AGLD/USDT",
+        "displaySymbol": "AGLD/USDT",
+        "symbol": "POLONIEX:USDT_AGLD"
+    },
+    {
+        "description": "Poloniex LINK/BTC",
+        "displaySymbol": "LINK/BTC",
+        "symbol": "POLONIEX:BTC_LINK"
+    },
+    {
+        "description": "Poloniex SENSO/BTC",
+        "displaySymbol": "SENSO/BTC",
+        "symbol": "POLONIEX:BTC_SENSO"
+    },
+    {
+        "description": "Poloniex XTZ/BTC",
+        "displaySymbol": "XTZ/BTC",
+        "symbol": "POLONIEX:BTC_XTZ"
+    },
+    {
+        "description": "Poloniex CVT/BTC",
+        "displaySymbol": "CVT/BTC",
+        "symbol": "POLONIEX:BTC_CVT"
+    },
+    {
+        "description": "Poloniex EOS/BTC",
+        "displaySymbol": "EOS/BTC",
+        "symbol": "POLONIEX:BTC_EOS"
+    },
+    {
+        "description": "Poloniex ADABEAR/USDT",
+        "displaySymbol": "ADABEAR/USDT",
+        "symbol": "POLONIEX:USDT_ADABEAR"
+    },
+    {
+        "description": "Poloniex XTZ/USDT",
+        "displaySymbol": "XTZ/USDT",
+        "symbol": "POLONIEX:USDT_XTZ"
+    },
+    {
+        "description": "Poloniex MBOX/USDT",
+        "displaySymbol": "MBOX/USDT",
+        "symbol": "POLONIEX:USDT_MBOX"
+    },
+    {
+        "description": "Poloniex MANA/BTC",
+        "displaySymbol": "MANA/BTC",
+        "symbol": "POLONIEX:BTC_MANA"
+    },
+    {
+        "description": "Poloniex LRC/BTC",
+        "displaySymbol": "LRC/BTC",
+        "symbol": "POLONIEX:BTC_LRC"
+    },
+    {
+        "description": "Poloniex BID/USDT",
+        "displaySymbol": "BID/USDT",
+        "symbol": "POLONIEX:USDT_BID"
+    },
+    {
+        "description": "Poloniex TRXBEAR/USDT",
+        "displaySymbol": "TRXBEAR/USDT",
+        "symbol": "POLONIEX:USDT_TRXBEAR"
+    },
+    {
+        "description": "Poloniex VSP/USDT",
+        "displaySymbol": "VSP/USDT",
+        "symbol": "POLONIEX:USDT_VSP"
+    },
+    {
+        "description": "Poloniex UDT/USDT",
+        "displaySymbol": "UDT/USDT",
+        "symbol": "POLONIEX:USDT_UDT"
+    },
+    {
+        "description": "Poloniex NFTX/USDT",
+        "displaySymbol": "NFTX/USDT",
+        "symbol": "POLONIEX:USDT_NFTX"
+    },
+    {
+        "description": "Poloniex ZLOT/USDT",
+        "displaySymbol": "ZLOT/USDT",
+        "symbol": "POLONIEX:USDT_ZLOT"
+    },
+    {
+        "description": "Poloniex AXS/USDT",
+        "displaySymbol": "AXS/USDT",
+        "symbol": "POLONIEX:USDT_AXS"
+    },
+    {
+        "description": "Poloniex LTCBULL/USDT",
+        "displaySymbol": "LTCBULL/USDT",
+        "symbol": "POLONIEX:USDT_LTCBULL"
+    },
+    {
+        "description": "Poloniex DICE/TRX",
+        "displaySymbol": "DICE/TRX",
+        "symbol": "POLONIEX:TRX_DICE"
+    },
+    {
+        "description": "Poloniex SWINGBY/USDT",
+        "displaySymbol": "SWINGBY/USDT",
+        "symbol": "POLONIEX:USDT_SWINGBY"
+    },
+    {
+        "description": "Poloniex JST/TRX",
+        "displaySymbol": "JST/TRX",
+        "symbol": "POLONIEX:TRX_JST"
+    },
+    {
+        "description": "Poloniex BNB/TRX",
+        "displaySymbol": "BNB/TRX",
+        "symbol": "POLONIEX:TRX_BNB"
+    },
+    {
+        "description": "Poloniex ARDR/BTC",
+        "displaySymbol": "ARDR/BTC",
+        "symbol": "POLONIEX:BTC_ARDR"
+    },
+    {
+        "description": "Poloniex METIS/USDT",
+        "displaySymbol": "METIS/USDT",
+        "symbol": "POLONIEX:USDT_METIS"
+    },
+    {
+        "description": "Poloniex ADEL/USDT",
+        "displaySymbol": "ADEL/USDT",
+        "symbol": "POLONIEX:USDT_ADEL"
+    },
+    {
+        "description": "Poloniex LOOM/BTC",
+        "displaySymbol": "LOOM/BTC",
+        "symbol": "POLONIEX:BTC_LOOM"
+    },
+    {
+        "description": "Poloniex AVA/BTC",
+        "displaySymbol": "AVA/BTC",
+        "symbol": "POLONIEX:BTC_AVA"
+    },
+    {
+        "description": "Poloniex BSVBULL/USDT",
+        "displaySymbol": "BSVBULL/USDT",
+        "symbol": "POLONIEX:USDT_BSVBULL"
+    },
+    {
+        "description": "Poloniex HEX/USDT",
+        "displaySymbol": "HEX/USDT",
+        "symbol": "POLONIEX:USDT_HEX"
+    },
+    {
+        "description": "Poloniex AKRO/USDT",
+        "displaySymbol": "AKRO/USDT",
+        "symbol": "POLONIEX:USDT_AKRO"
+    },
+    {
+        "description": "Poloniex MOCHI/USDT",
+        "displaySymbol": "MOCHI/USDT",
+        "symbol": "POLONIEX:USDT_MOCHI"
+    },
+    {
+        "description": "Poloniex RD/USDT",
+        "displaySymbol": "RD/USDT",
+        "symbol": "POLONIEX:USDT_RD"
+    },
+    {
+        "description": "Poloniex ATOM/USDC",
+        "displaySymbol": "ATOM/USDC",
+        "symbol": "POLONIEX:USDC_ATOM"
+    },
+    {
+        "description": "Poloniex TUSD/USDT",
+        "displaySymbol": "TUSD/USDT",
+        "symbol": "POLONIEX:USDT_TUSD"
+    },
+    {
+        "description": "Poloniex WRX/TRX",
+        "displaySymbol": "WRX/TRX",
+        "symbol": "POLONIEX:TRX_WRX"
+    },
+    {
+        "description": "Poloniex STORJ/BTC",
+        "displaySymbol": "STORJ/BTC",
+        "symbol": "POLONIEX:BTC_STORJ"
+    },
+    {
+        "description": "Poloniex BAT/BTC",
+        "displaySymbol": "BAT/BTC",
+        "symbol": "POLONIEX:BTC_BAT"
+    },
+    {
+        "description": "Poloniex PBTC35A/USDT",
+        "displaySymbol": "PBTC35A/USDT",
+        "symbol": "POLONIEX:USDT_PBTC35A"
+    },
+    {
+        "description": "Poloniex BCHA/BTC",
+        "displaySymbol": "BCHA/BTC",
+        "symbol": "POLONIEX:BTC_BCHA"
+    },
+    {
+        "description": "Poloniex ELON/USDT",
+        "displaySymbol": "ELON/USDT",
+        "symbol": "POLONIEX:USDT_ELON"
+    },
+    {
+        "description": "Poloniex GM/USDT",
+        "displaySymbol": "GM/USDT",
+        "symbol": "POLONIEX:USDT_GM"
+    },
+    {
+        "description": "Poloniex HEGIC/USDT",
+        "displaySymbol": "HEGIC/USDT",
+        "symbol": "POLONIEX:USDT_HEGIC"
+    },
+    {
+        "description": "Poloniex NFT/USDT",
+        "displaySymbol": "NFT/USDT",
+        "symbol": "POLONIEX:USDT_NFT"
+    },
+    {
+        "description": "Poloniex MC/USDT",
+        "displaySymbol": "MC/USDT",
+        "symbol": "POLONIEX:USDT_MC"
+    },
+    {
+        "description": "Poloniex CVX/USDT",
+        "displaySymbol": "CVX/USDT",
+        "symbol": "POLONIEX:USDT_CVX"
+    },
+    {
+        "description": "Poloniex CTC/USDT",
+        "displaySymbol": "CTC/USDT",
+        "symbol": "POLONIEX:USDT_CTC"
+    },
+    {
+        "description": "Poloniex LPT/BTC",
+        "displaySymbol": "LPT/BTC",
+        "symbol": "POLONIEX:BTC_LPT"
+    },
+    {
+        "description": "Poloniex SENSO/USDT",
+        "displaySymbol": "SENSO/USDT",
+        "symbol": "POLONIEX:USDT_SENSO"
+    },
+    {
+        "description": "Poloniex JOE/USDT",
+        "displaySymbol": "JOE/USDT",
+        "symbol": "POLONIEX:USDT_JOE"
+    },
+    {
+        "description": "Poloniex AVAX/USDC",
+        "displaySymbol": "AVAX/USDC",
+        "symbol": "POLONIEX:USDC_AVAX"
+    },
+    {
+        "description": "Poloniex COOL/USDT",
+        "displaySymbol": "COOL/USDT",
+        "symbol": "POLONIEX:USDT_COOL"
+    },
+    {
+        "description": "Poloniex XRP/USDT",
+        "displaySymbol": "XRP/USDT",
+        "symbol": "POLONIEX:USDT_XRP"
+    },
+    {
+        "description": "Poloniex AVA/USDT",
+        "displaySymbol": "AVA/USDT",
+        "symbol": "POLONIEX:USDT_AVA"
+    },
+    {
+        "description": "Poloniex CHZ/USDT",
+        "displaySymbol": "CHZ/USDT",
+        "symbol": "POLONIEX:USDT_CHZ"
+    },
+    {
+        "description": "Poloniex XDEFI/USDT",
+        "displaySymbol": "XDEFI/USDT",
+        "symbol": "POLONIEX:USDT_XDEFI"
+    },
+    {
+        "description": "Poloniex DEGO/USDT",
+        "displaySymbol": "DEGO/USDT",
+        "symbol": "POLONIEX:USDT_DEGO"
+    },
+    {
+        "description": "Poloniex DCR/BTC",
+        "displaySymbol": "DCR/BTC",
+        "symbol": "POLONIEX:BTC_DCR"
+    },
+    {
+        "description": "Poloniex BTS/BTC",
+        "displaySymbol": "BTS/BTC",
+        "symbol": "POLONIEX:BTC_BTS"
+    },
+    {
+        "description": "Poloniex NU/USDT",
+        "displaySymbol": "NU/USDT",
+        "symbol": "POLONIEX:USDT_NU"
+    },
+    {
+        "description": "Poloniex BTC/PAX",
+        "displaySymbol": "BTC/PAX",
+        "symbol": "POLONIEX:PAX_BTC"
+    },
+    {
+        "description": "Poloniex SC/USDT",
+        "displaySymbol": "SC/USDT",
+        "symbol": "POLONIEX:USDT_SC"
+    },
+    {
+        "description": "Poloniex SAND/USDT",
+        "displaySymbol": "SAND/USDT",
+        "symbol": "POLONIEX:USDT_SAND"
+    },
+    {
+        "description": "Poloniex BAC/USDT",
+        "displaySymbol": "BAC/USDT",
+        "symbol": "POLONIEX:USDT_BAC"
+    },
+    {
+        "description": "Poloniex TRU/BTC",
+        "displaySymbol": "TRU/BTC",
+        "symbol": "POLONIEX:BTC_TRU"
+    },
+    {
+        "description": "Poloniex DHT/USDT",
+        "displaySymbol": "DHT/USDT",
+        "symbol": "POLONIEX:USDT_DHT"
+    },
+    {
+        "description": "Poloniex DASH/BTC",
+        "displaySymbol": "DASH/BTC",
+        "symbol": "POLONIEX:BTC_DASH"
+    },
+    {
+        "description": "Poloniex AVAX/USDT",
+        "displaySymbol": "AVAX/USDT",
+        "symbol": "POLONIEX:USDT_AVAX"
+    },
+    {
+        "description": "Poloniex LINK/USDC",
+        "displaySymbol": "LINK/USDC",
+        "symbol": "POLONIEX:USDC_LINK"
+    },
+    {
+        "description": "Poloniex SQUID/USDT",
+        "displaySymbol": "SQUID/USDT",
+        "symbol": "POLONIEX:USDT_SQUID"
+    },
+    {
+        "description": "Poloniex UST/USDT",
+        "displaySymbol": "UST/USDT",
+        "symbol": "POLONIEX:USDT_UST"
+    },
+    {
+        "description": "Poloniex COMBO/USDT",
+        "displaySymbol": "COMBO/USDT",
+        "symbol": "POLONIEX:USDT_COMBO"
+    },
+    {
+        "description": "Poloniex SWINGBY/TRX",
+        "displaySymbol": "SWINGBY/TRX",
+        "symbol": "POLONIEX:TRX_SWINGBY"
+    },
+    {
+        "description": "Poloniex LUMI/TRX",
+        "displaySymbol": "LUMI/TRX",
+        "symbol": "POLONIEX:TRX_LUMI"
+    },
+    {
+        "description": "Poloniex DASH/USDC",
+        "displaySymbol": "DASH/USDC",
+        "symbol": "POLONIEX:USDC_DASH"
+    },
+    {
+        "description": "Poloniex MKR/USDT",
+        "displaySymbol": "MKR/USDT",
+        "symbol": "POLONIEX:USDT_MKR"
+    },
+    {
+        "description": "Poloniex LSK/BTC",
+        "displaySymbol": "LSK/BTC",
+        "symbol": "POLONIEX:BTC_LSK"
+    },
+    {
+        "description": "Poloniex POLYDOGE/USDT",
+        "displaySymbol": "POLYDOGE/USDT",
+        "symbol": "POLONIEX:USDT_POLYDOGE"
+    },
+    {
+        "description": "Poloniex ACH1/USDT",
+        "displaySymbol": "ACH1/USDT",
+        "symbol": "POLONIEX:USDT_ACH1"
+    },
+    {
+        "description": "Poloniex SWRV/USDT",
+        "displaySymbol": "SWRV/USDT",
+        "symbol": "POLONIEX:USDT_SWRV"
+    },
+    {
+        "description": "Poloniex REEF/USDT",
+        "displaySymbol": "REEF/USDT",
+        "symbol": "POLONIEX:USDT_REEF"
+    },
+    {
+        "description": "Poloniex WRX/USDT",
+        "displaySymbol": "WRX/USDT",
+        "symbol": "POLONIEX:USDT_WRX"
+    },
+    {
+        "description": "Poloniex TRB/USDT",
+        "displaySymbol": "TRB/USDT",
+        "symbol": "POLONIEX:USDT_TRB"
+    },
+    {
+        "description": "Poloniex SNX/TRX",
+        "displaySymbol": "SNX/TRX",
+        "symbol": "POLONIEX:TRX_SNX"
+    },
+    {
+        "description": "Poloniex BCHBEAR/USDT",
+        "displaySymbol": "BCHBEAR/USDT",
+        "symbol": "POLONIEX:USDT_BCHBEAR"
+    },
+    {
+        "description": "Poloniex SAITAMA/USDT",
+        "displaySymbol": "SAITAMA/USDT",
+        "symbol": "POLONIEX:USDT_SAITAMA"
+    },
+    {
+        "description": "Poloniex BEAR/USDT",
+        "displaySymbol": "BEAR/USDT",
+        "symbol": "POLONIEX:USDT_BEAR"
+    },
+    {
+        "description": "Poloniex BURGER/USDT",
+        "displaySymbol": "BURGER/USDT",
+        "symbol": "POLONIEX:USDT_BURGER"
+    },
+    {
+        "description": "Poloniex USDJ/USDT",
+        "displaySymbol": "USDJ/USDT",
+        "symbol": "POLONIEX:USDT_USDJ"
+    },
+    {
+        "description": "Poloniex RSR/USDT",
+        "displaySymbol": "RSR/USDT",
+        "symbol": "POLONIEX:USDT_RSR"
+    },
+    {
+        "description": "Poloniex EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "POLONIEX:ETH_EOS"
+    },
+    {
+        "description": "Poloniex ZRX/ETH",
+        "displaySymbol": "ZRX/ETH",
+        "symbol": "POLONIEX:ETH_ZRX"
+    },
+    {
+        "description": "Poloniex DASH/USDT",
+        "displaySymbol": "DASH/USDT",
+        "symbol": "POLONIEX:USDT_DASH"
+    },
+    {
+        "description": "Poloniex REVV/USDT",
+        "displaySymbol": "REVV/USDT",
+        "symbol": "POLONIEX:USDT_REVV"
+    },
+    {
+        "description": "Poloniex KISHU/TRX",
+        "displaySymbol": "KISHU/TRX",
+        "symbol": "POLONIEX:TRX_KISHU"
+    },
+    {
+        "description": "Poloniex ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "POLONIEX:DAI_ETH"
+    },
+    {
+        "description": "Poloniex BCH/USDC",
+        "displaySymbol": "BCH/USDC",
+        "symbol": "POLONIEX:USDC_BCH"
+    },
+    {
+        "description": "Poloniex STR/USDC",
+        "displaySymbol": "STR/USDC",
+        "symbol": "POLONIEX:USDC_STR"
+    },
+    {
+        "description": "Poloniex DFA/USDT",
+        "displaySymbol": "DFA/USDT",
+        "symbol": "POLONIEX:USDT_DFA"
+    },
+    {
+        "description": "Poloniex LON/USDT",
+        "displaySymbol": "LON/USDT",
+        "symbol": "POLONIEX:USDT_LON"
+    },
+    {
+        "description": "Poloniex BZRX/USDT",
+        "displaySymbol": "BZRX/USDT",
+        "symbol": "POLONIEX:USDT_BZRX"
+    },
+    {
+        "description": "Poloniex FSW/USDT",
+        "displaySymbol": "FSW/USDT",
+        "symbol": "POLONIEX:USDT_FSW"
+    },
+    {
+        "description": "Poloniex YFII/USDT",
+        "displaySymbol": "YFII/USDT",
+        "symbol": "POLONIEX:USDT_YFII"
+    },
+    {
+        "description": "Poloniex GRT/USDT",
+        "displaySymbol": "GRT/USDT",
+        "symbol": "POLONIEX:USDT_GRT"
+    },
+    {
+        "description": "Poloniex DEXT/USDT",
+        "displaySymbol": "DEXT/USDT",
+        "symbol": "POLONIEX:USDT_DEXT"
+    },
+    {
+        "description": "Poloniex BTT/USDJ",
+        "displaySymbol": "BTT/USDJ",
+        "symbol": "POLONIEX:USDJ_BTT"
+    },
+    {
+        "description": "Poloniex WBTC/USDT",
+        "displaySymbol": "WBTC/USDT",
+        "symbol": "POLONIEX:USDT_WBTC"
+    },
+    {
+        "description": "Poloniex REN/BTC",
+        "displaySymbol": "REN/BTC",
+        "symbol": "POLONIEX:BTC_REN"
+    },
+    {
+        "description": "Poloniex API3/USDT",
+        "displaySymbol": "API3/USDT",
+        "symbol": "POLONIEX:USDT_API3"
+    },
+    {
+        "description": "Poloniex DICE/USDT",
+        "displaySymbol": "DICE/USDT",
+        "symbol": "POLONIEX:USDT_DICE"
+    },
+    {
+        "description": "Poloniex BCH/USDT",
+        "displaySymbol": "BCH/USDT",
+        "symbol": "POLONIEX:USDT_BCH"
+    },
+    {
+        "description": "Poloniex XRPBULL/USDT",
+        "displaySymbol": "XRPBULL/USDT",
+        "symbol": "POLONIEX:USDT_XRPBULL"
+    },
+    {
+        "description": "Poloniex ETHBULL/USDT",
+        "displaySymbol": "ETHBULL/USDT",
+        "symbol": "POLONIEX:USDT_ETHBULL"
+    },
+    {
+        "description": "Poloniex MIR/USDT",
+        "displaySymbol": "MIR/USDT",
+        "symbol": "POLONIEX:USDT_MIR"
+    },
+    {
+        "description": "Poloniex CHR/BTC",
+        "displaySymbol": "CHR/BTC",
+        "symbol": "POLONIEX:BTC_CHR"
+    },
+    {
+        "description": "Poloniex MDT/BTC",
+        "displaySymbol": "MDT/BTC",
+        "symbol": "POLONIEX:BTC_MDT"
+    },
+    {
+        "description": "Poloniex KP3R/USDT",
+        "displaySymbol": "KP3R/USDT",
+        "symbol": "POLONIEX:USDT_KP3R"
+    },
+    {
+        "description": "Poloniex DOGE/USDT",
+        "displaySymbol": "DOGE/USDT",
+        "symbol": "POLONIEX:USDT_DOGE"
+    },
+    {
+        "description": "Poloniex VSP/TRX",
+        "displaySymbol": "VSP/TRX",
+        "symbol": "POLONIEX:TRX_VSP"
+    },
+    {
+        "description": "Poloniex ETHBEAR/USDT",
+        "displaySymbol": "ETHBEAR/USDT",
+        "symbol": "POLONIEX:USDT_ETHBEAR"
+    },
+    {
+        "description": "Poloniex LQTY/USDT",
+        "displaySymbol": "LQTY/USDT",
+        "symbol": "POLONIEX:USDT_LQTY"
+    },
+    {
+        "description": "Poloniex FCT2/BTC",
+        "displaySymbol": "FCT2/BTC",
+        "symbol": "POLONIEX:BTC_FCT2"
+    },
+    {
+        "description": "Poloniex PUNK/USDT",
+        "displaySymbol": "PUNK/USDT",
+        "symbol": "POLONIEX:USDT_PUNK"
+    },
+    {
+        "description": "Poloniex PYR/USDT",
+        "displaySymbol": "PYR/USDT",
+        "symbol": "POLONIEX:USDT_PYR"
+    },
+    {
+        "description": "Poloniex XYM/USDT",
+        "displaySymbol": "XYM/USDT",
+        "symbol": "POLONIEX:USDT_XYM"
+    },
+    {
+        "description": "Poloniex KEEP/USDT",
+        "displaySymbol": "KEEP/USDT",
+        "symbol": "POLONIEX:USDT_KEEP"
+    },
+    {
+        "description": "Poloniex BID/BTC",
+        "displaySymbol": "BID/BTC",
+        "symbol": "POLONIEX:BTC_BID"
+    },
+    {
+        "description": "Poloniex OGN/USDT",
+        "displaySymbol": "OGN/USDT",
+        "symbol": "POLONIEX:USDT_OGN"
+    },
+    {
+        "description": "Poloniex EPS/USDT",
+        "displaySymbol": "EPS/USDT",
+        "symbol": "POLONIEX:USDT_EPS"
+    },
+    {
+        "description": "Poloniex DOGE/USDC",
+        "displaySymbol": "DOGE/USDC",
+        "symbol": "POLONIEX:USDC_DOGE"
+    },
+    {
+        "description": "Poloniex MDT/USDT",
+        "displaySymbol": "MDT/USDT",
+        "symbol": "POLONIEX:USDT_MDT"
+    },
+    {
+        "description": "Poloniex LINK/USDT",
+        "displaySymbol": "LINK/USDT",
+        "symbol": "POLONIEX:USDT_LINK"
+    },
+    {
+        "description": "Poloniex BAND/USDT",
+        "displaySymbol": "BAND/USDT",
+        "symbol": "POLONIEX:USDT_BAND"
+    },
+    {
+        "description": "Poloniex TRX/BTC",
+        "displaySymbol": "TRX/BTC",
+        "symbol": "POLONIEX:BTC_TRX"
+    },
+    {
+        "description": "Poloniex JFI/USDT",
+        "displaySymbol": "JFI/USDT",
+        "symbol": "POLONIEX:USDT_JFI"
+    },
+    {
+        "description": "Poloniex YFX/BTC",
+        "displaySymbol": "YFX/BTC",
+        "symbol": "POLONIEX:BTC_YFX"
+    },
+    {
+        "description": "Poloniex KTON/USDT",
+        "displaySymbol": "KTON/USDT",
+        "symbol": "POLONIEX:USDT_KTON"
+    },
+    {
+        "description": "Poloniex EXE/USDT",
+        "displaySymbol": "EXE/USDT",
+        "symbol": "POLONIEX:USDT_EXE"
+    },
+    {
+        "description": "Poloniex BTCST/USDT",
+        "displaySymbol": "BTCST/USDT",
+        "symbol": "POLONIEX:USDT_BTCST"
+    },
+    {
+        "description": "Poloniex TRU/USDT",
+        "displaySymbol": "TRU/USDT",
+        "symbol": "POLONIEX:USDT_TRU"
+    },
+    {
+        "description": "Poloniex DYP/USDT",
+        "displaySymbol": "DYP/USDT",
+        "symbol": "POLONIEX:USDT_DYP"
+    },
+    {
+        "description": "Poloniex FIL/BTC",
+        "displaySymbol": "FIL/BTC",
+        "symbol": "POLONIEX:BTC_FIL"
+    },
+    {
+        "description": "Poloniex XVS/USDT",
+        "displaySymbol": "XVS/USDT",
+        "symbol": "POLONIEX:USDT_XVS"
+    },
+    {
+        "description": "Poloniex EXE/BTC",
+        "displaySymbol": "EXE/BTC",
+        "symbol": "POLONIEX:BTC_EXE"
+    },
+    {
+        "description": "Poloniex MATTER/TRX",
+        "displaySymbol": "MATTER/TRX",
+        "symbol": "POLONIEX:TRX_MATTER"
+    },
+    {
+        "description": "Poloniex RARI/USDT",
+        "displaySymbol": "RARI/USDT",
+        "symbol": "POLONIEX:USDT_RARI"
+    },
+    {
+        "description": "Poloniex SOS/USDT",
+        "displaySymbol": "SOS/USDT",
+        "symbol": "POLONIEX:USDT_SOS"
+    },
+    {
+        "description": "Poloniex CREAM/USDT",
+        "displaySymbol": "CREAM/USDT",
+        "symbol": "POLONIEX:USDT_CREAM"
+    },
+    {
+        "description": "Poloniex ETH/USDT",
+        "displaySymbol": "ETH/USDT",
+        "symbol": "POLONIEX:USDT_ETH"
+    },
+    {
+        "description": "Poloniex STEEM/TRX",
+        "displaySymbol": "STEEM/TRX",
+        "symbol": "POLONIEX:TRX_STEEM"
+    },
+    {
+        "description": "Poloniex BCHBULL/USDT",
+        "displaySymbol": "BCHBULL/USDT",
+        "symbol": "POLONIEX:USDT_BCHBULL"
+    },
+    {
+        "description": "Poloniex ADABULL/USDT",
+        "displaySymbol": "ADABULL/USDT",
+        "symbol": "POLONIEX:USDT_ADABULL"
+    },
+    {
+        "description": "Poloniex BIT/USDT",
+        "displaySymbol": "BIT/USDT",
+        "symbol": "POLONIEX:USDT_BIT"
+    },
+    {
+        "description": "Poloniex SHIB/USDT",
+        "displaySymbol": "SHIB/USDT",
+        "symbol": "POLONIEX:USDT_SHIB"
+    },
+    {
+        "description": "Poloniex IBVOL/USDT",
+        "displaySymbol": "IBVOL/USDT",
+        "symbol": "POLONIEX:USDT_IBVOL"
+    },
+    {
+        "description": "Poloniex HGET/USDT",
+        "displaySymbol": "HGET/USDT",
+        "symbol": "POLONIEX:USDT_HGET"
+    },
+    {
+        "description": "Poloniex MVL/USDT",
+        "displaySymbol": "MVL/USDT",
+        "symbol": "POLONIEX:USDT_MVL"
+    },
+    {
+        "description": "Poloniex PSP/USDT",
+        "displaySymbol": "PSP/USDT",
+        "symbol": "POLONIEX:USDT_PSP"
+    },
+    {
+        "description": "Poloniex LINK/TRX",
+        "displaySymbol": "LINK/TRX",
+        "symbol": "POLONIEX:TRX_LINK"
+    },
+    {
+        "description": "Poloniex LPT/USDT",
+        "displaySymbol": "LPT/USDT",
+        "symbol": "POLONIEX:USDT_LPT"
+    },
+    {
+        "description": "Poloniex JST/USDT",
+        "displaySymbol": "JST/USDT",
+        "symbol": "POLONIEX:USDT_JST"
+    },
+    {
+        "description": "Poloniex RUNE/USDT",
+        "displaySymbol": "RUNE/USDT",
+        "symbol": "POLONIEX:USDT_RUNE"
+    },
+    {
+        "description": "Poloniex BAT/USDT",
+        "displaySymbol": "BAT/USDT",
+        "symbol": "POLONIEX:USDT_BAT"
+    },
+    {
+        "description": "Poloniex ZRX/USDT",
+        "displaySymbol": "ZRX/USDT",
+        "symbol": "POLONIEX:USDT_ZRX"
+    },
+    {
+        "description": "Poloniex RACA/USDT",
+        "displaySymbol": "RACA/USDT",
+        "symbol": "POLONIEX:USDT_RACA"
+    },
+    {
+        "description": "Poloniex WIN/USDT",
+        "displaySymbol": "WIN/USDT",
+        "symbol": "POLONIEX:USDT_WIN"
+    },
+    {
+        "description": "Poloniex BP/USDT",
+        "displaySymbol": "BP/USDT",
+        "symbol": "POLONIEX:USDT_BP"
+    },
+    {
+        "description": "Poloniex XRPBEAR/USDT",
+        "displaySymbol": "XRPBEAR/USDT",
+        "symbol": "POLONIEX:USDT_XRPBEAR"
+    },
+    {
+        "description": "Poloniex SUNOLD/TRX",
+        "displaySymbol": "SUNOLD/TRX",
+        "symbol": "POLONIEX:TRX_SUNOLD"
+    },
+    {
+        "description": "Poloniex BABYDOGE/TRX",
+        "displaySymbol": "BABYDOGE/TRX",
+        "symbol": "POLONIEX:TRX_BABYDOGE"
+    },
+    {
+        "description": "Poloniex MKR/BTC",
+        "displaySymbol": "MKR/BTC",
+        "symbol": "POLONIEX:BTC_MKR"
+    },
+    {
+        "description": "Poloniex ENJ/USDT",
+        "displaySymbol": "ENJ/USDT",
+        "symbol": "POLONIEX:USDT_ENJ"
+    },
+    {
+        "description": "Poloniex BTC/BNB",
+        "displaySymbol": "BTC/BNB",
+        "symbol": "POLONIEX:BNB_BTC"
+    },
+    {
+        "description": "Poloniex LTCBEAR/USDT",
+        "displaySymbol": "LTCBEAR/USDT",
+        "symbol": "POLONIEX:USDT_LTCBEAR"
+    },
+    {
+        "description": "Poloniex FXS/USDT",
+        "displaySymbol": "FXS/USDT",
+        "symbol": "POLONIEX:USDT_FXS"
+    },
+    {
+        "description": "Poloniex CHR/USDT",
+        "displaySymbol": "CHR/USDT",
+        "symbol": "POLONIEX:USDT_CHR"
+    },
+    {
+        "description": "Poloniex SXP/BTC",
+        "displaySymbol": "SXP/BTC",
+        "symbol": "POLONIEX:BTC_SXP"
+    },
+    {
+        "description": "Poloniex REN/USDT",
+        "displaySymbol": "REN/USDT",
+        "symbol": "POLONIEX:USDT_REN"
+    },
+    {
+        "description": "Poloniex LIVE/USDT",
+        "displaySymbol": "LIVE/USDT",
+        "symbol": "POLONIEX:USDT_LIVE"
+    },
+    {
+        "description": "Poloniex BTT/USDT",
+        "displaySymbol": "BTT/USDT",
+        "symbol": "POLONIEX:USDT_BTT"
+    },
+    {
+        "description": "Poloniex SLP/USDT",
+        "displaySymbol": "SLP/USDT",
+        "symbol": "POLONIEX:USDT_SLP"
+    },
+    {
+        "description": "Poloniex QI/USDT",
+        "displaySymbol": "QI/USDT",
+        "symbol": "POLONIEX:USDT_QI"
+    },
+    {
+        "description": "Poloniex BTC/USDJ",
+        "displaySymbol": "BTC/USDJ",
+        "symbol": "POLONIEX:USDJ_BTC"
+    },
+    {
+        "description": "Poloniex ZEC/ETH",
+        "displaySymbol": "ZEC/ETH",
+        "symbol": "POLONIEX:ETH_ZEC"
+    },
+    {
+        "description": "Poloniex GALA/USDT",
+        "displaySymbol": "GALA/USDT",
+        "symbol": "POLONIEX:USDT_GALA"
+    },
+    {
+        "description": "Poloniex BTC/TUSD",
+        "displaySymbol": "BTC/TUSD",
+        "symbol": "POLONIEX:TUSD_BTC"
+    },
+    {
+        "description": "Poloniex LTC/USDT",
+        "displaySymbol": "LTC/USDT",
+        "symbol": "POLONIEX:USDT_LTC"
+    },
+    {
+        "description": "Poloniex QUICK/USDT",
+        "displaySymbol": "QUICK/USDT",
+        "symbol": "POLONIEX:USDT_QUICK"
+    },
+    {
+        "description": "Poloniex LINKBEAR/USDT",
+        "displaySymbol": "LINKBEAR/USDT",
+        "symbol": "POLONIEX:USDT_LINKBEAR"
+    },
+    {
+        "description": "Poloniex BAL/USDT",
+        "displaySymbol": "BAL/USDT",
+        "symbol": "POLONIEX:USDT_BAL"
+    },
+    {
+        "description": "Poloniex TLM/USDT",
+        "displaySymbol": "TLM/USDT",
+        "symbol": "POLONIEX:USDT_TLM"
+    },
+    {
+        "description": "Poloniex SWAP/USDT",
+        "displaySymbol": "SWAP/USDT",
+        "symbol": "POLONIEX:USDT_SWAP"
+    },
+    {
+        "description": "Poloniex MATIC/BTC",
+        "displaySymbol": "MATIC/BTC",
+        "symbol": "POLONIEX:BTC_MATIC"
+    },
+    {
+        "description": "Poloniex XEM/USDC",
+        "displaySymbol": "XEM/USDC",
+        "symbol": "POLONIEX:USDC_XEM"
+    },
+    {
+        "description": "Poloniex LSK/USDT",
+        "displaySymbol": "LSK/USDT",
+        "symbol": "POLONIEX:USDT_LSK"
+    },
+    {
+        "description": "Poloniex TEND/USDT",
+        "displaySymbol": "TEND/USDT",
+        "symbol": "POLONIEX:USDT_TEND"
+    },
+    {
+        "description": "Poloniex AAVE/BTC",
+        "displaySymbol": "AAVE/BTC",
+        "symbol": "POLONIEX:BTC_AAVE"
+    },
+    {
+        "description": "Poloniex SAND/BTC",
+        "displaySymbol": "SAND/BTC",
+        "symbol": "POLONIEX:BTC_SAND"
+    },
+    {
+        "description": "Poloniex FUND/BTC",
+        "displaySymbol": "FUND/BTC",
+        "symbol": "POLONIEX:BTC_FUND"
+    },
+    {
+        "description": "Poloniex JBX/USDT",
+        "displaySymbol": "JBX/USDT",
+        "symbol": "POLONIEX:USDT_JBX"
+    },
+    {
+        "description": "Poloniex SUN/TRX",
+        "displaySymbol": "SUN/TRX",
+        "symbol": "POLONIEX:TRX_SUN"
+    },
+    {
+        "description": "Poloniex CHR/TRX",
+        "displaySymbol": "CHR/TRX",
+        "symbol": "POLONIEX:TRX_CHR"
+    },
+    {
+        "description": "Poloniex REPV2/USDT",
+        "displaySymbol": "REPV2/USDT",
+        "symbol": "POLONIEX:USDT_REPV2"
+    },
+    {
+        "description": "Poloniex SWINGBY/BTC",
+        "displaySymbol": "SWINGBY/BTC",
+        "symbol": "POLONIEX:BTC_SWINGBY"
+    },
+    {
+        "description": "Poloniex XMR/BTC",
+        "displaySymbol": "XMR/BTC",
+        "symbol": "POLONIEX:BTC_XMR"
+    },
+    {
+        "description": "Poloniex PRINTS/USDT",
+        "displaySymbol": "PRINTS/USDT",
+        "symbol": "POLONIEX:USDT_PRINTS"
+    },
+    {
+        "description": "Poloniex BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "POLONIEX:USDC_BTC"
+    },
+    {
+        "description": "Poloniex MDT/TRX",
+        "displaySymbol": "MDT/TRX",
+        "symbol": "POLONIEX:TRX_MDT"
+    },
+    {
+        "description": "Poloniex TRADE/USDT",
+        "displaySymbol": "TRADE/USDT",
+        "symbol": "POLONIEX:USDT_TRADE"
+    },
+    {
+        "description": "Poloniex SXP/TRX",
+        "displaySymbol": "SXP/TRX",
+        "symbol": "POLONIEX:TRX_SXP"
+    },
+    {
+        "description": "Poloniex AVAX/BTC",
+        "displaySymbol": "AVAX/BTC",
+        "symbol": "POLONIEX:BTC_AVAX"
+    },
+    {
+        "description": "Poloniex MEME/USDT",
+        "displaySymbol": "MEME/USDT",
+        "symbol": "POLONIEX:USDT_MEME"
+    },
+    {
+        "description": "Poloniex SPELL/USDT",
+        "displaySymbol": "SPELL/USDT",
+        "symbol": "POLONIEX:USDT_SPELL"
+    },
+    {
+        "description": "Poloniex MPH/USDT",
+        "displaySymbol": "MPH/USDT",
+        "symbol": "POLONIEX:USDT_MPH"
+    },
+    {
+        "description": "Poloniex SUPER/USDT",
+        "displaySymbol": "SUPER/USDT",
+        "symbol": "POLONIEX:USDT_SUPER"
+    },
+    {
+        "description": "Poloniex SFI/USDT",
+        "displaySymbol": "SFI/USDT",
+        "symbol": "POLONIEX:USDT_SFI"
+    },
+    {
+        "description": "Poloniex MATIC/USDC",
+        "displaySymbol": "MATIC/USDC",
+        "symbol": "POLONIEX:USDC_MATIC"
+    },
+    {
+        "description": "Poloniex XEM/BTC",
+        "displaySymbol": "XEM/BTC",
+        "symbol": "POLONIEX:BTC_XEM"
+    },
+    {
+        "description": "Poloniex INJ/USDT",
+        "displaySymbol": "INJ/USDT",
+        "symbol": "POLONIEX:USDT_INJ"
+    },
+    {
+        "description": "Poloniex ANGLE/USDT",
+        "displaySymbol": "ANGLE/USDT",
+        "symbol": "POLONIEX:USDT_ANGLE"
+    },
+    {
+        "description": "Poloniex WOO/USDT",
+        "displaySymbol": "WOO/USDT",
+        "symbol": "POLONIEX:USDT_WOO"
+    },
+    {
+        "description": "Poloniex CRO/USDT",
+        "displaySymbol": "CRO/USDT",
+        "symbol": "POLONIEX:USDT_CRO"
+    },
+    {
+        "description": "Poloniex PEOPLE/USDT",
+        "displaySymbol": "PEOPLE/USDT",
+        "symbol": "POLONIEX:USDT_PEOPLE"
+    },
+    {
+        "description": "Poloniex SWFTC/TRX",
+        "displaySymbol": "SWFTC/TRX",
+        "symbol": "POLONIEX:TRX_SWFTC"
+    },
+    {
+        "description": "Poloniex GN/USDT",
+        "displaySymbol": "GN/USDT",
+        "symbol": "POLONIEX:USDT_GN"
+    },
+    {
+        "description": "Poloniex BCHA/USDT",
+        "displaySymbol": "BCHA/USDT",
+        "symbol": "POLONIEX:USDT_BCHA"
+    },
+    {
+        "description": "Poloniex WIN/TRX",
+        "displaySymbol": "WIN/TRX",
+        "symbol": "POLONIEX:TRX_WIN"
+    },
+    {
+        "description": "Poloniex USDT/USDC",
+        "displaySymbol": "USDT/USDC",
+        "symbol": "POLONIEX:USDC_USDT"
+    },
+    {
+        "description": "Poloniex DEC/USDT",
+        "displaySymbol": "DEC/USDT",
+        "symbol": "POLONIEX:USDT_DEC"
+    },
+    {
+        "description": "Poloniex INJ/BTC",
+        "displaySymbol": "INJ/BTC",
+        "symbol": "POLONIEX:BTC_INJ"
+    },
+    {
+        "description": "Poloniex OSK/TRX",
+        "displaySymbol": "OSK/TRX",
+        "symbol": "POLONIEX:TRX_OSK"
+    },
+    {
+        "description": "Poloniex XYM/BTC",
+        "displaySymbol": "XYM/BTC",
+        "symbol": "POLONIEX:BTC_XYM"
+    },
+    {
+        "description": "Poloniex MPL/USDT",
+        "displaySymbol": "MPL/USDT",
+        "symbol": "POLONIEX:USDT_MPL"
+    },
+    {
+        "description": "Poloniex BNB/BUSD",
+        "displaySymbol": "BNB/BUSD",
+        "symbol": "POLONIEX:BUSD_BNB"
+    },
+    {
+        "description": "Poloniex OM/USDT",
+        "displaySymbol": "OM/USDT",
+        "symbol": "POLONIEX:USDT_OM"
+    },
+    {
+        "description": "Poloniex IMX/USDT",
+        "displaySymbol": "IMX/USDT",
+        "symbol": "POLONIEX:USDT_IMX"
+    },
+    {
+        "description": "Poloniex BRG/USDT",
+        "displaySymbol": "BRG/USDT",
+        "symbol": "POLONIEX:USDT_BRG"
+    },
+    {
+        "description": "Poloniex PLA/USDT",
+        "displaySymbol": "PLA/USDT",
+        "symbol": "POLONIEX:USDT_PLA"
+    },
+    {
+        "description": "Poloniex BTT/USDC",
+        "displaySymbol": "BTT/USDC",
+        "symbol": "POLONIEX:USDC_BTT"
+    },
+    {
+        "description": "Poloniex XOR/USDT",
+        "displaySymbol": "XOR/USDT",
+        "symbol": "POLONIEX:USDT_XOR"
+    },
+    {
+        "description": "Poloniex XFLR/USDT",
+        "displaySymbol": "XFLR/USDT",
+        "symbol": "POLONIEX:USDT_XFLR"
+    },
+    {
+        "description": "Poloniex LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "POLONIEX:BTC_LTC"
+    },
+    {
+        "description": "Poloniex CVP/USDT",
+        "displaySymbol": "CVP/USDT",
+        "symbol": "POLONIEX:USDT_CVP"
+    },
+    {
+        "description": "Poloniex EOSBEAR/USDT",
+        "displaySymbol": "EOSBEAR/USDT",
+        "symbol": "POLONIEX:USDT_EOSBEAR"
+    },
+    {
+        "description": "Poloniex RING/USDT",
+        "displaySymbol": "RING/USDT",
+        "symbol": "POLONIEX:USDT_RING"
+    },
+    {
+        "description": "Poloniex OSK/USDT",
+        "displaySymbol": "OSK/USDT",
+        "symbol": "POLONIEX:USDT_OSK"
+    },
+    {
+        "description": "Poloniex STR/BTC",
+        "displaySymbol": "STR/BTC",
+        "symbol": "POLONIEX:BTC_STR"
+    },
+    {
+        "description": "Poloniex ALICE/USDT",
+        "displaySymbol": "ALICE/USDT",
+        "symbol": "POLONIEX:USDT_ALICE"
+    },
+    {
+        "description": "Poloniex BCHSV/BTC",
+        "displaySymbol": "BCHSV/BTC",
+        "symbol": "POLONIEX:BTC_BCHSV"
+    },
+    {
+        "description": "Poloniex LEASH/USDT",
+        "displaySymbol": "LEASH/USDT",
+        "symbol": "POLONIEX:USDT_LEASH"
+    },
+    {
+        "description": "Poloniex O3/USDT",
+        "displaySymbol": "O3/USDT",
+        "symbol": "POLONIEX:USDT_O3"
+    },
+    {
+        "description": "Poloniex NFT/TRX",
+        "displaySymbol": "NFT/TRX",
+        "symbol": "POLONIEX:TRX_NFT"
+    },
+    {
+        "description": "Poloniex QTUM/USDT",
+        "displaySymbol": "QTUM/USDT",
+        "symbol": "POLONIEX:USDT_QTUM"
+    },
+    {
+        "description": "Poloniex ADA/USDT",
+        "displaySymbol": "ADA/USDT",
+        "symbol": "POLONIEX:USDT_ADA"
+    },
+    {
+        "description": "Poloniex DIA/USDT",
+        "displaySymbol": "DIA/USDT",
+        "symbol": "POLONIEX:USDT_DIA"
+    },
+    {
+        "description": "Poloniex MASK/USDT",
+        "displaySymbol": "MASK/USDT",
+        "symbol": "POLONIEX:USDT_MASK"
+    },
+    {
+        "description": "Poloniex NMR/BTC",
+        "displaySymbol": "NMR/BTC",
+        "symbol": "POLONIEX:BTC_NMR"
+    },
+    {
+        "description": "Poloniex BULL/USDT",
+        "displaySymbol": "BULL/USDT",
+        "symbol": "POLONIEX:USDT_BULL"
+    },
+    {
+        "description": "Poloniex TRX/USDC",
+        "displaySymbol": "TRX/USDC",
+        "symbol": "POLONIEX:USDC_TRX"
+    },
+    {
+        "description": "Poloniex STR/USDT",
+        "displaySymbol": "STR/USDT",
+        "symbol": "POLONIEX:USDT_STR"
+    },
+    {
+        "description": "Poloniex AUTO/USDT",
+        "displaySymbol": "AUTO/USDT",
+        "symbol": "POLONIEX:USDT_AUTO"
+    },
+    {
+        "description": "Poloniex PEARL/USDT",
+        "displaySymbol": "PEARL/USDT",
+        "symbol": "POLONIEX:USDT_PEARL"
+    },
+    {
+        "description": "Poloniex XEC/USDT",
+        "displaySymbol": "XEC/USDT",
+        "symbol": "POLONIEX:USDT_XEC"
+    },
+    {
+        "description": "Poloniex OCEAN/USDT",
+        "displaySymbol": "OCEAN/USDT",
+        "symbol": "POLONIEX:USDT_OCEAN"
+    },
+    {
+        "description": "Poloniex SFP/USDT",
+        "displaySymbol": "SFP/USDT",
+        "symbol": "POLONIEX:USDT_SFP"
+    },
+    {
+        "description": "Poloniex CTSI/USDT",
+        "displaySymbol": "CTSI/USDT",
+        "symbol": "POLONIEX:USDT_CTSI"
+    },
+    {
+        "description": "Poloniex SUN/USDT",
+        "displaySymbol": "SUN/USDT",
+        "symbol": "POLONIEX:USDT_SUN"
+    },
+    {
+        "description": "Poloniex TRU/TUSD",
+        "displaySymbol": "TRU/TUSD",
+        "symbol": "POLONIEX:TUSD_TRU"
+    },
+    {
+        "description": "Poloniex LUSD/USDT",
+        "displaySymbol": "LUSD/USDT",
+        "symbol": "POLONIEX:USDT_LUSD"
+    },
+    {
+        "description": "Poloniex XRP/TRX",
+        "displaySymbol": "XRP/TRX",
+        "symbol": "POLONIEX:TRX_XRP"
+    },
+    {
+        "description": "Poloniex XLMBULL/USDT",
+        "displaySymbol": "XLMBULL/USDT",
+        "symbol": "POLONIEX:USDT_XLMBULL"
+    },
+    {
+        "description": "Poloniex CVC/BTC",
+        "displaySymbol": "CVC/BTC",
+        "symbol": "POLONIEX:BTC_CVC"
+    },
+    {
+        "description": "Poloniex KLV/USDT",
+        "displaySymbol": "KLV/USDT",
+        "symbol": "POLONIEX:USDT_KLV"
+    },
+    {
+        "description": "Poloniex SRM/USDT",
+        "displaySymbol": "SRM/USDT",
+        "symbol": "POLONIEX:USDT_SRM"
+    },
+    {
+        "description": "Poloniex FUND/TRX",
+        "displaySymbol": "FUND/TRX",
+        "symbol": "POLONIEX:TRX_FUND"
+    },
+    {
+        "description": "Poloniex BUSD/USDT",
+        "displaySymbol": "BUSD/USDT",
+        "symbol": "POLONIEX:USDT_BUSD"
+    },
+    {
+        "description": "Poloniex BTT/TRX",
+        "displaySymbol": "BTT/TRX",
+        "symbol": "POLONIEX:TRX_BTT"
+    },
+    {
+        "description": "Poloniex HT/USDT",
+        "displaySymbol": "HT/USDT",
+        "symbol": "POLONIEX:USDT_HT"
+    },
+    {
+        "description": "Poloniex POL/USDT",
+        "displaySymbol": "POL/USDT",
+        "symbol": "POLONIEX:USDT_POL"
+    },
+    {
+        "description": "Poloniex MTA/USDT",
+        "displaySymbol": "MTA/USDT",
+        "symbol": "POLONIEX:USDT_MTA"
+    },
+    {
+        "description": "Poloniex NEO/USDT",
+        "displaySymbol": "NEO/USDT",
+        "symbol": "POLONIEX:USDT_NEO"
+    },
+    {
+        "description": "Poloniex SUNOLD/USDT",
+        "displaySymbol": "SUNOLD/USDT",
+        "symbol": "POLONIEX:USDT_SUNOLD"
+    },
+    {
+        "description": "Poloniex ATOM/BTC",
+        "displaySymbol": "ATOM/BTC",
+        "symbol": "POLONIEX:BTC_ATOM"
+    },
+    {
+        "description": "Poloniex ETH/PAX",
+        "displaySymbol": "ETH/PAX",
+        "symbol": "POLONIEX:PAX_ETH"
+    },
+    {
+        "description": "Poloniex FREE/USDT",
+        "displaySymbol": "FREE/USDT",
+        "symbol": "POLONIEX:USDT_FREE"
+    },
+    {
+        "description": "Poloniex OMG/BTC",
+        "displaySymbol": "OMG/BTC",
+        "symbol": "POLONIEX:BTC_OMG"
+    },
+    {
+        "description": "Poloniex KLV/TRX",
+        "displaySymbol": "KLV/TRX",
+        "symbol": "POLONIEX:TRX_KLV"
+    },
+    {
+        "description": "Poloniex STAKE/USDT",
+        "displaySymbol": "STAKE/USDT",
+        "symbol": "POLONIEX:USDT_STAKE"
+    },
+    {
+        "description": "Poloniex AVA/TRX",
+        "displaySymbol": "AVA/TRX",
+        "symbol": "POLONIEX:TRX_AVA"
+    },
+    {
+        "description": "Poloniex PRQ/USDT",
+        "displaySymbol": "PRQ/USDT",
+        "symbol": "POLONIEX:USDT_PRQ"
+    },
+    {
+        "description": "Poloniex YFL/USDT",
+        "displaySymbol": "YFL/USDT",
+        "symbol": "POLONIEX:USDT_YFL"
+    },
+    {
+        "description": "Poloniex ETC/ETH",
+        "displaySymbol": "ETC/ETH",
+        "symbol": "POLONIEX:ETH_ETC"
+    },
+    {
+        "description": "Poloniex BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "POLONIEX:DAI_BTC"
+    },
+    {
+        "description": "Poloniex ADD/USDT",
+        "displaySymbol": "ADD/USDT",
+        "symbol": "POLONIEX:USDT_ADD"
+    },
+    {
+        "description": "Poloniex SNX/USDT",
+        "displaySymbol": "SNX/USDT",
+        "symbol": "POLONIEX:USDT_SNX"
+    },
+    {
+        "description": "Poloniex MATIC/USDT",
+        "displaySymbol": "MATIC/USDT",
+        "symbol": "POLONIEX:USDT_MATIC"
+    },
+    {
+        "description": "Poloniex BCN/USDT",
+        "displaySymbol": "BCN/USDT",
+        "symbol": "POLONIEX:USDT_BCN"
+    },
+    {
+        "description": "Poloniex HGET/BTC",
+        "displaySymbol": "HGET/BTC",
+        "symbol": "POLONIEX:BTC_HGET"
+    },
+    {
+        "description": "Poloniex BOND/USDT",
+        "displaySymbol": "BOND/USDT",
+        "symbol": "POLONIEX:USDT_BOND"
+    },
+    {
+        "description": "Poloniex ETC/USDC",
+        "displaySymbol": "ETC/USDC",
+        "symbol": "POLONIEX:USDC_ETC"
+    },
+    {
+        "description": "Poloniex BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "POLONIEX:BTC_BCH"
+    },
+    {
+        "description": "Poloniex STPT/USDT",
+        "displaySymbol": "STPT/USDT",
+        "symbol": "POLONIEX:USDT_STPT"
+    },
+    {
+        "description": "Poloniex XMR/USDT",
+        "displaySymbol": "XMR/USDT",
+        "symbol": "POLONIEX:USDT_XMR"
+    },
+    {
+        "description": "Poloniex SOL/USDC",
+        "displaySymbol": "SOL/USDC",
+        "symbol": "POLONIEX:USDC_SOL"
+    },
+    {
+        "description": "Poloniex MANA/USDC",
+        "displaySymbol": "MANA/USDC",
+        "symbol": "POLONIEX:USDC_MANA"
+    },
+    {
+        "description": "Poloniex MIM/USDT",
+        "displaySymbol": "MIM/USDT",
+        "symbol": "POLONIEX:USDT_MIM"
+    },
+    {
+        "description": "Poloniex SOL/USDT",
+        "displaySymbol": "SOL/USDT",
+        "symbol": "POLONIEX:USDT_SOL"
+    },
+    {
+        "description": "Poloniex ETC/USDT",
+        "displaySymbol": "ETC/USDT",
+        "symbol": "POLONIEX:USDT_ETC"
+    },
+    {
+        "description": "Poloniex COMP/ETH",
+        "displaySymbol": "COMP/ETH",
+        "symbol": "POLONIEX:ETH_COMP"
+    },
+    {
+        "description": "Poloniex WRX/BTC",
+        "displaySymbol": "WRX/BTC",
+        "symbol": "POLONIEX:BTC_WRX"
+    },
+    {
+        "description": "Poloniex FCT2/USDT",
+        "displaySymbol": "FCT2/USDT",
+        "symbol": "POLONIEX:USDT_FCT2"
+    },
+    {
+        "description": "Poloniex SHIB/USDC",
+        "displaySymbol": "SHIB/USDC",
+        "symbol": "POLONIEX:USDC_SHIB"
+    },
+    {
+        "description": "Poloniex ESD/USDT",
+        "displaySymbol": "ESD/USDT",
+        "symbol": "POLONIEX:USDT_ESD"
+    },
+    {
+        "description": "Poloniex TRIBE/USDT",
+        "displaySymbol": "TRIBE/USDT",
+        "symbol": "POLONIEX:USDT_TRIBE"
+    },
+    {
+        "description": "Poloniex FARM/BTC",
+        "displaySymbol": "FARM/BTC",
+        "symbol": "POLONIEX:BTC_FARM"
+    },
+    {
+        "description": "Poloniex POLS/USDT",
+        "displaySymbol": "POLS/USDT",
+        "symbol": "POLONIEX:USDT_POLS"
+    },
+    {
+        "description": "Poloniex GLM/USDT",
+        "displaySymbol": "GLM/USDT",
+        "symbol": "POLONIEX:USDT_GLM"
+    },
+    {
+        "description": "Poloniex STPT/BTC",
+        "displaySymbol": "STPT/BTC",
+        "symbol": "POLONIEX:BTC_STPT"
+    },
+    {
+        "description": "Poloniex FTT/USDT",
+        "displaySymbol": "FTT/USDT",
+        "symbol": "POLONIEX:USDT_FTT"
+    },
+    {
+        "description": "Poloniex STEEM/USDT",
+        "displaySymbol": "STEEM/USDT",
+        "symbol": "POLONIEX:USDT_STEEM"
+    },
+    {
+        "description": "Poloniex BCHSV/USDC",
+        "displaySymbol": "BCHSV/USDC",
+        "symbol": "POLONIEX:USDC_BCHSV"
+    },
+    {
+        "description": "Poloniex OOKI/USDT",
+        "displaySymbol": "OOKI/USDT",
+        "symbol": "POLONIEX:USDT_OOKI"
+    },
+    {
+        "description": "Poloniex NXT/BTC",
+        "displaySymbol": "NXT/BTC",
+        "symbol": "POLONIEX:BTC_NXT"
+    },
+    {
+        "description": "Poloniex BVOL/USDT",
+        "displaySymbol": "BVOL/USDT",
+        "symbol": "POLONIEX:USDT_BVOL"
+    },
+    {
+        "description": "Poloniex ETH/TUSD",
+        "displaySymbol": "ETH/TUSD",
+        "symbol": "POLONIEX:TUSD_ETH"
+    },
+    {
+        "description": "Poloniex CRV/USDT",
+        "displaySymbol": "CRV/USDT",
+        "symbol": "POLONIEX:USDT_CRV"
+    },
+    {
+        "description": "Poloniex GHST/USDT",
+        "displaySymbol": "GHST/USDT",
+        "symbol": "POLONIEX:USDT_GHST"
+    },
+    {
+        "description": "Poloniex GF/USDT",
+        "displaySymbol": "GF/USDT",
+        "symbol": "POLONIEX:USDT_GF"
+    },
+    {
+        "description": "Poloniex ADA/USDC",
+        "displaySymbol": "ADA/USDC",
+        "symbol": "POLONIEX:USDC_ADA"
+    },
+    {
+        "description": "Poloniex BNB/USDT",
+        "displaySymbol": "BNB/USDT",
+        "symbol": "POLONIEX:USDT_BNB"
+    },
+    {
+        "description": "Poloniex FREN/USDT",
+        "displaySymbol": "FREN/USDT",
+        "symbol": "POLONIEX:USDT_FREN"
+    },
+    {
+        "description": "Poloniex XEM/USDT",
+        "displaySymbol": "XEM/USDT",
+        "symbol": "POLONIEX:USDT_XEM"
+    },
+    {
+        "description": "Poloniex BTRST/USDT",
+        "displaySymbol": "BTRST/USDT",
+        "symbol": "POLONIEX:USDT_BTRST"
+    },
+    {
+        "description": "Poloniex DOT/BTC",
+        "displaySymbol": "DOT/BTC",
+        "symbol": "POLONIEX:BTC_DOT"
+    },
+    {
+        "description": "Poloniex SC/BTC",
+        "displaySymbol": "SC/BTC",
+        "symbol": "POLONIEX:BTC_SC"
+    },
+    {
+        "description": "Poloniex LRC/USDT",
+        "displaySymbol": "LRC/USDT",
+        "symbol": "POLONIEX:USDT_LRC"
+    },
+    {
+        "description": "Poloniex ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "POLONIEX:USDC_ETH"
+    },
+    {
+        "description": "Poloniex AUDIO/USDT",
+        "displaySymbol": "AUDIO/USDT",
+        "symbol": "POLONIEX:USDT_AUDIO"
+    },
+    {
+        "description": "Poloniex ZEC/USDT",
+        "displaySymbol": "ZEC/USDT",
+        "symbol": "POLONIEX:USDT_ZEC"
+    },
+    {
+        "description": "Poloniex TIME/USDT",
+        "displaySymbol": "TIME/USDT",
+        "symbol": "POLONIEX:USDT_TIME"
+    },
+    {
+        "description": "Poloniex GLYPH/USDT",
+        "displaySymbol": "GLYPH/USDT",
+        "symbol": "POLONIEX:USDT_GLYPH"
+    },
+    {
+        "description": "Poloniex DOS/USDT",
+        "displaySymbol": "DOS/USDT",
+        "symbol": "POLONIEX:USDT_DOS"
+    },
+    {
+        "description": "Poloniex FORTH/USDT",
+        "displaySymbol": "FORTH/USDT",
+        "symbol": "POLONIEX:USDT_FORTH"
+    },
+    {
+        "description": "Poloniex ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "POLONIEX:BTC_ETH"
+    },
+    {
+        "description": "Poloniex ROOK/USDT",
+        "displaySymbol": "ROOK/USDT",
+        "symbol": "POLONIEX:USDT_ROOK"
+    },
+    {
+        "description": "Poloniex TUSD/USDC",
+        "displaySymbol": "TUSD/USDC",
+        "symbol": "POLONIEX:USDC_TUSD"
+    },
+    {
+        "description": "Poloniex XCAD/USDT",
+        "displaySymbol": "XCAD/USDT",
+        "symbol": "POLONIEX:USDT_XCAD"
+    },
+    {
+        "description": "Poloniex MATTER/USDT",
+        "displaySymbol": "MATTER/USDT",
+        "symbol": "POLONIEX:USDT_MATTER"
+    },
+    {
+        "description": "Poloniex NRV/USDT",
+        "displaySymbol": "NRV/USDT",
+        "symbol": "POLONIEX:USDT_NRV"
+    },
+    {
+        "description": "Poloniex DOT/USDT",
+        "displaySymbol": "DOT/USDT",
+        "symbol": "POLONIEX:USDT_DOT"
+    },
+    {
+        "description": "Poloniex GODZ/USDT",
+        "displaySymbol": "GODZ/USDT",
+        "symbol": "POLONIEX:USDT_GODZ"
+    },
+    {
+        "description": "Poloniex PERP/USDT",
+        "displaySymbol": "PERP/USDT",
+        "symbol": "POLONIEX:USDT_PERP"
+    },
+    {
+        "description": "Poloniex ZAP/USDT",
+        "displaySymbol": "ZAP/USDT",
+        "symbol": "POLONIEX:USDT_ZAP"
+    },
+    {
+        "description": "Poloniex AAVE/USDT",
+        "displaySymbol": "AAVE/USDT",
+        "symbol": "POLONIEX:USDT_AAVE"
+    },
+    {
+        "description": "Poloniex MCB/USDT",
+        "displaySymbol": "MCB/USDT",
+        "symbol": "POLONIEX:USDT_MCB"
+    },
+    {
+        "description": "Poloniex BNX/USDT",
+        "displaySymbol": "BNX/USDT",
+        "symbol": "POLONIEX:USDT_BNX"
+    },
+    {
+        "description": "Poloniex BCHC/USDT",
+        "displaySymbol": "BCHC/USDT",
+        "symbol": "POLONIEX:USDT_BCHC"
+    },
+    {
+        "description": "Poloniex REQ/USDT",
+        "displaySymbol": "REQ/USDT",
+        "symbol": "POLONIEX:USDT_REQ"
+    },
+    {
+        "description": "Poloniex TOKE/USDT",
+        "displaySymbol": "TOKE/USDT",
+        "symbol": "POLONIEX:USDT_TOKE"
+    },
+    {
+        "description": "Poloniex WBTC/BTC",
+        "displaySymbol": "WBTC/BTC",
+        "symbol": "POLONIEX:BTC_WBTC"
+    },
+    {
+        "description": "Poloniex BCHSV/USDT",
+        "displaySymbol": "BCHSV/USDT",
+        "symbol": "POLONIEX:USDT_BCHSV"
+    },
+    {
+        "description": "Poloniex B20/USDT",
+        "displaySymbol": "B20/USDT",
+        "symbol": "POLONIEX:USDT_B20"
+    },
+    {
+        "description": "Poloniex TORN/USDT",
+        "displaySymbol": "TORN/USDT",
+        "symbol": "POLONIEX:USDT_TORN"
+    },
+    {
+        "description": "Poloniex ZEC/USDC",
+        "displaySymbol": "ZEC/USDC",
+        "symbol": "POLONIEX:USDC_ZEC"
+    },
+    {
+        "description": "Poloniex ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "POLONIEX:BTC_ZEC"
+    },
+    {
+        "description": "Poloniex AKITA/USDT",
+        "displaySymbol": "AKITA/USDT",
+        "symbol": "POLONIEX:USDT_AKITA"
+    },
+    {
+        "description": "Poloniex HIGH/USDT",
+        "displaySymbol": "HIGH/USDT",
+        "symbol": "POLONIEX:USDT_HIGH"
+    },
+    {
+        "description": "Poloniex ZRX/BTC",
+        "displaySymbol": "ZRX/BTC",
+        "symbol": "POLONIEX:BTC_ZRX"
+    },
+    {
+        "description": "Poloniex YGG/USDT",
+        "displaySymbol": "YGG/USDT",
+        "symbol": "POLONIEX:USDT_YGG"
+    },
+    {
+        "description": "Poloniex GEEQ/USDT",
+        "displaySymbol": "GEEQ/USDT",
+        "symbol": "POLONIEX:USDT_GEEQ"
+    },
+    {
+        "description": "Poloniex SRM/USDC",
+        "displaySymbol": "SRM/USDC",
+        "symbol": "POLONIEX:USDC_SRM"
+    },
+    {
+        "description": "Poloniex CORN/USDT",
+        "displaySymbol": "CORN/USDT",
+        "symbol": "POLONIEX:USDT_CORN"
+    },
+    {
+        "description": "Poloniex BRG/TRX",
+        "displaySymbol": "BRG/TRX",
+        "symbol": "POLONIEX:TRX_BRG"
+    },
+    {
+        "description": "Poloniex KNC/BTC",
+        "displaySymbol": "KNC/BTC",
+        "symbol": "POLONIEX:BTC_KNC"
+    },
+    {
+        "description": "Poloniex XRP/USDC",
+        "displaySymbol": "XRP/USDC",
+        "symbol": "POLONIEX:USDC_XRP"
+    },
+    {
+        "description": "Poloniex WHALE/USDT",
+        "displaySymbol": "WHALE/USDT",
+        "symbol": "POLONIEX:USDT_WHALE"
+    },
+    {
+        "description": "Poloniex CHESS/USDT",
+        "displaySymbol": "CHESS/USDT",
+        "symbol": "POLONIEX:USDT_CHESS"
+    },
+    {
+        "description": "Poloniex FRONT/USDT",
+        "displaySymbol": "FRONT/USDT",
+        "symbol": "POLONIEX:USDT_FRONT"
+    },
+    {
+        "description": "Poloniex SRM/BTC",
+        "displaySymbol": "SRM/BTC",
+        "symbol": "POLONIEX:BTC_SRM"
+    },
+    {
+        "description": "Poloniex BSVBEAR/USDT",
+        "displaySymbol": "BSVBEAR/USDT",
+        "symbol": "POLONIEX:USDT_BSVBEAR"
+    },
+    {
+        "description": "Poloniex ILV/USDT",
+        "displaySymbol": "ILV/USDT",
+        "symbol": "POLONIEX:USDT_ILV"
+    },
+    {
+        "description": "Poloniex EOS/USDC",
+        "displaySymbol": "EOS/USDC",
+        "symbol": "POLONIEX:USDC_EOS"
+    },
+    {
+        "description": "Poloniex BTC/BUSD",
+        "displaySymbol": "BTC/BUSD",
+        "symbol": "POLONIEX:BUSD_BTC"
+    },
+    {
+        "description": "Poloniex PAX/USDT",
+        "displaySymbol": "PAX/USDT",
+        "symbol": "POLONIEX:USDT_PAX"
+    },
+    {
+        "description": "Poloniex REPV2/BTC",
+        "displaySymbol": "REPV2/BTC",
+        "symbol": "POLONIEX:BTC_REPV2"
+    },
+    {
+        "description": "Poloniex UMB/USDT",
+        "displaySymbol": "UMB/USDT",
+        "symbol": "POLONIEX:USDT_UMB"
+    },
+    {
+        "description": "Poloniex XRP/BTC",
+        "displaySymbol": "XRP/BTC",
+        "symbol": "POLONIEX:BTC_XRP"
+    },
+    {
+        "description": "Poloniex SUSHI/USDT",
+        "displaySymbol": "SUSHI/USDT",
+        "symbol": "POLONIEX:USDT_SUSHI"
+    },
+    {
+        "description": "Poloniex DOE/USDT",
+        "displaySymbol": "DOE/USDT",
+        "symbol": "POLONIEX:USDT_DOE"
+    },
+    {
+        "description": "Poloniex SXP/USDT",
+        "displaySymbol": "SXP/USDT",
+        "symbol": "POLONIEX:USDT_SXP"
+    },
+    {
+        "description": "Poloniex GLM/BTC",
+        "displaySymbol": "GLM/BTC",
+        "symbol": "POLONIEX:BTC_GLM"
+    },
+    {
+        "description": "Poloniex IDIA/USDT",
+        "displaySymbol": "IDIA/USDT",
+        "symbol": "POLONIEX:USDT_IDIA"
+    },
+    {
+        "description": "Poloniex TRX/USDJ",
+        "displaySymbol": "TRX/USDJ",
+        "symbol": "POLONIEX:USDJ_TRX"
+    },
+    {
+        "description": "Poloniex WNCG/USDT",
+        "displaySymbol": "WNCG/USDT",
+        "symbol": "POLONIEX:USDT_WNCG"
+    },
+    {
+        "description": "Poloniex DORA/USDT",
+        "displaySymbol": "DORA/USDT",
+        "symbol": "POLONIEX:USDT_DORA"
+    },
+    {
+        "description": "Poloniex CUSDT/USDT",
+        "displaySymbol": "CUSDT/USDT",
+        "symbol": "POLONIEX:USDT_CUSDT"
+    },
+    {
+        "description": "Poloniex XMR/USDC",
+        "displaySymbol": "XMR/USDC",
+        "symbol": "POLONIEX:USDC_XMR"
+    },
+    {
+        "description": "Poloniex KCS/USDT",
+        "displaySymbol": "KCS/USDT",
+        "symbol": "POLONIEX:USDT_KCS"
+    },
+    {
+        "description": "Poloniex NEO/TRX",
+        "displaySymbol": "NEO/TRX",
+        "symbol": "POLONIEX:TRX_NEO"
+    },
+    {
+        "description": "Poloniex LDO/USDT",
+        "displaySymbol": "LDO/USDT",
+        "symbol": "POLONIEX:USDT_LDO"
+    },
+    {
+        "description": "Poloniex MANA/USDT",
+        "displaySymbol": "MANA/USDT",
+        "symbol": "POLONIEX:USDT_MANA"
+    }
+]

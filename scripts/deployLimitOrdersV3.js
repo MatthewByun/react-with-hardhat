@@ -6,8 +6,9 @@
 const hre = require("hardhat");
 
 async function main() {
-  const MyContract = await ethers.getContractFactory("LimitOrder");
+  const MyContract = await ethers.getContractFactory("LimitOrderMTC");
   const contract = await MyContract.deploy(
+    // "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32",
     "0xa52487f75f4E4554914810877a78fF9574A98275"
   );

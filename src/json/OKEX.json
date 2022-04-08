@@ -1,0 +1,2632 @@
+[
+    {
+        "description": "OKEX ZEN/USDT",
+        "displaySymbol": "ZEN/USDT",
+        "symbol": "OKEX:ZEN-USDT"
+    },
+    {
+        "description": "OKEX BAND/USDT",
+        "displaySymbol": "BAND/USDT",
+        "symbol": "OKEX:BAND-USDT"
+    },
+    {
+        "description": "OKEX ATOM/BTC",
+        "displaySymbol": "ATOM/BTC",
+        "symbol": "OKEX:ATOM-BTC"
+    },
+    {
+        "description": "OKEX BTG/BTC",
+        "displaySymbol": "BTG/BTC",
+        "symbol": "OKEX:BTG-BTC"
+    },
+    {
+        "description": "OKEX HC/USDT",
+        "displaySymbol": "HC/USDT",
+        "symbol": "OKEX:HC-USDT"
+    },
+    {
+        "description": "OKEX WAVES/USDT",
+        "displaySymbol": "WAVES/USDT",
+        "symbol": "OKEX:WAVES-USDT"
+    },
+    {
+        "description": "OKEX BCD/BTC",
+        "displaySymbol": "BCD/BTC",
+        "symbol": "OKEX:BCD-BTC"
+    },
+    {
+        "description": "OKEX REP/ETH",
+        "displaySymbol": "REP/ETH",
+        "symbol": "OKEX:REP-ETH"
+    },
+    {
+        "description": "OKEX GALA/USDT",
+        "displaySymbol": "GALA/USDT",
+        "symbol": "OKEX:GALA-USDT"
+    },
+    {
+        "description": "OKEX XRP/USDT",
+        "displaySymbol": "XRP/USDT",
+        "symbol": "OKEX:XRP-USDT"
+    },
+    {
+        "description": "OKEX SOL/ETH",
+        "displaySymbol": "SOL/ETH",
+        "symbol": "OKEX:SOL-ETH"
+    },
+    {
+        "description": "OKEX BTG/USDT",
+        "displaySymbol": "BTG/USDT",
+        "symbol": "OKEX:BTG-USDT"
+    },
+    {
+        "description": "OKEX XUC/USDT",
+        "displaySymbol": "XUC/USDT",
+        "symbol": "OKEX:XUC-USDT"
+    },
+    {
+        "description": "OKEX TRX/USDT",
+        "displaySymbol": "TRX/USDT",
+        "symbol": "OKEX:TRX-USDT"
+    },
+    {
+        "description": "OKEX ZRX/BTC",
+        "displaySymbol": "ZRX/BTC",
+        "symbol": "OKEX:ZRX-BTC"
+    },
+    {
+        "description": "OKEX TRUE/USDT",
+        "displaySymbol": "TRUE/USDT",
+        "symbol": "OKEX:TRUE-USDT"
+    },
+    {
+        "description": "OKEX SOL/USDT",
+        "displaySymbol": "SOL/USDT",
+        "symbol": "OKEX:SOL-USDT"
+    },
+    {
+        "description": "OKEX IOTA/BTC",
+        "displaySymbol": "IOTA/BTC",
+        "symbol": "OKEX:IOTA-BTC"
+    },
+    {
+        "description": "OKEX BADGER/BTC",
+        "displaySymbol": "BADGER/BTC",
+        "symbol": "OKEX:BADGER-BTC"
+    },
+    {
+        "description": "OKEX AXS/USDT",
+        "displaySymbol": "AXS/USDT",
+        "symbol": "OKEX:AXS-USDT"
+    },
+    {
+        "description": "OKEX SOL/BTC",
+        "displaySymbol": "SOL/BTC",
+        "symbol": "OKEX:SOL-BTC"
+    },
+    {
+        "description": "OKEX MITH/BTC",
+        "displaySymbol": "MITH/BTC",
+        "symbol": "OKEX:MITH-BTC"
+    },
+    {
+        "description": "OKEX XTZ/USDT",
+        "displaySymbol": "XTZ/USDT",
+        "symbol": "OKEX:XTZ-USDT"
+    },
+    {
+        "description": "OKEX NEO/BTC",
+        "displaySymbol": "NEO/BTC",
+        "symbol": "OKEX:NEO-BTC"
+    },
+    {
+        "description": "OKEX POLYDOGE/USDT",
+        "displaySymbol": "POLYDOGE/USDT",
+        "symbol": "OKEX:POLYDOGE-USDT"
+    },
+    {
+        "description": "OKEX OM/USDT",
+        "displaySymbol": "OM/USDT",
+        "symbol": "OKEX:OM-USDT"
+    },
+    {
+        "description": "OKEX LBA/USDT",
+        "displaySymbol": "LBA/USDT",
+        "symbol": "OKEX:LBA-USDT"
+    },
+    {
+        "description": "OKEX MINA/USDT",
+        "displaySymbol": "MINA/USDT",
+        "symbol": "OKEX:MINA-USDT"
+    },
+    {
+        "description": "OKEX EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "OKEX:EOS-ETH"
+    },
+    {
+        "description": "OKEX LTC/USDT",
+        "displaySymbol": "LTC/USDT",
+        "symbol": "OKEX:LTC-USDT"
+    },
+    {
+        "description": "OKEX LON/ETH",
+        "displaySymbol": "LON/ETH",
+        "symbol": "OKEX:LON-ETH"
+    },
+    {
+        "description": "OKEX EGT/BTC",
+        "displaySymbol": "EGT/BTC",
+        "symbol": "OKEX:EGT-BTC"
+    },
+    {
+        "description": "OKEX ADA/ETH",
+        "displaySymbol": "ADA/ETH",
+        "symbol": "OKEX:ADA-ETH"
+    },
+    {
+        "description": "OKEX 1INCH/ETH",
+        "displaySymbol": "1INCH/ETH",
+        "symbol": "OKEX:1INCH-ETH"
+    },
+    {
+        "description": "OKEX SRM/USDT",
+        "displaySymbol": "SRM/USDT",
+        "symbol": "OKEX:SRM-USDT"
+    },
+    {
+        "description": "OKEX HC/BTC",
+        "displaySymbol": "HC/BTC",
+        "symbol": "OKEX:HC-BTC"
+    },
+    {
+        "description": "OKEX ADA/BTC",
+        "displaySymbol": "ADA/BTC",
+        "symbol": "OKEX:ADA-BTC"
+    },
+    {
+        "description": "OKEX SFG/USDT",
+        "displaySymbol": "SFG/USDT",
+        "symbol": "OKEX:SFG-USDT"
+    },
+    {
+        "description": "OKEX DOGE/USDK",
+        "displaySymbol": "DOGE/USDK",
+        "symbol": "OKEX:DOGE-USDK"
+    },
+    {
+        "description": "OKEX AST/USDT",
+        "displaySymbol": "AST/USDT",
+        "symbol": "OKEX:AST-USDT"
+    },
+    {
+        "description": "OKEX ROAD/USDT",
+        "displaySymbol": "ROAD/USDT",
+        "symbol": "OKEX:ROAD-USDT"
+    },
+    {
+        "description": "OKEX GUSD/USDT",
+        "displaySymbol": "GUSD/USDT",
+        "symbol": "OKEX:GUSD-USDT"
+    },
+    {
+        "description": "OKEX HBAR/USDK",
+        "displaySymbol": "HBAR/USDK",
+        "symbol": "OKEX:HBAR-USDK"
+    },
+    {
+        "description": "OKEX INX/USDT",
+        "displaySymbol": "INX/USDT",
+        "symbol": "OKEX:INX-USDT"
+    },
+    {
+        "description": "OKEX USDT/USDK",
+        "displaySymbol": "USDT/USDK",
+        "symbol": "OKEX:USDT-USDK"
+    },
+    {
+        "description": "OKEX KP3R/USDT",
+        "displaySymbol": "KP3R/USDT",
+        "symbol": "OKEX:KP3R-USDT"
+    },
+    {
+        "description": "OKEX AAVE/USDT",
+        "displaySymbol": "AAVE/USDT",
+        "symbol": "OKEX:AAVE-USDT"
+    },
+    {
+        "description": "OKEX CHAT/USDT",
+        "displaySymbol": "CHAT/USDT",
+        "symbol": "OKEX:CHAT-USDT"
+    },
+    {
+        "description": "OKEX XCH/USDT",
+        "displaySymbol": "XCH/USDT",
+        "symbol": "OKEX:XCH-USDT"
+    },
+    {
+        "description": "OKEX DASH/ETH",
+        "displaySymbol": "DASH/ETH",
+        "symbol": "OKEX:DASH-ETH"
+    },
+    {
+        "description": "OKEX TRX/BTC",
+        "displaySymbol": "TRX/BTC",
+        "symbol": "OKEX:TRX-BTC"
+    },
+    {
+        "description": "OKEX APIX/USDT",
+        "displaySymbol": "APIX/USDT",
+        "symbol": "OKEX:APIX-USDT"
+    },
+    {
+        "description": "OKEX GTO/BTC",
+        "displaySymbol": "GTO/BTC",
+        "symbol": "OKEX:GTO-BTC"
+    },
+    {
+        "description": "OKEX ANW/USDT",
+        "displaySymbol": "ANW/USDT",
+        "symbol": "OKEX:ANW-USDT"
+    },
+    {
+        "description": "OKEX NAS/USDT",
+        "displaySymbol": "NAS/USDT",
+        "symbol": "OKEX:NAS-USDT"
+    },
+    {
+        "description": "OKEX BLOC/USDT",
+        "displaySymbol": "BLOC/USDT",
+        "symbol": "OKEX:BLOC-USDT"
+    },
+    {
+        "description": "OKEX ETC/USDK",
+        "displaySymbol": "ETC/USDK",
+        "symbol": "OKEX:ETC-USDK"
+    },
+    {
+        "description": "OKEX DORA/USDT",
+        "displaySymbol": "DORA/USDT",
+        "symbol": "OKEX:DORA-USDT"
+    },
+    {
+        "description": "OKEX PNK/USDT",
+        "displaySymbol": "PNK/USDT",
+        "symbol": "OKEX:PNK-USDT"
+    },
+    {
+        "description": "OKEX CTXC/USDT",
+        "displaySymbol": "CTXC/USDT",
+        "symbol": "OKEX:CTXC-USDT"
+    },
+    {
+        "description": "OKEX AE/USDT",
+        "displaySymbol": "AE/USDT",
+        "symbol": "OKEX:AE-USDT"
+    },
+    {
+        "description": "OKEX HEGIC/ETH",
+        "displaySymbol": "HEGIC/ETH",
+        "symbol": "OKEX:HEGIC-ETH"
+    },
+    {
+        "description": "OKEX GHST/USDT",
+        "displaySymbol": "GHST/USDT",
+        "symbol": "OKEX:GHST-USDT"
+    },
+    {
+        "description": "OKEX XEC/USDT",
+        "displaySymbol": "XEC/USDT",
+        "symbol": "OKEX:XEC-USDT"
+    },
+    {
+        "description": "OKEX UTK/USDT",
+        "displaySymbol": "UTK/USDT",
+        "symbol": "OKEX:UTK-USDT"
+    },
+    {
+        "description": "OKEX EDEN/USDT",
+        "displaySymbol": "EDEN/USDT",
+        "symbol": "OKEX:EDEN-USDT"
+    },
+    {
+        "description": "OKEX EC/USDT",
+        "displaySymbol": "EC/USDT",
+        "symbol": "OKEX:EC-USDT"
+    },
+    {
+        "description": "OKEX ELF/BTC",
+        "displaySymbol": "ELF/BTC",
+        "symbol": "OKEX:ELF-BTC"
+    },
+    {
+        "description": "OKEX SIS/USDT",
+        "displaySymbol": "SIS/USDT",
+        "symbol": "OKEX:SIS-USDT"
+    },
+    {
+        "description": "OKEX IQ/USDT",
+        "displaySymbol": "IQ/USDT",
+        "symbol": "OKEX:IQ-USDT"
+    },
+    {
+        "description": "OKEX TRA/USDT",
+        "displaySymbol": "TRA/USDT",
+        "symbol": "OKEX:TRA-USDT"
+    },
+    {
+        "description": "OKEX ZRX/USDT",
+        "displaySymbol": "ZRX/USDT",
+        "symbol": "OKEX:ZRX-USDT"
+    },
+    {
+        "description": "OKEX RSR/ETH",
+        "displaySymbol": "RSR/ETH",
+        "symbol": "OKEX:RSR-ETH"
+    },
+    {
+        "description": "OKEX MOF/USDT",
+        "displaySymbol": "MOF/USDT",
+        "symbol": "OKEX:MOF-USDT"
+    },
+    {
+        "description": "OKEX GHST/ETH",
+        "displaySymbol": "GHST/ETH",
+        "symbol": "OKEX:GHST-ETH"
+    },
+    {
+        "description": "OKEX NU/USDT",
+        "displaySymbol": "NU/USDT",
+        "symbol": "OKEX:NU-USDT"
+    },
+    {
+        "description": "OKEX THETA/USDT",
+        "displaySymbol": "THETA/USDT",
+        "symbol": "OKEX:THETA-USDT"
+    },
+    {
+        "description": "OKEX GRT/USDT",
+        "displaySymbol": "GRT/USDT",
+        "symbol": "OKEX:GRT-USDT"
+    },
+    {
+        "description": "OKEX EOS/USDC",
+        "displaySymbol": "EOS/USDC",
+        "symbol": "OKEX:EOS-USDC"
+    },
+    {
+        "description": "OKEX REN/USDT",
+        "displaySymbol": "REN/USDT",
+        "symbol": "OKEX:REN-USDT"
+    },
+    {
+        "description": "OKEX GAS/ETH",
+        "displaySymbol": "GAS/ETH",
+        "symbol": "OKEX:GAS-ETH"
+    },
+    {
+        "description": "OKEX CFG/USDT",
+        "displaySymbol": "CFG/USDT",
+        "symbol": "OKEX:CFG-USDT"
+    },
+    {
+        "description": "OKEX YEE/USDT",
+        "displaySymbol": "YEE/USDT",
+        "symbol": "OKEX:YEE-USDT"
+    },
+    {
+        "description": "OKEX NEAR/ETH",
+        "displaySymbol": "NEAR/ETH",
+        "symbol": "OKEX:NEAR-ETH"
+    },
+    {
+        "description": "OKEX STARL/USDT",
+        "displaySymbol": "STARL/USDT",
+        "symbol": "OKEX:STARL-USDT"
+    },
+    {
+        "description": "OKEX ELF/USDT",
+        "displaySymbol": "ELF/USDT",
+        "symbol": "OKEX:ELF-USDT"
+    },
+    {
+        "description": "OKEX IOST/ETH",
+        "displaySymbol": "IOST/ETH",
+        "symbol": "OKEX:IOST-ETH"
+    },
+    {
+        "description": "OKEX PMA/BTC",
+        "displaySymbol": "PMA/BTC",
+        "symbol": "OKEX:PMA-BTC"
+    },
+    {
+        "description": "OKEX ONT/BTC",
+        "displaySymbol": "ONT/BTC",
+        "symbol": "OKEX:ONT-BTC"
+    },
+    {
+        "description": "OKEX BZZ/USDT",
+        "displaySymbol": "BZZ/USDT",
+        "symbol": "OKEX:BZZ-USDT"
+    },
+    {
+        "description": "OKEX CRO/BTC",
+        "displaySymbol": "CRO/BTC",
+        "symbol": "OKEX:CRO-BTC"
+    },
+    {
+        "description": "OKEX PST/USDT",
+        "displaySymbol": "PST/USDT",
+        "symbol": "OKEX:PST-USDT"
+    },
+    {
+        "description": "OKEX BICO/USDT",
+        "displaySymbol": "BICO/USDT",
+        "symbol": "OKEX:BICO-USDT"
+    },
+    {
+        "description": "OKEX BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "OKEX:BCH-BTC"
+    },
+    {
+        "description": "OKEX SUSHI/ETH",
+        "displaySymbol": "SUSHI/ETH",
+        "symbol": "OKEX:SUSHI-ETH"
+    },
+    {
+        "description": "OKEX SHIB/USDT",
+        "displaySymbol": "SHIB/USDT",
+        "symbol": "OKEX:SHIB-USDT"
+    },
+    {
+        "description": "OKEX YFI/ETH",
+        "displaySymbol": "YFI/ETH",
+        "symbol": "OKEX:YFI-ETH"
+    },
+    {
+        "description": "OKEX PMA/USDK",
+        "displaySymbol": "PMA/USDK",
+        "symbol": "OKEX:PMA-USDK"
+    },
+    {
+        "description": "OKEX BTC/USDT",
+        "displaySymbol": "BTC/USDT",
+        "symbol": "OKEX:BTC-USDT"
+    },
+    {
+        "description": "OKEX KSM/BTC",
+        "displaySymbol": "KSM/BTC",
+        "symbol": "OKEX:KSM-BTC"
+    },
+    {
+        "description": "OKEX CHZ/USDT",
+        "displaySymbol": "CHZ/USDT",
+        "symbol": "OKEX:CHZ-USDT"
+    },
+    {
+        "description": "OKEX INT/USDT",
+        "displaySymbol": "INT/USDT",
+        "symbol": "OKEX:INT-USDT"
+    },
+    {
+        "description": "OKEX FIL/BTC",
+        "displaySymbol": "FIL/BTC",
+        "symbol": "OKEX:FIL-BTC"
+    },
+    {
+        "description": "OKEX LAT/USDT",
+        "displaySymbol": "LAT/USDT",
+        "symbol": "OKEX:LAT-USDT"
+    },
+    {
+        "description": "OKEX VIB/USDT",
+        "displaySymbol": "VIB/USDT",
+        "symbol": "OKEX:VIB-USDT"
+    },
+    {
+        "description": "OKEX LON/USDT",
+        "displaySymbol": "LON/USDT",
+        "symbol": "OKEX:LON-USDT"
+    },
+    {
+        "description": "OKEX OM/ETH",
+        "displaySymbol": "OM/ETH",
+        "symbol": "OKEX:OM-ETH"
+    },
+    {
+        "description": "OKEX ENS/USDT",
+        "displaySymbol": "ENS/USDT",
+        "symbol": "OKEX:ENS-USDT"
+    },
+    {
+        "description": "OKEX DYDX/USDT",
+        "displaySymbol": "DYDX/USDT",
+        "symbol": "OKEX:DYDX-USDT"
+    },
+    {
+        "description": "OKEX ANC/USDT",
+        "displaySymbol": "ANC/USDT",
+        "symbol": "OKEX:ANC-USDT"
+    },
+    {
+        "description": "OKEX XMR/BTC",
+        "displaySymbol": "XMR/BTC",
+        "symbol": "OKEX:XMR-BTC"
+    },
+    {
+        "description": "OKEX BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "OKEX:BTC-DAI"
+    },
+    {
+        "description": "OKEX LTC/ETH",
+        "displaySymbol": "LTC/ETH",
+        "symbol": "OKEX:LTC-ETH"
+    },
+    {
+        "description": "OKEX ZEC/ETH",
+        "displaySymbol": "ZEC/ETH",
+        "symbol": "OKEX:ZEC-ETH"
+    },
+    {
+        "description": "OKEX NU/BTC",
+        "displaySymbol": "NU/BTC",
+        "symbol": "OKEX:NU-BTC"
+    },
+    {
+        "description": "OKEX FLOW/USDT",
+        "displaySymbol": "FLOW/USDT",
+        "symbol": "OKEX:FLOW-USDT"
+    },
+    {
+        "description": "OKEX IOST/BTC",
+        "displaySymbol": "IOST/BTC",
+        "symbol": "OKEX:IOST-BTC"
+    },
+    {
+        "description": "OKEX DOT/ETH",
+        "displaySymbol": "DOT/ETH",
+        "symbol": "OKEX:DOT-ETH"
+    },
+    {
+        "description": "OKEX MXC/USDT",
+        "displaySymbol": "MXC/USDT",
+        "symbol": "OKEX:MXC-USDT"
+    },
+    {
+        "description": "OKEX ALGO/BTC",
+        "displaySymbol": "ALGO/BTC",
+        "symbol": "OKEX:ALGO-BTC"
+    },
+    {
+        "description": "OKEX EGLD/BTC",
+        "displaySymbol": "EGLD/BTC",
+        "symbol": "OKEX:EGLD-BTC"
+    },
+    {
+        "description": "OKEX LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "OKEX:LTC-BTC"
+    },
+    {
+        "description": "OKEX SOS/USDT",
+        "displaySymbol": "SOS/USDT",
+        "symbol": "OKEX:SOS-USDT"
+    },
+    {
+        "description": "OKEX PICKLE/USDT",
+        "displaySymbol": "PICKLE/USDT",
+        "symbol": "OKEX:PICKLE-USDT"
+    },
+    {
+        "description": "OKEX ZEN/BTC",
+        "displaySymbol": "ZEN/BTC",
+        "symbol": "OKEX:ZEN-BTC"
+    },
+    {
+        "description": "OKEX ALGO/USDT",
+        "displaySymbol": "ALGO/USDT",
+        "symbol": "OKEX:ALGO-USDT"
+    },
+    {
+        "description": "OKEX ONT/USDT",
+        "displaySymbol": "ONT/USDT",
+        "symbol": "OKEX:ONT-USDT"
+    },
+    {
+        "description": "OKEX CHE/USDT",
+        "displaySymbol": "CHE/USDT",
+        "symbol": "OKEX:CHE-USDT"
+    },
+    {
+        "description": "OKEX ETH/USDK",
+        "displaySymbol": "ETH/USDK",
+        "symbol": "OKEX:ETH-USDK"
+    },
+    {
+        "description": "OKEX MANA/ETH",
+        "displaySymbol": "MANA/ETH",
+        "symbol": "OKEX:MANA-ETH"
+    },
+    {
+        "description": "OKEX ARK/BTC",
+        "displaySymbol": "ARK/BTC",
+        "symbol": "OKEX:ARK-BTC"
+    },
+    {
+        "description": "OKEX AE/BTC",
+        "displaySymbol": "AE/BTC",
+        "symbol": "OKEX:AE-BTC"
+    },
+    {
+        "description": "OKEX DMG/USDT",
+        "displaySymbol": "DMG/USDT",
+        "symbol": "OKEX:DMG-USDT"
+    },
+    {
+        "description": "OKEX HBAR/USDT",
+        "displaySymbol": "HBAR/USDT",
+        "symbol": "OKEX:HBAR-USDT"
+    },
+    {
+        "description": "OKEX ARDR/BTC",
+        "displaySymbol": "ARDR/BTC",
+        "symbol": "OKEX:ARDR-BTC"
+    },
+    {
+        "description": "OKEX CVT/BTC",
+        "displaySymbol": "CVT/BTC",
+        "symbol": "OKEX:CVT-BTC"
+    },
+    {
+        "description": "OKEX MDA/USDT",
+        "displaySymbol": "MDA/USDT",
+        "symbol": "OKEX:MDA-USDT"
+    },
+    {
+        "description": "OKEX XSR/USDT",
+        "displaySymbol": "XSR/USDT",
+        "symbol": "OKEX:XSR-USDT"
+    },
+    {
+        "description": "OKEX QTUM/BTC",
+        "displaySymbol": "QTUM/BTC",
+        "symbol": "OKEX:QTUM-BTC"
+    },
+    {
+        "description": "OKEX DMD/USDT",
+        "displaySymbol": "DMD/USDT",
+        "symbol": "OKEX:DMD-USDT"
+    },
+    {
+        "description": "OKEX DOGE/ETH",
+        "displaySymbol": "DOGE/ETH",
+        "symbol": "OKEX:DOGE-ETH"
+    },
+    {
+        "description": "OKEX ATOM/ETH",
+        "displaySymbol": "ATOM/ETH",
+        "symbol": "OKEX:ATOM-ETH"
+    },
+    {
+        "description": "OKEX REN/BTC",
+        "displaySymbol": "REN/BTC",
+        "symbol": "OKEX:REN-BTC"
+    },
+    {
+        "description": "OKEX COMP/USDT",
+        "displaySymbol": "COMP/USDT",
+        "symbol": "OKEX:COMP-USDT"
+    },
+    {
+        "description": "OKEX LPT/USDT",
+        "displaySymbol": "LPT/USDT",
+        "symbol": "OKEX:LPT-USDT"
+    },
+    {
+        "description": "OKEX MANA/BTC",
+        "displaySymbol": "MANA/BTC",
+        "symbol": "OKEX:MANA-BTC"
+    },
+    {
+        "description": "OKEX SRM/BTC",
+        "displaySymbol": "SRM/BTC",
+        "symbol": "OKEX:SRM-BTC"
+    },
+    {
+        "description": "OKEX PEOPLE/USDT",
+        "displaySymbol": "PEOPLE/USDT",
+        "symbol": "OKEX:PEOPLE-USDT"
+    },
+    {
+        "description": "OKEX CHZ/BTC",
+        "displaySymbol": "CHZ/BTC",
+        "symbol": "OKEX:CHZ-BTC"
+    },
+    {
+        "description": "OKEX BADGER/USDT",
+        "displaySymbol": "BADGER/USDT",
+        "symbol": "OKEX:BADGER-USDT"
+    },
+    {
+        "description": "OKEX ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "OKEX:ETH-BTC"
+    },
+    {
+        "description": "OKEX ENJ/USDT",
+        "displaySymbol": "ENJ/USDT",
+        "symbol": "OKEX:ENJ-USDT"
+    },
+    {
+        "description": "OKEX TAI/USDT",
+        "displaySymbol": "TAI/USDT",
+        "symbol": "OKEX:TAI-USDT"
+    },
+    {
+        "description": "OKEX QTUM/ETH",
+        "displaySymbol": "QTUM/ETH",
+        "symbol": "OKEX:QTUM-ETH"
+    },
+    {
+        "description": "OKEX CVC/USDT",
+        "displaySymbol": "CVC/USDT",
+        "symbol": "OKEX:CVC-USDT"
+    },
+    {
+        "description": "OKEX GTO/USDT",
+        "displaySymbol": "GTO/USDT",
+        "symbol": "OKEX:GTO-USDT"
+    },
+    {
+        "description": "OKEX NULS/USDT",
+        "displaySymbol": "NULS/USDT",
+        "symbol": "OKEX:NULS-USDT"
+    },
+    {
+        "description": "OKEX GAS/USDT",
+        "displaySymbol": "GAS/USDT",
+        "symbol": "OKEX:GAS-USDT"
+    },
+    {
+        "description": "OKEX HDAO/USDT",
+        "displaySymbol": "HDAO/USDT",
+        "symbol": "OKEX:HDAO-USDT"
+    },
+    {
+        "description": "OKEX WAVES/BTC",
+        "displaySymbol": "WAVES/BTC",
+        "symbol": "OKEX:WAVES-BTC"
+    },
+    {
+        "description": "OKEX CSPR/USDT",
+        "displaySymbol": "CSPR/USDT",
+        "symbol": "OKEX:CSPR-USDT"
+    },
+    {
+        "description": "OKEX XLM/ETH",
+        "displaySymbol": "XLM/ETH",
+        "symbol": "OKEX:XLM-ETH"
+    },
+    {
+        "description": "OKEX YGG/USDT",
+        "displaySymbol": "YGG/USDT",
+        "symbol": "OKEX:YGG-USDT"
+    },
+    {
+        "description": "OKEX CLV/USDT",
+        "displaySymbol": "CLV/USDT",
+        "symbol": "OKEX:CLV-USDT"
+    },
+    {
+        "description": "OKEX PST/BTC",
+        "displaySymbol": "PST/BTC",
+        "symbol": "OKEX:PST-BTC"
+    },
+    {
+        "description": "OKEX KSM/ETH",
+        "displaySymbol": "KSM/ETH",
+        "symbol": "OKEX:KSM-ETH"
+    },
+    {
+        "description": "OKEX FUN/BTC",
+        "displaySymbol": "FUN/BTC",
+        "symbol": "OKEX:FUN-BTC"
+    },
+    {
+        "description": "OKEX AAVE/ETH",
+        "displaySymbol": "AAVE/ETH",
+        "symbol": "OKEX:AAVE-ETH"
+    },
+    {
+        "description": "OKEX XMR/USDT",
+        "displaySymbol": "XMR/USDT",
+        "symbol": "OKEX:XMR-USDT"
+    },
+    {
+        "description": "OKEX BCH/USDC",
+        "displaySymbol": "BCH/USDC",
+        "symbol": "OKEX:BCH-USDC"
+    },
+    {
+        "description": "OKEX KAN/USDT",
+        "displaySymbol": "KAN/USDT",
+        "symbol": "OKEX:KAN-USDT"
+    },
+    {
+        "description": "OKEX YOU/BTC",
+        "displaySymbol": "YOU/BTC",
+        "symbol": "OKEX:YOU-BTC"
+    },
+    {
+        "description": "OKEX WSB/USDT",
+        "displaySymbol": "WSB/USDT",
+        "symbol": "OKEX:WSB-USDT"
+    },
+    {
+        "description": "OKEX PAY/USDT",
+        "displaySymbol": "PAY/USDT",
+        "symbol": "OKEX:PAY-USDT"
+    },
+    {
+        "description": "OKEX ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "OKEX:ZEC-BTC"
+    },
+    {
+        "description": "OKEX KONO/USDT",
+        "displaySymbol": "KONO/USDT",
+        "symbol": "OKEX:KONO-USDT"
+    },
+    {
+        "description": "OKEX CRV/USDT",
+        "displaySymbol": "CRV/USDT",
+        "symbol": "OKEX:CRV-USDT"
+    },
+    {
+        "description": "OKEX UNI/USDT",
+        "displaySymbol": "UNI/USDT",
+        "symbol": "OKEX:UNI-USDT"
+    },
+    {
+        "description": "OKEX XLM/BTC",
+        "displaySymbol": "XLM/BTC",
+        "symbol": "OKEX:XLM-BTC"
+    },
+    {
+        "description": "OKEX ENJ/BTC",
+        "displaySymbol": "ENJ/BTC",
+        "symbol": "OKEX:ENJ-BTC"
+    },
+    {
+        "description": "OKEX CVX/USDT",
+        "displaySymbol": "CVX/USDT",
+        "symbol": "OKEX:CVX-USDT"
+    },
+    {
+        "description": "OKEX NANO/BTC",
+        "displaySymbol": "NANO/BTC",
+        "symbol": "OKEX:NANO-BTC"
+    },
+    {
+        "description": "OKEX NULS/BTC",
+        "displaySymbol": "NULS/BTC",
+        "symbol": "OKEX:NULS-BTC"
+    },
+    {
+        "description": "OKEX RIO/USDT",
+        "displaySymbol": "RIO/USDT",
+        "symbol": "OKEX:RIO-USDT"
+    },
+    {
+        "description": "OKEX BAL/BTC",
+        "displaySymbol": "BAL/BTC",
+        "symbol": "OKEX:BAL-BTC"
+    },
+    {
+        "description": "OKEX FIL/ETH",
+        "displaySymbol": "FIL/ETH",
+        "symbol": "OKEX:FIL-ETH"
+    },
+    {
+        "description": "OKEX BTM/BTC",
+        "displaySymbol": "BTM/BTC",
+        "symbol": "OKEX:BTM-BTC"
+    },
+    {
+        "description": "OKEX CRO/USDK",
+        "displaySymbol": "CRO/USDK",
+        "symbol": "OKEX:CRO-USDK"
+    },
+    {
+        "description": "OKEX THETA/BTC",
+        "displaySymbol": "THETA/BTC",
+        "symbol": "OKEX:THETA-BTC"
+    },
+    {
+        "description": "OKEX WNCG/USDT",
+        "displaySymbol": "WNCG/USDT",
+        "symbol": "OKEX:WNCG-USDT"
+    },
+    {
+        "description": "OKEX ICP/USDT",
+        "displaySymbol": "ICP/USDT",
+        "symbol": "OKEX:ICP-USDT"
+    },
+    {
+        "description": "OKEX FRONT/USDT",
+        "displaySymbol": "FRONT/USDT",
+        "symbol": "OKEX:FRONT-USDT"
+    },
+    {
+        "description": "OKEX OMG/BTC",
+        "displaySymbol": "OMG/BTC",
+        "symbol": "OKEX:OMG-BTC"
+    },
+    {
+        "description": "OKEX IMX/USDT",
+        "displaySymbol": "IMX/USDT",
+        "symbol": "OKEX:IMX-USDT"
+    },
+    {
+        "description": "OKEX TCT/USDT",
+        "displaySymbol": "TCT/USDT",
+        "symbol": "OKEX:TCT-USDT"
+    },
+    {
+        "description": "OKEX WTC/USDT",
+        "displaySymbol": "WTC/USDT",
+        "symbol": "OKEX:WTC-USDT"
+    },
+    {
+        "description": "OKEX VSYS/BTC",
+        "displaySymbol": "VSYS/BTC",
+        "symbol": "OKEX:VSYS-BTC"
+    },
+    {
+        "description": "OKEX LRC/USDT",
+        "displaySymbol": "LRC/USDT",
+        "symbol": "OKEX:LRC-USDT"
+    },
+    {
+        "description": "OKEX EXE/USDT",
+        "displaySymbol": "EXE/USDT",
+        "symbol": "OKEX:EXE-USDT"
+    },
+    {
+        "description": "OKEX DOSE/USDT",
+        "displaySymbol": "DOSE/USDT",
+        "symbol": "OKEX:DOSE-USDT"
+    },
+    {
+        "description": "OKEX TRIO/USDT",
+        "displaySymbol": "TRIO/USDT",
+        "symbol": "OKEX:TRIO-USDT"
+    },
+    {
+        "description": "OKEX UST/USDT",
+        "displaySymbol": "UST/USDT",
+        "symbol": "OKEX:UST-USDT"
+    },
+    {
+        "description": "OKEX NEAR/USDT",
+        "displaySymbol": "NEAR/USDT",
+        "symbol": "OKEX:NEAR-USDT"
+    },
+    {
+        "description": "OKEX LOON/USDT",
+        "displaySymbol": "LOON/USDT",
+        "symbol": "OKEX:LOON-USDT"
+    },
+    {
+        "description": "OKEX ADA/USDT",
+        "displaySymbol": "ADA/USDT",
+        "symbol": "OKEX:ADA-USDT"
+    },
+    {
+        "description": "OKEX ATOM/USDT",
+        "displaySymbol": "ATOM/USDT",
+        "symbol": "OKEX:ATOM-USDT"
+    },
+    {
+        "description": "OKEX KINE/USDT",
+        "displaySymbol": "KINE/USDT",
+        "symbol": "OKEX:KINE-USDT"
+    },
+    {
+        "description": "OKEX ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "OKEX:ETH-DAI"
+    },
+    {
+        "description": "OKEX PAX/BTC",
+        "displaySymbol": "PAX/BTC",
+        "symbol": "OKEX:PAX-BTC"
+    },
+    {
+        "description": "OKEX KNC/BTC",
+        "displaySymbol": "KNC/BTC",
+        "symbol": "OKEX:KNC-BTC"
+    },
+    {
+        "description": "OKEX CFX/USDT",
+        "displaySymbol": "CFX/USDT",
+        "symbol": "OKEX:CFX-USDT"
+    },
+    {
+        "description": "OKEX BCD/USDT",
+        "displaySymbol": "BCD/USDT",
+        "symbol": "OKEX:BCD-USDT"
+    },
+    {
+        "description": "OKEX CMT/USDT",
+        "displaySymbol": "CMT/USDT",
+        "symbol": "OKEX:CMT-USDT"
+    },
+    {
+        "description": "OKEX ELON/USDT",
+        "displaySymbol": "ELON/USDT",
+        "symbol": "OKEX:ELON-USDT"
+    },
+    {
+        "description": "OKEX WXT/BTC",
+        "displaySymbol": "WXT/BTC",
+        "symbol": "OKEX:WXT-BTC"
+    },
+    {
+        "description": "OKEX ANT/BTC",
+        "displaySymbol": "ANT/BTC",
+        "symbol": "OKEX:ANT-BTC"
+    },
+    {
+        "description": "OKEX MIR/USDT",
+        "displaySymbol": "MIR/USDT",
+        "symbol": "OKEX:MIR-USDT"
+    },
+    {
+        "description": "OKEX ERN/USDT",
+        "displaySymbol": "ERN/USDT",
+        "symbol": "OKEX:ERN-USDT"
+    },
+    {
+        "description": "OKEX MITH/USDT",
+        "displaySymbol": "MITH/USDT",
+        "symbol": "OKEX:MITH-USDT"
+    },
+    {
+        "description": "OKEX OKB/ETH",
+        "displaySymbol": "OKB/ETH",
+        "symbol": "OKEX:OKB-ETH"
+    },
+    {
+        "description": "OKEX BHP/BTC",
+        "displaySymbol": "BHP/BTC",
+        "symbol": "OKEX:BHP-BTC"
+    },
+    {
+        "description": "OKEX LTC/USDC",
+        "displaySymbol": "LTC/USDC",
+        "symbol": "OKEX:LTC-USDC"
+    },
+    {
+        "description": "OKEX SNT/BTC",
+        "displaySymbol": "SNT/BTC",
+        "symbol": "OKEX:SNT-BTC"
+    },
+    {
+        "description": "OKEX DEVT/USDT",
+        "displaySymbol": "DEVT/USDT",
+        "symbol": "OKEX:DEVT-USDT"
+    },
+    {
+        "description": "OKEX VIB/BTC",
+        "displaySymbol": "VIB/BTC",
+        "symbol": "OKEX:VIB-BTC"
+    },
+    {
+        "description": "OKEX DGB/BTC",
+        "displaySymbol": "DGB/BTC",
+        "symbol": "OKEX:DGB-BTC"
+    },
+    {
+        "description": "OKEX PAX/USDT",
+        "displaySymbol": "PAX/USDT",
+        "symbol": "OKEX:PAX-USDT"
+    },
+    {
+        "description": "OKEX LET/USDT",
+        "displaySymbol": "LET/USDT",
+        "symbol": "OKEX:LET-USDT"
+    },
+    {
+        "description": "OKEX DNA/BTC",
+        "displaySymbol": "DNA/BTC",
+        "symbol": "OKEX:DNA-BTC"
+    },
+    {
+        "description": "OKEX MCO/USDT",
+        "displaySymbol": "MCO/USDT",
+        "symbol": "OKEX:MCO-USDT"
+    },
+    {
+        "description": "OKEX ETH/USDT",
+        "displaySymbol": "ETH/USDT",
+        "symbol": "OKEX:ETH-USDT"
+    },
+    {
+        "description": "OKEX SC/BTC",
+        "displaySymbol": "SC/BTC",
+        "symbol": "OKEX:SC-BTC"
+    },
+    {
+        "description": "OKEX TRX/USDK",
+        "displaySymbol": "TRX/USDK",
+        "symbol": "OKEX:TRX-USDK"
+    },
+    {
+        "description": "OKEX ETC/USDT",
+        "displaySymbol": "ETC/USDT",
+        "symbol": "OKEX:ETC-USDT"
+    },
+    {
+        "description": "OKEX CRO/USDT",
+        "displaySymbol": "CRO/USDT",
+        "symbol": "OKEX:CRO-USDT"
+    },
+    {
+        "description": "OKEX MKR/ETH",
+        "displaySymbol": "MKR/ETH",
+        "symbol": "OKEX:MKR-ETH"
+    },
+    {
+        "description": "OKEX XPR/USDT",
+        "displaySymbol": "XPR/USDT",
+        "symbol": "OKEX:XPR-USDT"
+    },
+    {
+        "description": "OKEX AVAX/ETH",
+        "displaySymbol": "AVAX/ETH",
+        "symbol": "OKEX:AVAX-ETH"
+    },
+    {
+        "description": "OKEX OKB/USDC",
+        "displaySymbol": "OKB/USDC",
+        "symbol": "OKEX:OKB-USDC"
+    },
+    {
+        "description": "OKEX AVAX/USDT",
+        "displaySymbol": "AVAX/USDT",
+        "symbol": "OKEX:AVAX-USDT"
+    },
+    {
+        "description": "OKEX DASH/BTC",
+        "displaySymbol": "DASH/BTC",
+        "symbol": "OKEX:DASH-BTC"
+    },
+    {
+        "description": "OKEX OKB/USDK",
+        "displaySymbol": "OKB/USDK",
+        "symbol": "OKEX:OKB-USDK"
+    },
+    {
+        "description": "OKEX MANA/USDT",
+        "displaySymbol": "MANA/USDT",
+        "symbol": "OKEX:MANA-USDT"
+    },
+    {
+        "description": "OKEX EGLD/USDT",
+        "displaySymbol": "EGLD/USDT",
+        "symbol": "OKEX:EGLD-USDT"
+    },
+    {
+        "description": "OKEX XRP/USDC",
+        "displaySymbol": "XRP/USDC",
+        "symbol": "OKEX:XRP-USDC"
+    },
+    {
+        "description": "OKEX EOS/USDK",
+        "displaySymbol": "EOS/USDK",
+        "symbol": "OKEX:EOS-USDK"
+    },
+    {
+        "description": "OKEX DOT/BTC",
+        "displaySymbol": "DOT/BTC",
+        "symbol": "OKEX:DOT-BTC"
+    },
+    {
+        "description": "OKEX NANO/USDT",
+        "displaySymbol": "NANO/USDT",
+        "symbol": "OKEX:NANO-USDT"
+    },
+    {
+        "description": "OKEX BOX/USDT",
+        "displaySymbol": "BOX/USDT",
+        "symbol": "OKEX:BOX-USDT"
+    },
+    {
+        "description": "OKEX VRA/USDT",
+        "displaySymbol": "VRA/USDT",
+        "symbol": "OKEX:VRA-USDT"
+    },
+    {
+        "description": "OKEX NEAR/BTC",
+        "displaySymbol": "NEAR/BTC",
+        "symbol": "OKEX:NEAR-BTC"
+    },
+    {
+        "description": "OKEX GNX/BTC",
+        "displaySymbol": "GNX/BTC",
+        "symbol": "OKEX:GNX-BTC"
+    },
+    {
+        "description": "OKEX BETH/ETH",
+        "displaySymbol": "BETH/ETH",
+        "symbol": "OKEX:BETH-ETH"
+    },
+    {
+        "description": "OKEX BORING/USDT",
+        "displaySymbol": "BORING/USDT",
+        "symbol": "OKEX:BORING-USDT"
+    },
+    {
+        "description": "OKEX OMG/USDT",
+        "displaySymbol": "OMG/USDT",
+        "symbol": "OKEX:OMG-USDT"
+    },
+    {
+        "description": "OKEX WING/USDT",
+        "displaySymbol": "WING/USDT",
+        "symbol": "OKEX:WING-USDT"
+    },
+    {
+        "description": "OKEX QTUM/USDT",
+        "displaySymbol": "QTUM/USDT",
+        "symbol": "OKEX:QTUM-USDT"
+    },
+    {
+        "description": "OKEX WBTC/BTC",
+        "displaySymbol": "WBTC/BTC",
+        "symbol": "OKEX:WBTC-BTC"
+    },
+    {
+        "description": "OKEX SUN/USDT",
+        "displaySymbol": "SUN/USDT",
+        "symbol": "OKEX:SUN-USDT"
+    },
+    {
+        "description": "OKEX ALCX/USDT",
+        "displaySymbol": "ALCX/USDT",
+        "symbol": "OKEX:ALCX-USDT"
+    },
+    {
+        "description": "OKEX IOST/USDT",
+        "displaySymbol": "IOST/USDT",
+        "symbol": "OKEX:IOST-USDT"
+    },
+    {
+        "description": "OKEX HBAR/BTC",
+        "displaySymbol": "HBAR/BTC",
+        "symbol": "OKEX:HBAR-BTC"
+    },
+    {
+        "description": "OKEX ALPHA/BTC",
+        "displaySymbol": "ALPHA/BTC",
+        "symbol": "OKEX:ALPHA-BTC"
+    },
+    {
+        "description": "OKEX XMR/ETH",
+        "displaySymbol": "XMR/ETH",
+        "symbol": "OKEX:XMR-ETH"
+    },
+    {
+        "description": "OKEX KAN/ETH",
+        "displaySymbol": "KAN/ETH",
+        "symbol": "OKEX:KAN-ETH"
+    },
+    {
+        "description": "OKEX 1INCH/USDT",
+        "displaySymbol": "1INCH/USDT",
+        "symbol": "OKEX:1INCH-USDT"
+    },
+    {
+        "description": "OKEX TRX/ETH",
+        "displaySymbol": "TRX/ETH",
+        "symbol": "OKEX:TRX-ETH"
+    },
+    {
+        "description": "OKEX SWRV/USDT",
+        "displaySymbol": "SWRV/USDT",
+        "symbol": "OKEX:SWRV-USDT"
+    },
+    {
+        "description": "OKEX BTM/USDT",
+        "displaySymbol": "BTM/USDT",
+        "symbol": "OKEX:BTM-USDT"
+    },
+    {
+        "description": "OKEX CTC/BTC",
+        "displaySymbol": "CTC/BTC",
+        "symbol": "OKEX:CTC-BTC"
+    },
+    {
+        "description": "OKEX NDN/USDT",
+        "displaySymbol": "NDN/USDT",
+        "symbol": "OKEX:NDN-USDT"
+    },
+    {
+        "description": "OKEX API3/USDT",
+        "displaySymbol": "API3/USDT",
+        "symbol": "OKEX:API3-USDT"
+    },
+    {
+        "description": "OKEX GOG/USDT",
+        "displaySymbol": "GOG/USDT",
+        "symbol": "OKEX:GOG-USDT"
+    },
+    {
+        "description": "OKEX AKITA/USDT",
+        "displaySymbol": "AKITA/USDT",
+        "symbol": "OKEX:AKITA-USDT"
+    },
+    {
+        "description": "OKEX SNT/USDT",
+        "displaySymbol": "SNT/USDT",
+        "symbol": "OKEX:SNT-USDT"
+    },
+    {
+        "description": "OKEX OKB/USDT",
+        "displaySymbol": "OKB/USDT",
+        "symbol": "OKEX:OKB-USDT"
+    },
+    {
+        "description": "OKEX RVN/USDT",
+        "displaySymbol": "RVN/USDT",
+        "symbol": "OKEX:RVN-USDT"
+    },
+    {
+        "description": "OKEX FLOW/BTC",
+        "displaySymbol": "FLOW/BTC",
+        "symbol": "OKEX:FLOW-BTC"
+    },
+    {
+        "description": "OKEX CELO/BTC",
+        "displaySymbol": "CELO/BTC",
+        "symbol": "OKEX:CELO-BTC"
+    },
+    {
+        "description": "OKEX ACT/BTC",
+        "displaySymbol": "ACT/BTC",
+        "symbol": "OKEX:ACT-BTC"
+    },
+    {
+        "description": "OKEX NAS/BTC",
+        "displaySymbol": "NAS/BTC",
+        "symbol": "OKEX:NAS-BTC"
+    },
+    {
+        "description": "OKEX DIA/USDT",
+        "displaySymbol": "DIA/USDT",
+        "symbol": "OKEX:DIA-USDT"
+    },
+    {
+        "description": "OKEX APM/USDT",
+        "displaySymbol": "APM/USDT",
+        "symbol": "OKEX:APM-USDT"
+    },
+    {
+        "description": "OKEX SNX/ETH",
+        "displaySymbol": "SNX/ETH",
+        "symbol": "OKEX:SNX-ETH"
+    },
+    {
+        "description": "OKEX BCX/BTC",
+        "displaySymbol": "BCX/BTC",
+        "symbol": "OKEX:BCX-BTC"
+    },
+    {
+        "description": "OKEX COVER/USDT",
+        "displaySymbol": "COVER/USDT",
+        "symbol": "OKEX:COVER-USDT"
+    },
+    {
+        "description": "OKEX REVV/USDT",
+        "displaySymbol": "REVV/USDT",
+        "symbol": "OKEX:REVV-USDT"
+    },
+    {
+        "description": "OKEX XRP/ETH",
+        "displaySymbol": "XRP/ETH",
+        "symbol": "OKEX:XRP-ETH"
+    },
+    {
+        "description": "OKEX DCR/USDT",
+        "displaySymbol": "DCR/USDT",
+        "symbol": "OKEX:DCR-USDT"
+    },
+    {
+        "description": "OKEX BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "OKEX:BTC-USDC"
+    },
+    {
+        "description": "OKEX AAC/USDT",
+        "displaySymbol": "AAC/USDT",
+        "symbol": "OKEX:AAC-USDT"
+    },
+    {
+        "description": "OKEX DHT/USDT",
+        "displaySymbol": "DHT/USDT",
+        "symbol": "OKEX:DHT-USDT"
+    },
+    {
+        "description": "OKEX BSV/USDK",
+        "displaySymbol": "BSV/USDK",
+        "symbol": "OKEX:BSV-USDK"
+    },
+    {
+        "description": "OKEX ARK/USDT",
+        "displaySymbol": "ARK/USDT",
+        "symbol": "OKEX:ARK-USDT"
+    },
+    {
+        "description": "OKEX ETC/USDC",
+        "displaySymbol": "ETC/USDC",
+        "symbol": "OKEX:ETC-USDC"
+    },
+    {
+        "description": "OKEX BAL/USDT",
+        "displaySymbol": "BAL/USDT",
+        "symbol": "OKEX:BAL-USDT"
+    },
+    {
+        "description": "OKEX ZIL/ETH",
+        "displaySymbol": "ZIL/ETH",
+        "symbol": "OKEX:ZIL-ETH"
+    },
+    {
+        "description": "OKEX ICX/BTC",
+        "displaySymbol": "ICX/BTC",
+        "symbol": "OKEX:ICX-BTC"
+    },
+    {
+        "description": "OKEX POLS/USDT",
+        "displaySymbol": "POLS/USDT",
+        "symbol": "OKEX:POLS-USDT"
+    },
+    {
+        "description": "OKEX CVP/USDT",
+        "displaySymbol": "CVP/USDT",
+        "symbol": "OKEX:CVP-USDT"
+    },
+    {
+        "description": "OKEX ZEC/USDT",
+        "displaySymbol": "ZEC/USDT",
+        "symbol": "OKEX:ZEC-USDT"
+    },
+    {
+        "description": "OKEX TUP/USDT",
+        "displaySymbol": "TUP/USDT",
+        "symbol": "OKEX:TUP-USDT"
+    },
+    {
+        "description": "OKEX CELR/USDT",
+        "displaySymbol": "CELR/USDT",
+        "symbol": "OKEX:CELR-USDT"
+    },
+    {
+        "description": "OKEX ACT/USDT",
+        "displaySymbol": "ACT/USDT",
+        "symbol": "OKEX:ACT-USDT"
+    },
+    {
+        "description": "OKEX BSV/USDC",
+        "displaySymbol": "BSV/USDC",
+        "symbol": "OKEX:BSV-USDC"
+    },
+    {
+        "description": "OKEX FLM/USDT",
+        "displaySymbol": "FLM/USDT",
+        "symbol": "OKEX:FLM-USDT"
+    },
+    {
+        "description": "OKEX XRP/BTC",
+        "displaySymbol": "XRP/BTC",
+        "symbol": "OKEX:XRP-BTC"
+    },
+    {
+        "description": "OKEX OXT/USDT",
+        "displaySymbol": "OXT/USDT",
+        "symbol": "OKEX:OXT-USDT"
+    },
+    {
+        "description": "OKEX TRUE/BTC",
+        "displaySymbol": "TRUE/BTC",
+        "symbol": "OKEX:TRUE-BTC"
+    },
+    {
+        "description": "OKEX LMCH/USDT",
+        "displaySymbol": "LMCH/USDT",
+        "symbol": "OKEX:LMCH-USDT"
+    },
+    {
+        "description": "OKEX REP/USDT",
+        "displaySymbol": "REP/USDT",
+        "symbol": "OKEX:REP-USDT"
+    },
+    {
+        "description": "OKEX SWFTC/BTC",
+        "displaySymbol": "SWFTC/BTC",
+        "symbol": "OKEX:SWFTC-BTC"
+    },
+    {
+        "description": "OKEX CEL/USDT",
+        "displaySymbol": "CEL/USDT",
+        "symbol": "OKEX:CEL-USDT"
+    },
+    {
+        "description": "OKEX SNC/BTC",
+        "displaySymbol": "SNC/BTC",
+        "symbol": "OKEX:SNC-BTC"
+    },
+    {
+        "description": "OKEX YOYO/USDT",
+        "displaySymbol": "YOYO/USDT",
+        "symbol": "OKEX:YOYO-USDT"
+    },
+    {
+        "description": "OKEX YFI/BTC",
+        "displaySymbol": "YFI/BTC",
+        "symbol": "OKEX:YFI-BTC"
+    },
+    {
+        "description": "OKEX BTC/USDK",
+        "displaySymbol": "BTC/USDK",
+        "symbol": "OKEX:BTC-USDK"
+    },
+    {
+        "description": "OKEX CELO/USDT",
+        "displaySymbol": "CELO/USDT",
+        "symbol": "OKEX:CELO-USDT"
+    },
+    {
+        "description": "OKEX EFI/USDT",
+        "displaySymbol": "EFI/USDT",
+        "symbol": "OKEX:EFI-USDT"
+    },
+    {
+        "description": "OKEX FLOW/ETH",
+        "displaySymbol": "FLOW/ETH",
+        "symbol": "OKEX:FLOW-ETH"
+    },
+    {
+        "description": "OKEX VSYS/USDT",
+        "displaySymbol": "VSYS/USDT",
+        "symbol": "OKEX:VSYS-USDT"
+    },
+    {
+        "description": "OKEX CMT/ETH",
+        "displaySymbol": "CMT/ETH",
+        "symbol": "OKEX:CMT-ETH"
+    },
+    {
+        "description": "OKEX LEO/USDT",
+        "displaySymbol": "LEO/USDT",
+        "symbol": "OKEX:LEO-USDT"
+    },
+    {
+        "description": "OKEX NULS/ETH",
+        "displaySymbol": "NULS/ETH",
+        "symbol": "OKEX:NULS-ETH"
+    },
+    {
+        "description": "OKEX BSV/BTC",
+        "displaySymbol": "BSV/BTC",
+        "symbol": "OKEX:BSV-BTC"
+    },
+    {
+        "description": "OKEX PROPS/USDT",
+        "displaySymbol": "PROPS/USDT",
+        "symbol": "OKEX:PROPS-USDT"
+    },
+    {
+        "description": "OKEX RFUEL/ETH",
+        "displaySymbol": "RFUEL/ETH",
+        "symbol": "OKEX:RFUEL-ETH"
+    },
+    {
+        "description": "OKEX BABYDOGE/USDT",
+        "displaySymbol": "BABYDOGE/USDT",
+        "symbol": "OKEX:BABYDOGE-USDT"
+    },
+    {
+        "description": "OKEX LTC/OKB",
+        "displaySymbol": "LTC/OKB",
+        "symbol": "OKEX:LTC-OKB"
+    },
+    {
+        "description": "OKEX SUSHI/USDT",
+        "displaySymbol": "SUSHI/USDT",
+        "symbol": "OKEX:SUSHI-USDT"
+    },
+    {
+        "description": "OKEX DOGE/USDT",
+        "displaySymbol": "DOGE/USDT",
+        "symbol": "OKEX:DOGE-USDT"
+    },
+    {
+        "description": "OKEX EM/USDT",
+        "displaySymbol": "EM/USDT",
+        "symbol": "OKEX:EM-USDT"
+    },
+    {
+        "description": "OKEX LUNA/USDT",
+        "displaySymbol": "LUNA/USDT",
+        "symbol": "OKEX:LUNA-USDT"
+    },
+    {
+        "description": "OKEX API3/ETH",
+        "displaySymbol": "API3/ETH",
+        "symbol": "OKEX:API3-ETH"
+    },
+    {
+        "description": "OKEX KAR/USDT",
+        "displaySymbol": "KAR/USDT",
+        "symbol": "OKEX:KAR-USDT"
+    },
+    {
+        "description": "OKEX BAT/USDT",
+        "displaySymbol": "BAT/USDT",
+        "symbol": "OKEX:BAT-USDT"
+    },
+    {
+        "description": "OKEX LTC/USDK",
+        "displaySymbol": "LTC/USDK",
+        "symbol": "OKEX:LTC-USDK"
+    },
+    {
+        "description": "OKEX CELT/BTC",
+        "displaySymbol": "CELT/BTC",
+        "symbol": "OKEX:CELT-BTC"
+    },
+    {
+        "description": "OKEX FODL/USDT",
+        "displaySymbol": "FODL/USDT",
+        "symbol": "OKEX:FODL-USDT"
+    },
+    {
+        "description": "OKEX ZIL/USDT",
+        "displaySymbol": "ZIL/USDT",
+        "symbol": "OKEX:ZIL-USDT"
+    },
+    {
+        "description": "OKEX INT/ETH",
+        "displaySymbol": "INT/ETH",
+        "symbol": "OKEX:INT-ETH"
+    },
+    {
+        "description": "OKEX LAMB/USDT",
+        "displaySymbol": "LAMB/USDT",
+        "symbol": "OKEX:LAMB-USDT"
+    },
+    {
+        "description": "OKEX DASH/USDT",
+        "displaySymbol": "DASH/USDT",
+        "symbol": "OKEX:DASH-USDT"
+    },
+    {
+        "description": "OKEX ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "OKEX:ETH-USDC"
+    },
+    {
+        "description": "OKEX VITE/BTC",
+        "displaySymbol": "VITE/BTC",
+        "symbol": "OKEX:VITE-BTC"
+    },
+    {
+        "description": "OKEX BHP/USDT",
+        "displaySymbol": "BHP/USDT",
+        "symbol": "OKEX:BHP-USDT"
+    },
+    {
+        "description": "OKEX BETH/USDT",
+        "displaySymbol": "BETH/USDT",
+        "symbol": "OKEX:BETH-USDT"
+    },
+    {
+        "description": "OKEX MON/USDT",
+        "displaySymbol": "MON/USDT",
+        "symbol": "OKEX:MON-USDT"
+    },
+    {
+        "description": "OKEX PAY/BTC",
+        "displaySymbol": "PAY/BTC",
+        "symbol": "OKEX:PAY-BTC"
+    },
+    {
+        "description": "OKEX DAO/USDT",
+        "displaySymbol": "DAO/USDT",
+        "symbol": "OKEX:DAO-USDT"
+    },
+    {
+        "description": "OKEX BNT/BTC",
+        "displaySymbol": "BNT/BTC",
+        "symbol": "OKEX:BNT-BTC"
+    },
+    {
+        "description": "OKEX ICX/USDT",
+        "displaySymbol": "ICX/USDT",
+        "symbol": "OKEX:ICX-USDT"
+    },
+    {
+        "description": "OKEX KISHU/USDT",
+        "displaySymbol": "KISHU/USDT",
+        "symbol": "OKEX:KISHU-USDT"
+    },
+    {
+        "description": "OKEX FTM/USDT",
+        "displaySymbol": "FTM/USDT",
+        "symbol": "OKEX:FTM-USDT"
+    },
+    {
+        "description": "OKEX DOGE/BTC",
+        "displaySymbol": "DOGE/BTC",
+        "symbol": "OKEX:DOGE-BTC"
+    },
+    {
+        "description": "OKEX XEM/ETH",
+        "displaySymbol": "XEM/ETH",
+        "symbol": "OKEX:XEM-ETH"
+    },
+    {
+        "description": "OKEX AR/USDT",
+        "displaySymbol": "AR/USDT",
+        "symbol": "OKEX:AR-USDT"
+    },
+    {
+        "description": "OKEX TMTG/USDT",
+        "displaySymbol": "TMTG/USDT",
+        "symbol": "OKEX:TMTG-USDT"
+    },
+    {
+        "description": "OKEX COMP/BTC",
+        "displaySymbol": "COMP/BTC",
+        "symbol": "OKEX:COMP-BTC"
+    },
+    {
+        "description": "OKEX PROPS/ETH",
+        "displaySymbol": "PROPS/ETH",
+        "symbol": "OKEX:PROPS-ETH"
+    },
+    {
+        "description": "OKEX AAVE/BTC",
+        "displaySymbol": "AAVE/BTC",
+        "symbol": "OKEX:AAVE-BTC"
+    },
+    {
+        "description": "OKEX OKT/BTC",
+        "displaySymbol": "OKT/BTC",
+        "symbol": "OKEX:OKT-BTC"
+    },
+    {
+        "description": "OKEX BNT/USDT",
+        "displaySymbol": "BNT/USDT",
+        "symbol": "OKEX:BNT-USDT"
+    },
+    {
+        "description": "OKEX EOS/USDT",
+        "displaySymbol": "EOS/USDT",
+        "symbol": "OKEX:EOS-USDT"
+    },
+    {
+        "description": "OKEX BTM/ETH",
+        "displaySymbol": "BTM/ETH",
+        "symbol": "OKEX:BTM-ETH"
+    },
+    {
+        "description": "OKEX OKB/BTC",
+        "displaySymbol": "OKB/BTC",
+        "symbol": "OKEX:OKB-BTC"
+    },
+    {
+        "description": "OKEX XEM/BTC",
+        "displaySymbol": "XEM/BTC",
+        "symbol": "OKEX:XEM-BTC"
+    },
+    {
+        "description": "OKEX MKR/BTC",
+        "displaySymbol": "MKR/BTC",
+        "symbol": "OKEX:MKR-BTC"
+    },
+    {
+        "description": "OKEX WIN/USDT",
+        "displaySymbol": "WIN/USDT",
+        "symbol": "OKEX:WIN-USDT"
+    },
+    {
+        "description": "OKEX XEM/USDT",
+        "displaySymbol": "XEM/USDT",
+        "symbol": "OKEX:XEM-USDT"
+    },
+    {
+        "description": "OKEX LITH/USDT",
+        "displaySymbol": "LITH/USDT",
+        "symbol": "OKEX:LITH-USDT"
+    },
+    {
+        "description": "OKEX SLP/USDT",
+        "displaySymbol": "SLP/USDT",
+        "symbol": "OKEX:SLP-USDT"
+    },
+    {
+        "description": "OKEX VALUE/USDT",
+        "displaySymbol": "VALUE/USDT",
+        "symbol": "OKEX:VALUE-USDT"
+    },
+    {
+        "description": "OKEX BLOK/USDT",
+        "displaySymbol": "BLOK/USDT",
+        "symbol": "OKEX:BLOK-USDT"
+    },
+    {
+        "description": "OKEX CTC/USDT",
+        "displaySymbol": "CTC/USDT",
+        "symbol": "OKEX:CTC-USDT"
+    },
+    {
+        "description": "OKEX RSR/USDT",
+        "displaySymbol": "RSR/USDT",
+        "symbol": "OKEX:RSR-USDT"
+    },
+    {
+        "description": "OKEX INT/BTC",
+        "displaySymbol": "INT/BTC",
+        "symbol": "OKEX:INT-BTC"
+    },
+    {
+        "description": "OKEX TOPC/USDT",
+        "displaySymbol": "TOPC/USDT",
+        "symbol": "OKEX:TOPC-USDT"
+    },
+    {
+        "description": "OKEX NEO/ETH",
+        "displaySymbol": "NEO/ETH",
+        "symbol": "OKEX:NEO-ETH"
+    },
+    {
+        "description": "OKEX JST/USDT",
+        "displaySymbol": "JST/USDT",
+        "symbol": "OKEX:JST-USDT"
+    },
+    {
+        "description": "OKEX IOTA/USDT",
+        "displaySymbol": "IOTA/USDT",
+        "symbol": "OKEX:IOTA-USDT"
+    },
+    {
+        "description": "OKEX KLAY/BTC",
+        "displaySymbol": "KLAY/BTC",
+        "symbol": "OKEX:KLAY-BTC"
+    },
+    {
+        "description": "OKEX MLN/USDT",
+        "displaySymbol": "MLN/USDT",
+        "symbol": "OKEX:MLN-USDT"
+    },
+    {
+        "description": "OKEX WOO/USDT",
+        "displaySymbol": "WOO/USDT",
+        "symbol": "OKEX:WOO-USDT"
+    },
+    {
+        "description": "OKEX SC/USDT",
+        "displaySymbol": "SC/USDT",
+        "symbol": "OKEX:SC-USDT"
+    },
+    {
+        "description": "OKEX DEP/USDT",
+        "displaySymbol": "DEP/USDT",
+        "symbol": "OKEX:DEP-USDT"
+    },
+    {
+        "description": "OKEX AVAX/BTC",
+        "displaySymbol": "AVAX/BTC",
+        "symbol": "OKEX:AVAX-BTC"
+    },
+    {
+        "description": "OKEX XTZ/BTC",
+        "displaySymbol": "XTZ/BTC",
+        "symbol": "OKEX:XTZ-BTC"
+    },
+    {
+        "description": "OKEX DNA/USDT",
+        "displaySymbol": "DNA/USDT",
+        "symbol": "OKEX:DNA-USDT"
+    },
+    {
+        "description": "OKEX LINK/ETH",
+        "displaySymbol": "LINK/ETH",
+        "symbol": "OKEX:LINK-ETH"
+    },
+    {
+        "description": "OKEX ZYRO/USDT",
+        "displaySymbol": "ZYRO/USDT",
+        "symbol": "OKEX:ZYRO-USDT"
+    },
+    {
+        "description": "OKEX ILV/USDT",
+        "displaySymbol": "ILV/USDT",
+        "symbol": "OKEX:ILV-USDT"
+    },
+    {
+        "description": "OKEX MEME/USDT",
+        "displaySymbol": "MEME/USDT",
+        "symbol": "OKEX:MEME-USDT"
+    },
+    {
+        "description": "OKEX PHA/USDT",
+        "displaySymbol": "PHA/USDT",
+        "symbol": "OKEX:PHA-USDT"
+    },
+    {
+        "description": "OKEX EGT/ETH",
+        "displaySymbol": "EGT/ETH",
+        "symbol": "OKEX:EGT-ETH"
+    },
+    {
+        "description": "OKEX UNI/BTC",
+        "displaySymbol": "UNI/BTC",
+        "symbol": "OKEX:UNI-BTC"
+    },
+    {
+        "description": "OKEX RVN/BTC",
+        "displaySymbol": "RVN/BTC",
+        "symbol": "OKEX:RVN-BTC"
+    },
+    {
+        "description": "OKEX BAT/BTC",
+        "displaySymbol": "BAT/BTC",
+        "symbol": "OKEX:BAT-BTC"
+    },
+    {
+        "description": "OKEX CQT/BTC",
+        "displaySymbol": "CQT/BTC",
+        "symbol": "OKEX:CQT-BTC"
+    },
+    {
+        "description": "OKEX MKR/USDT",
+        "displaySymbol": "MKR/USDT",
+        "symbol": "OKEX:MKR-USDT"
+    },
+    {
+        "description": "OKEX THG/USDT",
+        "displaySymbol": "THG/USDT",
+        "symbol": "OKEX:THG-USDT"
+    },
+    {
+        "description": "OKEX TORN/USDT",
+        "displaySymbol": "TORN/USDT",
+        "symbol": "OKEX:TORN-USDT"
+    },
+    {
+        "description": "OKEX ZKS/USDT",
+        "displaySymbol": "ZKS/USDT",
+        "symbol": "OKEX:ZKS-USDT"
+    },
+    {
+        "description": "OKEX BCH/USDT",
+        "displaySymbol": "BCH/USDT",
+        "symbol": "OKEX:BCH-USDT"
+    },
+    {
+        "description": "OKEX SWFTC/USDT",
+        "displaySymbol": "SWFTC/USDT",
+        "symbol": "OKEX:SWFTC-USDT"
+    },
+    {
+        "description": "OKEX YFI/USDT",
+        "displaySymbol": "YFI/USDT",
+        "symbol": "OKEX:YFI-USDT"
+    },
+    {
+        "description": "OKEX LEASH/USDT",
+        "displaySymbol": "LEASH/USDT",
+        "symbol": "OKEX:LEASH-USDT"
+    },
+    {
+        "description": "OKEX MASK/USDT",
+        "displaySymbol": "MASK/USDT",
+        "symbol": "OKEX:MASK-USDT"
+    },
+    {
+        "description": "OKEX ETC/OKB",
+        "displaySymbol": "ETC/OKB",
+        "symbol": "OKEX:ETC-OKB"
+    },
+    {
+        "description": "OKEX SNX/USDT",
+        "displaySymbol": "SNX/USDT",
+        "symbol": "OKEX:SNX-USDT"
+    },
+    {
+        "description": "OKEX ETC/BTC",
+        "displaySymbol": "ETC/BTC",
+        "symbol": "OKEX:ETC-BTC"
+    },
+    {
+        "description": "OKEX CQT/USDT",
+        "displaySymbol": "CQT/USDT",
+        "symbol": "OKEX:CQT-USDT"
+    },
+    {
+        "description": "OKEX CVC/BTC",
+        "displaySymbol": "CVC/BTC",
+        "symbol": "OKEX:CVC-BTC"
+    },
+    {
+        "description": "OKEX ETC/ETH",
+        "displaySymbol": "ETC/ETH",
+        "symbol": "OKEX:ETC-ETH"
+    },
+    {
+        "description": "OKEX CRV/BTC",
+        "displaySymbol": "CRV/BTC",
+        "symbol": "OKEX:CRV-BTC"
+    },
+    {
+        "description": "OKEX WTC/BTC",
+        "displaySymbol": "WTC/BTC",
+        "symbol": "OKEX:WTC-BTC"
+    },
+    {
+        "description": "OKEX ITC/USDT",
+        "displaySymbol": "ITC/USDT",
+        "symbol": "OKEX:ITC-USDT"
+    },
+    {
+        "description": "OKEX XPO/USDT",
+        "displaySymbol": "XPO/USDT",
+        "symbol": "OKEX:XPO-USDT"
+    },
+    {
+        "description": "OKEX TONCOIN/USDT",
+        "displaySymbol": "TONCOIN/USDT",
+        "symbol": "OKEX:TONCOIN-USDT"
+    },
+    {
+        "description": "OKEX MDT/USDT",
+        "displaySymbol": "MDT/USDT",
+        "symbol": "OKEX:MDT-USDT"
+    },
+    {
+        "description": "OKEX EGT/USDT",
+        "displaySymbol": "EGT/USDT",
+        "symbol": "OKEX:EGT-USDT"
+    },
+    {
+        "description": "OKEX TRADE/USDT",
+        "displaySymbol": "TRADE/USDT",
+        "symbol": "OKEX:TRADE-USDT"
+    },
+    {
+        "description": "OKEX VELO/USDT",
+        "displaySymbol": "VELO/USDT",
+        "symbol": "OKEX:VELO-USDT"
+    },
+    {
+        "description": "OKEX WXT/USDT",
+        "displaySymbol": "WXT/USDT",
+        "symbol": "OKEX:WXT-USDT"
+    },
+    {
+        "description": "OKEX OKT/USDT",
+        "displaySymbol": "OKT/USDT",
+        "symbol": "OKEX:OKT-USDT"
+    },
+    {
+        "description": "OKEX CMT/BTC",
+        "displaySymbol": "CMT/BTC",
+        "symbol": "OKEX:CMT-BTC"
+    },
+    {
+        "description": "OKEX PPT/USDT",
+        "displaySymbol": "PPT/USDT",
+        "symbol": "OKEX:PPT-USDT"
+    },
+    {
+        "description": "OKEX CGS/USDT",
+        "displaySymbol": "CGS/USDT",
+        "symbol": "OKEX:CGS-USDT"
+    },
+    {
+        "description": "OKEX LSK/BTC",
+        "displaySymbol": "LSK/BTC",
+        "symbol": "OKEX:LSK-BTC"
+    },
+    {
+        "description": "OKEX DGB/USDT",
+        "displaySymbol": "DGB/USDT",
+        "symbol": "OKEX:DGB-USDT"
+    },
+    {
+        "description": "OKEX ZIL/BTC",
+        "displaySymbol": "ZIL/BTC",
+        "symbol": "OKEX:ZIL-BTC"
+    },
+    {
+        "description": "OKEX FSN/USDT",
+        "displaySymbol": "FSN/USDT",
+        "symbol": "OKEX:FSN-USDT"
+    },
+    {
+        "description": "OKEX DOT/USDT",
+        "displaySymbol": "DOT/USDT",
+        "symbol": "OKEX:DOT-USDT"
+    },
+    {
+        "description": "OKEX SAMO/USDT",
+        "displaySymbol": "SAMO/USDT",
+        "symbol": "OKEX:SAMO-USDT"
+    },
+    {
+        "description": "OKEX YOU/USDT",
+        "displaySymbol": "YOU/USDT",
+        "symbol": "OKEX:YOU-USDT"
+    },
+    {
+        "description": "OKEX KSM/USDT",
+        "displaySymbol": "KSM/USDT",
+        "symbol": "OKEX:KSM-USDT"
+    },
+    {
+        "description": "OKEX LRC/BTC",
+        "displaySymbol": "LRC/BTC",
+        "symbol": "OKEX:LRC-BTC"
+    },
+    {
+        "description": "OKEX MATIC/USDT",
+        "displaySymbol": "MATIC/USDT",
+        "symbol": "OKEX:MATIC-USDT"
+    },
+    {
+        "description": "OKEX USDC/USDT",
+        "displaySymbol": "USDC/USDT",
+        "symbol": "OKEX:USDC-USDT"
+    },
+    {
+        "description": "OKEX PRQ/USDT",
+        "displaySymbol": "PRQ/USDT",
+        "symbol": "OKEX:PRQ-USDT"
+    },
+    {
+        "description": "OKEX WBTC/USDT",
+        "displaySymbol": "WBTC/USDT",
+        "symbol": "OKEX:WBTC-USDT"
+    },
+    {
+        "description": "OKEX GRT/BTC",
+        "displaySymbol": "GRT/BTC",
+        "symbol": "OKEX:GRT-BTC"
+    },
+    {
+        "description": "OKEX LUNA/BTC",
+        "displaySymbol": "LUNA/BTC",
+        "symbol": "OKEX:LUNA-BTC"
+    },
+    {
+        "description": "OKEX LSK/USDT",
+        "displaySymbol": "LSK/USDT",
+        "symbol": "OKEX:LSK-USDT"
+    },
+    {
+        "description": "OKEX ZRX/ETH",
+        "displaySymbol": "ZRX/ETH",
+        "symbol": "OKEX:ZRX-ETH"
+    },
+    {
+        "description": "OKEX PHA/ETH",
+        "displaySymbol": "PHA/ETH",
+        "symbol": "OKEX:PHA-ETH"
+    },
+    {
+        "description": "OKEX KOL/USDT",
+        "displaySymbol": "KOL/USDT",
+        "symbol": "OKEX:KOL-USDT"
+    },
+    {
+        "description": "OKEX JFI/USDT",
+        "displaySymbol": "JFI/USDT",
+        "symbol": "OKEX:JFI-USDT"
+    },
+    {
+        "description": "OKEX HYC/USDT",
+        "displaySymbol": "HYC/USDT",
+        "symbol": "OKEX:HYC-USDT"
+    },
+    {
+        "description": "OKEX ABT/USDT",
+        "displaySymbol": "ABT/USDT",
+        "symbol": "OKEX:ABT-USDT"
+    },
+    {
+        "description": "OKEX PERP/USDT",
+        "displaySymbol": "PERP/USDT",
+        "symbol": "OKEX:PERP-USDT"
+    },
+    {
+        "description": "OKEX KLAY/USDT",
+        "displaySymbol": "KLAY/USDT",
+        "symbol": "OKEX:KLAY-USDT"
+    },
+    {
+        "description": "OKEX SOC/USDT",
+        "displaySymbol": "SOC/USDT",
+        "symbol": "OKEX:SOC-USDT"
+    },
+    {
+        "description": "OKEX CVT/USDT",
+        "displaySymbol": "CVT/USDT",
+        "symbol": "OKEX:CVT-USDT"
+    },
+    {
+        "description": "OKEX DAI/USDT",
+        "displaySymbol": "DAI/USDT",
+        "symbol": "OKEX:DAI-USDT"
+    },
+    {
+        "description": "OKEX XRP/OKB",
+        "displaySymbol": "XRP/OKB",
+        "symbol": "OKEX:XRP-OKB"
+    },
+    {
+        "description": "OKEX ANT/USDT",
+        "displaySymbol": "ANT/USDT",
+        "symbol": "OKEX:ANT-USDT"
+    },
+    {
+        "description": "OKEX WBTC/ETH",
+        "displaySymbol": "WBTC/ETH",
+        "symbol": "OKEX:WBTC-ETH"
+    },
+    {
+        "description": "OKEX STORJ/USDT",
+        "displaySymbol": "STORJ/USDT",
+        "symbol": "OKEX:STORJ-USDT"
+    },
+    {
+        "description": "OKEX HEGIC/USDT",
+        "displaySymbol": "HEGIC/USDT",
+        "symbol": "OKEX:HEGIC-USDT"
+    },
+    {
+        "description": "OKEX SAND/USDT",
+        "displaySymbol": "SAND/USDT",
+        "symbol": "OKEX:SAND-USDT"
+    },
+    {
+        "description": "OKEX OKT/ETH",
+        "displaySymbol": "OKT/ETH",
+        "symbol": "OKEX:OKT-ETH"
+    },
+    {
+        "description": "OKEX TRX/USDC",
+        "displaySymbol": "TRX/USDC",
+        "symbol": "OKEX:TRX-USDC"
+    },
+    {
+        "description": "OKEX CONV/USDT",
+        "displaySymbol": "CONV/USDT",
+        "symbol": "OKEX:CONV-USDT"
+    },
+    {
+        "description": "OKEX EOS/BTC",
+        "displaySymbol": "EOS/BTC",
+        "symbol": "OKEX:EOS-BTC"
+    },
+    {
+        "description": "OKEX GLM/USDT",
+        "displaySymbol": "GLM/USDT",
+        "symbol": "OKEX:GLM-USDT"
+    },
+    {
+        "description": "OKEX ALV/USDT",
+        "displaySymbol": "ALV/USDT",
+        "symbol": "OKEX:ALV-USDT"
+    },
+    {
+        "description": "OKEX UMA/USDT",
+        "displaySymbol": "UMA/USDT",
+        "symbol": "OKEX:UMA-USDT"
+    },
+    {
+        "description": "OKEX WNXM/USDT",
+        "displaySymbol": "WNXM/USDT",
+        "symbol": "OKEX:WNXM-USDT"
+    },
+    {
+        "description": "OKEX NEO/USDT",
+        "displaySymbol": "NEO/USDT",
+        "symbol": "OKEX:NEO-USDT"
+    },
+    {
+        "description": "OKEX RACA/USDT",
+        "displaySymbol": "RACA/USDT",
+        "symbol": "OKEX:RACA-USDT"
+    },
+    {
+        "description": "OKEX SBTC/BTC",
+        "displaySymbol": "SBTC/BTC",
+        "symbol": "OKEX:SBTC-BTC"
+    },
+    {
+        "description": "OKEX OMI/USDT",
+        "displaySymbol": "OMI/USDT",
+        "symbol": "OKEX:OMI-USDT"
+    },
+    {
+        "description": "OKEX WGRT/USDT",
+        "displaySymbol": "WGRT/USDT",
+        "symbol": "OKEX:WGRT-USDT"
+    },
+    {
+        "description": "OKEX NMR/USDT",
+        "displaySymbol": "NMR/USDT",
+        "symbol": "OKEX:NMR-USDT"
+    },
+    {
+        "description": "OKEX MOVR/USDT",
+        "displaySymbol": "MOVR/USDT",
+        "symbol": "OKEX:MOVR-USDT"
+    },
+    {
+        "description": "OKEX FORTH/USDT",
+        "displaySymbol": "FORTH/USDT",
+        "symbol": "OKEX:FORTH-USDT"
+    },
+    {
+        "description": "OKEX PLG/USDT",
+        "displaySymbol": "PLG/USDT",
+        "symbol": "OKEX:PLG-USDT"
+    },
+    {
+        "description": "OKEX TOWN/USDT",
+        "displaySymbol": "TOWN/USDT",
+        "symbol": "OKEX:TOWN-USDT"
+    },
+    {
+        "description": "OKEX AGLD/USDT",
+        "displaySymbol": "AGLD/USDT",
+        "symbol": "OKEX:AGLD-USDT"
+    },
+    {
+        "description": "OKEX ORS/USDT",
+        "displaySymbol": "ORS/USDT",
+        "symbol": "OKEX:ORS-USDT"
+    },
+    {
+        "description": "OKEX SWFTC/ETH",
+        "displaySymbol": "SWFTC/ETH",
+        "symbol": "OKEX:SWFTC-ETH"
+    },
+    {
+        "description": "OKEX LINK/USDT",
+        "displaySymbol": "LINK/USDT",
+        "symbol": "OKEX:LINK-USDT"
+    },
+    {
+        "description": "OKEX XCH/BTC",
+        "displaySymbol": "XCH/BTC",
+        "symbol": "OKEX:XCH-BTC"
+    },
+    {
+        "description": "OKEX UNI/ETH",
+        "displaySymbol": "UNI/ETH",
+        "symbol": "OKEX:UNI-ETH"
+    },
+    {
+        "description": "OKEX BCH/USDK",
+        "displaySymbol": "BCH/USDK",
+        "symbol": "OKEX:BCH-USDK"
+    },
+    {
+        "description": "OKEX MXT/USDT",
+        "displaySymbol": "MXT/USDT",
+        "symbol": "OKEX:MXT-USDT"
+    },
+    {
+        "description": "OKEX SKL/USDT",
+        "displaySymbol": "SKL/USDT",
+        "symbol": "OKEX:SKL-USDT"
+    },
+    {
+        "description": "OKEX AUCTION/USDT",
+        "displaySymbol": "AUCTION/USDT",
+        "symbol": "OKEX:AUCTION-USDT"
+    },
+    {
+        "description": "OKEX RSR/BTC",
+        "displaySymbol": "RSR/BTC",
+        "symbol": "OKEX:RSR-BTC"
+    },
+    {
+        "description": "OKEX KCASH/USDT",
+        "displaySymbol": "KCASH/USDT",
+        "symbol": "OKEX:KCASH-USDT"
+    },
+    {
+        "description": "OKEX TRB/USDT",
+        "displaySymbol": "TRB/USDT",
+        "symbol": "OKEX:TRB-USDT"
+    },
+    {
+        "description": "OKEX AERGO/USDT",
+        "displaySymbol": "AERGO/USDT",
+        "symbol": "OKEX:AERGO-USDT"
+    },
+    {
+        "description": "OKEX ONT/ETH",
+        "displaySymbol": "ONT/ETH",
+        "symbol": "OKEX:ONT-ETH"
+    },
+    {
+        "description": "OKEX STX/BTC",
+        "displaySymbol": "STX/BTC",
+        "symbol": "OKEX:STX-BTC"
+    },
+    {
+        "description": "OKEX GF/USDT",
+        "displaySymbol": "GF/USDT",
+        "symbol": "OKEX:GF-USDT"
+    },
+    {
+        "description": "OKEX GM/USDT",
+        "displaySymbol": "GM/USDT",
+        "symbol": "OKEX:GM-USDT"
+    },
+    {
+        "description": "OKEX YFII/USDT",
+        "displaySymbol": "YFII/USDT",
+        "symbol": "OKEX:YFII-USDT"
+    },
+    {
+        "description": "OKEX ICP/BTC",
+        "displaySymbol": "ICP/BTC",
+        "symbol": "OKEX:ICP-BTC"
+    },
+    {
+        "description": "OKEX XRP/USDK",
+        "displaySymbol": "XRP/USDK",
+        "symbol": "OKEX:XRP-USDK"
+    },
+    {
+        "description": "OKEX LINK/BTC",
+        "displaySymbol": "LINK/BTC",
+        "symbol": "OKEX:LINK-BTC"
+    },
+    {
+        "description": "OKEX ETM/USDT",
+        "displaySymbol": "ETM/USDT",
+        "symbol": "OKEX:ETM-USDT"
+    },
+    {
+        "description": "OKEX RFUEL/USDT",
+        "displaySymbol": "RFUEL/USDT",
+        "symbol": "OKEX:RFUEL-USDT"
+    },
+    {
+        "description": "OKEX CNTM/USDT",
+        "displaySymbol": "CNTM/USDT",
+        "symbol": "OKEX:CNTM-USDT"
+    },
+    {
+        "description": "OKEX GAS/BTC",
+        "displaySymbol": "GAS/BTC",
+        "symbol": "OKEX:GAS-BTC"
+    },
+    {
+        "description": "OKEX NFT/USDT",
+        "displaySymbol": "NFT/USDT",
+        "symbol": "OKEX:NFT-USDT"
+    },
+    {
+        "description": "OKEX SPELL/USDT",
+        "displaySymbol": "SPELL/USDT",
+        "symbol": "OKEX:SPELL-USDT"
+    },
+    {
+        "description": "OKEX CELT/USDT",
+        "displaySymbol": "CELT/USDT",
+        "symbol": "OKEX:CELT-USDT"
+    },
+    {
+        "description": "OKEX UBTC/USDT",
+        "displaySymbol": "UBTC/USDT",
+        "symbol": "OKEX:UBTC-USDT"
+    },
+    {
+        "description": "OKEX TRIO/BTC",
+        "displaySymbol": "TRIO/BTC",
+        "symbol": "OKEX:TRIO-BTC"
+    },
+    {
+        "description": "OKEX RAY/USDT",
+        "displaySymbol": "RAY/USDT",
+        "symbol": "OKEX:RAY-USDT"
+    },
+    {
+        "description": "OKEX DCR/BTC",
+        "displaySymbol": "DCR/BTC",
+        "symbol": "OKEX:DCR-BTC"
+    },
+    {
+        "description": "OKEX STRK/USDT",
+        "displaySymbol": "STRK/USDT",
+        "symbol": "OKEX:STRK-USDT"
+    },
+    {
+        "description": "OKEX RNT/USDT",
+        "displaySymbol": "RNT/USDT",
+        "symbol": "OKEX:RNT-USDT"
+    },
+    {
+        "description": "OKEX GAL/USDT",
+        "displaySymbol": "GAL/USDT",
+        "symbol": "OKEX:GAL-USDT"
+    },
+    {
+        "description": "OKEX ALPHA/USDT",
+        "displaySymbol": "ALPHA/USDT",
+        "symbol": "OKEX:ALPHA-USDT"
+    },
+    {
+        "description": "OKEX GODS/USDT",
+        "displaySymbol": "GODS/USDT",
+        "symbol": "OKEX:GODS-USDT"
+    },
+    {
+        "description": "OKEX XLM/USDT",
+        "displaySymbol": "XLM/USDT",
+        "symbol": "OKEX:XLM-USDT"
+    },
+    {
+        "description": "OKEX BSV/USDT",
+        "displaySymbol": "BSV/USDT",
+        "symbol": "OKEX:BSV-USDT"
+    },
+    {
+        "description": "OKEX FIL/USDT",
+        "displaySymbol": "FIL/USDT",
+        "symbol": "OKEX:FIL-USDT"
+    },
+    {
+        "description": "OKEX ORBS/USDT",
+        "displaySymbol": "ORBS/USDT",
+        "symbol": "OKEX:ORBS-USDT"
+    },
+    {
+        "description": "OKEX FAIR/USDT",
+        "displaySymbol": "FAIR/USDT",
+        "symbol": "OKEX:FAIR-USDT"
+    },
+    {
+        "description": "OKEX TUSD/USDT",
+        "displaySymbol": "TUSD/USDT",
+        "symbol": "OKEX:TUSD-USDT"
+    },
+    {
+        "description": "OKEX STX/USDT",
+        "displaySymbol": "STX/USDT",
+        "symbol": "OKEX:STX-USDT"
+    },
+    {
+        "description": "OKEX KNC/USDT",
+        "displaySymbol": "KNC/USDT",
+        "symbol": "OKEX:KNC-USDT"
+    },
+    {
+        "description": "OKEX CRV/ETH",
+        "displaySymbol": "CRV/ETH",
+        "symbol": "OKEX:CRV-ETH"
+    }
+]

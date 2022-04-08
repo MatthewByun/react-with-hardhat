@@ -1,0 +1,5407 @@
+[
+    {
+        "description": "Huobi PHA/ETH",
+        "displaySymbol": "PHA/ETH",
+        "symbol": "HUOBI:phaeth"
+    },
+    {
+        "description": "Huobi TITAN/USDT",
+        "displaySymbol": "TITAN/USDT",
+        "symbol": "HUOBI:titanusdt"
+    },
+    {
+        "description": "Huobi MATIC/BTC",
+        "displaySymbol": "MATIC/BTC",
+        "symbol": "HUOBI:maticbtc"
+    },
+    {
+        "description": "Huobi IDEX/USDT",
+        "displaySymbol": "IDEX/USDT",
+        "symbol": "HUOBI:idexusdt"
+    },
+    {
+        "description": "Huobi ENJ/BTC",
+        "displaySymbol": "ENJ/BTC",
+        "symbol": "HUOBI:enjbtc"
+    },
+    {
+        "description": "Huobi ACT/ETH",
+        "displaySymbol": "ACT/ETH",
+        "symbol": "HUOBI:acteth"
+    },
+    {
+        "description": "Huobi GT/USDT",
+        "displaySymbol": "GT/USDT",
+        "symbol": "HUOBI:gtusdt"
+    },
+    {
+        "description": "Huobi NODE/USDT",
+        "displaySymbol": "NODE/USDT",
+        "symbol": "HUOBI:nodeusdt"
+    },
+    {
+        "description": "Huobi WHALE/USDT",
+        "displaySymbol": "WHALE/USDT",
+        "symbol": "HUOBI:whaleusdt"
+    },
+    {
+        "description": "Huobi GXC/USDT",
+        "displaySymbol": "GXC/USDT",
+        "symbol": "HUOBI:gxcusdt"
+    },
+    {
+        "description": "Huobi ETH3S/USDT",
+        "displaySymbol": "ETH3S/USDT",
+        "symbol": "HUOBI:eth3susdt"
+    },
+    {
+        "description": "Huobi YFI/USDT",
+        "displaySymbol": "YFI/USDT",
+        "symbol": "HUOBI:yfiusdt"
+    },
+    {
+        "description": "Huobi NSURE/BTC",
+        "displaySymbol": "NSURE/BTC",
+        "symbol": "HUOBI:nsurebtc"
+    },
+    {
+        "description": "Huobi BIX/ETH",
+        "displaySymbol": "BIX/ETH",
+        "symbol": "HUOBI:bixeth"
+    },
+    {
+        "description": "Huobi BIX/USDT",
+        "displaySymbol": "BIX/USDT",
+        "symbol": "HUOBI:bixusdt"
+    },
+    {
+        "description": "Huobi REN/BTC",
+        "displaySymbol": "REN/BTC",
+        "symbol": "HUOBI:renbtc"
+    },
+    {
+        "description": "Huobi CRO/BTC",
+        "displaySymbol": "CRO/BTC",
+        "symbol": "HUOBI:crobtc"
+    },
+    {
+        "description": "Huobi CVC/USDT",
+        "displaySymbol": "CVC/USDT",
+        "symbol": "HUOBI:cvcusdt"
+    },
+    {
+        "description": "Huobi ZJLT/BTC",
+        "displaySymbol": "ZJLT/BTC",
+        "symbol": "HUOBI:zjltbtc"
+    },
+    {
+        "description": "Huobi DYDX/USDT",
+        "displaySymbol": "DYDX/USDT",
+        "symbol": "HUOBI:dydxusdt"
+    },
+    {
+        "description": "Huobi MTA/USDT",
+        "displaySymbol": "MTA/USDT",
+        "symbol": "HUOBI:mtausdt"
+    },
+    {
+        "description": "Huobi RTE/BTC",
+        "displaySymbol": "RTE/BTC",
+        "symbol": "HUOBI:rtebtc"
+    },
+    {
+        "description": "Huobi HBC/USDT",
+        "displaySymbol": "HBC/USDT",
+        "symbol": "HUOBI:hbcusdt"
+    },
+    {
+        "description": "Huobi POLS/BTC",
+        "displaySymbol": "POLS/BTC",
+        "symbol": "HUOBI:polsbtc"
+    },
+    {
+        "description": "Huobi DOT/USDT",
+        "displaySymbol": "DOT/USDT",
+        "symbol": "HUOBI:dotusdt"
+    },
+    {
+        "description": "Huobi TRB/BTC",
+        "displaySymbol": "TRB/BTC",
+        "symbol": "HUOBI:trbbtc"
+    },
+    {
+        "description": "Huobi NODE/BTC",
+        "displaySymbol": "NODE/BTC",
+        "symbol": "HUOBI:nodebtc"
+    },
+    {
+        "description": "Huobi ATOM/BTC",
+        "displaySymbol": "ATOM/BTC",
+        "symbol": "HUOBI:atombtc"
+    },
+    {
+        "description": "Huobi EKO/BTC",
+        "displaySymbol": "EKO/BTC",
+        "symbol": "HUOBI:ekobtc"
+    },
+    {
+        "description": "Huobi XRP/HUSD",
+        "displaySymbol": "XRP/HUSD",
+        "symbol": "HUOBI:xrphusd"
+    },
+    {
+        "description": "Huobi CKB/HT",
+        "displaySymbol": "CKB/HT",
+        "symbol": "HUOBI:ckbht"
+    },
+    {
+        "description": "Huobi INJ/ETH",
+        "displaySymbol": "INJ/ETH",
+        "symbol": "HUOBI:injeth"
+    },
+    {
+        "description": "Huobi IOST/HUSD",
+        "displaySymbol": "IOST/HUSD",
+        "symbol": "HUOBI:iosthusd"
+    },
+    {
+        "description": "Huobi ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "HUOBI:zecbtc"
+    },
+    {
+        "description": "Huobi BAL/HUSD",
+        "displaySymbol": "BAL/HUSD",
+        "symbol": "HUOBI:balhusd"
+    },
+    {
+        "description": "Huobi YFII/BTC",
+        "displaySymbol": "YFII/BTC",
+        "symbol": "HUOBI:yfiibtc"
+    },
+    {
+        "description": "Huobi ZEC/HUSD",
+        "displaySymbol": "ZEC/HUSD",
+        "symbol": "HUOBI:zechusd"
+    },
+    {
+        "description": "Huobi DAC/BTC",
+        "displaySymbol": "DAC/BTC",
+        "symbol": "HUOBI:dacbtc"
+    },
+    {
+        "description": "Huobi BAL/BTC",
+        "displaySymbol": "BAL/BTC",
+        "symbol": "HUOBI:balbtc"
+    },
+    {
+        "description": "Huobi UIP/ETH",
+        "displaySymbol": "UIP/ETH",
+        "symbol": "HUOBI:uipeth"
+    },
+    {
+        "description": "Huobi HBC/BTC",
+        "displaySymbol": "HBC/BTC",
+        "symbol": "HUOBI:hbcbtc"
+    },
+    {
+        "description": "Huobi AAVE/HUSD",
+        "displaySymbol": "AAVE/HUSD",
+        "symbol": "HUOBI:aavehusd"
+    },
+    {
+        "description": "Huobi SRN/BTC",
+        "displaySymbol": "SRN/BTC",
+        "symbol": "HUOBI:srnbtc"
+    },
+    {
+        "description": "Huobi EOS/BTC",
+        "displaySymbol": "EOS/BTC",
+        "symbol": "HUOBI:eosbtc"
+    },
+    {
+        "description": "Huobi HT/USDT",
+        "displaySymbol": "HT/USDT",
+        "symbol": "HUOBI:htusdt"
+    },
+    {
+        "description": "Huobi O3/BTC",
+        "displaySymbol": "O3/BTC",
+        "symbol": "HUOBI:o3btc"
+    },
+    {
+        "description": "Huobi WAXP/ETH",
+        "displaySymbol": "WAXP/ETH",
+        "symbol": "HUOBI:waxpeth"
+    },
+    {
+        "description": "Huobi STK/BTC",
+        "displaySymbol": "STK/BTC",
+        "symbol": "HUOBI:stkbtc"
+    },
+    {
+        "description": "Huobi SUSHI/USDT",
+        "displaySymbol": "SUSHI/USDT",
+        "symbol": "HUOBI:sushiusdt"
+    },
+    {
+        "description": "Huobi ANKR/HT",
+        "displaySymbol": "ANKR/HT",
+        "symbol": "HUOBI:ankrht"
+    },
+    {
+        "description": "Huobi CRE/HT",
+        "displaySymbol": "CRE/HT",
+        "symbol": "HUOBI:creht"
+    },
+    {
+        "description": "Huobi CMT/ETH",
+        "displaySymbol": "CMT/ETH",
+        "symbol": "HUOBI:cmteth"
+    },
+    {
+        "description": "Huobi HIT/ETH",
+        "displaySymbol": "HIT/ETH",
+        "symbol": "HUOBI:hiteth"
+    },
+    {
+        "description": "Huobi CNNS/HT",
+        "displaySymbol": "CNNS/HT",
+        "symbol": "HUOBI:cnnsht"
+    },
+    {
+        "description": "Huobi LRC/BTC",
+        "displaySymbol": "LRC/BTC",
+        "symbol": "HUOBI:lrcbtc"
+    },
+    {
+        "description": "Huobi ICX/BTC",
+        "displaySymbol": "ICX/BTC",
+        "symbol": "HUOBI:icxbtc"
+    },
+    {
+        "description": "Huobi BAND/ETH",
+        "displaySymbol": "BAND/ETH",
+        "symbol": "HUOBI:bandeth"
+    },
+    {
+        "description": "Huobi STN/USDT",
+        "displaySymbol": "STN/USDT",
+        "symbol": "HUOBI:stnusdt"
+    },
+    {
+        "description": "Huobi NPXS/ETH",
+        "displaySymbol": "NPXS/ETH",
+        "symbol": "HUOBI:npxseth"
+    },
+    {
+        "description": "Huobi ELA/USDT",
+        "displaySymbol": "ELA/USDT",
+        "symbol": "HUOBI:elausdt"
+    },
+    {
+        "description": "Huobi EDU/BTC",
+        "displaySymbol": "EDU/BTC",
+        "symbol": "HUOBI:edubtc"
+    },
+    {
+        "description": "Huobi NEST/BTC",
+        "displaySymbol": "NEST/BTC",
+        "symbol": "HUOBI:nestbtc"
+    },
+    {
+        "description": "Huobi FSN/BTC",
+        "displaySymbol": "FSN/BTC",
+        "symbol": "HUOBI:fsnbtc"
+    },
+    {
+        "description": "Huobi KSM/HT",
+        "displaySymbol": "KSM/HT",
+        "symbol": "HUOBI:ksmht"
+    },
+    {
+        "description": "Huobi IOTX/USDT",
+        "displaySymbol": "IOTX/USDT",
+        "symbol": "HUOBI:iotxusdt"
+    },
+    {
+        "description": "Huobi LINK/USDT",
+        "displaySymbol": "LINK/USDT",
+        "symbol": "HUOBI:linkusdt"
+    },
+    {
+        "description": "Huobi MASS/USDT",
+        "displaySymbol": "MASS/USDT",
+        "symbol": "HUOBI:massusdt"
+    },
+    {
+        "description": "Huobi BIX/BTC",
+        "displaySymbol": "BIX/BTC",
+        "symbol": "HUOBI:bixbtc"
+    },
+    {
+        "description": "Huobi BTS/USDT",
+        "displaySymbol": "BTS/USDT",
+        "symbol": "HUOBI:btsusdt"
+    },
+    {
+        "description": "Huobi EGLD/USDT",
+        "displaySymbol": "EGLD/USDT",
+        "symbol": "HUOBI:egldusdt"
+    },
+    {
+        "description": "Huobi BETH/ETH",
+        "displaySymbol": "BETH/ETH",
+        "symbol": "HUOBI:betheth"
+    },
+    {
+        "description": "Huobi UNI/USDT",
+        "displaySymbol": "UNI/USDT",
+        "symbol": "HUOBI:uniusdt"
+    },
+    {
+        "description": "Huobi UMA/BTC",
+        "displaySymbol": "UMA/BTC",
+        "symbol": "HUOBI:umabtc"
+    },
+    {
+        "description": "Huobi UUU/USDT",
+        "displaySymbol": "UUU/USDT",
+        "symbol": "HUOBI:uuuusdt"
+    },
+    {
+        "description": "Huobi TRX/BTC",
+        "displaySymbol": "TRX/BTC",
+        "symbol": "HUOBI:trxbtc"
+    },
+    {
+        "description": "Huobi THETA/USDT",
+        "displaySymbol": "THETA/USDT",
+        "symbol": "HUOBI:thetausdt"
+    },
+    {
+        "description": "Huobi IIC/BTC",
+        "displaySymbol": "IIC/BTC",
+        "symbol": "HUOBI:iicbtc"
+    },
+    {
+        "description": "Huobi SHE/BTC",
+        "displaySymbol": "SHE/BTC",
+        "symbol": "HUOBI:shebtc"
+    },
+    {
+        "description": "Huobi KSM/HUSD",
+        "displaySymbol": "KSM/HUSD",
+        "symbol": "HUOBI:ksmhusd"
+    },
+    {
+        "description": "Huobi YAM/USDT",
+        "displaySymbol": "YAM/USDT",
+        "symbol": "HUOBI:yamusdt"
+    },
+    {
+        "description": "Huobi BETH/USDT",
+        "displaySymbol": "BETH/USDT",
+        "symbol": "HUOBI:bethusdt"
+    },
+    {
+        "description": "Huobi DOT/HUSD",
+        "displaySymbol": "DOT/HUSD",
+        "symbol": "HUOBI:dothusd"
+    },
+    {
+        "description": "Huobi ARDR/BTC",
+        "displaySymbol": "ARDR/BTC",
+        "symbol": "HUOBI:ardrbtc"
+    },
+    {
+        "description": "Huobi HPT/USDT",
+        "displaySymbol": "HPT/USDT",
+        "symbol": "HUOBI:hptusdt"
+    },
+    {
+        "description": "Huobi AKRO/USDT",
+        "displaySymbol": "AKRO/USDT",
+        "symbol": "HUOBI:akrousdt"
+    },
+    {
+        "description": "Huobi RCCC/ETH",
+        "displaySymbol": "RCCC/ETH",
+        "symbol": "HUOBI:rccceth"
+    },
+    {
+        "description": "Huobi GET/ETH",
+        "displaySymbol": "GET/ETH",
+        "symbol": "HUOBI:geteth"
+    },
+    {
+        "description": "Huobi DCR/BTC",
+        "displaySymbol": "DCR/BTC",
+        "symbol": "HUOBI:dcrbtc"
+    },
+    {
+        "description": "Huobi CRU/USDT",
+        "displaySymbol": "CRU/USDT",
+        "symbol": "HUOBI:cruusdt"
+    },
+    {
+        "description": "Huobi LINK/HUSD",
+        "displaySymbol": "LINK/HUSD",
+        "symbol": "HUOBI:linkhusd"
+    },
+    {
+        "description": "Huobi UMA/USDT",
+        "displaySymbol": "UMA/USDT",
+        "symbol": "HUOBI:umausdt"
+    },
+    {
+        "description": "Huobi BIFI/BTC",
+        "displaySymbol": "BIFI/BTC",
+        "symbol": "HUOBI:bifibtc"
+    },
+    {
+        "description": "Huobi SLC/USDT",
+        "displaySymbol": "SLC/USDT",
+        "symbol": "HUOBI:slcusdt"
+    },
+    {
+        "description": "Huobi LAMB/BTC",
+        "displaySymbol": "LAMB/BTC",
+        "symbol": "HUOBI:lambbtc"
+    },
+    {
+        "description": "Huobi VSYS/HT",
+        "displaySymbol": "VSYS/HT",
+        "symbol": "HUOBI:vsysht"
+    },
+    {
+        "description": "Huobi RSR/HUSD",
+        "displaySymbol": "RSR/HUSD",
+        "symbol": "HUOBI:rsrhusd"
+    },
+    {
+        "description": "Huobi OGN/HT",
+        "displaySymbol": "OGN/HT",
+        "symbol": "HUOBI:ognht"
+    },
+    {
+        "description": "Huobi HIVE/HT",
+        "displaySymbol": "HIVE/HT",
+        "symbol": "HUOBI:hiveht"
+    },
+    {
+        "description": "Huobi IOI/USDT",
+        "displaySymbol": "IOI/USDT",
+        "symbol": "HUOBI:ioiusdt"
+    },
+    {
+        "description": "Huobi BNT/ETH",
+        "displaySymbol": "BNT/ETH",
+        "symbol": "HUOBI:bnteth"
+    },
+    {
+        "description": "Huobi HIVE/BTC",
+        "displaySymbol": "HIVE/BTC",
+        "symbol": "HUOBI:hivebtc"
+    },
+    {
+        "description": "Huobi EVX/BTC",
+        "displaySymbol": "EVX/BTC",
+        "symbol": "HUOBI:evxbtc"
+    },
+    {
+        "description": "Huobi PUSH/USDT",
+        "displaySymbol": "PUSH/USDT",
+        "symbol": "HUOBI:pushusdt"
+    },
+    {
+        "description": "Huobi INJ/USDT",
+        "displaySymbol": "INJ/USDT",
+        "symbol": "HUOBI:injusdt"
+    },
+    {
+        "description": "Huobi APPC/BTC",
+        "displaySymbol": "APPC/BTC",
+        "symbol": "HUOBI:appcbtc"
+    },
+    {
+        "description": "Huobi XMR/USDT",
+        "displaySymbol": "XMR/USDT",
+        "symbol": "HUOBI:xmrusdt"
+    },
+    {
+        "description": "Huobi ETN/ETH",
+        "displaySymbol": "ETN/ETH",
+        "symbol": "HUOBI:etneth"
+    },
+    {
+        "description": "Huobi XTZ/BTC",
+        "displaySymbol": "XTZ/BTC",
+        "symbol": "HUOBI:xtzbtc"
+    },
+    {
+        "description": "Huobi FTI/ETH",
+        "displaySymbol": "FTI/ETH",
+        "symbol": "HUOBI:ftieth"
+    },
+    {
+        "description": "Huobi ADX/ETH",
+        "displaySymbol": "ADX/ETH",
+        "symbol": "HUOBI:adxeth"
+    },
+    {
+        "description": "Huobi NEST/ETH",
+        "displaySymbol": "NEST/ETH",
+        "symbol": "HUOBI:nesteth"
+    },
+    {
+        "description": "Huobi NEST/USDT",
+        "displaySymbol": "NEST/USDT",
+        "symbol": "HUOBI:nestusdt"
+    },
+    {
+        "description": "Huobi DKA/USDT",
+        "displaySymbol": "DKA/USDT",
+        "symbol": "HUOBI:dkausdt"
+    },
+    {
+        "description": "Huobi AAVE/BTC",
+        "displaySymbol": "AAVE/BTC",
+        "symbol": "HUOBI:aavebtc"
+    },
+    {
+        "description": "Huobi MCO/BTC",
+        "displaySymbol": "MCO/BTC",
+        "symbol": "HUOBI:mcobtc"
+    },
+    {
+        "description": "Huobi POWR/ETH",
+        "displaySymbol": "POWR/ETH",
+        "symbol": "HUOBI:powreth"
+    },
+    {
+        "description": "Huobi SRN/ETH",
+        "displaySymbol": "SRN/ETH",
+        "symbol": "HUOBI:srneth"
+    },
+    {
+        "description": "Huobi IOI/BTC",
+        "displaySymbol": "IOI/BTC",
+        "symbol": "HUOBI:ioibtc"
+    },
+    {
+        "description": "Huobi WAXP/BTC",
+        "displaySymbol": "WAXP/BTC",
+        "symbol": "HUOBI:waxpbtc"
+    },
+    {
+        "description": "Huobi SOFI/BTC",
+        "displaySymbol": "SOFI/BTC",
+        "symbol": "HUOBI:sofibtc"
+    },
+    {
+        "description": "Huobi NANO/USDT",
+        "displaySymbol": "NANO/USDT",
+        "symbol": "HUOBI:nanousdt"
+    },
+    {
+        "description": "Huobi QTUM/ETH",
+        "displaySymbol": "QTUM/ETH",
+        "symbol": "HUOBI:qtumeth"
+    },
+    {
+        "description": "Huobi MKR/BTC",
+        "displaySymbol": "MKR/BTC",
+        "symbol": "HUOBI:mkrbtc"
+    },
+    {
+        "description": "Huobi DOCK/ETH",
+        "displaySymbol": "DOCK/ETH",
+        "symbol": "HUOBI:docketh"
+    },
+    {
+        "description": "Huobi HC/BTC",
+        "displaySymbol": "HC/BTC",
+        "symbol": "HUOBI:hcbtc"
+    },
+    {
+        "description": "Huobi VEN/ETH",
+        "displaySymbol": "VEN/ETH",
+        "symbol": "HUOBI:veneth"
+    },
+    {
+        "description": "Huobi CVC/ETH",
+        "displaySymbol": "CVC/ETH",
+        "symbol": "HUOBI:cvceth"
+    },
+    {
+        "description": "Huobi INSUR/USDT",
+        "displaySymbol": "INSUR/USDT",
+        "symbol": "HUOBI:insurusdt"
+    },
+    {
+        "description": "Huobi YAM/BTC",
+        "displaySymbol": "YAM/BTC",
+        "symbol": "HUOBI:yambtc"
+    },
+    {
+        "description": "Huobi BUT/BTC",
+        "displaySymbol": "BUT/BTC",
+        "symbol": "HUOBI:butbtc"
+    },
+    {
+        "description": "Huobi BOR/BTC",
+        "displaySymbol": "BOR/BTC",
+        "symbol": "HUOBI:borbtc"
+    },
+    {
+        "description": "Huobi EVX/ETH",
+        "displaySymbol": "EVX/ETH",
+        "symbol": "HUOBI:evxeth"
+    },
+    {
+        "description": "Huobi CTXC/ETH",
+        "displaySymbol": "CTXC/ETH",
+        "symbol": "HUOBI:ctxceth"
+    },
+    {
+        "description": "Huobi RIFI/USDT",
+        "displaySymbol": "RIFI/USDT",
+        "symbol": "HUOBI:rifiusdt"
+    },
+    {
+        "description": "Huobi EM/HT",
+        "displaySymbol": "EM/HT",
+        "symbol": "HUOBI:emht"
+    },
+    {
+        "description": "Huobi UNB/USDT",
+        "displaySymbol": "UNB/USDT",
+        "symbol": "HUOBI:unbusdt"
+    },
+    {
+        "description": "Huobi LTC/USDT",
+        "displaySymbol": "LTC/USDT",
+        "symbol": "HUOBI:ltcusdt"
+    },
+    {
+        "description": "Huobi SSP/BTC",
+        "displaySymbol": "SSP/BTC",
+        "symbol": "HUOBI:sspbtc"
+    },
+    {
+        "description": "Huobi JST/ETH",
+        "displaySymbol": "JST/ETH",
+        "symbol": "HUOBI:jsteth"
+    },
+    {
+        "description": "Huobi DOCK/BTC",
+        "displaySymbol": "DOCK/BTC",
+        "symbol": "HUOBI:dockbtc"
+    },
+    {
+        "description": "Huobi TALK/USDT",
+        "displaySymbol": "TALK/USDT",
+        "symbol": "HUOBI:talkusdt"
+    },
+    {
+        "description": "Huobi XRP/USDT",
+        "displaySymbol": "XRP/USDT",
+        "symbol": "HUOBI:xrpusdt"
+    },
+    {
+        "description": "Huobi RNDR/ETH",
+        "displaySymbol": "RNDR/ETH",
+        "symbol": "HUOBI:rndreth"
+    },
+    {
+        "description": "Huobi SOC/ETH",
+        "displaySymbol": "SOC/ETH",
+        "symbol": "HUOBI:soceth"
+    },
+    {
+        "description": "Huobi MUSK/ETH",
+        "displaySymbol": "MUSK/ETH",
+        "symbol": "HUOBI:musketh"
+    },
+    {
+        "description": "Huobi RBTC/BTC",
+        "displaySymbol": "RBTC/BTC",
+        "symbol": "HUOBI:rbtcbtc"
+    },
+    {
+        "description": "Huobi BKBT/ETH",
+        "displaySymbol": "BKBT/ETH",
+        "symbol": "HUOBI:bkbteth"
+    },
+    {
+        "description": "Huobi FTT/USDT",
+        "displaySymbol": "FTT/USDT",
+        "symbol": "HUOBI:fttusdt"
+    },
+    {
+        "description": "Huobi PVT/BTC",
+        "displaySymbol": "PVT/BTC",
+        "symbol": "HUOBI:pvtbtc"
+    },
+    {
+        "description": "Huobi TRX/USDT",
+        "displaySymbol": "TRX/USDT",
+        "symbol": "HUOBI:trxusdt"
+    },
+    {
+        "description": "Huobi DOT/BTC",
+        "displaySymbol": "DOT/BTC",
+        "symbol": "HUOBI:dotbtc"
+    },
+    {
+        "description": "Huobi BADGER/ETH",
+        "displaySymbol": "BADGER/ETH",
+        "symbol": "HUOBI:badgereth"
+    },
+    {
+        "description": "Huobi BSV3L/USDT",
+        "displaySymbol": "BSV3L/USDT",
+        "symbol": "HUOBI:bsv3lusdt"
+    },
+    {
+        "description": "Huobi BCHA/USDT",
+        "displaySymbol": "BCHA/USDT",
+        "symbol": "HUOBI:bchausdt"
+    },
+    {
+        "description": "Huobi STEEM/ETH",
+        "displaySymbol": "STEEM/ETH",
+        "symbol": "HUOBI:steemeth"
+    },
+    {
+        "description": "Huobi KCASH/ETH",
+        "displaySymbol": "KCASH/ETH",
+        "symbol": "HUOBI:kcasheth"
+    },
+    {
+        "description": "Huobi RSR/HT",
+        "displaySymbol": "RSR/HT",
+        "symbol": "HUOBI:rsrht"
+    },
+    {
+        "description": "Huobi NAS/USDT",
+        "displaySymbol": "NAS/USDT",
+        "symbol": "HUOBI:nasusdt"
+    },
+    {
+        "description": "Huobi BFT/BTC",
+        "displaySymbol": "BFT/BTC",
+        "symbol": "HUOBI:bftbtc"
+    },
+    {
+        "description": "Huobi TRIO/BTC",
+        "displaySymbol": "TRIO/BTC",
+        "symbol": "HUOBI:triobtc"
+    },
+    {
+        "description": "Huobi ENJ/ETH",
+        "displaySymbol": "ENJ/ETH",
+        "symbol": "HUOBI:enjeth"
+    },
+    {
+        "description": "Huobi AKRO/HUSD",
+        "displaySymbol": "AKRO/HUSD",
+        "symbol": "HUOBI:akrohusd"
+    },
+    {
+        "description": "Huobi RNDR/USDT",
+        "displaySymbol": "RNDR/USDT",
+        "symbol": "HUOBI:rndrusdt"
+    },
+    {
+        "description": "Huobi BHD/USDT",
+        "displaySymbol": "BHD/USDT",
+        "symbol": "HUOBI:bhdusdt"
+    },
+    {
+        "description": "Huobi DGB/ETH",
+        "displaySymbol": "DGB/ETH",
+        "symbol": "HUOBI:dgbeth"
+    },
+    {
+        "description": "Huobi REN/USDT",
+        "displaySymbol": "REN/USDT",
+        "symbol": "HUOBI:renusdt"
+    },
+    {
+        "description": "Huobi ICX/ETH",
+        "displaySymbol": "ICX/ETH",
+        "symbol": "HUOBI:icxeth"
+    },
+    {
+        "description": "Huobi SRM/USDT",
+        "displaySymbol": "SRM/USDT",
+        "symbol": "HUOBI:srmusdt"
+    },
+    {
+        "description": "Huobi LAMB/USDT",
+        "displaySymbol": "LAMB/USDT",
+        "symbol": "HUOBI:lambusdt"
+    },
+    {
+        "description": "Huobi AVAX/ETH",
+        "displaySymbol": "AVAX/ETH",
+        "symbol": "HUOBI:avaxeth"
+    },
+    {
+        "description": "Huobi LOL/BTC",
+        "displaySymbol": "LOL/BTC",
+        "symbol": "HUOBI:lolbtc"
+    },
+    {
+        "description": "Huobi DASH/USDT",
+        "displaySymbol": "DASH/USDT",
+        "symbol": "HUOBI:dashusdt"
+    },
+    {
+        "description": "Huobi INSUR/ETH",
+        "displaySymbol": "INSUR/ETH",
+        "symbol": "HUOBI:insureth"
+    },
+    {
+        "description": "Huobi O3/USDT",
+        "displaySymbol": "O3/USDT",
+        "symbol": "HUOBI:o3usdt"
+    },
+    {
+        "description": "Huobi FOR/HT",
+        "displaySymbol": "FOR/HT",
+        "symbol": "HUOBI:forht"
+    },
+    {
+        "description": "Huobi KAVA/HUSD",
+        "displaySymbol": "KAVA/HUSD",
+        "symbol": "HUOBI:kavahusd"
+    },
+    {
+        "description": "Huobi ANT/BTC",
+        "displaySymbol": "ANT/BTC",
+        "symbol": "HUOBI:antbtc"
+    },
+    {
+        "description": "Huobi UGAS/BTC",
+        "displaySymbol": "UGAS/BTC",
+        "symbol": "HUOBI:ugasbtc"
+    },
+    {
+        "description": "Huobi GARI/USDT",
+        "displaySymbol": "GARI/USDT",
+        "symbol": "HUOBI:gariusdt"
+    },
+    {
+        "description": "Huobi SDN/USDT",
+        "displaySymbol": "SDN/USDT",
+        "symbol": "HUOBI:sdnusdt"
+    },
+    {
+        "description": "Huobi CVC/BTC",
+        "displaySymbol": "CVC/BTC",
+        "symbol": "HUOBI:cvcbtc"
+    },
+    {
+        "description": "Huobi SUSHI/ETH",
+        "displaySymbol": "SUSHI/ETH",
+        "symbol": "HUOBI:sushieth"
+    },
+    {
+        "description": "Huobi SRM/BTC",
+        "displaySymbol": "SRM/BTC",
+        "symbol": "HUOBI:srmbtc"
+    },
+    {
+        "description": "Huobi OPUL/USDT",
+        "displaySymbol": "OPUL/USDT",
+        "symbol": "HUOBI:opulusdt"
+    },
+    {
+        "description": "Huobi MCO/ETH",
+        "displaySymbol": "MCO/ETH",
+        "symbol": "HUOBI:mcoeth"
+    },
+    {
+        "description": "Huobi SKM/HT",
+        "displaySymbol": "SKM/HT",
+        "symbol": "HUOBI:skmht"
+    },
+    {
+        "description": "Huobi ELF/ETH",
+        "displaySymbol": "ELF/ETH",
+        "symbol": "HUOBI:elfeth"
+    },
+    {
+        "description": "Huobi APPC/ETH",
+        "displaySymbol": "APPC/ETH",
+        "symbol": "HUOBI:appceth"
+    },
+    {
+        "description": "Huobi BNT/USDT",
+        "displaySymbol": "BNT/USDT",
+        "symbol": "HUOBI:bntusdt"
+    },
+    {
+        "description": "Huobi STK/ETH",
+        "displaySymbol": "STK/ETH",
+        "symbol": "HUOBI:stketh"
+    },
+    {
+        "description": "Huobi ZIL/BTC",
+        "displaySymbol": "ZIL/BTC",
+        "symbol": "HUOBI:zilbtc"
+    },
+    {
+        "description": "Huobi XYO/USDT",
+        "displaySymbol": "XYO/USDT",
+        "symbol": "HUOBI:xyousdt"
+    },
+    {
+        "description": "Huobi REEF/BTC",
+        "displaySymbol": "REEF/BTC",
+        "symbol": "HUOBI:reefbtc"
+    },
+    {
+        "description": "Huobi PAI/USDT",
+        "displaySymbol": "PAI/USDT",
+        "symbol": "HUOBI:paiusdt"
+    },
+    {
+        "description": "Huobi TRIBE/USDT",
+        "displaySymbol": "TRIBE/USDT",
+        "symbol": "HUOBI:tribeusdt"
+    },
+    {
+        "description": "Huobi TRIO/ETH",
+        "displaySymbol": "TRIO/ETH",
+        "symbol": "HUOBI:trioeth"
+    },
+    {
+        "description": "Huobi SNT/USDT",
+        "displaySymbol": "SNT/USDT",
+        "symbol": "HUOBI:sntusdt"
+    },
+    {
+        "description": "Huobi OCEAN/USDT",
+        "displaySymbol": "OCEAN/USDT",
+        "symbol": "HUOBI:oceanusdt"
+    },
+    {
+        "description": "Huobi ITC/ETH",
+        "displaySymbol": "ITC/ETH",
+        "symbol": "HUOBI:itceth"
+    },
+    {
+        "description": "Huobi HT/HUSD",
+        "displaySymbol": "HT/HUSD",
+        "symbol": "HUOBI:hthusd"
+    },
+    {
+        "description": "Huobi BCH3S/USDT",
+        "displaySymbol": "BCH3S/USDT",
+        "symbol": "HUOBI:bch3susdt"
+    },
+    {
+        "description": "Huobi LTC/HT",
+        "displaySymbol": "LTC/HT",
+        "symbol": "HUOBI:ltcht"
+    },
+    {
+        "description": "Huobi BTS/ETH",
+        "displaySymbol": "BTS/ETH",
+        "symbol": "HUOBI:btseth"
+    },
+    {
+        "description": "Huobi RLY/BTC",
+        "displaySymbol": "RLY/BTC",
+        "symbol": "HUOBI:rlybtc"
+    },
+    {
+        "description": "Huobi MDX/USDT",
+        "displaySymbol": "MDX/USDT",
+        "symbol": "HUOBI:mdxusdt"
+    },
+    {
+        "description": "Huobi GVE/ETH",
+        "displaySymbol": "GVE/ETH",
+        "symbol": "HUOBI:gveeth"
+    },
+    {
+        "description": "Huobi BFT/ETH",
+        "displaySymbol": "BFT/ETH",
+        "symbol": "HUOBI:bfteth"
+    },
+    {
+        "description": "Huobi API3/USDT",
+        "displaySymbol": "API3/USDT",
+        "symbol": "HUOBI:api3usdt"
+    },
+    {
+        "description": "Huobi LTC3S/USDT",
+        "displaySymbol": "LTC3S/USDT",
+        "symbol": "HUOBI:ltc3susdt"
+    },
+    {
+        "description": "Huobi STN/ETH",
+        "displaySymbol": "STN/ETH",
+        "symbol": "HUOBI:stneth"
+    },
+    {
+        "description": "Huobi BLZ/USDT",
+        "displaySymbol": "BLZ/USDT",
+        "symbol": "HUOBI:blzusdt"
+    },
+    {
+        "description": "Huobi RENBTC/BTC",
+        "displaySymbol": "RENBTC/BTC",
+        "symbol": "HUOBI:renbtcbtc"
+    },
+    {
+        "description": "Huobi AURORA/USDT",
+        "displaySymbol": "AURORA/USDT",
+        "symbol": "HUOBI:aurorausdt"
+    },
+    {
+        "description": "Huobi WAVES/USDT",
+        "displaySymbol": "WAVES/USDT",
+        "symbol": "HUOBI:wavesusdt"
+    },
+    {
+        "description": "Huobi SWFTC/BTC",
+        "displaySymbol": "SWFTC/BTC",
+        "symbol": "HUOBI:swftcbtc"
+    },
+    {
+        "description": "Huobi RING/USDT",
+        "displaySymbol": "RING/USDT",
+        "symbol": "HUOBI:ringusdt"
+    },
+    {
+        "description": "Huobi GLM/ETH",
+        "displaySymbol": "GLM/ETH",
+        "symbol": "HUOBI:glmeth"
+    },
+    {
+        "description": "Huobi POLS/USDT",
+        "displaySymbol": "POLS/USDT",
+        "symbol": "HUOBI:polsusdt"
+    },
+    {
+        "description": "Huobi THETA/BTC",
+        "displaySymbol": "THETA/BTC",
+        "symbol": "HUOBI:thetabtc"
+    },
+    {
+        "description": "Huobi CNNS/USDT",
+        "displaySymbol": "CNNS/USDT",
+        "symbol": "HUOBI:cnnsusdt"
+    },
+    {
+        "description": "Huobi BT2/BTC",
+        "displaySymbol": "BT2/BTC",
+        "symbol": "HUOBI:bt2btc"
+    },
+    {
+        "description": "Huobi GOF/USDT",
+        "displaySymbol": "GOF/USDT",
+        "symbol": "HUOBI:gofusdt"
+    },
+    {
+        "description": "Huobi ETC/HT",
+        "displaySymbol": "ETC/HT",
+        "symbol": "HUOBI:etcht"
+    },
+    {
+        "description": "Huobi PNT/BTC",
+        "displaySymbol": "PNT/BTC",
+        "symbol": "HUOBI:pntbtc"
+    },
+    {
+        "description": "Huobi MX/BTC",
+        "displaySymbol": "MX/BTC",
+        "symbol": "HUOBI:mxbtc"
+    },
+    {
+        "description": "Huobi NEAR/BTC",
+        "displaySymbol": "NEAR/BTC",
+        "symbol": "HUOBI:nearbtc"
+    },
+    {
+        "description": "Huobi EGT/BTC",
+        "displaySymbol": "EGT/BTC",
+        "symbol": "HUOBI:egtbtc"
+    },
+    {
+        "description": "Huobi BTT/TRX",
+        "displaySymbol": "BTT/TRX",
+        "symbol": "HUOBI:btttrx"
+    },
+    {
+        "description": "Huobi IRIS/USDT",
+        "displaySymbol": "IRIS/USDT",
+        "symbol": "HUOBI:irisusdt"
+    },
+    {
+        "description": "Huobi ADA/USDT",
+        "displaySymbol": "ADA/USDT",
+        "symbol": "HUOBI:adausdt"
+    },
+    {
+        "description": "Huobi BT1/BTC",
+        "displaySymbol": "BT1/BTC",
+        "symbol": "HUOBI:bt1btc"
+    },
+    {
+        "description": "Huobi FIL/BTC",
+        "displaySymbol": "FIL/BTC",
+        "symbol": "HUOBI:filbtc"
+    },
+    {
+        "description": "Huobi GRT/ETH",
+        "displaySymbol": "GRT/ETH",
+        "symbol": "HUOBI:grteth"
+    },
+    {
+        "description": "Huobi ATP/USDT",
+        "displaySymbol": "ATP/USDT",
+        "symbol": "HUOBI:atpusdt"
+    },
+    {
+        "description": "Huobi NEO/USDT",
+        "displaySymbol": "NEO/USDT",
+        "symbol": "HUOBI:neousdt"
+    },
+    {
+        "description": "Huobi WPR/BTC",
+        "displaySymbol": "WPR/BTC",
+        "symbol": "HUOBI:wprbtc"
+    },
+    {
+        "description": "Huobi LBA/ETH",
+        "displaySymbol": "LBA/ETH",
+        "symbol": "HUOBI:lbaeth"
+    },
+    {
+        "description": "Huobi EDEN/USDT",
+        "displaySymbol": "EDEN/USDT",
+        "symbol": "HUOBI:edenusdt"
+    },
+    {
+        "description": "Huobi APN/ETH",
+        "displaySymbol": "APN/ETH",
+        "symbol": "HUOBI:apneth"
+    },
+    {
+        "description": "Huobi QTUM/HUSD",
+        "displaySymbol": "QTUM/HUSD",
+        "symbol": "HUOBI:qtumhusd"
+    },
+    {
+        "description": "Huobi DGD/BTC",
+        "displaySymbol": "DGD/BTC",
+        "symbol": "HUOBI:dgdbtc"
+    },
+    {
+        "description": "Huobi NEAR/USDT",
+        "displaySymbol": "NEAR/USDT",
+        "symbol": "HUOBI:nearusdt"
+    },
+    {
+        "description": "Huobi ALGO/HUSD",
+        "displaySymbol": "ALGO/HUSD",
+        "symbol": "HUOBI:algohusd"
+    },
+    {
+        "description": "Huobi HPT/HT",
+        "displaySymbol": "HPT/HT",
+        "symbol": "HUOBI:hptht"
+    },
+    {
+        "description": "Huobi ARDR/ETH",
+        "displaySymbol": "ARDR/ETH",
+        "symbol": "HUOBI:ardreth"
+    },
+    {
+        "description": "Huobi MIR/BTC",
+        "displaySymbol": "MIR/BTC",
+        "symbol": "HUOBI:mirbtc"
+    },
+    {
+        "description": "Huobi IDT/ETH",
+        "displaySymbol": "IDT/ETH",
+        "symbol": "HUOBI:idteth"
+    },
+    {
+        "description": "Huobi ZKS/BTC",
+        "displaySymbol": "ZKS/BTC",
+        "symbol": "HUOBI:zksbtc"
+    },
+    {
+        "description": "Huobi FIL3L/USDT",
+        "displaySymbol": "FIL3L/USDT",
+        "symbol": "HUOBI:fil3lusdt"
+    },
+    {
+        "description": "Huobi MXC/USDT",
+        "displaySymbol": "MXC/USDT",
+        "symbol": "HUOBI:mxcusdt"
+    },
+    {
+        "description": "Huobi DGD/ETH",
+        "displaySymbol": "DGD/ETH",
+        "symbol": "HUOBI:dgdeth"
+    },
+    {
+        "description": "Huobi DOGE/USDT",
+        "displaySymbol": "DOGE/USDT",
+        "symbol": "HUOBI:dogeusdt"
+    },
+    {
+        "description": "Huobi FIRO/ETH",
+        "displaySymbol": "FIRO/ETH",
+        "symbol": "HUOBI:firoeth"
+    },
+    {
+        "description": "Huobi DOGE/ETH",
+        "displaySymbol": "DOGE/ETH",
+        "symbol": "HUOBI:dogeeth"
+    },
+    {
+        "description": "Huobi STORJ/USDT",
+        "displaySymbol": "STORJ/USDT",
+        "symbol": "HUOBI:storjusdt"
+    },
+    {
+        "description": "Huobi RAIN/USDT",
+        "displaySymbol": "RAIN/USDT",
+        "symbol": "HUOBI:rainusdt"
+    },
+    {
+        "description": "Huobi HT/ETH",
+        "displaySymbol": "HT/ETH",
+        "symbol": "HUOBI:hteth"
+    },
+    {
+        "description": "Huobi ZIL/ETH",
+        "displaySymbol": "ZIL/ETH",
+        "symbol": "HUOBI:zileth"
+    },
+    {
+        "description": "Huobi AXS/USDT",
+        "displaySymbol": "AXS/USDT",
+        "symbol": "HUOBI:axsusdt"
+    },
+    {
+        "description": "Huobi WAXP/USDT",
+        "displaySymbol": "WAXP/USDT",
+        "symbol": "HUOBI:waxpusdt"
+    },
+    {
+        "description": "Huobi ELF/USDT",
+        "displaySymbol": "ELF/USDT",
+        "symbol": "HUOBI:elfusdt"
+    },
+    {
+        "description": "Huobi AGLD/BTC",
+        "displaySymbol": "AGLD/BTC",
+        "symbol": "HUOBI:agldbtc"
+    },
+    {
+        "description": "Huobi HBAR/USDT",
+        "displaySymbol": "HBAR/USDT",
+        "symbol": "HUOBI:hbarusdt"
+    },
+    {
+        "description": "Huobi ETN/BTC",
+        "displaySymbol": "ETN/BTC",
+        "symbol": "HUOBI:etnbtc"
+    },
+    {
+        "description": "Huobi NULS/USDT",
+        "displaySymbol": "NULS/USDT",
+        "symbol": "HUOBI:nulsusdt"
+    },
+    {
+        "description": "Huobi WXT/BTC",
+        "displaySymbol": "WXT/BTC",
+        "symbol": "HUOBI:wxtbtc"
+    },
+    {
+        "description": "Huobi FIRO/USDT",
+        "displaySymbol": "FIRO/USDT",
+        "symbol": "HUOBI:firousdt"
+    },
+    {
+        "description": "Huobi PYR/USDT",
+        "displaySymbol": "PYR/USDT",
+        "symbol": "HUOBI:pyrusdt"
+    },
+    {
+        "description": "Huobi DHT/BTC",
+        "displaySymbol": "DHT/BTC",
+        "symbol": "HUOBI:dhtbtc"
+    },
+    {
+        "description": "Huobi BADGER/BTC",
+        "displaySymbol": "BADGER/BTC",
+        "symbol": "HUOBI:badgerbtc"
+    },
+    {
+        "description": "Huobi EKT/ETH",
+        "displaySymbol": "EKT/ETH",
+        "symbol": "HUOBI:ekteth"
+    },
+    {
+        "description": "Huobi VEN/USDT",
+        "displaySymbol": "VEN/USDT",
+        "symbol": "HUOBI:venusdt"
+    },
+    {
+        "description": "Huobi WBTC/USDT",
+        "displaySymbol": "WBTC/USDT",
+        "symbol": "HUOBI:wbtcusdt"
+    },
+    {
+        "description": "Huobi VET/HUSD",
+        "displaySymbol": "VET/HUSD",
+        "symbol": "HUOBI:vethusd"
+    },
+    {
+        "description": "Huobi MDX/ETH",
+        "displaySymbol": "MDX/ETH",
+        "symbol": "HUOBI:mdxeth"
+    },
+    {
+        "description": "Huobi BSV3S/USDT",
+        "displaySymbol": "BSV3S/USDT",
+        "symbol": "HUOBI:bsv3susdt"
+    },
+    {
+        "description": "Huobi SWFTC/USDT",
+        "displaySymbol": "SWFTC/USDT",
+        "symbol": "HUOBI:swftcusdt"
+    },
+    {
+        "description": "Huobi TRIBE/BTC",
+        "displaySymbol": "TRIBE/BTC",
+        "symbol": "HUOBI:tribebtc"
+    },
+    {
+        "description": "Huobi SNX/HUSD",
+        "displaySymbol": "SNX/HUSD",
+        "symbol": "HUOBI:snxhusd"
+    },
+    {
+        "description": "Huobi BOR/USDT",
+        "displaySymbol": "BOR/USDT",
+        "symbol": "HUOBI:borusdt"
+    },
+    {
+        "description": "Huobi PHX/BTC",
+        "displaySymbol": "PHX/BTC",
+        "symbol": "HUOBI:phxbtc"
+    },
+    {
+        "description": "Huobi ARPA/USDT",
+        "displaySymbol": "ARPA/USDT",
+        "symbol": "HUOBI:arpausdt"
+    },
+    {
+        "description": "Huobi STAKE/BTC",
+        "displaySymbol": "STAKE/BTC",
+        "symbol": "HUOBI:stakebtc"
+    },
+    {
+        "description": "Huobi FTM/USDT",
+        "displaySymbol": "FTM/USDT",
+        "symbol": "HUOBI:ftmusdt"
+    },
+    {
+        "description": "Huobi WPR/ETH",
+        "displaySymbol": "WPR/ETH",
+        "symbol": "HUOBI:wpreth"
+    },
+    {
+        "description": "Huobi CHR/USDT",
+        "displaySymbol": "CHR/USDT",
+        "symbol": "HUOBI:chrusdt"
+    },
+    {
+        "description": "Huobi EOS/HUSD",
+        "displaySymbol": "EOS/HUSD",
+        "symbol": "HUOBI:eoshusd"
+    },
+    {
+        "description": "Huobi QTUM/BTC",
+        "displaySymbol": "QTUM/BTC",
+        "symbol": "HUOBI:qtumbtc"
+    },
+    {
+        "description": "Huobi XMR/BTC",
+        "displaySymbol": "XMR/BTC",
+        "symbol": "HUOBI:xmrbtc"
+    },
+    {
+        "description": "Huobi DAT/BTC",
+        "displaySymbol": "DAT/BTC",
+        "symbol": "HUOBI:datbtc"
+    },
+    {
+        "description": "Huobi YCC/BTC",
+        "displaySymbol": "YCC/BTC",
+        "symbol": "HUOBI:yccbtc"
+    },
+    {
+        "description": "Huobi UTK/USDT",
+        "displaySymbol": "UTK/USDT",
+        "symbol": "HUOBI:utkusdt"
+    },
+    {
+        "description": "Huobi CRO/HT",
+        "displaySymbol": "CRO/HT",
+        "symbol": "HUOBI:croht"
+    },
+    {
+        "description": "Huobi SNX/USDT",
+        "displaySymbol": "SNX/USDT",
+        "symbol": "HUOBI:snxusdt"
+    },
+    {
+        "description": "Huobi SNT/BTC",
+        "displaySymbol": "SNT/BTC",
+        "symbol": "HUOBI:sntbtc"
+    },
+    {
+        "description": "Huobi XTZ/HUSD",
+        "displaySymbol": "XTZ/HUSD",
+        "symbol": "HUOBI:xtzhusd"
+    },
+    {
+        "description": "Huobi AR/USDT",
+        "displaySymbol": "AR/USDT",
+        "symbol": "HUOBI:arusdt"
+    },
+    {
+        "description": "Huobi BCV/BTC",
+        "displaySymbol": "BCV/BTC",
+        "symbol": "HUOBI:bcvbtc"
+    },
+    {
+        "description": "Huobi RUFF/BTC",
+        "displaySymbol": "RUFF/BTC",
+        "symbol": "HUOBI:ruffbtc"
+    },
+    {
+        "description": "Huobi ABT/BTC",
+        "displaySymbol": "ABT/BTC",
+        "symbol": "HUOBI:abtbtc"
+    },
+    {
+        "description": "Huobi ABT/ETH",
+        "displaySymbol": "ABT/ETH",
+        "symbol": "HUOBI:abteth"
+    },
+    {
+        "description": "Huobi WTC/BTC",
+        "displaySymbol": "WTC/BTC",
+        "symbol": "HUOBI:wtcbtc"
+    },
+    {
+        "description": "Huobi KSM/USDT",
+        "displaySymbol": "KSM/USDT",
+        "symbol": "HUOBI:ksmusdt"
+    },
+    {
+        "description": "Huobi GAS/ETH",
+        "displaySymbol": "GAS/ETH",
+        "symbol": "HUOBI:gaseth"
+    },
+    {
+        "description": "Huobi NT/USDT",
+        "displaySymbol": "NT/USDT",
+        "symbol": "HUOBI:ntusdt"
+    },
+    {
+        "description": "Huobi VET/ETH",
+        "displaySymbol": "VET/ETH",
+        "symbol": "HUOBI:veteth"
+    },
+    {
+        "description": "Huobi XRT/BTC",
+        "displaySymbol": "XRT/BTC",
+        "symbol": "HUOBI:xrtbtc"
+    },
+    {
+        "description": "Huobi PAY/BTC",
+        "displaySymbol": "PAY/BTC",
+        "symbol": "HUOBI:paybtc"
+    },
+    {
+        "description": "Huobi CSPR/USDT",
+        "displaySymbol": "CSPR/USDT",
+        "symbol": "HUOBI:csprusdt"
+    },
+    {
+        "description": "Huobi SOL/ETH",
+        "displaySymbol": "SOL/ETH",
+        "symbol": "HUOBI:soleth"
+    },
+    {
+        "description": "Huobi WHALE/BTC",
+        "displaySymbol": "WHALE/BTC",
+        "symbol": "HUOBI:whalebtc"
+    },
+    {
+        "description": "Huobi ALICE/USDT",
+        "displaySymbol": "ALICE/USDT",
+        "symbol": "HUOBI:aliceusdt"
+    },
+    {
+        "description": "Huobi SPA/USDT",
+        "displaySymbol": "SPA/USDT",
+        "symbol": "HUOBI:spausdt"
+    },
+    {
+        "description": "Huobi ACH/ETH",
+        "displaySymbol": "ACH/ETH",
+        "symbol": "HUOBI:acheth"
+    },
+    {
+        "description": "Huobi IRIS/ETH",
+        "displaySymbol": "IRIS/ETH",
+        "symbol": "HUOBI:iriseth"
+    },
+    {
+        "description": "Huobi MKR/USDT",
+        "displaySymbol": "MKR/USDT",
+        "symbol": "HUOBI:mkrusdt"
+    },
+    {
+        "description": "Huobi AR/BTC",
+        "displaySymbol": "AR/BTC",
+        "symbol": "HUOBI:arbtc"
+    },
+    {
+        "description": "Huobi BTC/HUSD",
+        "displaySymbol": "BTC/HUSD",
+        "symbol": "HUOBI:btchusd"
+    },
+    {
+        "description": "Huobi UNI/HUSD",
+        "displaySymbol": "UNI/HUSD",
+        "symbol": "HUOBI:unihusd"
+    },
+    {
+        "description": "Huobi MTN/BTC",
+        "displaySymbol": "MTN/BTC",
+        "symbol": "HUOBI:mtnbtc"
+    },
+    {
+        "description": "Huobi RCCC/BTC",
+        "displaySymbol": "RCCC/BTC",
+        "symbol": "HUOBI:rcccbtc"
+    },
+    {
+        "description": "Huobi BOX/BTC",
+        "displaySymbol": "BOX/BTC",
+        "symbol": "HUOBI:boxbtc"
+    },
+    {
+        "description": "Huobi BSV/USDT",
+        "displaySymbol": "BSV/USDT",
+        "symbol": "HUOBI:bsvusdt"
+    },
+    {
+        "description": "Huobi API3/BTC",
+        "displaySymbol": "API3/BTC",
+        "symbol": "HUOBI:api3btc"
+    },
+    {
+        "description": "Huobi BAND/HUSD",
+        "displaySymbol": "BAND/HUSD",
+        "symbol": "HUOBI:bandhusd"
+    },
+    {
+        "description": "Huobi MLN/ETH",
+        "displaySymbol": "MLN/ETH",
+        "symbol": "HUOBI:mlneth"
+    },
+    {
+        "description": "Huobi ITC/BTC",
+        "displaySymbol": "ITC/BTC",
+        "symbol": "HUOBI:itcbtc"
+    },
+    {
+        "description": "Huobi TOP/USDT",
+        "displaySymbol": "TOP/USDT",
+        "symbol": "HUOBI:topusdt"
+    },
+    {
+        "description": "Huobi ZJLT/ETH",
+        "displaySymbol": "ZJLT/ETH",
+        "symbol": "HUOBI:zjlteth"
+    },
+    {
+        "description": "Huobi SC/BTC",
+        "displaySymbol": "SC/BTC",
+        "symbol": "HUOBI:scbtc"
+    },
+    {
+        "description": "Huobi FORTH/BTC",
+        "displaySymbol": "FORTH/BTC",
+        "symbol": "HUOBI:forthbtc"
+    },
+    {
+        "description": "Huobi BTT/ETH",
+        "displaySymbol": "BTT/ETH",
+        "symbol": "HUOBI:btteth"
+    },
+    {
+        "description": "Huobi LINK/BTC",
+        "displaySymbol": "LINK/BTC",
+        "symbol": "HUOBI:linkbtc"
+    },
+    {
+        "description": "Huobi SSP/ETH",
+        "displaySymbol": "SSP/ETH",
+        "symbol": "HUOBI:sspeth"
+    },
+    {
+        "description": "Huobi NEXO/USDT",
+        "displaySymbol": "NEXO/USDT",
+        "symbol": "HUOBI:nexousdt"
+    },
+    {
+        "description": "Huobi CVNT/ETH",
+        "displaySymbol": "CVNT/ETH",
+        "symbol": "HUOBI:cvnteth"
+    },
+    {
+        "description": "Huobi LOOM/ETH",
+        "displaySymbol": "LOOM/ETH",
+        "symbol": "HUOBI:loometh"
+    },
+    {
+        "description": "Huobi LRC/ETH",
+        "displaySymbol": "LRC/ETH",
+        "symbol": "HUOBI:lrceth"
+    },
+    {
+        "description": "Huobi FIS/ETH",
+        "displaySymbol": "FIS/ETH",
+        "symbol": "HUOBI:fiseth"
+    },
+    {
+        "description": "Huobi REEF/USDT",
+        "displaySymbol": "REEF/USDT",
+        "symbol": "HUOBI:reefusdt"
+    },
+    {
+        "description": "Huobi STF/USDT",
+        "displaySymbol": "STF/USDT",
+        "symbol": "HUOBI:stfusdt"
+    },
+    {
+        "description": "Huobi PHA/BTC",
+        "displaySymbol": "PHA/BTC",
+        "symbol": "HUOBI:phabtc"
+    },
+    {
+        "description": "Huobi MX/HT",
+        "displaySymbol": "MX/HT",
+        "symbol": "HUOBI:mxht"
+    },
+    {
+        "description": "Huobi AE/BTC",
+        "displaySymbol": "AE/BTC",
+        "symbol": "HUOBI:aebtc"
+    },
+    {
+        "description": "Huobi WNXM/BTC",
+        "displaySymbol": "WNXM/BTC",
+        "symbol": "HUOBI:wnxmbtc"
+    },
+    {
+        "description": "Huobi BTM/USDT",
+        "displaySymbol": "BTM/USDT",
+        "symbol": "HUOBI:btmusdt"
+    },
+    {
+        "description": "Huobi ZEN/USDT",
+        "displaySymbol": "ZEN/USDT",
+        "symbol": "HUOBI:zenusdt"
+    },
+    {
+        "description": "Huobi DAT/ETH",
+        "displaySymbol": "DAT/ETH",
+        "symbol": "HUOBI:dateth"
+    },
+    {
+        "description": "Huobi PAI/ETH",
+        "displaySymbol": "PAI/ETH",
+        "symbol": "HUOBI:paieth"
+    },
+    {
+        "description": "Huobi NEXO/BTC",
+        "displaySymbol": "NEXO/BTC",
+        "symbol": "HUOBI:nexobtc"
+    },
+    {
+        "description": "Huobi LQTY/USDT",
+        "displaySymbol": "LQTY/USDT",
+        "symbol": "HUOBI:lqtyusdt"
+    },
+    {
+        "description": "Huobi ZKS/ETH",
+        "displaySymbol": "ZKS/ETH",
+        "symbol": "HUOBI:zkseth"
+    },
+    {
+        "description": "Huobi RSR/BTC",
+        "displaySymbol": "RSR/BTC",
+        "symbol": "HUOBI:rsrbtc"
+    },
+    {
+        "description": "Huobi KNC/USDT",
+        "displaySymbol": "KNC/USDT",
+        "symbol": "HUOBI:kncusdt"
+    },
+    {
+        "description": "Huobi VIDY/HT",
+        "displaySymbol": "VIDY/HT",
+        "symbol": "HUOBI:vidyht"
+    },
+    {
+        "description": "Huobi CTSI/USDT",
+        "displaySymbol": "CTSI/USDT",
+        "symbol": "HUOBI:ctsiusdt"
+    },
+    {
+        "description": "Huobi JST/USDT",
+        "displaySymbol": "JST/USDT",
+        "symbol": "HUOBI:jstusdt"
+    },
+    {
+        "description": "Huobi OMG/BTC",
+        "displaySymbol": "OMG/BTC",
+        "symbol": "HUOBI:omgbtc"
+    },
+    {
+        "description": "Huobi SWRV/BTC",
+        "displaySymbol": "SWRV/BTC",
+        "symbol": "HUOBI:swrvbtc"
+    },
+    {
+        "description": "Huobi 18C/ETH",
+        "displaySymbol": "18C/ETH",
+        "symbol": "HUOBI:18ceth"
+    },
+    {
+        "description": "Huobi RUFF/ETH",
+        "displaySymbol": "RUFF/ETH",
+        "symbol": "HUOBI:ruffeth"
+    },
+    {
+        "description": "Huobi DCR/USDT",
+        "displaySymbol": "DCR/USDT",
+        "symbol": "HUOBI:dcrusdt"
+    },
+    {
+        "description": "Huobi ANKR/USDT",
+        "displaySymbol": "ANKR/USDT",
+        "symbol": "HUOBI:ankrusdt"
+    },
+    {
+        "description": "Huobi GRS/BTC",
+        "displaySymbol": "GRS/BTC",
+        "symbol": "HUOBI:grsbtc"
+    },
+    {
+        "description": "Huobi ELA/HUSD",
+        "displaySymbol": "ELA/HUSD",
+        "symbol": "HUOBI:elahusd"
+    },
+    {
+        "description": "Huobi POLY/BTC",
+        "displaySymbol": "POLY/BTC",
+        "symbol": "HUOBI:polybtc"
+    },
+    {
+        "description": "Huobi SOC/USDT",
+        "displaySymbol": "SOC/USDT",
+        "symbol": "HUOBI:socusdt"
+    },
+    {
+        "description": "Huobi KNC/ETH",
+        "displaySymbol": "KNC/ETH",
+        "symbol": "HUOBI:knceth"
+    },
+    {
+        "description": "Huobi OXT/BTC",
+        "displaySymbol": "OXT/BTC",
+        "symbol": "HUOBI:oxtbtc"
+    },
+    {
+        "description": "Huobi REQ/ETH",
+        "displaySymbol": "REQ/ETH",
+        "symbol": "HUOBI:reqeth"
+    },
+    {
+        "description": "Huobi UTK/BTC",
+        "displaySymbol": "UTK/BTC",
+        "symbol": "HUOBI:utkbtc"
+    },
+    {
+        "description": "Huobi TNB/USDT",
+        "displaySymbol": "TNB/USDT",
+        "symbol": "HUOBI:tnbusdt"
+    },
+    {
+        "description": "Huobi YFII/ETH",
+        "displaySymbol": "YFII/ETH",
+        "symbol": "HUOBI:yfiieth"
+    },
+    {
+        "description": "Huobi HT/BTC",
+        "displaySymbol": "HT/BTC",
+        "symbol": "HUOBI:htbtc"
+    },
+    {
+        "description": "Huobi CRV/HUSD",
+        "displaySymbol": "CRV/HUSD",
+        "symbol": "HUOBI:crvhusd"
+    },
+    {
+        "description": "Huobi 1INCH/BTC",
+        "displaySymbol": "1INCH/BTC",
+        "symbol": "HUOBI:1inchbtc"
+    },
+    {
+        "description": "Huobi SOFI/ETH",
+        "displaySymbol": "SOFI/ETH",
+        "symbol": "HUOBI:sofieth"
+    },
+    {
+        "description": "Huobi WNXM/USDT",
+        "displaySymbol": "WNXM/USDT",
+        "symbol": "HUOBI:wnxmusdt"
+    },
+    {
+        "description": "Huobi HOT/BTC",
+        "displaySymbol": "HOT/BTC",
+        "symbol": "HUOBI:hotbtc"
+    },
+    {
+        "description": "Huobi IIC/ETH",
+        "displaySymbol": "IIC/ETH",
+        "symbol": "HUOBI:iiceth"
+    },
+    {
+        "description": "Huobi NFT/HT",
+        "displaySymbol": "NFT/HT",
+        "symbol": "HUOBI:nftht"
+    },
+    {
+        "description": "Huobi ENG/BTC",
+        "displaySymbol": "ENG/BTC",
+        "symbol": "HUOBI:engbtc"
+    },
+    {
+        "description": "Huobi UNI/ETH",
+        "displaySymbol": "UNI/ETH",
+        "symbol": "HUOBI:unieth"
+    },
+    {
+        "description": "Huobi NEXO/ETH",
+        "displaySymbol": "NEXO/ETH",
+        "symbol": "HUOBI:nexoeth"
+    },
+    {
+        "description": "Huobi GT/BTC",
+        "displaySymbol": "GT/BTC",
+        "symbol": "HUOBI:gtbtc"
+    },
+    {
+        "description": "Huobi XTZ/ETH",
+        "displaySymbol": "XTZ/ETH",
+        "symbol": "HUOBI:xtzeth"
+    },
+    {
+        "description": "Huobi DOGE/BTC",
+        "displaySymbol": "DOGE/BTC",
+        "symbol": "HUOBI:dogebtc"
+    },
+    {
+        "description": "Huobi AURY/USDT",
+        "displaySymbol": "AURY/USDT",
+        "symbol": "HUOBI:auryusdt"
+    },
+    {
+        "description": "Huobi RTE/ETH",
+        "displaySymbol": "RTE/ETH",
+        "symbol": "HUOBI:rteeth"
+    },
+    {
+        "description": "Huobi COMP/ETH",
+        "displaySymbol": "COMP/ETH",
+        "symbol": "HUOBI:competh"
+    },
+    {
+        "description": "Huobi TT/USDT",
+        "displaySymbol": "TT/USDT",
+        "symbol": "HUOBI:ttusdt"
+    },
+    {
+        "description": "Huobi ONT/BTC",
+        "displaySymbol": "ONT/BTC",
+        "symbol": "HUOBI:ontbtc"
+    },
+    {
+        "description": "Huobi GSC/BTC",
+        "displaySymbol": "GSC/BTC",
+        "symbol": "HUOBI:gscbtc"
+    },
+    {
+        "description": "Huobi USDC/HUSD",
+        "displaySymbol": "USDC/HUSD",
+        "symbol": "HUOBI:usdchusd"
+    },
+    {
+        "description": "Huobi WAN/ETH",
+        "displaySymbol": "WAN/ETH",
+        "symbol": "HUOBI:waneth"
+    },
+    {
+        "description": "Huobi BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "HUOBI:bchbtc"
+    },
+    {
+        "description": "Huobi CKB/BTC",
+        "displaySymbol": "CKB/BTC",
+        "symbol": "HUOBI:ckbbtc"
+    },
+    {
+        "description": "Huobi CRV/BTC",
+        "displaySymbol": "CRV/BTC",
+        "symbol": "HUOBI:crvbtc"
+    },
+    {
+        "description": "Huobi ETH/USDT",
+        "displaySymbol": "ETH/USDT",
+        "symbol": "HUOBI:ethusdt"
+    },
+    {
+        "description": "Huobi NULS/ETH",
+        "displaySymbol": "NULS/ETH",
+        "symbol": "HUOBI:nulseth"
+    },
+    {
+        "description": "Huobi STEEM/BTC",
+        "displaySymbol": "STEEM/BTC",
+        "symbol": "HUOBI:steembtc"
+    },
+    {
+        "description": "Huobi IMX/USDT",
+        "displaySymbol": "IMX/USDT",
+        "symbol": "HUOBI:imxusdt"
+    },
+    {
+        "description": "Huobi BOX/ETH",
+        "displaySymbol": "BOX/ETH",
+        "symbol": "HUOBI:boxeth"
+    },
+    {
+        "description": "Huobi MAN/ETH",
+        "displaySymbol": "MAN/ETH",
+        "symbol": "HUOBI:maneth"
+    },
+    {
+        "description": "Huobi EKO/ETH",
+        "displaySymbol": "EKO/ETH",
+        "symbol": "HUOBI:ekoeth"
+    },
+    {
+        "description": "Huobi EOS3L/USDT",
+        "displaySymbol": "EOS3L/USDT",
+        "symbol": "HUOBI:eos3lusdt"
+    },
+    {
+        "description": "Huobi POKT/USDT",
+        "displaySymbol": "POKT/USDT",
+        "symbol": "HUOBI:poktusdt"
+    },
+    {
+        "description": "Huobi EGCC/ETH",
+        "displaySymbol": "EGCC/ETH",
+        "symbol": "HUOBI:egcceth"
+    },
+    {
+        "description": "Huobi QASH/BTC",
+        "displaySymbol": "QASH/BTC",
+        "symbol": "HUOBI:qashbtc"
+    },
+    {
+        "description": "Huobi TRX/HUSD",
+        "displaySymbol": "TRX/HUSD",
+        "symbol": "HUOBI:trxhusd"
+    },
+    {
+        "description": "Huobi NODE/HT",
+        "displaySymbol": "NODE/HT",
+        "symbol": "HUOBI:nodeht"
+    },
+    {
+        "description": "Huobi RDN/BTC",
+        "displaySymbol": "RDN/BTC",
+        "symbol": "HUOBI:rdnbtc"
+    },
+    {
+        "description": "Huobi AUCTION/BTC",
+        "displaySymbol": "AUCTION/BTC",
+        "symbol": "HUOBI:auctionbtc"
+    },
+    {
+        "description": "Huobi RLC/USDT",
+        "displaySymbol": "RLC/USDT",
+        "symbol": "HUOBI:rlcusdt"
+    },
+    {
+        "description": "Huobi WND/USDT",
+        "displaySymbol": "WND/USDT",
+        "symbol": "HUOBI:wndusdt"
+    },
+    {
+        "description": "Huobi GLM/BTC",
+        "displaySymbol": "GLM/BTC",
+        "symbol": "HUOBI:glmbtc"
+    },
+    {
+        "description": "Huobi TITAN/BTC",
+        "displaySymbol": "TITAN/BTC",
+        "symbol": "HUOBI:titanbtc"
+    },
+    {
+        "description": "Huobi KCASH/USDT",
+        "displaySymbol": "KCASH/USDT",
+        "symbol": "HUOBI:kcashusdt"
+    },
+    {
+        "description": "Huobi INV/USDT",
+        "displaySymbol": "INV/USDT",
+        "symbol": "HUOBI:invusdt"
+    },
+    {
+        "description": "Huobi KAN/ETH",
+        "displaySymbol": "KAN/ETH",
+        "symbol": "HUOBI:kaneth"
+    },
+    {
+        "description": "Huobi YEE/BTC",
+        "displaySymbol": "YEE/BTC",
+        "symbol": "HUOBI:yeebtc"
+    },
+    {
+        "description": "Huobi GRT/USDT",
+        "displaySymbol": "GRT/USDT",
+        "symbol": "HUOBI:grtusdt"
+    },
+    {
+        "description": "Huobi SNX/ETH",
+        "displaySymbol": "SNX/ETH",
+        "symbol": "HUOBI:snxeth"
+    },
+    {
+        "description": "Huobi PAX/HUSD",
+        "displaySymbol": "PAX/HUSD",
+        "symbol": "HUOBI:paxhusd"
+    },
+    {
+        "description": "Huobi EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "HUOBI:eoseth"
+    },
+    {
+        "description": "Huobi YCC/ETH",
+        "displaySymbol": "YCC/ETH",
+        "symbol": "HUOBI:ycceth"
+    },
+    {
+        "description": "Huobi STEEM/USDT",
+        "displaySymbol": "STEEM/USDT",
+        "symbol": "HUOBI:steemusdt"
+    },
+    {
+        "description": "Huobi TRX/ETH",
+        "displaySymbol": "TRX/ETH",
+        "symbol": "HUOBI:trxeth"
+    },
+    {
+        "description": "Huobi NEO/BTC",
+        "displaySymbol": "NEO/BTC",
+        "symbol": "HUOBI:neobtc"
+    },
+    {
+        "description": "Huobi SNC/BTC",
+        "displaySymbol": "SNC/BTC",
+        "symbol": "HUOBI:sncbtc"
+    },
+    {
+        "description": "Huobi REN/ETH",
+        "displaySymbol": "REN/ETH",
+        "symbol": "HUOBI:reneth"
+    },
+    {
+        "description": "Huobi XTM/USDT",
+        "displaySymbol": "XTM/USDT",
+        "symbol": "HUOBI:xtmusdt"
+    },
+    {
+        "description": "Huobi POND/BTC",
+        "displaySymbol": "POND/BTC",
+        "symbol": "HUOBI:pondbtc"
+    },
+    {
+        "description": "Huobi ACT/BTC",
+        "displaySymbol": "ACT/BTC",
+        "symbol": "HUOBI:actbtc"
+    },
+    {
+        "description": "Huobi EM/BTC",
+        "displaySymbol": "EM/BTC",
+        "symbol": "HUOBI:embtc"
+    },
+    {
+        "description": "Huobi XMR/ETH",
+        "displaySymbol": "XMR/ETH",
+        "symbol": "HUOBI:xmreth"
+    },
+    {
+        "description": "Huobi UGAS/ETH",
+        "displaySymbol": "UGAS/ETH",
+        "symbol": "HUOBI:ugaseth"
+    },
+    {
+        "description": "Huobi CHAT/BTC",
+        "displaySymbol": "CHAT/BTC",
+        "symbol": "HUOBI:chatbtc"
+    },
+    {
+        "description": "Huobi ACT/USDT",
+        "displaySymbol": "ACT/USDT",
+        "symbol": "HUOBI:actusdt"
+    },
+    {
+        "description": "Huobi ELA/BTC",
+        "displaySymbol": "ELA/BTC",
+        "symbol": "HUOBI:elabtc"
+    },
+    {
+        "description": "Huobi NSURE/USDT",
+        "displaySymbol": "NSURE/USDT",
+        "symbol": "HUOBI:nsureusdt"
+    },
+    {
+        "description": "Huobi SC/ETH",
+        "displaySymbol": "SC/ETH",
+        "symbol": "HUOBI:sceth"
+    },
+    {
+        "description": "Huobi ETH1S/USDT",
+        "displaySymbol": "ETH1S/USDT",
+        "symbol": "HUOBI:eth1susdt"
+    },
+    {
+        "description": "Huobi NHBTC/ETH",
+        "displaySymbol": "NHBTC/ETH",
+        "symbol": "HUOBI:nhbtceth"
+    },
+    {
+        "description": "Huobi XMX/USDT",
+        "displaySymbol": "XMX/USDT",
+        "symbol": "HUOBI:xmxusdt"
+    },
+    {
+        "description": "Huobi CRU/BTC",
+        "displaySymbol": "CRU/BTC",
+        "symbol": "HUOBI:crubtc"
+    },
+    {
+        "description": "Huobi OCN/USDT",
+        "displaySymbol": "OCN/USDT",
+        "symbol": "HUOBI:ocnusdt"
+    },
+    {
+        "description": "Huobi ARPA/BTC",
+        "displaySymbol": "ARPA/BTC",
+        "symbol": "HUOBI:arpabtc"
+    },
+    {
+        "description": "Huobi OXT/USDT",
+        "displaySymbol": "OXT/USDT",
+        "symbol": "HUOBI:oxtusdt"
+    },
+    {
+        "description": "Huobi ZRX/USDT",
+        "displaySymbol": "ZRX/USDT",
+        "symbol": "HUOBI:zrxusdt"
+    },
+    {
+        "description": "Huobi ONT/HUSD",
+        "displaySymbol": "ONT/HUSD",
+        "symbol": "HUOBI:onthusd"
+    },
+    {
+        "description": "Huobi XRP3S/USDT",
+        "displaySymbol": "XRP3S/USDT",
+        "symbol": "HUOBI:xrp3susdt"
+    },
+    {
+        "description": "Huobi NPXS/BTC",
+        "displaySymbol": "NPXS/BTC",
+        "symbol": "HUOBI:npxsbtc"
+    },
+    {
+        "description": "Huobi LET/USDT",
+        "displaySymbol": "LET/USDT",
+        "symbol": "HUOBI:letusdt"
+    },
+    {
+        "description": "Huobi CVNT/BTC",
+        "displaySymbol": "CVNT/BTC",
+        "symbol": "HUOBI:cvntbtc"
+    },
+    {
+        "description": "Huobi GAL/USDT",
+        "displaySymbol": "GAL/USDT",
+        "symbol": "HUOBI:galusdt"
+    },
+    {
+        "description": "Huobi FILDA/ETH",
+        "displaySymbol": "FILDA/ETH",
+        "symbol": "HUOBI:fildaeth"
+    },
+    {
+        "description": "Huobi RSR/USDT",
+        "displaySymbol": "RSR/USDT",
+        "symbol": "HUOBI:rsrusdt"
+    },
+    {
+        "description": "Huobi TRAC/USDT",
+        "displaySymbol": "TRAC/USDT",
+        "symbol": "HUOBI:tracusdt"
+    },
+    {
+        "description": "Huobi REEF/ETH",
+        "displaySymbol": "REEF/ETH",
+        "symbol": "HUOBI:reefeth"
+    },
+    {
+        "description": "Huobi TOPC/ETH",
+        "displaySymbol": "TOPC/ETH",
+        "symbol": "HUOBI:topceth"
+    },
+    {
+        "description": "Huobi MEX/ETH",
+        "displaySymbol": "MEX/ETH",
+        "symbol": "HUOBI:mexeth"
+    },
+    {
+        "description": "Huobi RLY/USDT",
+        "displaySymbol": "RLY/USDT",
+        "symbol": "HUOBI:rlyusdt"
+    },
+    {
+        "description": "Huobi OST/ETH",
+        "displaySymbol": "OST/ETH",
+        "symbol": "HUOBI:osteth"
+    },
+    {
+        "description": "Huobi PAX/USDT",
+        "displaySymbol": "PAX/USDT",
+        "symbol": "HUOBI:paxusdt"
+    },
+    {
+        "description": "Huobi LOOM/USDT",
+        "displaySymbol": "LOOM/USDT",
+        "symbol": "HUOBI:loomusdt"
+    },
+    {
+        "description": "Huobi ZEN/ETH",
+        "displaySymbol": "ZEN/ETH",
+        "symbol": "HUOBI:zeneth"
+    },
+    {
+        "description": "Huobi CTXC/USDT",
+        "displaySymbol": "CTXC/USDT",
+        "symbol": "HUOBI:ctxcusdt"
+    },
+    {
+        "description": "Huobi RCN/ETH",
+        "displaySymbol": "RCN/ETH",
+        "symbol": "HUOBI:rcneth"
+    },
+    {
+        "description": "Huobi YEE/ETH",
+        "displaySymbol": "YEE/ETH",
+        "symbol": "HUOBI:yeeeth"
+    },
+    {
+        "description": "Huobi VRA/USDT",
+        "displaySymbol": "VRA/USDT",
+        "symbol": "HUOBI:vrausdt"
+    },
+    {
+        "description": "Huobi SKL/BTC",
+        "displaySymbol": "SKL/BTC",
+        "symbol": "HUOBI:sklbtc"
+    },
+    {
+        "description": "Huobi CRE/BTC",
+        "displaySymbol": "CRE/BTC",
+        "symbol": "HUOBI:crebtc"
+    },
+    {
+        "description": "Huobi UST/USDT",
+        "displaySymbol": "UST/USDT",
+        "symbol": "HUOBI:ustusdt"
+    },
+    {
+        "description": "Huobi RUFF/USDT",
+        "displaySymbol": "RUFF/USDT",
+        "symbol": "HUOBI:ruffusdt"
+    },
+    {
+        "description": "Huobi UNI/BTC",
+        "displaySymbol": "UNI/BTC",
+        "symbol": "HUOBI:unibtc"
+    },
+    {
+        "description": "Huobi PAI/BTC",
+        "displaySymbol": "PAI/BTC",
+        "symbol": "HUOBI:paibtc"
+    },
+    {
+        "description": "Huobi SWRV/USDT",
+        "displaySymbol": "SWRV/USDT",
+        "symbol": "HUOBI:swrvusdt"
+    },
+    {
+        "description": "Huobi MONFTER/ETH",
+        "displaySymbol": "MONFTER/ETH",
+        "symbol": "HUOBI:monftereth"
+    },
+    {
+        "description": "Huobi OXT/ETH",
+        "displaySymbol": "OXT/ETH",
+        "symbol": "HUOBI:oxteth"
+    },
+    {
+        "description": "Huobi BAT/ETH",
+        "displaySymbol": "BAT/ETH",
+        "symbol": "HUOBI:bateth"
+    },
+    {
+        "description": "Huobi MTA/ETH",
+        "displaySymbol": "MTA/ETH",
+        "symbol": "HUOBI:mtaeth"
+    },
+    {
+        "description": "Huobi AST/BTC",
+        "displaySymbol": "AST/BTC",
+        "symbol": "HUOBI:astbtc"
+    },
+    {
+        "description": "Huobi SALT/BTC",
+        "displaySymbol": "SALT/BTC",
+        "symbol": "HUOBI:saltbtc"
+    },
+    {
+        "description": "Huobi BAND/USDT",
+        "displaySymbol": "BAND/USDT",
+        "symbol": "HUOBI:bandusdt"
+    },
+    {
+        "description": "Huobi BUT/ETH",
+        "displaySymbol": "BUT/ETH",
+        "symbol": "HUOBI:buteth"
+    },
+    {
+        "description": "Huobi ZEC3L/USDT",
+        "displaySymbol": "ZEC3L/USDT",
+        "symbol": "HUOBI:zec3lusdt"
+    },
+    {
+        "description": "Huobi IOTA/USDT",
+        "displaySymbol": "IOTA/USDT",
+        "symbol": "HUOBI:iotausdt"
+    },
+    {
+        "description": "Huobi LOOT/USDT",
+        "displaySymbol": "LOOT/USDT",
+        "symbol": "HUOBI:lootusdt"
+    },
+    {
+        "description": "Huobi KNC/BTC",
+        "displaySymbol": "KNC/BTC",
+        "symbol": "HUOBI:kncbtc"
+    },
+    {
+        "description": "Huobi LUNA/HT",
+        "displaySymbol": "LUNA/HT",
+        "symbol": "HUOBI:lunaht"
+    },
+    {
+        "description": "Huobi BAGS/USDT",
+        "displaySymbol": "BAGS/USDT",
+        "symbol": "HUOBI:bagsusdt"
+    },
+    {
+        "description": "Huobi WXT/USDT",
+        "displaySymbol": "WXT/USDT",
+        "symbol": "HUOBI:wxtusdt"
+    },
+    {
+        "description": "Huobi TRB/ETH",
+        "displaySymbol": "TRB/ETH",
+        "symbol": "HUOBI:trbeth"
+    },
+    {
+        "description": "Huobi XEM/USDT",
+        "displaySymbol": "XEM/USDT",
+        "symbol": "HUOBI:xemusdt"
+    },
+    {
+        "description": "Huobi CNN/ETH",
+        "displaySymbol": "CNN/ETH",
+        "symbol": "HUOBI:cnneth"
+    },
+    {
+        "description": "Huobi REN/HUSD",
+        "displaySymbol": "REN/HUSD",
+        "symbol": "HUOBI:renhusd"
+    },
+    {
+        "description": "Huobi BADGER/USDT",
+        "displaySymbol": "BADGER/USDT",
+        "symbol": "HUOBI:badgerusdt"
+    },
+    {
+        "description": "Huobi AAC/ETH",
+        "displaySymbol": "AAC/ETH",
+        "symbol": "HUOBI:aaceth"
+    },
+    {
+        "description": "Huobi DOCK/USDT",
+        "displaySymbol": "DOCK/USDT",
+        "symbol": "HUOBI:dockusdt"
+    },
+    {
+        "description": "Huobi ABT/USDT",
+        "displaySymbol": "ABT/USDT",
+        "symbol": "HUOBI:abtusdt"
+    },
+    {
+        "description": "Huobi PUSH/BTC",
+        "displaySymbol": "PUSH/BTC",
+        "symbol": "HUOBI:pushbtc"
+    },
+    {
+        "description": "Huobi EM/USDT",
+        "displaySymbol": "EM/USDT",
+        "symbol": "HUOBI:emusdt"
+    },
+    {
+        "description": "Huobi CVCOIN/BTC",
+        "displaySymbol": "CVCOIN/BTC",
+        "symbol": "HUOBI:cvcoinbtc"
+    },
+    {
+        "description": "Huobi SOC/BTC",
+        "displaySymbol": "SOC/BTC",
+        "symbol": "HUOBI:socbtc"
+    },
+    {
+        "description": "Huobi LAT/BTC",
+        "displaySymbol": "LAT/BTC",
+        "symbol": "HUOBI:latbtc"
+    },
+    {
+        "description": "Huobi BOT/BTC",
+        "displaySymbol": "BOT/BTC",
+        "symbol": "HUOBI:botbtc"
+    },
+    {
+        "description": "Huobi CHR/BTC",
+        "displaySymbol": "CHR/BTC",
+        "symbol": "HUOBI:chrbtc"
+    },
+    {
+        "description": "Huobi MCO/USDT",
+        "displaySymbol": "MCO/USDT",
+        "symbol": "HUOBI:mcousdt"
+    },
+    {
+        "description": "Huobi BNB/USDT",
+        "displaySymbol": "BNB/USDT",
+        "symbol": "HUOBI:bnbusdt"
+    },
+    {
+        "description": "Huobi SUSHI/BTC",
+        "displaySymbol": "SUSHI/BTC",
+        "symbol": "HUOBI:sushibtc"
+    },
+    {
+        "description": "Huobi HC/ETH",
+        "displaySymbol": "HC/ETH",
+        "symbol": "HUOBI:hceth"
+    },
+    {
+        "description": "Huobi XRT/ETH",
+        "displaySymbol": "XRT/ETH",
+        "symbol": "HUOBI:xrteth"
+    },
+    {
+        "description": "Huobi MUSK/BTC",
+        "displaySymbol": "MUSK/BTC",
+        "symbol": "HUOBI:muskbtc"
+    },
+    {
+        "description": "Huobi PUNDIX/ETH",
+        "displaySymbol": "PUNDIX/ETH",
+        "symbol": "HUOBI:pundixeth"
+    },
+    {
+        "description": "Huobi FIL/ETH",
+        "displaySymbol": "FIL/ETH",
+        "symbol": "HUOBI:fileth"
+    },
+    {
+        "description": "Huobi INJ/BTC",
+        "displaySymbol": "INJ/BTC",
+        "symbol": "HUOBI:injbtc"
+    },
+    {
+        "description": "Huobi YFI/HUSD",
+        "displaySymbol": "YFI/HUSD",
+        "symbol": "HUOBI:yfihusd"
+    },
+    {
+        "description": "Huobi LUNA/UST",
+        "displaySymbol": "LUNA/UST",
+        "symbol": "HUOBI:lunaust"
+    },
+    {
+        "description": "Huobi ZEN/BTC",
+        "displaySymbol": "ZEN/BTC",
+        "symbol": "HUOBI:zenbtc"
+    },
+    {
+        "description": "Huobi ZKS/USDT",
+        "displaySymbol": "ZKS/USDT",
+        "symbol": "HUOBI:zksusdt"
+    },
+    {
+        "description": "Huobi MASS/BTC",
+        "displaySymbol": "MASS/BTC",
+        "symbol": "HUOBI:massbtc"
+    },
+    {
+        "description": "Huobi SKM/USDT",
+        "displaySymbol": "SKM/USDT",
+        "symbol": "HUOBI:skmusdt"
+    },
+    {
+        "description": "Huobi MEET/ETH",
+        "displaySymbol": "MEET/ETH",
+        "symbol": "HUOBI:meeteth"
+    },
+    {
+        "description": "Huobi BLZ/ETH",
+        "displaySymbol": "BLZ/ETH",
+        "symbol": "HUOBI:blzeth"
+    },
+    {
+        "description": "Huobi EOS/USDT",
+        "displaySymbol": "EOS/USDT",
+        "symbol": "HUOBI:eosusdt"
+    },
+    {
+        "description": "Huobi FTT/BTC",
+        "displaySymbol": "FTT/BTC",
+        "symbol": "HUOBI:fttbtc"
+    },
+    {
+        "description": "Huobi LBA/USDT",
+        "displaySymbol": "LBA/USDT",
+        "symbol": "HUOBI:lbausdt"
+    },
+    {
+        "description": "Huobi IOST/BTC",
+        "displaySymbol": "IOST/BTC",
+        "symbol": "HUOBI:iostbtc"
+    },
+    {
+        "description": "Huobi UNIC/USDT",
+        "displaySymbol": "UNIC/USDT",
+        "symbol": "HUOBI:unicusdt"
+    },
+    {
+        "description": "Huobi XCH/USDT",
+        "displaySymbol": "XCH/USDT",
+        "symbol": "HUOBI:xchusdt"
+    },
+    {
+        "description": "Huobi XVG/BTC",
+        "displaySymbol": "XVG/BTC",
+        "symbol": "HUOBI:xvgbtc"
+    },
+    {
+        "description": "Huobi EPIK/HT",
+        "displaySymbol": "EPIK/HT",
+        "symbol": "HUOBI:epikht"
+    },
+    {
+        "description": "Huobi APN/BTC",
+        "displaySymbol": "APN/BTC",
+        "symbol": "HUOBI:apnbtc"
+    },
+    {
+        "description": "Huobi AIDOC/BTC",
+        "displaySymbol": "AIDOC/BTC",
+        "symbol": "HUOBI:aidocbtc"
+    },
+    {
+        "description": "Huobi NEO/HUSD",
+        "displaySymbol": "NEO/HUSD",
+        "symbol": "HUOBI:neohusd"
+    },
+    {
+        "description": "Huobi AKRO/HT",
+        "displaySymbol": "AKRO/HT",
+        "symbol": "HUOBI:akroht"
+    },
+    {
+        "description": "Huobi USDT/HUSD",
+        "displaySymbol": "USDT/HUSD",
+        "symbol": "HUOBI:usdthusd"
+    },
+    {
+        "description": "Huobi BTS/BTC",
+        "displaySymbol": "BTS/BTC",
+        "symbol": "HUOBI:btsbtc"
+    },
+    {
+        "description": "Huobi MANA/USDT",
+        "displaySymbol": "MANA/USDT",
+        "symbol": "HUOBI:manausdt"
+    },
+    {
+        "description": "Huobi AGLD/USDT",
+        "displaySymbol": "AGLD/USDT",
+        "symbol": "HUOBI:agldusdt"
+    },
+    {
+        "description": "Huobi MANA/ETH",
+        "displaySymbol": "MANA/ETH",
+        "symbol": "HUOBI:manaeth"
+    },
+    {
+        "description": "Huobi CTXC/BTC",
+        "displaySymbol": "CTXC/BTC",
+        "symbol": "HUOBI:ctxcbtc"
+    },
+    {
+        "description": "Huobi MDS/USDT",
+        "displaySymbol": "MDS/USDT",
+        "symbol": "HUOBI:mdsusdt"
+    },
+    {
+        "description": "Huobi OMG/USDT",
+        "displaySymbol": "OMG/USDT",
+        "symbol": "HUOBI:omgusdt"
+    },
+    {
+        "description": "Huobi CKB/USDT",
+        "displaySymbol": "CKB/USDT",
+        "symbol": "HUOBI:ckbusdt"
+    },
+    {
+        "description": "Huobi VIDY/BTC",
+        "displaySymbol": "VIDY/BTC",
+        "symbol": "HUOBI:vidybtc"
+    },
+    {
+        "description": "Huobi GOF/BTC",
+        "displaySymbol": "GOF/BTC",
+        "symbol": "HUOBI:gofbtc"
+    },
+    {
+        "description": "Huobi ACH/BTC",
+        "displaySymbol": "ACH/BTC",
+        "symbol": "HUOBI:achbtc"
+    },
+    {
+        "description": "Huobi NFT/USDT",
+        "displaySymbol": "NFT/USDT",
+        "symbol": "HUOBI:nftusdt"
+    },
+    {
+        "description": "Huobi SKM/BTC",
+        "displaySymbol": "SKM/BTC",
+        "symbol": "HUOBI:skmbtc"
+    },
+    {
+        "description": "Huobi STAKE/ETH",
+        "displaySymbol": "STAKE/ETH",
+        "symbol": "HUOBI:stakeeth"
+    },
+    {
+        "description": "Huobi SHIB/USDT",
+        "displaySymbol": "SHIB/USDT",
+        "symbol": "HUOBI:shibusdt"
+    },
+    {
+        "description": "Huobi MKR/ETH",
+        "displaySymbol": "MKR/ETH",
+        "symbol": "HUOBI:mkreth"
+    },
+    {
+        "description": "Huobi MIR/ETH",
+        "displaySymbol": "MIR/ETH",
+        "symbol": "HUOBI:mireth"
+    },
+    {
+        "description": "Huobi BLZ/BTC",
+        "displaySymbol": "BLZ/BTC",
+        "symbol": "HUOBI:blzbtc"
+    },
+    {
+        "description": "Huobi AAC/USDT",
+        "displaySymbol": "AAC/USDT",
+        "symbol": "HUOBI:aacusdt"
+    },
+    {
+        "description": "Huobi NCASH/BTC",
+        "displaySymbol": "NCASH/BTC",
+        "symbol": "HUOBI:ncashbtc"
+    },
+    {
+        "description": "Huobi SNX/BTC",
+        "displaySymbol": "SNX/BTC",
+        "symbol": "HUOBI:snxbtc"
+    },
+    {
+        "description": "Huobi VET/BTC",
+        "displaySymbol": "VET/BTC",
+        "symbol": "HUOBI:vetbtc"
+    },
+    {
+        "description": "Huobi MTA/BTC",
+        "displaySymbol": "MTA/BTC",
+        "symbol": "HUOBI:mtabtc"
+    },
+    {
+        "description": "Huobi FLOW/USDT",
+        "displaySymbol": "FLOW/USDT",
+        "symbol": "HUOBI:flowusdt"
+    },
+    {
+        "description": "Huobi NAS/ETH",
+        "displaySymbol": "NAS/ETH",
+        "symbol": "HUOBI:naseth"
+    },
+    {
+        "description": "Huobi WICC/USDT",
+        "displaySymbol": "WICC/USDT",
+        "symbol": "HUOBI:wiccusdt"
+    },
+    {
+        "description": "Huobi CRU/ETH",
+        "displaySymbol": "CRU/ETH",
+        "symbol": "HUOBI:crueth"
+    },
+    {
+        "description": "Huobi POLY/ETH",
+        "displaySymbol": "POLY/ETH",
+        "symbol": "HUOBI:polyeth"
+    },
+    {
+        "description": "Huobi ASTR/USDT",
+        "displaySymbol": "ASTR/USDT",
+        "symbol": "HUOBI:astrusdt"
+    },
+    {
+        "description": "Huobi SUSHI/HUSD",
+        "displaySymbol": "SUSHI/HUSD",
+        "symbol": "HUOBI:sushihusd"
+    },
+    {
+        "description": "Huobi SMT/BTC",
+        "displaySymbol": "SMT/BTC",
+        "symbol": "HUOBI:smtbtc"
+    },
+    {
+        "description": "Huobi UUU/ETH",
+        "displaySymbol": "UUU/ETH",
+        "symbol": "HUOBI:uuueth"
+    },
+    {
+        "description": "Huobi SHE/ETH",
+        "displaySymbol": "SHE/ETH",
+        "symbol": "HUOBI:sheeth"
+    },
+    {
+        "description": "Huobi NU/BTC",
+        "displaySymbol": "NU/BTC",
+        "symbol": "HUOBI:nubtc"
+    },
+    {
+        "description": "Huobi CSPR/BTC",
+        "displaySymbol": "CSPR/BTC",
+        "symbol": "HUOBI:csprbtc"
+    },
+    {
+        "description": "Huobi SUN/USDT",
+        "displaySymbol": "SUN/USDT",
+        "symbol": "HUOBI:sunusdt"
+    },
+    {
+        "description": "Huobi STPT/USDT",
+        "displaySymbol": "STPT/USDT",
+        "symbol": "HUOBI:stptusdt"
+    },
+    {
+        "description": "Huobi MT/BTC",
+        "displaySymbol": "MT/BTC",
+        "symbol": "HUOBI:mtbtc"
+    },
+    {
+        "description": "Huobi FILDA/BTC",
+        "displaySymbol": "FILDA/BTC",
+        "symbol": "HUOBI:fildabtc"
+    },
+    {
+        "description": "Huobi VALUE/ETH",
+        "displaySymbol": "VALUE/ETH",
+        "symbol": "HUOBI:valueeth"
+    },
+    {
+        "description": "Huobi ACH/USDT",
+        "displaySymbol": "ACH/USDT",
+        "symbol": "HUOBI:achusdt"
+    },
+    {
+        "description": "Huobi WICC/ETH",
+        "displaySymbol": "WICC/ETH",
+        "symbol": "HUOBI:wicceth"
+    },
+    {
+        "description": "Huobi LXT/BTC",
+        "displaySymbol": "LXT/BTC",
+        "symbol": "HUOBI:lxtbtc"
+    },
+    {
+        "description": "Huobi ETC/USDT",
+        "displaySymbol": "ETC/USDT",
+        "symbol": "HUOBI:etcusdt"
+    },
+    {
+        "description": "Huobi WNXM/ETH",
+        "displaySymbol": "WNXM/ETH",
+        "symbol": "HUOBI:wnxmeth"
+    },
+    {
+        "description": "Huobi AXS/ETH",
+        "displaySymbol": "AXS/ETH",
+        "symbol": "HUOBI:axseth"
+    },
+    {
+        "description": "Huobi LUN/BTC",
+        "displaySymbol": "LUN/BTC",
+        "symbol": "HUOBI:lunbtc"
+    },
+    {
+        "description": "Huobi IOST/USDT",
+        "displaySymbol": "IOST/USDT",
+        "symbol": "HUOBI:iostusdt"
+    },
+    {
+        "description": "Huobi NULS/BTC",
+        "displaySymbol": "NULS/BTC",
+        "symbol": "HUOBI:nulsbtc"
+    },
+    {
+        "description": "Huobi DF/BTC",
+        "displaySymbol": "DF/BTC",
+        "symbol": "HUOBI:dfbtc"
+    },
+    {
+        "description": "Huobi RVN/HT",
+        "displaySymbol": "RVN/HT",
+        "symbol": "HUOBI:rvnht"
+    },
+    {
+        "description": "Huobi FAIR/ETH",
+        "displaySymbol": "FAIR/ETH",
+        "symbol": "HUOBI:faireth"
+    },
+    {
+        "description": "Huobi PROPY/ETH",
+        "displaySymbol": "PROPY/ETH",
+        "symbol": "HUOBI:propyeth"
+    },
+    {
+        "description": "Huobi XCH/BTC",
+        "displaySymbol": "XCH/BTC",
+        "symbol": "HUOBI:xchbtc"
+    },
+    {
+        "description": "Huobi GRT/BTC",
+        "displaySymbol": "GRT/BTC",
+        "symbol": "HUOBI:grtbtc"
+    },
+    {
+        "description": "Huobi COVA/ETH",
+        "displaySymbol": "COVA/ETH",
+        "symbol": "HUOBI:covaeth"
+    },
+    {
+        "description": "Huobi COTI/BTC",
+        "displaySymbol": "COTI/BTC",
+        "symbol": "HUOBI:cotibtc"
+    },
+    {
+        "description": "Huobi AAVE/USDT",
+        "displaySymbol": "AAVE/USDT",
+        "symbol": "HUOBI:aaveusdt"
+    },
+    {
+        "description": "Huobi SBTC/BTC",
+        "displaySymbol": "SBTC/BTC",
+        "symbol": "HUOBI:sbtcbtc"
+    },
+    {
+        "description": "Huobi BORING/USDT",
+        "displaySymbol": "BORING/USDT",
+        "symbol": "HUOBI:boringusdt"
+    },
+    {
+        "description": "Huobi BTC/USDT",
+        "displaySymbol": "BTC/USDT",
+        "symbol": "HUOBI:btcusdt"
+    },
+    {
+        "description": "Huobi ONE/HT",
+        "displaySymbol": "ONE/HT",
+        "symbol": "HUOBI:oneht"
+    },
+    {
+        "description": "Huobi LINA/USDT",
+        "displaySymbol": "LINA/USDT",
+        "symbol": "HUOBI:linausdt"
+    },
+    {
+        "description": "Huobi ZRX/HUSD",
+        "displaySymbol": "ZRX/HUSD",
+        "symbol": "HUOBI:zrxhusd"
+    },
+    {
+        "description": "Huobi MKR/HUSD",
+        "displaySymbol": "MKR/HUSD",
+        "symbol": "HUOBI:mkrhusd"
+    },
+    {
+        "description": "Huobi PEOPLE/USDT",
+        "displaySymbol": "PEOPLE/USDT",
+        "symbol": "HUOBI:peopleusdt"
+    },
+    {
+        "description": "Huobi SMT/USDT",
+        "displaySymbol": "SMT/USDT",
+        "symbol": "HUOBI:smtusdt"
+    },
+    {
+        "description": "Huobi HIT/USDT",
+        "displaySymbol": "HIT/USDT",
+        "symbol": "HUOBI:hitusdt"
+    },
+    {
+        "description": "Huobi RCN/BTC",
+        "displaySymbol": "RCN/BTC",
+        "symbol": "HUOBI:rcnbtc"
+    },
+    {
+        "description": "Huobi ONE/BTC",
+        "displaySymbol": "ONE/BTC",
+        "symbol": "HUOBI:onebtc"
+    },
+    {
+        "description": "Huobi NAS/BTC",
+        "displaySymbol": "NAS/BTC",
+        "symbol": "HUOBI:nasbtc"
+    },
+    {
+        "description": "Huobi LSK/ETH",
+        "displaySymbol": "LSK/ETH",
+        "symbol": "HUOBI:lsketh"
+    },
+    {
+        "description": "Huobi NEST/HT",
+        "displaySymbol": "NEST/HT",
+        "symbol": "HUOBI:nestht"
+    },
+    {
+        "description": "Huobi RNDR/BTC",
+        "displaySymbol": "RNDR/BTC",
+        "symbol": "HUOBI:rndrbtc"
+    },
+    {
+        "description": "Huobi YFII/USDT",
+        "displaySymbol": "YFII/USDT",
+        "symbol": "HUOBI:yfiiusdt"
+    },
+    {
+        "description": "Huobi FIS/BTC",
+        "displaySymbol": "FIS/BTC",
+        "symbol": "HUOBI:fisbtc"
+    },
+    {
+        "description": "Huobi DKA/ETH",
+        "displaySymbol": "DKA/ETH",
+        "symbol": "HUOBI:dkaeth"
+    },
+    {
+        "description": "Huobi CRO/USDT",
+        "displaySymbol": "CRO/USDT",
+        "symbol": "HUOBI:crousdt"
+    },
+    {
+        "description": "Huobi THETA/ETH",
+        "displaySymbol": "THETA/ETH",
+        "symbol": "HUOBI:thetaeth"
+    },
+    {
+        "description": "Huobi BTM/ETH",
+        "displaySymbol": "BTM/ETH",
+        "symbol": "HUOBI:btmeth"
+    },
+    {
+        "description": "Huobi PROPY/BTC",
+        "displaySymbol": "PROPY/BTC",
+        "symbol": "HUOBI:propybtc"
+    },
+    {
+        "description": "Huobi CAN/USDT",
+        "displaySymbol": "CAN/USDT",
+        "symbol": "HUOBI:canusdt"
+    },
+    {
+        "description": "Huobi TNT/ETH",
+        "displaySymbol": "TNT/ETH",
+        "symbol": "HUOBI:tnteth"
+    },
+    {
+        "description": "Huobi BOT/USDT",
+        "displaySymbol": "BOT/USDT",
+        "symbol": "HUOBI:botusdt"
+    },
+    {
+        "description": "Huobi MDX/HT",
+        "displaySymbol": "MDX/HT",
+        "symbol": "HUOBI:mdxht"
+    },
+    {
+        "description": "Huobi CAN/ETH",
+        "displaySymbol": "CAN/ETH",
+        "symbol": "HUOBI:caneth"
+    },
+    {
+        "description": "Huobi PNT/ETH",
+        "displaySymbol": "PNT/ETH",
+        "symbol": "HUOBI:pnteth"
+    },
+    {
+        "description": "Huobi GAS/BTC",
+        "displaySymbol": "GAS/BTC",
+        "symbol": "HUOBI:gasbtc"
+    },
+    {
+        "description": "Huobi REQ/BTC",
+        "displaySymbol": "REQ/BTC",
+        "symbol": "HUOBI:reqbtc"
+    },
+    {
+        "description": "Huobi LOOM/BTC",
+        "displaySymbol": "LOOM/BTC",
+        "symbol": "HUOBI:loombtc"
+    },
+    {
+        "description": "Huobi KMD/BTC",
+        "displaySymbol": "KMD/BTC",
+        "symbol": "HUOBI:kmdbtc"
+    },
+    {
+        "description": "Huobi MONFTER/BTC",
+        "displaySymbol": "MONFTER/BTC",
+        "symbol": "HUOBI:monfterbtc"
+    },
+    {
+        "description": "Huobi STN/BTC",
+        "displaySymbol": "STN/BTC",
+        "symbol": "HUOBI:stnbtc"
+    },
+    {
+        "description": "Huobi NEW/BTC",
+        "displaySymbol": "NEW/BTC",
+        "symbol": "HUOBI:newbtc"
+    },
+    {
+        "description": "Huobi ADX/BTC",
+        "displaySymbol": "ADX/BTC",
+        "symbol": "HUOBI:adxbtc"
+    },
+    {
+        "description": "Huobi LRC/USDT",
+        "displaySymbol": "LRC/USDT",
+        "symbol": "HUOBI:lrcusdt"
+    },
+    {
+        "description": "Huobi ADA/ETH",
+        "displaySymbol": "ADA/ETH",
+        "symbol": "HUOBI:adaeth"
+    },
+    {
+        "description": "Huobi FORTH/USDT",
+        "displaySymbol": "FORTH/USDT",
+        "symbol": "HUOBI:forthusdt"
+    },
+    {
+        "description": "Huobi DAC/ETH",
+        "displaySymbol": "DAC/ETH",
+        "symbol": "HUOBI:daceth"
+    },
+    {
+        "description": "Huobi WBTC/ETH",
+        "displaySymbol": "WBTC/ETH",
+        "symbol": "HUOBI:wbtceth"
+    },
+    {
+        "description": "Huobi NEW/USDT",
+        "displaySymbol": "NEW/USDT",
+        "symbol": "HUOBI:newusdt"
+    },
+    {
+        "description": "Huobi LPT/USDT",
+        "displaySymbol": "LPT/USDT",
+        "symbol": "HUOBI:lptusdt"
+    },
+    {
+        "description": "Huobi BTT/USDT",
+        "displaySymbol": "BTT/USDT",
+        "symbol": "HUOBI:bttusdt"
+    },
+    {
+        "description": "Huobi MLN/BTC",
+        "displaySymbol": "MLN/BTC",
+        "symbol": "HUOBI:mlnbtc"
+    },
+    {
+        "description": "Huobi NEST/HUSD",
+        "displaySymbol": "NEST/HUSD",
+        "symbol": "HUOBI:nesthusd"
+    },
+    {
+        "description": "Huobi DATX/ETH",
+        "displaySymbol": "DATX/ETH",
+        "symbol": "HUOBI:datxeth"
+    },
+    {
+        "description": "Huobi ETC/HUSD",
+        "displaySymbol": "ETC/HUSD",
+        "symbol": "HUOBI:etchusd"
+    },
+    {
+        "description": "Huobi HPT/BTC",
+        "displaySymbol": "HPT/BTC",
+        "symbol": "HUOBI:hptbtc"
+    },
+    {
+        "description": "Huobi SNC/ETH",
+        "displaySymbol": "SNC/ETH",
+        "symbol": "HUOBI:snceth"
+    },
+    {
+        "description": "Huobi DAI/USDT",
+        "displaySymbol": "DAI/USDT",
+        "symbol": "HUOBI:daiusdt"
+    },
+    {
+        "description": "Huobi MT/HT",
+        "displaySymbol": "MT/HT",
+        "symbol": "HUOBI:mtht"
+    },
+    {
+        "description": "Huobi ZEC3S/USDT",
+        "displaySymbol": "ZEC3S/USDT",
+        "symbol": "HUOBI:zec3susdt"
+    },
+    {
+        "description": "Huobi JST/BTC",
+        "displaySymbol": "JST/BTC",
+        "symbol": "HUOBI:jstbtc"
+    },
+    {
+        "description": "Huobi DFA/USDT",
+        "displaySymbol": "DFA/USDT",
+        "symbol": "HUOBI:dfausdt"
+    },
+    {
+        "description": "Huobi POWR/BTC",
+        "displaySymbol": "POWR/BTC",
+        "symbol": "HUOBI:powrbtc"
+    },
+    {
+        "description": "Huobi ITC/USDT",
+        "displaySymbol": "ITC/USDT",
+        "symbol": "HUOBI:itcusdt"
+    },
+    {
+        "description": "Huobi FRONT/USDT",
+        "displaySymbol": "FRONT/USDT",
+        "symbol": "HUOBI:frontusdt"
+    },
+    {
+        "description": "Huobi API3/ETH",
+        "displaySymbol": "API3/ETH",
+        "symbol": "HUOBI:api3eth"
+    },
+    {
+        "description": "Huobi EOS3S/USDT",
+        "displaySymbol": "EOS3S/USDT",
+        "symbol": "HUOBI:eos3susdt"
+    },
+    {
+        "description": "Huobi DAI/HUSD",
+        "displaySymbol": "DAI/HUSD",
+        "symbol": "HUOBI:daihusd"
+    },
+    {
+        "description": "Huobi WTC/USDT",
+        "displaySymbol": "WTC/USDT",
+        "symbol": "HUOBI:wtcusdt"
+    },
+    {
+        "description": "Huobi FIS/USDT",
+        "displaySymbol": "FIS/USDT",
+        "symbol": "HUOBI:fisusdt"
+    },
+    {
+        "description": "Huobi ZLA/ETH",
+        "displaySymbol": "ZLA/ETH",
+        "symbol": "HUOBI:zlaeth"
+    },
+    {
+        "description": "Huobi DASH/BTC",
+        "displaySymbol": "DASH/BTC",
+        "symbol": "HUOBI:dashbtc"
+    },
+    {
+        "description": "Huobi ALGO/BTC",
+        "displaySymbol": "ALGO/BTC",
+        "symbol": "HUOBI:algobtc"
+    },
+    {
+        "description": "Huobi TOS/BTC",
+        "displaySymbol": "TOS/BTC",
+        "symbol": "HUOBI:tosbtc"
+    },
+    {
+        "description": "Huobi NCC/ETH",
+        "displaySymbol": "NCC/ETH",
+        "symbol": "HUOBI:ncceth"
+    },
+    {
+        "description": "Huobi BORING/ETH",
+        "displaySymbol": "BORING/ETH",
+        "symbol": "HUOBI:boringeth"
+    },
+    {
+        "description": "Huobi BKBT/BTC",
+        "displaySymbol": "BKBT/BTC",
+        "symbol": "HUOBI:bkbtbtc"
+    },
+    {
+        "description": "Huobi NKN/HT",
+        "displaySymbol": "NKN/HT",
+        "symbol": "HUOBI:nknht"
+    },
+    {
+        "description": "Huobi XLM/BTC",
+        "displaySymbol": "XLM/BTC",
+        "symbol": "HUOBI:xlmbtc"
+    },
+    {
+        "description": "Huobi LXT/USDT",
+        "displaySymbol": "LXT/USDT",
+        "symbol": "HUOBI:lxtusdt"
+    },
+    {
+        "description": "Huobi FTI/BTC",
+        "displaySymbol": "FTI/BTC",
+        "symbol": "HUOBI:ftibtc"
+    },
+    {
+        "description": "Huobi BTM/HUSD",
+        "displaySymbol": "BTM/HUSD",
+        "symbol": "HUOBI:btmhusd"
+    },
+    {
+        "description": "Huobi VALUE/USDT",
+        "displaySymbol": "VALUE/USDT",
+        "symbol": "HUOBI:valueusdt"
+    },
+    {
+        "description": "Huobi COVA/BTC",
+        "displaySymbol": "COVA/BTC",
+        "symbol": "HUOBI:covabtc"
+    },
+    {
+        "description": "Huobi AVAX/USDT",
+        "displaySymbol": "AVAX/USDT",
+        "symbol": "HUOBI:avaxusdt"
+    },
+    {
+        "description": "Huobi YFI/BTC",
+        "displaySymbol": "YFI/BTC",
+        "symbol": "HUOBI:yfibtc"
+    },
+    {
+        "description": "Huobi LOVE/USDT",
+        "displaySymbol": "LOVE/USDT",
+        "symbol": "HUOBI:loveusdt"
+    },
+    {
+        "description": "Huobi CHAT/ETH",
+        "displaySymbol": "CHAT/ETH",
+        "symbol": "HUOBI:chateth"
+    },
+    {
+        "description": "Huobi HOT/USDT",
+        "displaySymbol": "HOT/USDT",
+        "symbol": "HUOBI:hotusdt"
+    },
+    {
+        "description": "Huobi GTC/ETH",
+        "displaySymbol": "GTC/ETH",
+        "symbol": "HUOBI:gtceth"
+    },
+    {
+        "description": "Huobi SOFI/USDT",
+        "displaySymbol": "SOFI/USDT",
+        "symbol": "HUOBI:sofiusdt"
+    },
+    {
+        "description": "Huobi ONT/ETH",
+        "displaySymbol": "ONT/ETH",
+        "symbol": "HUOBI:onteth"
+    },
+    {
+        "description": "Huobi PC/ETH",
+        "displaySymbol": "PC/ETH",
+        "symbol": "HUOBI:pceth"
+    },
+    {
+        "description": "Huobi FOR/USDT",
+        "displaySymbol": "FOR/USDT",
+        "symbol": "HUOBI:forusdt"
+    },
+    {
+        "description": "Huobi LINK3L/USDT",
+        "displaySymbol": "LINK3L/USDT",
+        "symbol": "HUOBI:link3lusdt"
+    },
+    {
+        "description": "Huobi BSV/BTC",
+        "displaySymbol": "BSV/BTC",
+        "symbol": "HUOBI:bsvbtc"
+    },
+    {
+        "description": "Huobi SXP/USDT",
+        "displaySymbol": "SXP/USDT",
+        "symbol": "HUOBI:sxpusdt"
+    },
+    {
+        "description": "Huobi OCN/BTC",
+        "displaySymbol": "OCN/BTC",
+        "symbol": "HUOBI:ocnbtc"
+    },
+    {
+        "description": "Huobi LXT/ETH",
+        "displaySymbol": "LXT/ETH",
+        "symbol": "HUOBI:lxteth"
+    },
+    {
+        "description": "Huobi ALGO/USDT",
+        "displaySymbol": "ALGO/USDT",
+        "symbol": "HUOBI:algousdt"
+    },
+    {
+        "description": "Huobi YAMV2/BTC",
+        "displaySymbol": "YAMV2/BTC",
+        "symbol": "HUOBI:yamv2btc"
+    },
+    {
+        "description": "Huobi RVN/BTC",
+        "displaySymbol": "RVN/BTC",
+        "symbol": "HUOBI:rvnbtc"
+    },
+    {
+        "description": "Huobi LAMB/HT",
+        "displaySymbol": "LAMB/HT",
+        "symbol": "HUOBI:lambht"
+    },
+    {
+        "description": "Huobi SEELE/BTC",
+        "displaySymbol": "SEELE/BTC",
+        "symbol": "HUOBI:seelebtc"
+    },
+    {
+        "description": "Huobi TT/BTC",
+        "displaySymbol": "TT/BTC",
+        "symbol": "HUOBI:ttbtc"
+    },
+    {
+        "description": "Huobi UC/ETH",
+        "displaySymbol": "UC/ETH",
+        "symbol": "HUOBI:uceth"
+    },
+    {
+        "description": "Huobi SAND/BTC",
+        "displaySymbol": "SAND/BTC",
+        "symbol": "HUOBI:sandbtc"
+    },
+    {
+        "description": "Huobi HBAR/BTC",
+        "displaySymbol": "HBAR/BTC",
+        "symbol": "HUOBI:hbarbtc"
+    },
+    {
+        "description": "Huobi LITH/USDT",
+        "displaySymbol": "LITH/USDT",
+        "symbol": "HUOBI:lithusdt"
+    },
+    {
+        "description": "Huobi REQ/USDT",
+        "displaySymbol": "REQ/USDT",
+        "symbol": "HUOBI:requsdt"
+    },
+    {
+        "description": "Huobi KAVA/BTC",
+        "displaySymbol": "KAVA/BTC",
+        "symbol": "HUOBI:kavabtc"
+    },
+    {
+        "description": "Huobi LHB/USDT",
+        "displaySymbol": "LHB/USDT",
+        "symbol": "HUOBI:lhbusdt"
+    },
+    {
+        "description": "Huobi HIVE/USDT",
+        "displaySymbol": "HIVE/USDT",
+        "symbol": "HUOBI:hiveusdt"
+    },
+    {
+        "description": "Huobi DF/HT",
+        "displaySymbol": "DF/HT",
+        "symbol": "HUOBI:dfht"
+    },
+    {
+        "description": "Huobi BCV/ETH",
+        "displaySymbol": "BCV/ETH",
+        "symbol": "HUOBI:bcveth"
+    },
+    {
+        "description": "Huobi IOTA/ETH",
+        "displaySymbol": "IOTA/ETH",
+        "symbol": "HUOBI:iotaeth"
+    },
+    {
+        "description": "Huobi OMG/HUSD",
+        "displaySymbol": "OMG/HUSD",
+        "symbol": "HUOBI:omghusd"
+    },
+    {
+        "description": "Huobi CLV/USDT",
+        "displaySymbol": "CLV/USDT",
+        "symbol": "HUOBI:clvusdt"
+    },
+    {
+        "description": "Huobi CNN/BTC",
+        "displaySymbol": "CNN/BTC",
+        "symbol": "HUOBI:cnnbtc"
+    },
+    {
+        "description": "Huobi DCR/ETH",
+        "displaySymbol": "DCR/ETH",
+        "symbol": "HUOBI:dcreth"
+    },
+    {
+        "description": "Huobi CMT/USDT",
+        "displaySymbol": "CMT/USDT",
+        "symbol": "HUOBI:cmtusdt"
+    },
+    {
+        "description": "Huobi CELO/USDT",
+        "displaySymbol": "CELO/USDT",
+        "symbol": "HUOBI:celousdt"
+    },
+    {
+        "description": "Huobi XRP3L/USDT",
+        "displaySymbol": "XRP3L/USDT",
+        "symbol": "HUOBI:xrp3lusdt"
+    },
+    {
+        "description": "Huobi UMA/ETH",
+        "displaySymbol": "UMA/ETH",
+        "symbol": "HUOBI:umaeth"
+    },
+    {
+        "description": "Huobi RVN/USDT",
+        "displaySymbol": "RVN/USDT",
+        "symbol": "HUOBI:rvnusdt"
+    },
+    {
+        "description": "Huobi KAVA/USDT",
+        "displaySymbol": "KAVA/USDT",
+        "symbol": "HUOBI:kavausdt"
+    },
+    {
+        "description": "Huobi CDC/ETH",
+        "displaySymbol": "CDC/ETH",
+        "symbol": "HUOBI:cdceth"
+    },
+    {
+        "description": "Huobi LYM/ETH",
+        "displaySymbol": "LYM/ETH",
+        "symbol": "HUOBI:lymeth"
+    },
+    {
+        "description": "Huobi DIO/USDT",
+        "displaySymbol": "DIO/USDT",
+        "symbol": "HUOBI:diousdt"
+    },
+    {
+        "description": "Huobi RENBTC/ETH",
+        "displaySymbol": "RENBTC/ETH",
+        "symbol": "HUOBI:renbtceth"
+    },
+    {
+        "description": "Huobi LINK3S/USDT",
+        "displaySymbol": "LINK3S/USDT",
+        "symbol": "HUOBI:link3susdt"
+    },
+    {
+        "description": "Huobi SAND/HT",
+        "displaySymbol": "SAND/HT",
+        "symbol": "HUOBI:sandht"
+    },
+    {
+        "description": "Huobi BTM/BTC",
+        "displaySymbol": "BTM/BTC",
+        "symbol": "HUOBI:btmbtc"
+    },
+    {
+        "description": "Huobi GLM/USDT",
+        "displaySymbol": "GLM/USDT",
+        "symbol": "HUOBI:glmusdt"
+    },
+    {
+        "description": "Huobi RAD/USDT",
+        "displaySymbol": "RAD/USDT",
+        "symbol": "HUOBI:radusdt"
+    },
+    {
+        "description": "Huobi YGG/USDT",
+        "displaySymbol": "YGG/USDT",
+        "symbol": "HUOBI:yggusdt"
+    },
+    {
+        "description": "Huobi RAD/BTC",
+        "displaySymbol": "RAD/BTC",
+        "symbol": "HUOBI:radbtc"
+    },
+    {
+        "description": "Huobi UNI2S/USDT",
+        "displaySymbol": "UNI2S/USDT",
+        "symbol": "HUOBI:uni2susdt"
+    },
+    {
+        "description": "Huobi LOL/USDT",
+        "displaySymbol": "LOL/USDT",
+        "symbol": "HUOBI:lolusdt"
+    },
+    {
+        "description": "Huobi LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "HUOBI:ltcbtc"
+    },
+    {
+        "description": "Huobi NANO/BTC",
+        "displaySymbol": "NANO/BTC",
+        "symbol": "HUOBI:nanobtc"
+    },
+    {
+        "description": "Huobi DOT2L/USDT",
+        "displaySymbol": "DOT2L/USDT",
+        "symbol": "HUOBI:dot2lusdt"
+    },
+    {
+        "description": "Huobi TUSD/HUSD",
+        "displaySymbol": "TUSD/HUSD",
+        "symbol": "HUOBI:tusdhusd"
+    },
+    {
+        "description": "Huobi GT/HT",
+        "displaySymbol": "GT/HT",
+        "symbol": "HUOBI:gtht"
+    },
+    {
+        "description": "Huobi TNB/BTC",
+        "displaySymbol": "TNB/BTC",
+        "symbol": "HUOBI:tnbbtc"
+    },
+    {
+        "description": "Huobi SKL/ETH",
+        "displaySymbol": "SKL/ETH",
+        "symbol": "HUOBI:skleth"
+    },
+    {
+        "description": "Huobi BAL/ETH",
+        "displaySymbol": "BAL/ETH",
+        "symbol": "HUOBI:baleth"
+    },
+    {
+        "description": "Huobi 1INCH/USDT",
+        "displaySymbol": "1INCH/USDT",
+        "symbol": "HUOBI:1inchusdt"
+    },
+    {
+        "description": "Huobi DAC/USDT",
+        "displaySymbol": "DAC/USDT",
+        "symbol": "HUOBI:dacusdt"
+    },
+    {
+        "description": "Huobi KAN/BTC",
+        "displaySymbol": "KAN/BTC",
+        "symbol": "HUOBI:kanbtc"
+    },
+    {
+        "description": "Huobi NBS/BTC",
+        "displaySymbol": "NBS/BTC",
+        "symbol": "HUOBI:nbsbtc"
+    },
+    {
+        "description": "Huobi XEC/USDT",
+        "displaySymbol": "XEC/USDT",
+        "symbol": "HUOBI:xecusdt"
+    },
+    {
+        "description": "Huobi CRO/HUSD",
+        "displaySymbol": "CRO/HUSD",
+        "symbol": "HUOBI:crohusd"
+    },
+    {
+        "description": "Huobi OCN/ETH",
+        "displaySymbol": "OCN/ETH",
+        "symbol": "HUOBI:ocneth"
+    },
+    {
+        "description": "Huobi IRIS/BTC",
+        "displaySymbol": "IRIS/BTC",
+        "symbol": "HUOBI:irisbtc"
+    },
+    {
+        "description": "Huobi EDU/ETH",
+        "displaySymbol": "EDU/ETH",
+        "symbol": "HUOBI:edueth"
+    },
+    {
+        "description": "Huobi ANT/USDT",
+        "displaySymbol": "ANT/USDT",
+        "symbol": "HUOBI:antusdt"
+    },
+    {
+        "description": "Huobi SPELL/USDT",
+        "displaySymbol": "SPELL/USDT",
+        "symbol": "HUOBI:spellusdt"
+    },
+    {
+        "description": "Huobi CVP/ETH",
+        "displaySymbol": "CVP/ETH",
+        "symbol": "HUOBI:cvpeth"
+    },
+    {
+        "description": "Huobi NBS/USDT",
+        "displaySymbol": "NBS/USDT",
+        "symbol": "HUOBI:nbsusdt"
+    },
+    {
+        "description": "Huobi EOS/HT",
+        "displaySymbol": "EOS/HT",
+        "symbol": "HUOBI:eosht"
+    },
+    {
+        "description": "Huobi DTA/USDT",
+        "displaySymbol": "DTA/USDT",
+        "symbol": "HUOBI:dtausdt"
+    },
+    {
+        "description": "Huobi BHD/BTC",
+        "displaySymbol": "BHD/BTC",
+        "symbol": "HUOBI:bhdbtc"
+    },
+    {
+        "description": "Huobi PAY/ETH",
+        "displaySymbol": "PAY/ETH",
+        "symbol": "HUOBI:payeth"
+    },
+    {
+        "description": "Huobi IDT/BTC",
+        "displaySymbol": "IDT/BTC",
+        "symbol": "HUOBI:idtbtc"
+    },
+    {
+        "description": "Huobi DGB/BTC",
+        "displaySymbol": "DGB/BTC",
+        "symbol": "HUOBI:dgbbtc"
+    },
+    {
+        "description": "Huobi ADA/HUSD",
+        "displaySymbol": "ADA/HUSD",
+        "symbol": "HUOBI:adahusd"
+    },
+    {
+        "description": "Huobi BCX/BTC",
+        "displaySymbol": "BCX/BTC",
+        "symbol": "HUOBI:bcxbtc"
+    },
+    {
+        "description": "Huobi WAR/USDT",
+        "displaySymbol": "WAR/USDT",
+        "symbol": "HUOBI:warusdt"
+    },
+    {
+        "description": "Huobi KSM/BTC",
+        "displaySymbol": "KSM/BTC",
+        "symbol": "HUOBI:ksmbtc"
+    },
+    {
+        "description": "Huobi LEND/USDT",
+        "displaySymbol": "LEND/USDT",
+        "symbol": "HUOBI:lendusdt"
+    },
+    {
+        "description": "Huobi USDC/USDT",
+        "displaySymbol": "USDC/USDT",
+        "symbol": "HUOBI:usdcusdt"
+    },
+    {
+        "description": "Huobi MATIC/USDT",
+        "displaySymbol": "MATIC/USDT",
+        "symbol": "HUOBI:maticusdt"
+    },
+    {
+        "description": "Huobi SALT/ETH",
+        "displaySymbol": "SALT/ETH",
+        "symbol": "HUOBI:salteth"
+    },
+    {
+        "description": "Huobi EGT/USDT",
+        "displaySymbol": "EGT/USDT",
+        "symbol": "HUOBI:egtusdt"
+    },
+    {
+        "description": "Huobi BTC1S/USDT",
+        "displaySymbol": "BTC1S/USDT",
+        "symbol": "HUOBI:btc1susdt"
+    },
+    {
+        "description": "Huobi OGO/USDT",
+        "displaySymbol": "OGO/USDT",
+        "symbol": "HUOBI:ogousdt"
+    },
+    {
+        "description": "Huobi XTZ/USDT",
+        "displaySymbol": "XTZ/USDT",
+        "symbol": "HUOBI:xtzusdt"
+    },
+    {
+        "description": "Huobi LYM/BTC",
+        "displaySymbol": "LYM/BTC",
+        "symbol": "HUOBI:lymbtc"
+    },
+    {
+        "description": "Huobi HBAR/ETH",
+        "displaySymbol": "HBAR/ETH",
+        "symbol": "HUOBI:hbareth"
+    },
+    {
+        "description": "Huobi BOR/ETH",
+        "displaySymbol": "BOR/ETH",
+        "symbol": "HUOBI:boreth"
+    },
+    {
+        "description": "Huobi MEET/BTC",
+        "displaySymbol": "MEET/BTC",
+        "symbol": "HUOBI:meetbtc"
+    },
+    {
+        "description": "Huobi CDC/BTC",
+        "displaySymbol": "CDC/BTC",
+        "symbol": "HUOBI:cdcbtc"
+    },
+    {
+        "description": "Huobi WOO/USDT",
+        "displaySymbol": "WOO/USDT",
+        "symbol": "HUOBI:woousdt"
+    },
+    {
+        "description": "Huobi NKN/BTC",
+        "displaySymbol": "NKN/BTC",
+        "symbol": "HUOBI:nknbtc"
+    },
+    {
+        "description": "Huobi PC/BTC",
+        "displaySymbol": "PC/BTC",
+        "symbol": "HUOBI:pcbtc"
+    },
+    {
+        "description": "Huobi UTK/ETH",
+        "displaySymbol": "UTK/ETH",
+        "symbol": "HUOBI:utketh"
+    },
+    {
+        "description": "Huobi RING/BTC",
+        "displaySymbol": "RING/BTC",
+        "symbol": "HUOBI:ringbtc"
+    },
+    {
+        "description": "Huobi SEELE/USDT",
+        "displaySymbol": "SEELE/USDT",
+        "symbol": "HUOBI:seeleusdt"
+    },
+    {
+        "description": "Huobi KMA/USDT",
+        "displaySymbol": "KMA/USDT",
+        "symbol": "HUOBI:kmausdt"
+    },
+    {
+        "description": "Huobi DTA/ETH",
+        "displaySymbol": "DTA/ETH",
+        "symbol": "HUOBI:dtaeth"
+    },
+    {
+        "description": "Huobi XRP/BTC",
+        "displaySymbol": "XRP/BTC",
+        "symbol": "HUOBI:xrpbtc"
+    },
+    {
+        "description": "Huobi EGT/HT",
+        "displaySymbol": "EGT/HT",
+        "symbol": "HUOBI:egtht"
+    },
+    {
+        "description": "Huobi TITAN/ETH",
+        "displaySymbol": "TITAN/ETH",
+        "symbol": "HUOBI:titaneth"
+    },
+    {
+        "description": "Huobi SXP/BTC",
+        "displaySymbol": "SXP/BTC",
+        "symbol": "HUOBI:sxpbtc"
+    },
+    {
+        "description": "Huobi TRB/USDT",
+        "displaySymbol": "TRB/USDT",
+        "symbol": "HUOBI:trbusdt"
+    },
+    {
+        "description": "Huobi FILDA/USDT",
+        "displaySymbol": "FILDA/USDT",
+        "symbol": "HUOBI:fildausdt"
+    },
+    {
+        "description": "Huobi OGO/BTC",
+        "displaySymbol": "OGO/BTC",
+        "symbol": "HUOBI:ogobtc"
+    },
+    {
+        "description": "Huobi NCC/BTC",
+        "displaySymbol": "NCC/BTC",
+        "symbol": "HUOBI:nccbtc"
+    },
+    {
+        "description": "Huobi PORTAL/ETH",
+        "displaySymbol": "PORTAL/ETH",
+        "symbol": "HUOBI:portaleth"
+    },
+    {
+        "description": "Huobi STPT/BTC",
+        "displaySymbol": "STPT/BTC",
+        "symbol": "HUOBI:stptbtc"
+    },
+    {
+        "description": "Huobi XLM/ETH",
+        "displaySymbol": "XLM/ETH",
+        "symbol": "HUOBI:xlmeth"
+    },
+    {
+        "description": "Huobi UIP/USDT",
+        "displaySymbol": "UIP/USDT",
+        "symbol": "HUOBI:uipusdt"
+    },
+    {
+        "description": "Huobi GTC/BTC",
+        "displaySymbol": "GTC/BTC",
+        "symbol": "HUOBI:gtcbtc"
+    },
+    {
+        "description": "Huobi ADA/BTC",
+        "displaySymbol": "ADA/BTC",
+        "symbol": "HUOBI:adabtc"
+    },
+    {
+        "description": "Huobi EGCC/BTC",
+        "displaySymbol": "EGCC/BTC",
+        "symbol": "HUOBI:egccbtc"
+    },
+    {
+        "description": "Huobi SOS/USDT",
+        "displaySymbol": "SOS/USDT",
+        "symbol": "HUOBI:sosusdt"
+    },
+    {
+        "description": "Huobi AKRO/BTC",
+        "displaySymbol": "AKRO/BTC",
+        "symbol": "HUOBI:akrobtc"
+    },
+    {
+        "description": "Huobi UIP/BTC",
+        "displaySymbol": "UIP/BTC",
+        "symbol": "HUOBI:uipbtc"
+    },
+    {
+        "description": "Huobi FORTH/ETH",
+        "displaySymbol": "FORTH/ETH",
+        "symbol": "HUOBI:fortheth"
+    },
+    {
+        "description": "Huobi ZIL/USDT",
+        "displaySymbol": "ZIL/USDT",
+        "symbol": "HUOBI:zilusdt"
+    },
+    {
+        "description": "Huobi KAN/USDT",
+        "displaySymbol": "KAN/USDT",
+        "symbol": "HUOBI:kanusdt"
+    },
+    {
+        "description": "Huobi SUKU/USDT",
+        "displaySymbol": "SUKU/USDT",
+        "symbol": "HUOBI:sukuusdt"
+    },
+    {
+        "description": "Huobi COTI/USDT",
+        "displaySymbol": "COTI/USDT",
+        "symbol": "HUOBI:cotiusdt"
+    },
+    {
+        "description": "Huobi MONO/USDT",
+        "displaySymbol": "MONO/USDT",
+        "symbol": "HUOBI:monousdt"
+    },
+    {
+        "description": "Huobi LET/BTC",
+        "displaySymbol": "LET/BTC",
+        "symbol": "HUOBI:letbtc"
+    },
+    {
+        "description": "Huobi HBC/HT",
+        "displaySymbol": "HBC/HT",
+        "symbol": "HUOBI:hbcht"
+    },
+    {
+        "description": "Huobi KCASH/BTC",
+        "displaySymbol": "KCASH/BTC",
+        "symbol": "HUOBI:kcashbtc"
+    },
+    {
+        "description": "Huobi MTN/ETH",
+        "displaySymbol": "MTN/ETH",
+        "symbol": "HUOBI:mtneth"
+    },
+    {
+        "description": "Huobi XMX/ETH",
+        "displaySymbol": "XMX/ETH",
+        "symbol": "HUOBI:xmxeth"
+    },
+    {
+        "description": "Huobi SAND/USDT",
+        "displaySymbol": "SAND/USDT",
+        "symbol": "HUOBI:sandusdt"
+    },
+    {
+        "description": "Huobi XLM/HUSD",
+        "displaySymbol": "XLM/HUSD",
+        "symbol": "HUOBI:xlmhusd"
+    },
+    {
+        "description": "Huobi KNC/HUSD",
+        "displaySymbol": "KNC/HUSD",
+        "symbol": "HUOBI:knchusd"
+    },
+    {
+        "description": "Huobi CLV/BTC",
+        "displaySymbol": "CLV/BTC",
+        "symbol": "HUOBI:clvbtc"
+    },
+    {
+        "description": "Huobi ALGO/ETH",
+        "displaySymbol": "ALGO/ETH",
+        "symbol": "HUOBI:algoeth"
+    },
+    {
+        "description": "Huobi SKL/USDT",
+        "displaySymbol": "SKL/USDT",
+        "symbol": "HUOBI:sklusdt"
+    },
+    {
+        "description": "Huobi ZLA/BTC",
+        "displaySymbol": "ZLA/BTC",
+        "symbol": "HUOBI:zlabtc"
+    },
+    {
+        "description": "Huobi NCASH/ETH",
+        "displaySymbol": "NCASH/ETH",
+        "symbol": "HUOBI:ncasheth"
+    },
+    {
+        "description": "Huobi GRS/ETH",
+        "displaySymbol": "GRS/ETH",
+        "symbol": "HUOBI:grseth"
+    },
+    {
+        "description": "Huobi PUNDIX/BTC",
+        "displaySymbol": "PUNDIX/BTC",
+        "symbol": "HUOBI:pundixbtc"
+    },
+    {
+        "description": "Huobi DASH/HUSD",
+        "displaySymbol": "DASH/HUSD",
+        "symbol": "HUOBI:dashhusd"
+    },
+    {
+        "description": "Huobi ICP/USDT",
+        "displaySymbol": "ICP/USDT",
+        "symbol": "HUOBI:icpusdt"
+    },
+    {
+        "description": "Huobi 1INCH/ETH",
+        "displaySymbol": "1INCH/ETH",
+        "symbol": "HUOBI:1incheth"
+    },
+    {
+        "description": "Huobi POLY/USDT",
+        "displaySymbol": "POLY/USDT",
+        "symbol": "HUOBI:polyusdt"
+    },
+    {
+        "description": "Huobi WOO/BTC",
+        "displaySymbol": "WOO/BTC",
+        "symbol": "HUOBI:woobtc"
+    },
+    {
+        "description": "Huobi OGO/HT",
+        "displaySymbol": "OGO/HT",
+        "symbol": "HUOBI:ogoht"
+    },
+    {
+        "description": "Huobi MASS/ETH",
+        "displaySymbol": "MASS/ETH",
+        "symbol": "HUOBI:masseth"
+    },
+    {
+        "description": "Huobi UNI2L/USDT",
+        "displaySymbol": "UNI2L/USDT",
+        "symbol": "HUOBI:uni2lusdt"
+    },
+    {
+        "description": "Huobi WTC/ETH",
+        "displaySymbol": "WTC/ETH",
+        "symbol": "HUOBI:wtceth"
+    },
+    {
+        "description": "Huobi CRV/ETH",
+        "displaySymbol": "CRV/ETH",
+        "symbol": "HUOBI:crveth"
+    },
+    {
+        "description": "Huobi ELA/ETH",
+        "displaySymbol": "ELA/ETH",
+        "symbol": "HUOBI:elaeth"
+    },
+    {
+        "description": "Huobi BHD/HT",
+        "displaySymbol": "BHD/HT",
+        "symbol": "HUOBI:bhdht"
+    },
+    {
+        "description": "Huobi SUPER/USDT",
+        "displaySymbol": "SUPER/USDT",
+        "symbol": "HUOBI:superusdt"
+    },
+    {
+        "description": "Huobi DBC/ETH",
+        "displaySymbol": "DBC/ETH",
+        "symbol": "HUOBI:dbceth"
+    },
+    {
+        "description": "Huobi FSN/HT",
+        "displaySymbol": "FSN/HT",
+        "symbol": "HUOBI:fsnht"
+    },
+    {
+        "description": "Huobi COMP/BTC",
+        "displaySymbol": "COMP/BTC",
+        "symbol": "HUOBI:compbtc"
+    },
+    {
+        "description": "Huobi LUNA/USDT",
+        "displaySymbol": "LUNA/USDT",
+        "symbol": "HUOBI:lunausdt"
+    },
+    {
+        "description": "Huobi STPT/HT",
+        "displaySymbol": "STPT/HT",
+        "symbol": "HUOBI:stptht"
+    },
+    {
+        "description": "Huobi GVE/BTC",
+        "displaySymbol": "GVE/BTC",
+        "symbol": "HUOBI:gvebtc"
+    },
+    {
+        "description": "Huobi QTUM/USDT",
+        "displaySymbol": "QTUM/USDT",
+        "symbol": "HUOBI:qtumusdt"
+    },
+    {
+        "description": "Huobi PEARL/USDT",
+        "displaySymbol": "PEARL/USDT",
+        "symbol": "HUOBI:pearlusdt"
+    },
+    {
+        "description": "Huobi TNT/BTC",
+        "displaySymbol": "TNT/BTC",
+        "symbol": "HUOBI:tntbtc"
+    },
+    {
+        "description": "Huobi BTC3L/USDT",
+        "displaySymbol": "BTC3L/USDT",
+        "symbol": "HUOBI:btc3lusdt"
+    },
+    {
+        "description": "Huobi POLS/ETH",
+        "displaySymbol": "POLS/ETH",
+        "symbol": "HUOBI:polseth"
+    },
+    {
+        "description": "Huobi IOTX/BTC",
+        "displaySymbol": "IOTX/BTC",
+        "symbol": "HUOBI:iotxbtc"
+    },
+    {
+        "description": "Huobi DHT/ETH",
+        "displaySymbol": "DHT/ETH",
+        "symbol": "HUOBI:dhteth"
+    },
+    {
+        "description": "Huobi NEAR/ETH",
+        "displaySymbol": "NEAR/ETH",
+        "symbol": "HUOBI:neareth"
+    },
+    {
+        "description": "Huobi FTI/USDT",
+        "displaySymbol": "FTI/USDT",
+        "symbol": "HUOBI:ftiusdt"
+    },
+    {
+        "description": "Huobi WOO/ETH",
+        "displaySymbol": "WOO/ETH",
+        "symbol": "HUOBI:wooeth"
+    },
+    {
+        "description": "Huobi PORTAL/BTC",
+        "displaySymbol": "PORTAL/BTC",
+        "symbol": "HUOBI:portalbtc"
+    },
+    {
+        "description": "Huobi HC/USDT",
+        "displaySymbol": "HC/USDT",
+        "symbol": "HUOBI:hcusdt"
+    },
+    {
+        "description": "Huobi KAVA/ETH",
+        "displaySymbol": "KAVA/ETH",
+        "symbol": "HUOBI:kavaeth"
+    },
+    {
+        "description": "Huobi CHR/HT",
+        "displaySymbol": "CHR/HT",
+        "symbol": "HUOBI:chrht"
+    },
+    {
+        "description": "Huobi AST/USDT",
+        "displaySymbol": "AST/USDT",
+        "symbol": "HUOBI:astusdt"
+    },
+    {
+        "description": "Huobi THETA/HUSD",
+        "displaySymbol": "THETA/HUSD",
+        "symbol": "HUOBI:thetahusd"
+    },
+    {
+        "description": "Huobi NANO/ETH",
+        "displaySymbol": "NANO/ETH",
+        "symbol": "HUOBI:nanoeth"
+    },
+    {
+        "description": "Huobi GMPD/USDT",
+        "displaySymbol": "GMPD/USDT",
+        "symbol": "HUOBI:gmpdusdt"
+    },
+    {
+        "description": "Huobi SOL/BTC",
+        "displaySymbol": "SOL/BTC",
+        "symbol": "HUOBI:solbtc"
+    },
+    {
+        "description": "Huobi SEELE/ETH",
+        "displaySymbol": "SEELE/ETH",
+        "symbol": "HUOBI:seeleeth"
+    },
+    {
+        "description": "Huobi AR/ETH",
+        "displaySymbol": "AR/ETH",
+        "symbol": "HUOBI:areth"
+    },
+    {
+        "description": "Huobi EFI/USDT",
+        "displaySymbol": "EFI/USDT",
+        "symbol": "HUOBI:efiusdt"
+    },
+    {
+        "description": "Huobi BCH/HT",
+        "displaySymbol": "BCH/HT",
+        "symbol": "HUOBI:bchht"
+    },
+    {
+        "description": "Huobi BCH3L/USDT",
+        "displaySymbol": "BCH3L/USDT",
+        "symbol": "HUOBI:bch3lusdt"
+    },
+    {
+        "description": "Huobi APN/USDT",
+        "displaySymbol": "APN/USDT",
+        "symbol": "HUOBI:apnusdt"
+    },
+    {
+        "description": "Huobi ANKR/BTC",
+        "displaySymbol": "ANKR/BTC",
+        "symbol": "HUOBI:ankrbtc"
+    },
+    {
+        "description": "Huobi CHZ/USDT",
+        "displaySymbol": "CHZ/USDT",
+        "symbol": "HUOBI:chzusdt"
+    },
+    {
+        "description": "Huobi BCD/BTC",
+        "displaySymbol": "BCD/BTC",
+        "symbol": "HUOBI:bcdbtc"
+    },
+    {
+        "description": "Huobi BAT/BTC",
+        "displaySymbol": "BAT/BTC",
+        "symbol": "HUOBI:batbtc"
+    },
+    {
+        "description": "Huobi GALA/USDT",
+        "displaySymbol": "GALA/USDT",
+        "symbol": "HUOBI:galausdt"
+    },
+    {
+        "description": "Huobi YAMV2/USDT",
+        "displaySymbol": "YAMV2/USDT",
+        "symbol": "HUOBI:yamv2usdt"
+    },
+    {
+        "description": "Huobi AE/ETH",
+        "displaySymbol": "AE/ETH",
+        "symbol": "HUOBI:aeeth"
+    },
+    {
+        "description": "Huobi OST/BTC",
+        "displaySymbol": "OST/BTC",
+        "symbol": "HUOBI:ostbtc"
+    },
+    {
+        "description": "Huobi ICX/USDT",
+        "displaySymbol": "ICX/USDT",
+        "symbol": "HUOBI:icxusdt"
+    },
+    {
+        "description": "Huobi MAN/BTC",
+        "displaySymbol": "MAN/BTC",
+        "symbol": "HUOBI:manbtc"
+    },
+    {
+        "description": "Huobi GODS/USDT",
+        "displaySymbol": "GODS/USDT",
+        "symbol": "HUOBI:godsusdt"
+    },
+    {
+        "description": "Huobi TT/HT",
+        "displaySymbol": "TT/HT",
+        "symbol": "HUOBI:ttht"
+    },
+    {
+        "description": "Huobi DF/USDT",
+        "displaySymbol": "DF/USDT",
+        "symbol": "HUOBI:dfusdt"
+    },
+    {
+        "description": "Huobi ELF/BTC",
+        "displaySymbol": "ELF/BTC",
+        "symbol": "HUOBI:elfbtc"
+    },
+    {
+        "description": "Huobi IOTX/ETH",
+        "displaySymbol": "IOTX/ETH",
+        "symbol": "HUOBI:iotxeth"
+    },
+    {
+        "description": "Huobi ONT/USDT",
+        "displaySymbol": "ONT/USDT",
+        "symbol": "HUOBI:ontusdt"
+    },
+    {
+        "description": "Huobi MATIC/ETH",
+        "displaySymbol": "MATIC/ETH",
+        "symbol": "HUOBI:maticeth"
+    },
+    {
+        "description": "Huobi ICP/BTC",
+        "displaySymbol": "ICP/BTC",
+        "symbol": "HUOBI:icpbtc"
+    },
+    {
+        "description": "Huobi YEE/USDT",
+        "displaySymbol": "YEE/USDT",
+        "symbol": "HUOBI:yeeusdt"
+    },
+    {
+        "description": "Huobi BAT/USDT",
+        "displaySymbol": "BAT/USDT",
+        "symbol": "HUOBI:batusdt"
+    },
+    {
+        "description": "Huobi SKU/USDT",
+        "displaySymbol": "SKU/USDT",
+        "symbol": "HUOBI:skuusdt"
+    },
+    {
+        "description": "Huobi NU/USDT",
+        "displaySymbol": "NU/USDT",
+        "symbol": "HUOBI:nuusdt"
+    },
+    {
+        "description": "Huobi LUN/ETH",
+        "displaySymbol": "LUN/ETH",
+        "symbol": "HUOBI:luneth"
+    },
+    {
+        "description": "Huobi CERE/USDT",
+        "displaySymbol": "CERE/USDT",
+        "symbol": "HUOBI:cereusdt"
+    },
+    {
+        "description": "Huobi WAN/BTC",
+        "displaySymbol": "WAN/BTC",
+        "symbol": "HUOBI:wanbtc"
+    },
+    {
+        "description": "Huobi ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "HUOBI:ethusdc"
+    },
+    {
+        "description": "Huobi PEARL/BTC",
+        "displaySymbol": "PEARL/BTC",
+        "symbol": "HUOBI:pearlbtc"
+    },
+    {
+        "description": "Huobi VET/USDT",
+        "displaySymbol": "VET/USDT",
+        "symbol": "HUOBI:vetusdt"
+    },
+    {
+        "description": "Huobi TUSD/USDT",
+        "displaySymbol": "TUSD/USDT",
+        "symbol": "HUOBI:tusdusdt"
+    },
+    {
+        "description": "Huobi SOL/USDT",
+        "displaySymbol": "SOL/USDT",
+        "symbol": "HUOBI:solusdt"
+    },
+    {
+        "description": "Huobi MXC/BTC",
+        "displaySymbol": "MXC/BTC",
+        "symbol": "HUOBI:mxcbtc"
+    },
+    {
+        "description": "Huobi OGN/USDT",
+        "displaySymbol": "OGN/USDT",
+        "symbol": "HUOBI:ognusdt"
+    },
+    {
+        "description": "Huobi MIR/USDT",
+        "displaySymbol": "MIR/USDT",
+        "symbol": "HUOBI:mirusdt"
+    },
+    {
+        "description": "Huobi NEW/HT",
+        "displaySymbol": "NEW/HT",
+        "symbol": "HUOBI:newht"
+    },
+    {
+        "description": "Huobi XMX/BTC",
+        "displaySymbol": "XMX/BTC",
+        "symbol": "HUOBI:xmxbtc"
+    },
+    {
+        "description": "Huobi SMT/ETH",
+        "displaySymbol": "SMT/ETH",
+        "symbol": "HUOBI:smteth"
+    },
+    {
+        "description": "Huobi ATOM/USDT",
+        "displaySymbol": "ATOM/USDT",
+        "symbol": "HUOBI:atomusdt"
+    },
+    {
+        "description": "Huobi ZEC/USDT",
+        "displaySymbol": "ZEC/USDT",
+        "symbol": "HUOBI:zecusdt"
+    },
+    {
+        "description": "Huobi ETC/BTC",
+        "displaySymbol": "ETC/BTC",
+        "symbol": "HUOBI:etcbtc"
+    },
+    {
+        "description": "Huobi YGG/BTC",
+        "displaySymbol": "YGG/BTC",
+        "symbol": "HUOBI:yggbtc"
+    },
+    {
+        "description": "Huobi TOS/ETH",
+        "displaySymbol": "TOS/ETH",
+        "symbol": "HUOBI:toseth"
+    },
+    {
+        "description": "Huobi HOT/ETH",
+        "displaySymbol": "HOT/ETH",
+        "symbol": "HUOBI:hoteth"
+    },
+    {
+        "description": "Huobi MTX/ETH",
+        "displaySymbol": "MTX/ETH",
+        "symbol": "HUOBI:mtxeth"
+    },
+    {
+        "description": "Huobi AST/ETH",
+        "displaySymbol": "AST/ETH",
+        "symbol": "HUOBI:asteth"
+    },
+    {
+        "description": "Huobi BNT/BTC",
+        "displaySymbol": "BNT/BTC",
+        "symbol": "HUOBI:bntbtc"
+    },
+    {
+        "description": "Huobi PVT/HT",
+        "displaySymbol": "PVT/HT",
+        "symbol": "HUOBI:pvtht"
+    },
+    {
+        "description": "Huobi QSP/ETH",
+        "displaySymbol": "QSP/ETH",
+        "symbol": "HUOBI:qspeth"
+    },
+    {
+        "description": "Huobi AIDOC/ETH",
+        "displaySymbol": "AIDOC/ETH",
+        "symbol": "HUOBI:aidoceth"
+    },
+    {
+        "description": "Huobi VSYS/USDT",
+        "displaySymbol": "VSYS/USDT",
+        "symbol": "HUOBI:vsysusdt"
+    },
+    {
+        "description": "Huobi AAC/BTC",
+        "displaySymbol": "AAC/BTC",
+        "symbol": "HUOBI:aacbtc"
+    },
+    {
+        "description": "Huobi CRE/USDT",
+        "displaySymbol": "CRE/USDT",
+        "symbol": "HUOBI:creusdt"
+    },
+    {
+        "description": "Huobi ANT/ETH",
+        "displaySymbol": "ANT/ETH",
+        "symbol": "HUOBI:anteth"
+    },
+    {
+        "description": "Huobi SUN/ETH",
+        "displaySymbol": "SUN/ETH",
+        "symbol": "HUOBI:suneth"
+    },
+    {
+        "description": "Huobi BAND/BTC",
+        "displaySymbol": "BAND/BTC",
+        "symbol": "HUOBI:bandbtc"
+    },
+    {
+        "description": "Huobi CHZ/BTC",
+        "displaySymbol": "CHZ/BTC",
+        "symbol": "HUOBI:chzbtc"
+    },
+    {
+        "description": "Huobi DTA/BTC",
+        "displaySymbol": "DTA/BTC",
+        "symbol": "HUOBI:dtabtc"
+    },
+    {
+        "description": "Huobi BTT/BTC",
+        "displaySymbol": "BTT/BTC",
+        "symbol": "HUOBI:bttbtc"
+    },
+    {
+        "description": "Huobi 1SOL/USDT",
+        "displaySymbol": "1SOL/USDT",
+        "symbol": "HUOBI:1solusdt"
+    },
+    {
+        "description": "Huobi MASK/USDT",
+        "displaySymbol": "MASK/USDT",
+        "symbol": "HUOBI:maskusdt"
+    },
+    {
+        "description": "Huobi POND/ETH",
+        "displaySymbol": "POND/ETH",
+        "symbol": "HUOBI:pondeth"
+    },
+    {
+        "description": "Huobi CVX/USDT",
+        "displaySymbol": "CVX/USDT",
+        "symbol": "HUOBI:cvxusdt"
+    },
+    {
+        "description": "Huobi FIRO/BTC",
+        "displaySymbol": "FIRO/BTC",
+        "symbol": "HUOBI:firobtc"
+    },
+    {
+        "description": "Huobi NGL/USDT",
+        "displaySymbol": "NGL/USDT",
+        "symbol": "HUOBI:nglusdt"
+    },
+    {
+        "description": "Huobi DKA/BTC",
+        "displaySymbol": "DKA/BTC",
+        "symbol": "HUOBI:dkabtc"
+    },
+    {
+        "description": "Huobi LEND/ETH",
+        "displaySymbol": "LEND/ETH",
+        "symbol": "HUOBI:lendeth"
+    },
+    {
+        "description": "Huobi STAKE/USDT",
+        "displaySymbol": "STAKE/USDT",
+        "symbol": "HUOBI:stakeusdt"
+    },
+    {
+        "description": "Huobi WICC/BTC",
+        "displaySymbol": "WICC/BTC",
+        "symbol": "HUOBI:wiccbtc"
+    },
+    {
+        "description": "Huobi HIT/BTC",
+        "displaySymbol": "HIT/BTC",
+        "symbol": "HUOBI:hitbtc"
+    },
+    {
+        "description": "Huobi YFI/ETH",
+        "displaySymbol": "YFI/ETH",
+        "symbol": "HUOBI:yfieth"
+    },
+    {
+        "description": "Huobi MEX/BTC",
+        "displaySymbol": "MEX/BTC",
+        "symbol": "HUOBI:mexbtc"
+    },
+    {
+        "description": "Huobi FAIR/BTC",
+        "displaySymbol": "FAIR/BTC",
+        "symbol": "HUOBI:fairbtc"
+    },
+    {
+        "description": "Huobi FOR/BTC",
+        "displaySymbol": "FOR/BTC",
+        "symbol": "HUOBI:forbtc"
+    },
+    {
+        "description": "Huobi XEM/BTC",
+        "displaySymbol": "XEM/BTC",
+        "symbol": "HUOBI:xembtc"
+    },
+    {
+        "description": "Huobi ENJ/USDT",
+        "displaySymbol": "ENJ/USDT",
+        "symbol": "HUOBI:enjusdt"
+    },
+    {
+        "description": "Huobi LOL/HT",
+        "displaySymbol": "LOL/HT",
+        "symbol": "HUOBI:lolht"
+    },
+    {
+        "description": "Huobi ETH3L/USDT",
+        "displaySymbol": "ETH3L/USDT",
+        "symbol": "HUOBI:eth3lusdt"
+    },
+    {
+        "description": "Huobi LBA/BTC",
+        "displaySymbol": "LBA/BTC",
+        "symbol": "HUOBI:lbabtc"
+    },
+    {
+        "description": "Huobi SC/USDT",
+        "displaySymbol": "SC/USDT",
+        "symbol": "HUOBI:scusdt"
+    },
+    {
+        "description": "Huobi IOST/ETH",
+        "displaySymbol": "IOST/ETH",
+        "symbol": "HUOBI:iosteth"
+    },
+    {
+        "description": "Huobi XLM/USDT",
+        "displaySymbol": "XLM/USDT",
+        "symbol": "HUOBI:xlmusdt"
+    },
+    {
+        "description": "Huobi FLOW/ETH",
+        "displaySymbol": "FLOW/ETH",
+        "symbol": "HUOBI:floweth"
+    },
+    {
+        "description": "Huobi INSUR/BTC",
+        "displaySymbol": "INSUR/BTC",
+        "symbol": "HUOBI:insurbtc"
+    },
+    {
+        "description": "Huobi MLN/USDT",
+        "displaySymbol": "MLN/USDT",
+        "symbol": "HUOBI:mlnusdt"
+    },
+    {
+        "description": "Huobi BICO/USDT",
+        "displaySymbol": "BICO/USDT",
+        "symbol": "HUOBI:bicousdt"
+    },
+    {
+        "description": "Huobi CHZ/ETH",
+        "displaySymbol": "CHZ/ETH",
+        "symbol": "HUOBI:chzeth"
+    },
+    {
+        "description": "Huobi FIL/USDT",
+        "displaySymbol": "FIL/USDT",
+        "symbol": "HUOBI:filusdt"
+    },
+    {
+        "description": "Huobi GXC/BTC",
+        "displaySymbol": "GXC/BTC",
+        "symbol": "HUOBI:gxcbtc"
+    },
+    {
+        "description": "Huobi NCT/USDT",
+        "displaySymbol": "NCT/USDT",
+        "symbol": "HUOBI:nctusdt"
+    },
+    {
+        "description": "Huobi PEARL/ETH",
+        "displaySymbol": "PEARL/ETH",
+        "symbol": "HUOBI:pearleth"
+    },
+    {
+        "description": "Huobi LEND/BTC",
+        "displaySymbol": "LEND/BTC",
+        "symbol": "HUOBI:lendbtc"
+    },
+    {
+        "description": "Huobi DOGE/HUSD",
+        "displaySymbol": "DOGE/HUSD",
+        "symbol": "HUOBI:dogehusd"
+    },
+    {
+        "description": "Huobi ZRX/BTC",
+        "displaySymbol": "ZRX/BTC",
+        "symbol": "HUOBI:zrxbtc"
+    },
+    {
+        "description": "Huobi DATX/BTC",
+        "displaySymbol": "DATX/BTC",
+        "symbol": "HUOBI:datxbtc"
+    },
+    {
+        "description": "Huobi YAMV2/ETH",
+        "displaySymbol": "YAMV2/ETH",
+        "symbol": "HUOBI:yamv2eth"
+    },
+    {
+        "description": "Huobi RING/ETH",
+        "displaySymbol": "RING/ETH",
+        "symbol": "HUOBI:ringeth"
+    },
+    {
+        "description": "Huobi CRV/USDT",
+        "displaySymbol": "CRV/USDT",
+        "symbol": "HUOBI:crvusdt"
+    },
+    {
+        "description": "Huobi BORING/BTC",
+        "displaySymbol": "BORING/BTC",
+        "symbol": "HUOBI:boringbtc"
+    },
+    {
+        "description": "Huobi RADAR/USDT",
+        "displaySymbol": "RADAR/USDT",
+        "symbol": "HUOBI:radarusdt"
+    },
+    {
+        "description": "Huobi PVT/USDT",
+        "displaySymbol": "PVT/USDT",
+        "symbol": "HUOBI:pvtusdt"
+    },
+    {
+        "description": "Huobi BOT/ETH",
+        "displaySymbol": "BOT/ETH",
+        "symbol": "HUOBI:boteth"
+    },
+    {
+        "description": "Huobi FOX/USDT",
+        "displaySymbol": "FOX/USDT",
+        "symbol": "HUOBI:foxusdt"
+    },
+    {
+        "description": "Huobi GNX/USDT",
+        "displaySymbol": "GNX/USDT",
+        "symbol": "HUOBI:gnxusdt"
+    },
+    {
+        "description": "Huobi WBTC/BTC",
+        "displaySymbol": "WBTC/BTC",
+        "symbol": "HUOBI:wbtcbtc"
+    },
+    {
+        "description": "Huobi VALUE/BTC",
+        "displaySymbol": "VALUE/BTC",
+        "symbol": "HUOBI:valuebtc"
+    },
+    {
+        "description": "Huobi LTC3L/USDT",
+        "displaySymbol": "LTC3L/USDT",
+        "symbol": "HUOBI:ltc3lusdt"
+    },
+    {
+        "description": "Huobi LOOKS/USDT",
+        "displaySymbol": "LOOKS/USDT",
+        "symbol": "HUOBI:looksusdt"
+    },
+    {
+        "description": "Huobi NHBTC/USDT",
+        "displaySymbol": "NHBTC/USDT",
+        "symbol": "HUOBI:nhbtcusdt"
+    },
+    {
+        "description": "Huobi SWFTC/ETH",
+        "displaySymbol": "SWFTC/ETH",
+        "symbol": "HUOBI:swftceth"
+    },
+    {
+        "description": "Huobi LET/ETH",
+        "displaySymbol": "LET/ETH",
+        "symbol": "HUOBI:leteth"
+    },
+    {
+        "description": "Huobi FRONT/BTC",
+        "displaySymbol": "FRONT/BTC",
+        "symbol": "HUOBI:frontbtc"
+    },
+    {
+        "description": "Huobi RDN/ETH",
+        "displaySymbol": "RDN/ETH",
+        "symbol": "HUOBI:rdneth"
+    },
+    {
+        "description": "Huobi GSC/ETH",
+        "displaySymbol": "GSC/ETH",
+        "symbol": "HUOBI:gsceth"
+    },
+    {
+        "description": "Huobi MT/ETH",
+        "displaySymbol": "MT/ETH",
+        "symbol": "HUOBI:mteth"
+    },
+    {
+        "description": "Huobi CVCOIN/ETH",
+        "displaySymbol": "CVCOIN/ETH",
+        "symbol": "HUOBI:cvcoineth"
+    },
+    {
+        "description": "Huobi TOP/HT",
+        "displaySymbol": "TOP/HT",
+        "symbol": "HUOBI:topht"
+    },
+    {
+        "description": "Huobi IOST/HT",
+        "displaySymbol": "IOST/HT",
+        "symbol": "HUOBI:iostht"
+    },
+    {
+        "description": "Huobi LINA/ETH",
+        "displaySymbol": "LINA/ETH",
+        "symbol": "HUOBI:linaeth"
+    },
+    {
+        "description": "Huobi XPRT/USDT",
+        "displaySymbol": "XPRT/USDT",
+        "symbol": "HUOBI:xprtusdt"
+    },
+    {
+        "description": "Huobi BTC3S/USDT",
+        "displaySymbol": "BTC3S/USDT",
+        "symbol": "HUOBI:btc3susdt"
+    },
+    {
+        "description": "Huobi BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "HUOBI:btcusdc"
+    },
+    {
+        "description": "Huobi TOP/BTC",
+        "displaySymbol": "TOP/BTC",
+        "symbol": "HUOBI:topbtc"
+    },
+    {
+        "description": "Huobi MX/USDT",
+        "displaySymbol": "MX/USDT",
+        "symbol": "HUOBI:mxusdt"
+    },
+    {
+        "description": "Huobi ELON/USDT",
+        "displaySymbol": "ELON/USDT",
+        "symbol": "HUOBI:elonusdt"
+    },
+    {
+        "description": "Huobi AE/USDT",
+        "displaySymbol": "AE/USDT",
+        "symbol": "HUOBI:aeusdt"
+    },
+    {
+        "description": "Huobi TNB/ETH",
+        "displaySymbol": "TNB/ETH",
+        "symbol": "HUOBI:tnbeth"
+    },
+    {
+        "description": "Huobi AUCTION/USDT",
+        "displaySymbol": "AUCTION/USDT",
+        "symbol": "HUOBI:auctionusdt"
+    },
+    {
+        "description": "Huobi PHA/USDT",
+        "displaySymbol": "PHA/USDT",
+        "symbol": "HUOBI:phausdt"
+    },
+    {
+        "description": "Huobi FLOW/BTC",
+        "displaySymbol": "FLOW/BTC",
+        "symbol": "HUOBI:flowbtc"
+    },
+    {
+        "description": "Huobi LAT/USDT",
+        "displaySymbol": "LAT/USDT",
+        "symbol": "HUOBI:latusdt"
+    },
+    {
+        "description": "Huobi ZRX/ETH",
+        "displaySymbol": "ZRX/ETH",
+        "symbol": "HUOBI:zrxeth"
+    },
+    {
+        "description": "Huobi EKT/USDT",
+        "displaySymbol": "EKT/USDT",
+        "symbol": "HUOBI:ektusdt"
+    },
+    {
+        "description": "Huobi UC/BTC",
+        "displaySymbol": "UC/BTC",
+        "symbol": "HUOBI:ucbtc"
+    },
+    {
+        "description": "Huobi VEN/BTC",
+        "displaySymbol": "VEN/BTC",
+        "symbol": "HUOBI:venbtc"
+    },
+    {
+        "description": "Huobi LINA/BTC",
+        "displaySymbol": "LINA/BTC",
+        "symbol": "HUOBI:linabtc"
+    },
+    {
+        "description": "Huobi CNNS/BTC",
+        "displaySymbol": "CNNS/BTC",
+        "symbol": "HUOBI:cnnsbtc"
+    },
+    {
+        "description": "Huobi IRIS/HUSD",
+        "displaySymbol": "IRIS/HUSD",
+        "symbol": "HUOBI:irishusd"
+    },
+    {
+        "description": "Huobi ZIL/HUSD",
+        "displaySymbol": "ZIL/HUSD",
+        "symbol": "HUOBI:zilhusd"
+    },
+    {
+        "description": "Huobi ENS/USDT",
+        "displaySymbol": "ENS/USDT",
+        "symbol": "HUOBI:ensusdt"
+    },
+    {
+        "description": "Huobi QSP/BTC",
+        "displaySymbol": "QSP/BTC",
+        "symbol": "HUOBI:qspbtc"
+    },
+    {
+        "description": "Huobi MDS/BTC",
+        "displaySymbol": "MDS/BTC",
+        "symbol": "HUOBI:mdsbtc"
+    },
+    {
+        "description": "Huobi DHT/USDT",
+        "displaySymbol": "DHT/USDT",
+        "symbol": "HUOBI:dhtusdt"
+    },
+    {
+        "description": "Huobi IOTA/BTC",
+        "displaySymbol": "IOTA/BTC",
+        "symbol": "HUOBI:iotabtc"
+    },
+    {
+        "description": "Huobi LTC/HUSD",
+        "displaySymbol": "LTC/HUSD",
+        "symbol": "HUOBI:ltchusd"
+    },
+    {
+        "description": "Huobi OMG/ETH",
+        "displaySymbol": "OMG/ETH",
+        "symbol": "HUOBI:omgeth"
+    },
+    {
+        "description": "Huobi FIL3S/USDT",
+        "displaySymbol": "FIL3S/USDT",
+        "symbol": "HUOBI:fil3susdt"
+    },
+    {
+        "description": "Huobi AXS/BTC",
+        "displaySymbol": "AXS/BTC",
+        "symbol": "HUOBI:axsbtc"
+    },
+    {
+        "description": "Huobi EPIK/USDT",
+        "displaySymbol": "EPIK/USDT",
+        "symbol": "HUOBI:epikusdt"
+    },
+    {
+        "description": "Huobi LINK/ETH",
+        "displaySymbol": "LINK/ETH",
+        "symbol": "HUOBI:linketh"
+    },
+    {
+        "description": "Huobi FRONT/ETH",
+        "displaySymbol": "FRONT/ETH",
+        "symbol": "HUOBI:fronteth"
+    },
+    {
+        "description": "Huobi LSK/BTC",
+        "displaySymbol": "LSK/BTC",
+        "symbol": "HUOBI:lskbtc"
+    },
+    {
+        "description": "Huobi SUN/BTC",
+        "displaySymbol": "SUN/BTC",
+        "symbol": "HUOBI:sunbtc"
+    },
+    {
+        "description": "Huobi OGN/BTC",
+        "displaySymbol": "OGN/BTC",
+        "symbol": "HUOBI:ognbtc"
+    },
+    {
+        "description": "Huobi VSYS/BTC",
+        "displaySymbol": "VSYS/BTC",
+        "symbol": "HUOBI:vsysbtc"
+    },
+    {
+        "description": "Huobi MDX/BTC",
+        "displaySymbol": "MDX/BTC",
+        "symbol": "HUOBI:mdxbtc"
+    },
+    {
+        "description": "Huobi NKN/USDT",
+        "displaySymbol": "NKN/USDT",
+        "symbol": "HUOBI:nknusdt"
+    },
+    {
+        "description": "Huobi ONE/USDT",
+        "displaySymbol": "ONE/USDT",
+        "symbol": "HUOBI:oneusdt"
+    },
+    {
+        "description": "Huobi UUU/BTC",
+        "displaySymbol": "UUU/BTC",
+        "symbol": "HUOBI:uuubtc"
+    },
+    {
+        "description": "Huobi DBC/BTC",
+        "displaySymbol": "DBC/BTC",
+        "symbol": "HUOBI:dbcbtc"
+    },
+    {
+        "description": "Huobi MTL/BTC",
+        "displaySymbol": "MTL/BTC",
+        "symbol": "HUOBI:mtlbtc"
+    },
+    {
+        "description": "Huobi FIL/HUSD",
+        "displaySymbol": "FIL/HUSD",
+        "symbol": "HUOBI:filhusd"
+    },
+    {
+        "description": "Huobi SWRV/ETH",
+        "displaySymbol": "SWRV/ETH",
+        "symbol": "HUOBI:swrveth"
+    },
+    {
+        "description": "Huobi GXC/ETH",
+        "displaySymbol": "GXC/ETH",
+        "symbol": "HUOBI:gxceth"
+    },
+    {
+        "description": "Huobi LUNA/BTC",
+        "displaySymbol": "LUNA/BTC",
+        "symbol": "HUOBI:lunabtc"
+    },
+    {
+        "description": "Huobi BCH/USDT",
+        "displaySymbol": "BCH/USDT",
+        "symbol": "HUOBI:bchusdt"
+    },
+    {
+        "description": "Huobi MTX/BTC",
+        "displaySymbol": "MTX/BTC",
+        "symbol": "HUOBI:mtxbtc"
+    },
+    {
+        "description": "Huobi BSV/HUSD",
+        "displaySymbol": "BSV/HUSD",
+        "symbol": "HUOBI:bsvhusd"
+    },
+    {
+        "description": "Huobi BCH/HUSD",
+        "displaySymbol": "BCH/HUSD",
+        "symbol": "HUOBI:bchhusd"
+    },
+    {
+        "description": "Huobi MDS/ETH",
+        "displaySymbol": "MDS/ETH",
+        "symbol": "HUOBI:mdseth"
+    },
+    {
+        "description": "Huobi ENG/ETH",
+        "displaySymbol": "ENG/ETH",
+        "symbol": "HUOBI:engeth"
+    },
+    {
+        "description": "Huobi WXT/HT",
+        "displaySymbol": "WXT/HT",
+        "symbol": "HUOBI:wxtht"
+    },
+    {
+        "description": "Huobi BTG/BTC",
+        "displaySymbol": "BTG/BTC",
+        "symbol": "HUOBI:btgbtc"
+    },
+    {
+        "description": "Huobi XRT/USDT",
+        "displaySymbol": "XRT/USDT",
+        "symbol": "HUOBI:xrtusdt"
+    },
+    {
+        "description": "Huobi CAN/BTC",
+        "displaySymbol": "CAN/BTC",
+        "symbol": "HUOBI:canbtc"
+    },
+    {
+        "description": "Huobi ATP/HT",
+        "displaySymbol": "ATP/HT",
+        "symbol": "HUOBI:atpht"
+    },
+    {
+        "description": "Huobi POND/USDT",
+        "displaySymbol": "POND/USDT",
+        "symbol": "HUOBI:pondusdt"
+    },
+    {
+        "description": "Huobi FSN/USDT",
+        "displaySymbol": "FSN/USDT",
+        "symbol": "HUOBI:fsnusdt"
+    },
+    {
+        "description": "Huobi GOF/ETH",
+        "displaySymbol": "GOF/ETH",
+        "symbol": "HUOBI:gofeth"
+    },
+    {
+        "description": "Huobi TOPC/BTC",
+        "displaySymbol": "TOPC/BTC",
+        "symbol": "HUOBI:topcbtc"
+    },
+    {
+        "description": "Huobi MIR/UST",
+        "displaySymbol": "MIR/UST",
+        "symbol": "HUOBI:mirust"
+    },
+    {
+        "description": "Huobi ETH/HUSD",
+        "displaySymbol": "ETH/HUSD",
+        "symbol": "HUOBI:ethhusd"
+    },
+    {
+        "description": "Huobi ARPA/HT",
+        "displaySymbol": "ARPA/HT",
+        "symbol": "HUOBI:arpaht"
+    },
+    {
+        "description": "Huobi BCHA/BTC",
+        "displaySymbol": "BCHA/BTC",
+        "symbol": "HUOBI:bchabtc"
+    },
+    {
+        "description": "Huobi CMT/BTC",
+        "displaySymbol": "CMT/BTC",
+        "symbol": "HUOBI:cmtbtc"
+    },
+    {
+        "description": "Huobi SCRT/USDT",
+        "displaySymbol": "SCRT/USDT",
+        "symbol": "HUOBI:scrtusdt"
+    },
+    {
+        "description": "Huobi GNX/ETH",
+        "displaySymbol": "GNX/ETH",
+        "symbol": "HUOBI:gnxeth"
+    },
+    {
+        "description": "Huobi FTT/HT",
+        "displaySymbol": "FTT/HT",
+        "symbol": "HUOBI:fttht"
+    },
+    {
+        "description": "Huobi DASH/HT",
+        "displaySymbol": "DASH/HT",
+        "symbol": "HUOBI:dashht"
+    },
+    {
+        "description": "Huobi GET/BTC",
+        "displaySymbol": "GET/BTC",
+        "symbol": "HUOBI:getbtc"
+    },
+    {
+        "description": "Huobi WAVES/BTC",
+        "displaySymbol": "WAVES/BTC",
+        "symbol": "HUOBI:wavesbtc"
+    },
+    {
+        "description": "Huobi KCASH/HT",
+        "displaySymbol": "KCASH/HT",
+        "symbol": "HUOBI:kcashht"
+    },
+    {
+        "description": "Huobi STORJ/BTC",
+        "displaySymbol": "STORJ/BTC",
+        "symbol": "HUOBI:storjbtc"
+    },
+    {
+        "description": "Huobi BAL/USDT",
+        "displaySymbol": "BAL/USDT",
+        "symbol": "HUOBI:balusdt"
+    },
+    {
+        "description": "Huobi NSURE/ETH",
+        "displaySymbol": "NSURE/ETH",
+        "symbol": "HUOBI:nsureeth"
+    },
+    {
+        "description": "Huobi ERTHA/USDT",
+        "displaySymbol": "ERTHA/USDT",
+        "symbol": "HUOBI:erthausdt"
+    },
+    {
+        "description": "Huobi XVG/ETH",
+        "displaySymbol": "XVG/ETH",
+        "symbol": "HUOBI:xvgeth"
+    },
+    {
+        "description": "Huobi XRP/HT",
+        "displaySymbol": "XRP/HT",
+        "symbol": "HUOBI:xrpht"
+    },
+    {
+        "description": "Huobi LAMB/ETH",
+        "displaySymbol": "LAMB/ETH",
+        "symbol": "HUOBI:lambeth"
+    },
+    {
+        "description": "Huobi ATOM/ETH",
+        "displaySymbol": "ATOM/ETH",
+        "symbol": "HUOBI:atometh"
+    },
+    {
+        "description": "Huobi QASH/ETH",
+        "displaySymbol": "QASH/ETH",
+        "symbol": "HUOBI:qasheth"
+    },
+    {
+        "description": "Huobi AAVE/ETH",
+        "displaySymbol": "AAVE/ETH",
+        "symbol": "HUOBI:aaveeth"
+    },
+    {
+        "description": "Huobi AUCTION/ETH",
+        "displaySymbol": "AUCTION/ETH",
+        "symbol": "HUOBI:auctioneth"
+    },
+    {
+        "description": "Huobi EKT/BTC",
+        "displaySymbol": "EKT/BTC",
+        "symbol": "HUOBI:ektbtc"
+    },
+    {
+        "description": "Huobi CVP/BTC",
+        "displaySymbol": "CVP/BTC",
+        "symbol": "HUOBI:cvpbtc"
+    },
+    {
+        "description": "Huobi WAVES/ETH",
+        "displaySymbol": "WAVES/ETH",
+        "symbol": "HUOBI:waveseth"
+    },
+    {
+        "description": "Huobi MANA/BTC",
+        "displaySymbol": "MANA/BTC",
+        "symbol": "HUOBI:manabtc"
+    },
+    {
+        "description": "Huobi COMP/USDT",
+        "displaySymbol": "COMP/USDT",
+        "symbol": "HUOBI:compusdt"
+    },
+    {
+        "description": "Huobi 18C/BTC",
+        "displaySymbol": "18C/BTC",
+        "symbol": "HUOBI:18cbtc"
+    },
+    {
+        "description": "Huobi ATP/BTC",
+        "displaySymbol": "ATP/BTC",
+        "symbol": "HUOBI:atpbtc"
+    },
+    {
+        "description": "Huobi CVP/USDT",
+        "displaySymbol": "CVP/USDT",
+        "symbol": "HUOBI:cvpusdt"
+    },
+    {
+        "description": "Huobi DOT2S/USDT",
+        "displaySymbol": "DOT2S/USDT",
+        "symbol": "HUOBI:dot2susdt"
+    },
+    {
+        "description": "Huobi ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "HUOBI:ethbtc"
+    },
+    {
+        "description": "Huobi KMD/ETH",
+        "displaySymbol": "KMD/ETH",
+        "symbol": "HUOBI:kmdeth"
+    },
+    {
+        "description": "Huobi WOZX/USDT",
+        "displaySymbol": "WOZX/USDT",
+        "symbol": "HUOBI:wozxusdt"
+    },
+    {
+        "description": "Huobi AVAX/BTC",
+        "displaySymbol": "AVAX/BTC",
+        "symbol": "HUOBI:avaxbtc"
+    },
+    {
+        "description": "Huobi GNX/BTC",
+        "displaySymbol": "GNX/BTC",
+        "symbol": "HUOBI:gnxbtc"
+    },
+    {
+        "description": "Huobi VIDY/USDT",
+        "displaySymbol": "VIDY/USDT",
+        "symbol": "HUOBI:vidyusdt"
+    },
+    {
+        "description": "Huobi YAM/ETH",
+        "displaySymbol": "YAM/ETH",
+        "symbol": "HUOBI:yameth"
+    }
+]

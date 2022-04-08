@@ -1,0 +1,7097 @@
+[
+    {
+        "description": "Hitbtc BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "HITBTC:BCHBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/BCH",
+        "displaySymbol": "ZEC/BCH",
+        "symbol": "HITBTC:ZECBCH"
+    },
+    {
+        "description": "Hitbtc DAY/BTC",
+        "displaySymbol": "DAY/BTC",
+        "symbol": "HITBTC:DAYBTC"
+    },
+    {
+        "description": "Hitbtc CSOV/USD",
+        "displaySymbol": "CSOV/USD",
+        "symbol": "HITBTC:CSOVUSDT"
+    },
+    {
+        "description": "Hitbtc RLC/BTC",
+        "displaySymbol": "RLC/BTC",
+        "symbol": "HITBTC:RLCBTC"
+    },
+    {
+        "description": "Hitbtc COTI/BTC",
+        "displaySymbol": "COTI/BTC",
+        "symbol": "HITBTC:COTIBTC"
+    },
+    {
+        "description": "Hitbtc BOSON/ETH",
+        "displaySymbol": "BOSON/ETH",
+        "symbol": "HITBTC:BOSONETH"
+    },
+    {
+        "description": "Hitbtc OGN/USD",
+        "displaySymbol": "OGN/USD",
+        "symbol": "HITBTC:OGNUSD"
+    },
+    {
+        "description": "Hitbtc YGG/BTC",
+        "displaySymbol": "YGG/BTC",
+        "symbol": "HITBTC:YGGBTC"
+    },
+    {
+        "description": "Hitbtc GNX/ETH",
+        "displaySymbol": "GNX/ETH",
+        "symbol": "HITBTC:GNXETH"
+    },
+    {
+        "description": "Hitbtc PERP/USD",
+        "displaySymbol": "PERP/USD",
+        "symbol": "HITBTC:PERPUSD"
+    },
+    {
+        "description": "Hitbtc ROSE/USD",
+        "displaySymbol": "ROSE/USD",
+        "symbol": "HITBTC:ROSEUSDT"
+    },
+    {
+        "description": "Hitbtc ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "HITBTC:ETHUSDC"
+    },
+    {
+        "description": "Hitbtc XRP/EOS",
+        "displaySymbol": "XRP/EOS",
+        "symbol": "HITBTC:XRPEOS"
+    },
+    {
+        "description": "Hitbtc STORJ/USD",
+        "displaySymbol": "STORJ/USD",
+        "symbol": "HITBTC:STORJUSD"
+    },
+    {
+        "description": "Hitbtc MOVR/BTC",
+        "displaySymbol": "MOVR/BTC",
+        "symbol": "HITBTC:MOVRBTC"
+    },
+    {
+        "description": "Hitbtc RVN/BTC",
+        "displaySymbol": "RVN/BTC",
+        "symbol": "HITBTC:RVNBTC"
+    },
+    {
+        "description": "Hitbtc FUN/ETH",
+        "displaySymbol": "FUN/ETH",
+        "symbol": "HITBTC:FUNETH"
+    },
+    {
+        "description": "Hitbtc OKB/USD",
+        "displaySymbol": "OKB/USD",
+        "symbol": "HITBTC:OKBUSD"
+    },
+    {
+        "description": "Hitbtc SANTOS/BTC",
+        "displaySymbol": "SANTOS/BTC",
+        "symbol": "HITBTC:SANTOSBTC"
+    },
+    {
+        "description": "Hitbtc TIME/ETH",
+        "displaySymbol": "TIME/ETH",
+        "symbol": "HITBTC:TIMEETH"
+    },
+    {
+        "description": "Hitbtc DGB/USD",
+        "displaySymbol": "DGB/USD",
+        "symbol": "HITBTC:DGBUSD"
+    },
+    {
+        "description": "Hitbtc IPL/ETH",
+        "displaySymbol": "IPL/ETH",
+        "symbol": "HITBTC:IPLETH"
+    },
+    {
+        "description": "Hitbtc ACT/ETH",
+        "displaySymbol": "ACT/ETH",
+        "symbol": "HITBTC:ACTETH"
+    },
+    {
+        "description": "Hitbtc STARL/USD",
+        "displaySymbol": "STARL/USD",
+        "symbol": "HITBTC:STARLUSDT"
+    },
+    {
+        "description": "Hitbtc MOB/USD",
+        "displaySymbol": "MOB/USD",
+        "symbol": "HITBTC:MOBUSD"
+    },
+    {
+        "description": "Hitbtc POA/BTC",
+        "displaySymbol": "POA/BTC",
+        "symbol": "HITBTC:POABTC"
+    },
+    {
+        "description": "Hitbtc OM/USD",
+        "displaySymbol": "OM/USD",
+        "symbol": "HITBTC:OMUSD"
+    },
+    {
+        "description": "Hitbtc NTK/USD",
+        "displaySymbol": "NTK/USD",
+        "symbol": "HITBTC:NTKUSD"
+    },
+    {
+        "description": "Hitbtc DATX/BTC",
+        "displaySymbol": "DATX/BTC",
+        "symbol": "HITBTC:DATXBTC"
+    },
+    {
+        "description": "Hitbtc VIB/USD",
+        "displaySymbol": "VIB/USD",
+        "symbol": "HITBTC:VIBUSD"
+    },
+    {
+        "description": "Hitbtc CENNZ/ETH",
+        "displaySymbol": "CENNZ/ETH",
+        "symbol": "HITBTC:CENNZETH"
+    },
+    {
+        "description": "Hitbtc BNB/ETH",
+        "displaySymbol": "BNB/ETH",
+        "symbol": "HITBTC:BNBETH"
+    },
+    {
+        "description": "Hitbtc LINA/BTC",
+        "displaySymbol": "LINA/BTC",
+        "symbol": "HITBTC:LINABTC"
+    },
+    {
+        "description": "Hitbtc MO/BTC",
+        "displaySymbol": "MO/BTC",
+        "symbol": "HITBTC:MOBTC"
+    },
+    {
+        "description": "Hitbtc AAVE/ETH",
+        "displaySymbol": "AAVE/ETH",
+        "symbol": "HITBTC:AAVEETH"
+    },
+    {
+        "description": "Hitbtc ZEN/ETH",
+        "displaySymbol": "ZEN/ETH",
+        "symbol": "HITBTC:ZENETH"
+    },
+    {
+        "description": "Hitbtc FDZ/BTC",
+        "displaySymbol": "FDZ/BTC",
+        "symbol": "HITBTC:FDZBTC"
+    },
+    {
+        "description": "Hitbtc QTUM/BTC",
+        "displaySymbol": "QTUM/BTC",
+        "symbol": "HITBTC:QTUMBTC"
+    },
+    {
+        "description": "Hitbtc EASY/BTC",
+        "displaySymbol": "EASY/BTC",
+        "symbol": "HITBTC:EASYBTC"
+    },
+    {
+        "description": "Hitbtc NEU/ETH",
+        "displaySymbol": "NEU/ETH",
+        "symbol": "HITBTC:NEUETH"
+    },
+    {
+        "description": "Hitbtc BTC/EURS",
+        "displaySymbol": "BTC/EURS",
+        "symbol": "HITBTC:BTCEURS"
+    },
+    {
+        "description": "Hitbtc LSK/BTC",
+        "displaySymbol": "LSK/BTC",
+        "symbol": "HITBTC:LSKBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/EURS",
+        "displaySymbol": "ZEC/EURS",
+        "symbol": "HITBTC:ZECEURS"
+    },
+    {
+        "description": "Hitbtc BTC/DDRST",
+        "displaySymbol": "BTC/DDRST",
+        "symbol": "HITBTC:BTCDDRST"
+    },
+    {
+        "description": "Hitbtc XPNT/BTC",
+        "displaySymbol": "XPNT/BTC",
+        "symbol": "HITBTC:XPNTBTC"
+    },
+    {
+        "description": "Hitbtc ERT/BTC",
+        "displaySymbol": "ERT/BTC",
+        "symbol": "HITBTC:ERTBTC"
+    },
+    {
+        "description": "Hitbtc CVC/BTC",
+        "displaySymbol": "CVC/BTC",
+        "symbol": "HITBTC:CVCBTC"
+    },
+    {
+        "description": "Hitbtc EVX/BTC",
+        "displaySymbol": "EVX/BTC",
+        "symbol": "HITBTC:EVXBTC"
+    },
+    {
+        "description": "Hitbtc FLOW/USD",
+        "displaySymbol": "FLOW/USD",
+        "symbol": "HITBTC:FLOWUSD"
+    },
+    {
+        "description": "Hitbtc XVG/USD",
+        "displaySymbol": "XVG/USD",
+        "symbol": "HITBTC:XVGUSD"
+    },
+    {
+        "description": "Hitbtc HT/BTC",
+        "displaySymbol": "HT/BTC",
+        "symbol": "HITBTC:HTBTC"
+    },
+    {
+        "description": "Hitbtc CNS/BTC",
+        "displaySymbol": "CNS/BTC",
+        "symbol": "HITBTC:CNSBTC"
+    },
+    {
+        "description": "Hitbtc JAM/ETH",
+        "displaySymbol": "JAM/ETH",
+        "symbol": "HITBTC:JAMETH"
+    },
+    {
+        "description": "Hitbtc AXS/BTC",
+        "displaySymbol": "AXS/BTC",
+        "symbol": "HITBTC:AXSBTC"
+    },
+    {
+        "description": "Hitbtc BCH/DAI",
+        "displaySymbol": "BCH/DAI",
+        "symbol": "HITBTC:BCHDAI"
+    },
+    {
+        "description": "Hitbtc HYDRA/USD",
+        "displaySymbol": "HYDRA/USD",
+        "symbol": "HITBTC:HYDRAUSD"
+    },
+    {
+        "description": "Hitbtc ETL/ETH",
+        "displaySymbol": "ETL/ETH",
+        "symbol": "HITBTC:ETLETH"
+    },
+    {
+        "description": "Hitbtc PTOY/BTC",
+        "displaySymbol": "PTOY/BTC",
+        "symbol": "HITBTC:PTOYBTC"
+    },
+    {
+        "description": "Hitbtc MKR/ETH",
+        "displaySymbol": "MKR/ETH",
+        "symbol": "HITBTC:MKRETH"
+    },
+    {
+        "description": "Hitbtc DRT/ETH",
+        "displaySymbol": "DRT/ETH",
+        "symbol": "HITBTC:DRTETH"
+    },
+    {
+        "description": "Hitbtc GRT/BTC",
+        "displaySymbol": "GRT/BTC",
+        "symbol": "HITBTC:GRTBTC"
+    },
+    {
+        "description": "Hitbtc ARNX/BTC",
+        "displaySymbol": "ARNX/BTC",
+        "symbol": "HITBTC:ARNXBTC"
+    },
+    {
+        "description": "Hitbtc BNK/BTC",
+        "displaySymbol": "BNK/BTC",
+        "symbol": "HITBTC:BNKBTC"
+    },
+    {
+        "description": "Hitbtc OCC/ETH",
+        "displaySymbol": "OCC/ETH",
+        "symbol": "HITBTC:OCCETH"
+    },
+    {
+        "description": "Hitbtc BCN/USD",
+        "displaySymbol": "BCN/USD",
+        "symbol": "HITBTC:BCNUSD"
+    },
+    {
+        "description": "Hitbtc STAK/USD",
+        "displaySymbol": "STAK/USD",
+        "symbol": "HITBTC:STAKUSD"
+    },
+    {
+        "description": "Hitbtc SPICE/BCH",
+        "displaySymbol": "SPICE/BCH",
+        "symbol": "HITBTC:SPICEBCH"
+    },
+    {
+        "description": "Hitbtc EQX/USD",
+        "displaySymbol": "EQX/USD",
+        "symbol": "HITBTC:EQXUSDT"
+    },
+    {
+        "description": "Hitbtc NEU/USD",
+        "displaySymbol": "NEU/USD",
+        "symbol": "HITBTC:NEUUSD"
+    },
+    {
+        "description": "Hitbtc SNX/BTC",
+        "displaySymbol": "SNX/BTC",
+        "symbol": "HITBTC:SNXBTC"
+    },
+    {
+        "description": "Hitbtc PPC/BTC",
+        "displaySymbol": "PPC/BTC",
+        "symbol": "HITBTC:PPCBTC"
+    },
+    {
+        "description": "Hitbtc DDRT/DDRST",
+        "displaySymbol": "DDRT/DDRST",
+        "symbol": "HITBTC:DDRTDDRST"
+    },
+    {
+        "description": "Hitbtc PHBOLD/BTC",
+        "displaySymbol": "PHBOLD/BTC",
+        "symbol": "HITBTC:PHBOLDBTC"
+    },
+    {
+        "description": "Hitbtc TUSD/DAI",
+        "displaySymbol": "TUSD/DAI",
+        "symbol": "HITBTC:TUSDDAI"
+    },
+    {
+        "description": "Hitbtc KMD/USD",
+        "displaySymbol": "KMD/USD",
+        "symbol": "HITBTC:KMDUSD"
+    },
+    {
+        "description": "Hitbtc RCN/USD",
+        "displaySymbol": "RCN/USD",
+        "symbol": "HITBTC:RCNUSD"
+    },
+    {
+        "description": "Hitbtc PROS/ETH",
+        "displaySymbol": "PROS/ETH",
+        "symbol": "HITBTC:PROSETH"
+    },
+    {
+        "description": "Hitbtc SHIP/BTC",
+        "displaySymbol": "SHIP/BTC",
+        "symbol": "HITBTC:SHIPBTC"
+    },
+    {
+        "description": "Hitbtc TT/USD",
+        "displaySymbol": "TT/USD",
+        "symbol": "HITBTC:TTUSDT"
+    },
+    {
+        "description": "Hitbtc CTXC/BTC",
+        "displaySymbol": "CTXC/BTC",
+        "symbol": "HITBTC:CTXCBTC"
+    },
+    {
+        "description": "Hitbtc IDH/ETH",
+        "displaySymbol": "IDH/ETH",
+        "symbol": "HITBTC:IDHETH"
+    },
+    {
+        "description": "Hitbtc NCT/BTC",
+        "displaySymbol": "NCT/BTC",
+        "symbol": "HITBTC:NCTBTC"
+    },
+    {
+        "description": "Hitbtc MG/BTC",
+        "displaySymbol": "MG/BTC",
+        "symbol": "HITBTC:MGBTC"
+    },
+    {
+        "description": "Hitbtc CHSB/USD",
+        "displaySymbol": "CHSB/USD",
+        "symbol": "HITBTC:CHSBUSD"
+    },
+    {
+        "description": "Hitbtc LINK/USD",
+        "displaySymbol": "LINK/USD",
+        "symbol": "HITBTC:LINKUSD"
+    },
+    {
+        "description": "Hitbtc MG/USD",
+        "displaySymbol": "MG/USD",
+        "symbol": "HITBTC:MGUSD"
+    },
+    {
+        "description": "Hitbtc BNX/BTC",
+        "displaySymbol": "BNX/BTC",
+        "symbol": "HITBTC:BNXBTC"
+    },
+    {
+        "description": "Hitbtc EXM/BTC",
+        "displaySymbol": "EXM/BTC",
+        "symbol": "HITBTC:EXMBTC"
+    },
+    {
+        "description": "Hitbtc GALA/BTC",
+        "displaySymbol": "GALA/BTC",
+        "symbol": "HITBTC:GALABTC"
+    },
+    {
+        "description": "Hitbtc NEO/BTC",
+        "displaySymbol": "NEO/BTC",
+        "symbol": "HITBTC:NEOBTC"
+    },
+    {
+        "description": "Hitbtc NGC/ETH",
+        "displaySymbol": "NGC/ETH",
+        "symbol": "HITBTC:NGCETH"
+    },
+    {
+        "description": "Hitbtc VGX/BTC",
+        "displaySymbol": "VGX/BTC",
+        "symbol": "HITBTC:VGXBTC"
+    },
+    {
+        "description": "Hitbtc NEO/ETH",
+        "displaySymbol": "NEO/ETH",
+        "symbol": "HITBTC:NEOETH"
+    },
+    {
+        "description": "Hitbtc RAISE/BTC",
+        "displaySymbol": "RAISE/BTC",
+        "symbol": "HITBTC:RAISEBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/ETH",
+        "displaySymbol": "ZEC/ETH",
+        "symbol": "HITBTC:ZECETH"
+    },
+    {
+        "description": "Hitbtc C20/ETH",
+        "displaySymbol": "C20/ETH",
+        "symbol": "HITBTC:C20ETH"
+    },
+    {
+        "description": "Hitbtc OAX/BTC",
+        "displaySymbol": "OAX/BTC",
+        "symbol": "HITBTC:OAXBTC"
+    },
+    {
+        "description": "Hitbtc LINK/BTC",
+        "displaySymbol": "LINK/BTC",
+        "symbol": "HITBTC:LINKBTC"
+    },
+    {
+        "description": "Hitbtc IHT/USD",
+        "displaySymbol": "IHT/USD",
+        "symbol": "HITBTC:IHTUSD"
+    },
+    {
+        "description": "Hitbtc DCN/USD",
+        "displaySymbol": "DCN/USD",
+        "symbol": "HITBTC:DCNUSD"
+    },
+    {
+        "description": "Hitbtc SNC/ETH",
+        "displaySymbol": "SNC/ETH",
+        "symbol": "HITBTC:SNCETH"
+    },
+    {
+        "description": "Hitbtc ACD/BTC",
+        "displaySymbol": "ACD/BTC",
+        "symbol": "HITBTC:ACDBTC"
+    },
+    {
+        "description": "Hitbtc WIKI/ETH",
+        "displaySymbol": "WIKI/ETH",
+        "symbol": "HITBTC:WIKIETH"
+    },
+    {
+        "description": "Hitbtc BANCA/ETH",
+        "displaySymbol": "BANCA/ETH",
+        "symbol": "HITBTC:BANCAETH"
+    },
+    {
+        "description": "Hitbtc XEM/USD",
+        "displaySymbol": "XEM/USD",
+        "symbol": "HITBTC:XEMUSD"
+    },
+    {
+        "description": "Hitbtc BSV/BCH",
+        "displaySymbol": "BSV/BCH",
+        "symbol": "HITBTC:BSVBCH"
+    },
+    {
+        "description": "Hitbtc POA20/ETH",
+        "displaySymbol": "POA20/ETH",
+        "symbol": "HITBTC:POA20ETH"
+    },
+    {
+        "description": "Hitbtc IMX/USD",
+        "displaySymbol": "IMX/USD",
+        "symbol": "HITBTC:IMXUSDT"
+    },
+    {
+        "description": "Hitbtc VLX/USD",
+        "displaySymbol": "VLX/USD",
+        "symbol": "HITBTC:VLXUSD"
+    },
+    {
+        "description": "Hitbtc MTX/USD",
+        "displaySymbol": "MTX/USD",
+        "symbol": "HITBTC:MTXUSD"
+    },
+    {
+        "description": "Hitbtc WIN/USD",
+        "displaySymbol": "WIN/USD",
+        "symbol": "HITBTC:WINUSD"
+    },
+    {
+        "description": "Hitbtc IPX/USD",
+        "displaySymbol": "IPX/USD",
+        "symbol": "HITBTC:IPXUSD"
+    },
+    {
+        "description": "Hitbtc SOC/BTC",
+        "displaySymbol": "SOC/BTC",
+        "symbol": "HITBTC:SOCBTC"
+    },
+    {
+        "description": "Hitbtc BTC/GUSD",
+        "displaySymbol": "BTC/GUSD",
+        "symbol": "HITBTC:BTCGUSD"
+    },
+    {
+        "description": "Hitbtc HBAR/ETH",
+        "displaySymbol": "HBAR/ETH",
+        "symbol": "HITBTC:HBARETH"
+    },
+    {
+        "description": "Hitbtc USD/TUSD",
+        "displaySymbol": "USD/TUSD",
+        "symbol": "HITBTC:USDTUSD"
+    },
+    {
+        "description": "Hitbtc CELO/BTC",
+        "displaySymbol": "CELO/BTC",
+        "symbol": "HITBTC:CELOBTC"
+    },
+    {
+        "description": "Hitbtc ORMEUS/ETH",
+        "displaySymbol": "ORMEUS/ETH",
+        "symbol": "HITBTC:ORMEUSETH"
+    },
+    {
+        "description": "Hitbtc MAID/BTC",
+        "displaySymbol": "MAID/BTC",
+        "symbol": "HITBTC:MAIDBTC"
+    },
+    {
+        "description": "Hitbtc NXT/BTC",
+        "displaySymbol": "NXT/BTC",
+        "symbol": "HITBTC:NXTBTC"
+    },
+    {
+        "description": "Hitbtc RAD/BTC",
+        "displaySymbol": "RAD/BTC",
+        "symbol": "HITBTC:RADBTC"
+    },
+    {
+        "description": "Hitbtc ACT/BTC",
+        "displaySymbol": "ACT/BTC",
+        "symbol": "HITBTC:ACTBTC"
+    },
+    {
+        "description": "Hitbtc TRV/BTC",
+        "displaySymbol": "TRV/BTC",
+        "symbol": "HITBTC:TRVBTC"
+    },
+    {
+        "description": "Hitbtc BCH/TUSD",
+        "displaySymbol": "BCH/TUSD",
+        "symbol": "HITBTC:BCHTUSD"
+    },
+    {
+        "description": "Hitbtc TFUEL/USD",
+        "displaySymbol": "TFUEL/USD",
+        "symbol": "HITBTC:TFUELUSD"
+    },
+    {
+        "description": "Hitbtc GOC/BCH",
+        "displaySymbol": "GOC/BCH",
+        "symbol": "HITBTC:GOCBCH"
+    },
+    {
+        "description": "Hitbtc YFI/BTC",
+        "displaySymbol": "YFI/BTC",
+        "symbol": "HITBTC:YFIBTC"
+    },
+    {
+        "description": "Hitbtc NTK/BTC",
+        "displaySymbol": "NTK/BTC",
+        "symbol": "HITBTC:NTKBTC"
+    },
+    {
+        "description": "Hitbtc FIRO/ETH",
+        "displaySymbol": "FIRO/ETH",
+        "symbol": "HITBTC:FIROETH"
+    },
+    {
+        "description": "Hitbtc XMT/BTC",
+        "displaySymbol": "XMT/BTC",
+        "symbol": "HITBTC:XMTBTC"
+    },
+    {
+        "description": "Hitbtc AAVE/BTC",
+        "displaySymbol": "AAVE/BTC",
+        "symbol": "HITBTC:AAVEBTC"
+    },
+    {
+        "description": "Hitbtc MINA/USD",
+        "displaySymbol": "MINA/USD",
+        "symbol": "HITBTC:MINAUSD"
+    },
+    {
+        "description": "Hitbtc BANCA/BTC",
+        "displaySymbol": "BANCA/BTC",
+        "symbol": "HITBTC:BANCABTC"
+    },
+    {
+        "description": "Hitbtc FXT/BTC",
+        "displaySymbol": "FXT/BTC",
+        "symbol": "HITBTC:FXTBTC"
+    },
+    {
+        "description": "Hitbtc HUB/ETH",
+        "displaySymbol": "HUB/ETH",
+        "symbol": "HITBTC:HUBETH"
+    },
+    {
+        "description": "Hitbtc WIKI/BTC",
+        "displaySymbol": "WIKI/BTC",
+        "symbol": "HITBTC:WIKIBTC"
+    },
+    {
+        "description": "Hitbtc LOAN/ETH",
+        "displaySymbol": "LOAN/ETH",
+        "symbol": "HITBTC:LOANETH"
+    },
+    {
+        "description": "Hitbtc EURS/EOSDT",
+        "displaySymbol": "EURS/EOSDT",
+        "symbol": "HITBTC:EURSEOSDT"
+    },
+    {
+        "description": "Hitbtc DOT/HIT",
+        "displaySymbol": "DOT/HIT",
+        "symbol": "HITBTC:DOTHIT"
+    },
+    {
+        "description": "Hitbtc ETL/USD",
+        "displaySymbol": "ETL/USD",
+        "symbol": "HITBTC:ETLUSDT"
+    },
+    {
+        "description": "Hitbtc NEO/HIT",
+        "displaySymbol": "NEO/HIT",
+        "symbol": "HITBTC:NEOHIT"
+    },
+    {
+        "description": "Hitbtc GTC/BTC",
+        "displaySymbol": "GTC/BTC",
+        "symbol": "HITBTC:GTCBTC"
+    },
+    {
+        "description": "Hitbtc INSUR/BTC",
+        "displaySymbol": "INSUR/BTC",
+        "symbol": "HITBTC:INSURBTC"
+    },
+    {
+        "description": "Hitbtc AVA/ETH",
+        "displaySymbol": "AVA/ETH",
+        "symbol": "HITBTC:AVAETH"
+    },
+    {
+        "description": "Hitbtc CVNX/USD",
+        "displaySymbol": "CVNX/USD",
+        "symbol": "HITBTC:CVNXUSDT"
+    },
+    {
+        "description": "Hitbtc RUNE/BTC",
+        "displaySymbol": "RUNE/BTC",
+        "symbol": "HITBTC:RUNEBTC"
+    },
+    {
+        "description": "Hitbtc TRX/HIT",
+        "displaySymbol": "TRX/HIT",
+        "symbol": "HITBTC:TRXHIT"
+    },
+    {
+        "description": "Hitbtc CTK/BTC",
+        "displaySymbol": "CTK/BTC",
+        "symbol": "HITBTC:CTKBTC"
+    },
+    {
+        "description": "Hitbtc AGIX/BTC",
+        "displaySymbol": "AGIX/BTC",
+        "symbol": "HITBTC:AGIXBTC"
+    },
+    {
+        "description": "Hitbtc LUN/BTC",
+        "displaySymbol": "LUN/BTC",
+        "symbol": "HITBTC:LUNBTC"
+    },
+    {
+        "description": "Hitbtc SSV/USD",
+        "displaySymbol": "SSV/USD",
+        "symbol": "HITBTC:SSVUSDT"
+    },
+    {
+        "description": "Hitbtc CVNX/ETH",
+        "displaySymbol": "CVNX/ETH",
+        "symbol": "HITBTC:CVNXETH"
+    },
+    {
+        "description": "Hitbtc EGLD/USD",
+        "displaySymbol": "EGLD/USD",
+        "symbol": "HITBTC:EGLDUSD"
+    },
+    {
+        "description": "Hitbtc WOO/USD",
+        "displaySymbol": "WOO/USD",
+        "symbol": "HITBTC:WOOUSD"
+    },
+    {
+        "description": "Hitbtc EOS/BCH",
+        "displaySymbol": "EOS/BCH",
+        "symbol": "HITBTC:EOSBCH"
+    },
+    {
+        "description": "Hitbtc BTC/BUSD",
+        "displaySymbol": "BTC/BUSD",
+        "symbol": "HITBTC:BTCBUSD"
+    },
+    {
+        "description": "Hitbtc POA/ETH",
+        "displaySymbol": "POA/ETH",
+        "symbol": "HITBTC:POAETH"
+    },
+    {
+        "description": "Hitbtc SWM/USD",
+        "displaySymbol": "SWM/USD",
+        "symbol": "HITBTC:SWMUSD"
+    },
+    {
+        "description": "Hitbtc BNB/HIT",
+        "displaySymbol": "BNB/HIT",
+        "symbol": "HITBTC:BNBHIT"
+    },
+    {
+        "description": "Hitbtc POST/USD",
+        "displaySymbol": "POST/USD",
+        "symbol": "HITBTC:POSTUSD"
+    },
+    {
+        "description": "Hitbtc EFI/BTC",
+        "displaySymbol": "EFI/BTC",
+        "symbol": "HITBTC:EFIBTC"
+    },
+    {
+        "description": "Hitbtc STC/BTC",
+        "displaySymbol": "STC/BTC",
+        "symbol": "HITBTC:STCBTC"
+    },
+    {
+        "description": "Hitbtc REP/ETH",
+        "displaySymbol": "REP/ETH",
+        "symbol": "HITBTC:REPETH"
+    },
+    {
+        "description": "Hitbtc EMC/USD",
+        "displaySymbol": "EMC/USD",
+        "symbol": "HITBTC:EMCUSDT"
+    },
+    {
+        "description": "Hitbtc TXA/USDC",
+        "displaySymbol": "TXA/USDC",
+        "symbol": "HITBTC:TXAUSDC"
+    },
+    {
+        "description": "Hitbtc DOGE/USD",
+        "displaySymbol": "DOGE/USD",
+        "symbol": "HITBTC:DOGEUSD"
+    },
+    {
+        "description": "Hitbtc VALUE/BTC",
+        "displaySymbol": "VALUE/BTC",
+        "symbol": "HITBTC:VALUEBTC"
+    },
+    {
+        "description": "Hitbtc MYST/BTC",
+        "displaySymbol": "MYST/BTC",
+        "symbol": "HITBTC:MYSTBTC"
+    },
+    {
+        "description": "Hitbtc SOLO/USD",
+        "displaySymbol": "SOLO/USD",
+        "symbol": "HITBTC:SOLOUSD"
+    },
+    {
+        "description": "Hitbtc RPZX/BCH",
+        "displaySymbol": "RPZX/BCH",
+        "symbol": "HITBTC:RPZXBCH"
+    },
+    {
+        "description": "Hitbtc KIM/BTC",
+        "displaySymbol": "KIM/BTC",
+        "symbol": "HITBTC:KIMBTC"
+    },
+    {
+        "description": "Hitbtc EDGT/USD",
+        "displaySymbol": "EDGT/USD",
+        "symbol": "HITBTC:EDGTUSDT"
+    },
+    {
+        "description": "Hitbtc QNT/USD",
+        "displaySymbol": "QNT/USD",
+        "symbol": "HITBTC:QNTUSDT"
+    },
+    {
+        "description": "Hitbtc SPELL/BTC",
+        "displaySymbol": "SPELL/BTC",
+        "symbol": "HITBTC:SPELLBTC"
+    },
+    {
+        "description": "Hitbtc HIVE/BTC",
+        "displaySymbol": "HIVE/BTC",
+        "symbol": "HITBTC:HIVEBTC"
+    },
+    {
+        "description": "Hitbtc SXP/USD",
+        "displaySymbol": "SXP/USD",
+        "symbol": "HITBTC:SXPUSD"
+    },
+    {
+        "description": "Hitbtc KIND/ETH",
+        "displaySymbol": "KIND/ETH",
+        "symbol": "HITBTC:KINDETH"
+    },
+    {
+        "description": "Hitbtc DASH/BCH",
+        "displaySymbol": "DASH/BCH",
+        "symbol": "HITBTC:DASHBCH"
+    },
+    {
+        "description": "Hitbtc AKRO/BTC",
+        "displaySymbol": "AKRO/BTC",
+        "symbol": "HITBTC:AKROBTC"
+    },
+    {
+        "description": "Hitbtc FORTH/BTC",
+        "displaySymbol": "FORTH/BTC",
+        "symbol": "HITBTC:FORTHBTC"
+    },
+    {
+        "description": "Hitbtc NGC/BTC",
+        "displaySymbol": "NGC/BTC",
+        "symbol": "HITBTC:NGCBTC"
+    },
+    {
+        "description": "Hitbtc HVN/ETH",
+        "displaySymbol": "HVN/ETH",
+        "symbol": "HITBTC:HVNETH"
+    },
+    {
+        "description": "Hitbtc LTC/EOS",
+        "displaySymbol": "LTC/EOS",
+        "symbol": "HITBTC:LTCEOS"
+    },
+    {
+        "description": "Hitbtc CTK/USD",
+        "displaySymbol": "CTK/USD",
+        "symbol": "HITBTC:CTKUSDT"
+    },
+    {
+        "description": "Hitbtc SUN/BTC",
+        "displaySymbol": "SUN/BTC",
+        "symbol": "HITBTC:SUNBTC"
+    },
+    {
+        "description": "Hitbtc ARDR/USD",
+        "displaySymbol": "ARDR/USD",
+        "symbol": "HITBTC:ARDRUSD"
+    },
+    {
+        "description": "Hitbtc SAN/ETH",
+        "displaySymbol": "SAN/ETH",
+        "symbol": "HITBTC:SANETH"
+    },
+    {
+        "description": "Hitbtc EOS/USDP",
+        "displaySymbol": "EOS/USDP",
+        "symbol": "HITBTC:EOSUSDP"
+    },
+    {
+        "description": "Hitbtc MIR/USD",
+        "displaySymbol": "MIR/USD",
+        "symbol": "HITBTC:MIRUSD"
+    },
+    {
+        "description": "Hitbtc RPZX/BTC",
+        "displaySymbol": "RPZX/BTC",
+        "symbol": "HITBTC:RPZXBTC"
+    },
+    {
+        "description": "Hitbtc XMR/EOS",
+        "displaySymbol": "XMR/EOS",
+        "symbol": "HITBTC:XMREOS"
+    },
+    {
+        "description": "Hitbtc CLT/USD",
+        "displaySymbol": "CLT/USD",
+        "symbol": "HITBTC:CLTUSD"
+    },
+    {
+        "description": "Hitbtc EUNO/BTC",
+        "displaySymbol": "EUNO/BTC",
+        "symbol": "HITBTC:EUNOBTC"
+    },
+    {
+        "description": "Hitbtc SUR/USD",
+        "displaySymbol": "SUR/USD",
+        "symbol": "HITBTC:SURUSD"
+    },
+    {
+        "description": "Hitbtc JST/USD",
+        "displaySymbol": "JST/USD",
+        "symbol": "HITBTC:JSTUSD"
+    },
+    {
+        "description": "Hitbtc YCC/BTC",
+        "displaySymbol": "YCC/BTC",
+        "symbol": "HITBTC:YCCBTC"
+    },
+    {
+        "description": "Hitbtc XYO/USD",
+        "displaySymbol": "XYO/USD",
+        "symbol": "HITBTC:XYOUSDT"
+    },
+    {
+        "description": "Hitbtc CLO/ETH",
+        "displaySymbol": "CLO/ETH",
+        "symbol": "HITBTC:CLOETH"
+    },
+    {
+        "description": "Hitbtc NEXO/ETH",
+        "displaySymbol": "NEXO/ETH",
+        "symbol": "HITBTC:NEXOETH"
+    },
+    {
+        "description": "Hitbtc SOLVE/BTC",
+        "displaySymbol": "SOLVE/BTC",
+        "symbol": "HITBTC:SOLVEBTC"
+    },
+    {
+        "description": "Hitbtc SBD/BTC",
+        "displaySymbol": "SBD/BTC",
+        "symbol": "HITBTC:SBDBTC"
+    },
+    {
+        "description": "Hitbtc WOO/BTC",
+        "displaySymbol": "WOO/BTC",
+        "symbol": "HITBTC:WOOBTC"
+    },
+    {
+        "description": "Hitbtc SBD/ETH",
+        "displaySymbol": "SBD/ETH",
+        "symbol": "HITBTC:SBDETH"
+    },
+    {
+        "description": "Hitbtc WBTC/BTC",
+        "displaySymbol": "WBTC/BTC",
+        "symbol": "HITBTC:WBTCBTC"
+    },
+    {
+        "description": "Hitbtc LTO/USD",
+        "displaySymbol": "LTO/USD",
+        "symbol": "HITBTC:LTOUSD"
+    },
+    {
+        "description": "Hitbtc VGX/ETH",
+        "displaySymbol": "VGX/ETH",
+        "symbol": "HITBTC:VGXETH"
+    },
+    {
+        "description": "Hitbtc BNK/USD",
+        "displaySymbol": "BNK/USD",
+        "symbol": "HITBTC:BNKUSD"
+    },
+    {
+        "description": "Hitbtc BTS/BTC",
+        "displaySymbol": "BTS/BTC",
+        "symbol": "HITBTC:BTSBTC"
+    },
+    {
+        "description": "Hitbtc ALGO/BTC",
+        "displaySymbol": "ALGO/BTC",
+        "symbol": "HITBTC:ALGOBTC"
+    },
+    {
+        "description": "Hitbtc ATA/BTC",
+        "displaySymbol": "ATA/BTC",
+        "symbol": "HITBTC:ATABTC"
+    },
+    {
+        "description": "Hitbtc RARE/USD",
+        "displaySymbol": "RARE/USD",
+        "symbol": "HITBTC:RAREUSDT"
+    },
+    {
+        "description": "Hitbtc XYM/BTC",
+        "displaySymbol": "XYM/BTC",
+        "symbol": "HITBTC:XYMBTC"
+    },
+    {
+        "description": "Hitbtc THETA/USD",
+        "displaySymbol": "THETA/USD",
+        "symbol": "HITBTC:THETAUSD"
+    },
+    {
+        "description": "Hitbtc XMR/EURS",
+        "displaySymbol": "XMR/EURS",
+        "symbol": "HITBTC:XMREURS"
+    },
+    {
+        "description": "Hitbtc ETH/EURS",
+        "displaySymbol": "ETH/EURS",
+        "symbol": "HITBTC:ETHEURS"
+    },
+    {
+        "description": "Hitbtc USG/BTC",
+        "displaySymbol": "USG/BTC",
+        "symbol": "HITBTC:USGBTC"
+    },
+    {
+        "description": "Hitbtc GST/BTC",
+        "displaySymbol": "GST/BTC",
+        "symbol": "HITBTC:GSTBTC"
+    },
+    {
+        "description": "Hitbtc XNO/USD",
+        "displaySymbol": "XNO/USD",
+        "symbol": "HITBTC:XNOUSDT"
+    },
+    {
+        "description": "Hitbtc XMR/BTC",
+        "displaySymbol": "XMR/BTC",
+        "symbol": "HITBTC:XMRBTC"
+    },
+    {
+        "description": "Hitbtc SC/BTC",
+        "displaySymbol": "SC/BTC",
+        "symbol": "HITBTC:SCBTC"
+    },
+    {
+        "description": "Hitbtc BRD/USD",
+        "displaySymbol": "BRD/USD",
+        "symbol": "HITBTC:BRDUSD"
+    },
+    {
+        "description": "Hitbtc DDR/BTC",
+        "displaySymbol": "DDR/BTC",
+        "symbol": "HITBTC:DDRBTC"
+    },
+    {
+        "description": "Hitbtc DRG/ETH",
+        "displaySymbol": "DRG/ETH",
+        "symbol": "HITBTC:DRGETH"
+    },
+    {
+        "description": "Hitbtc MC/USD",
+        "displaySymbol": "MC/USD",
+        "symbol": "HITBTC:MCUSDT"
+    },
+    {
+        "description": "Hitbtc PLI/BTC",
+        "displaySymbol": "PLI/BTC",
+        "symbol": "HITBTC:PLIBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/USD",
+        "displaySymbol": "ZEC/USD",
+        "symbol": "HITBTC:ZECUSD"
+    },
+    {
+        "description": "Hitbtc XRP/EURS",
+        "displaySymbol": "XRP/EURS",
+        "symbol": "HITBTC:XRPEURS"
+    },
+    {
+        "description": "Hitbtc XVS/BTC",
+        "displaySymbol": "XVS/BTC",
+        "symbol": "HITBTC:XVSBTC"
+    },
+    {
+        "description": "Hitbtc IPX/BTC",
+        "displaySymbol": "IPX/BTC",
+        "symbol": "HITBTC:IPXBTC"
+    },
+    {
+        "description": "Hitbtc LTC/EURS",
+        "displaySymbol": "LTC/EURS",
+        "symbol": "HITBTC:LTCEURS"
+    },
+    {
+        "description": "Hitbtc BERRY/BTC",
+        "displaySymbol": "BERRY/BTC",
+        "symbol": "HITBTC:BERRYBTC"
+    },
+    {
+        "description": "Hitbtc GNX/BTC",
+        "displaySymbol": "GNX/BTC",
+        "symbol": "HITBTC:GNXBTC"
+    },
+    {
+        "description": "Hitbtc ARPA/BTC",
+        "displaySymbol": "ARPA/BTC",
+        "symbol": "HITBTC:ARPABTC"
+    },
+    {
+        "description": "Hitbtc AMB/USD",
+        "displaySymbol": "AMB/USD",
+        "symbol": "HITBTC:AMBUSD"
+    },
+    {
+        "description": "Hitbtc HTML/USD",
+        "displaySymbol": "HTML/USD",
+        "symbol": "HITBTC:HTMLUSD"
+    },
+    {
+        "description": "Hitbtc JUV/USD",
+        "displaySymbol": "JUV/USD",
+        "symbol": "HITBTC:JUVUSD"
+    },
+    {
+        "description": "Hitbtc POWR/ETH",
+        "displaySymbol": "POWR/ETH",
+        "symbol": "HITBTC:POWRETH"
+    },
+    {
+        "description": "Hitbtc RAMP/USD",
+        "displaySymbol": "RAMP/USD",
+        "symbol": "HITBTC:RAMPUSD"
+    },
+    {
+        "description": "Hitbtc VET/BTC",
+        "displaySymbol": "VET/BTC",
+        "symbol": "HITBTC:VETBTC"
+    },
+    {
+        "description": "Hitbtc DENT/ETH",
+        "displaySymbol": "DENT/ETH",
+        "symbol": "HITBTC:DENTETH"
+    },
+    {
+        "description": "Hitbtc ETP/BTC",
+        "displaySymbol": "ETP/BTC",
+        "symbol": "HITBTC:ETPBTC"
+    },
+    {
+        "description": "Hitbtc FYP/BTC",
+        "displaySymbol": "FYP/BTC",
+        "symbol": "HITBTC:FYPBTC"
+    },
+    {
+        "description": "Hitbtc SNX/USD",
+        "displaySymbol": "SNX/USD",
+        "symbol": "HITBTC:SNXUSD"
+    },
+    {
+        "description": "Hitbtc OCC/BTC",
+        "displaySymbol": "OCC/BTC",
+        "symbol": "HITBTC:OCCBTC"
+    },
+    {
+        "description": "Hitbtc ZPR/ETH",
+        "displaySymbol": "ZPR/ETH",
+        "symbol": "HITBTC:ZPRETH"
+    },
+    {
+        "description": "Hitbtc GVT/ETH",
+        "displaySymbol": "GVT/ETH",
+        "symbol": "HITBTC:GVTETH"
+    },
+    {
+        "description": "Hitbtc MITH/ETH",
+        "displaySymbol": "MITH/ETH",
+        "symbol": "HITBTC:MITHETH"
+    },
+    {
+        "description": "Hitbtc HIT/USD",
+        "displaySymbol": "HIT/USD",
+        "symbol": "HITBTC:HITUSD"
+    },
+    {
+        "description": "Hitbtc ZIL/USD",
+        "displaySymbol": "ZIL/USD",
+        "symbol": "HITBTC:ZILUSD"
+    },
+    {
+        "description": "Hitbtc SUB/USD",
+        "displaySymbol": "SUB/USD",
+        "symbol": "HITBTC:SUBUSD"
+    },
+    {
+        "description": "Hitbtc TNC/USD",
+        "displaySymbol": "TNC/USD",
+        "symbol": "HITBTC:TNCUSD"
+    },
+    {
+        "description": "Hitbtc ZSC/ETH",
+        "displaySymbol": "ZSC/ETH",
+        "symbol": "HITBTC:ZSCETH"
+    },
+    {
+        "description": "Hitbtc UNI/BTC",
+        "displaySymbol": "UNI/BTC",
+        "symbol": "HITBTC:UNIBTC"
+    },
+    {
+        "description": "Hitbtc WBTC/USD",
+        "displaySymbol": "WBTC/USD",
+        "symbol": "HITBTC:WBTCUSD"
+    },
+    {
+        "description": "Hitbtc WLITI/USD",
+        "displaySymbol": "WLITI/USD",
+        "symbol": "HITBTC:WLITIUSDT"
+    },
+    {
+        "description": "Hitbtc AUDIO/BTC",
+        "displaySymbol": "AUDIO/BTC",
+        "symbol": "HITBTC:AUDIOBTC"
+    },
+    {
+        "description": "Hitbtc ELF/BTC",
+        "displaySymbol": "ELF/BTC",
+        "symbol": "HITBTC:ELFBTC"
+    },
+    {
+        "description": "Hitbtc HGT/BTC",
+        "displaySymbol": "HGT/BTC",
+        "symbol": "HITBTC:HGTBTC"
+    },
+    {
+        "description": "Hitbtc NEAR/USD",
+        "displaySymbol": "NEAR/USD",
+        "symbol": "HITBTC:NEARUSD"
+    },
+    {
+        "description": "Hitbtc XUC/ETH",
+        "displaySymbol": "XUC/ETH",
+        "symbol": "HITBTC:XUCETH"
+    },
+    {
+        "description": "Hitbtc HTML/ETH",
+        "displaySymbol": "HTML/ETH",
+        "symbol": "HITBTC:HTMLETH"
+    },
+    {
+        "description": "Hitbtc PLU/ETH",
+        "displaySymbol": "PLU/ETH",
+        "symbol": "HITBTC:PLUETH"
+    },
+    {
+        "description": "Hitbtc MDA/BTC",
+        "displaySymbol": "MDA/BTC",
+        "symbol": "HITBTC:MDABTC"
+    },
+    {
+        "description": "Hitbtc POND/BTC",
+        "displaySymbol": "POND/BTC",
+        "symbol": "HITBTC:PONDBTC"
+    },
+    {
+        "description": "Hitbtc DGB/TUSD",
+        "displaySymbol": "DGB/TUSD",
+        "symbol": "HITBTC:DGBTUSD"
+    },
+    {
+        "description": "Hitbtc SENT/ETH",
+        "displaySymbol": "SENT/ETH",
+        "symbol": "HITBTC:SENTETH"
+    },
+    {
+        "description": "Hitbtc STAR/ETH",
+        "displaySymbol": "STAR/ETH",
+        "symbol": "HITBTC:STARETH"
+    },
+    {
+        "description": "Hitbtc MESH/ETH",
+        "displaySymbol": "MESH/ETH",
+        "symbol": "HITBTC:MESHETH"
+    },
+    {
+        "description": "Hitbtc BSV/USD",
+        "displaySymbol": "BSV/USD",
+        "symbol": "HITBTC:BSVUSD"
+    },
+    {
+        "description": "Hitbtc DATX/ETH",
+        "displaySymbol": "DATX/ETH",
+        "symbol": "HITBTC:DATXETH"
+    },
+    {
+        "description": "Hitbtc LEO/BTC",
+        "displaySymbol": "LEO/BTC",
+        "symbol": "HITBTC:LEOBTC"
+    },
+    {
+        "description": "Hitbtc CROOLD/BTC",
+        "displaySymbol": "CROOLD/BTC",
+        "symbol": "HITBTC:CROOLDBTC"
+    },
+    {
+        "description": "Hitbtc NEBL/BTC",
+        "displaySymbol": "NEBL/BTC",
+        "symbol": "HITBTC:NEBLBTC"
+    },
+    {
+        "description": "Hitbtc UTK/ETH",
+        "displaySymbol": "UTK/ETH",
+        "symbol": "HITBTC:UTKETH"
+    },
+    {
+        "description": "Hitbtc ETC/ETH",
+        "displaySymbol": "ETC/ETH",
+        "symbol": "HITBTC:ETCETH"
+    },
+    {
+        "description": "Hitbtc SNT/ETH",
+        "displaySymbol": "SNT/ETH",
+        "symbol": "HITBTC:SNTETH"
+    },
+    {
+        "description": "Hitbtc MITH/USD",
+        "displaySymbol": "MITH/USD",
+        "symbol": "HITBTC:MITHUSD"
+    },
+    {
+        "description": "Hitbtc ETN/ETH",
+        "displaySymbol": "ETN/ETH",
+        "symbol": "HITBTC:ETNETH"
+    },
+    {
+        "description": "Hitbtc GLM/BTC",
+        "displaySymbol": "GLM/BTC",
+        "symbol": "HITBTC:GLMBTC"
+    },
+    {
+        "description": "Hitbtc NCT/ETH",
+        "displaySymbol": "NCT/ETH",
+        "symbol": "HITBTC:NCTETH"
+    },
+    {
+        "description": "Hitbtc MOFOLD/BTC",
+        "displaySymbol": "MOFOLD/BTC",
+        "symbol": "HITBTC:MOFOLDBTC"
+    },
+    {
+        "description": "Hitbtc AMB/BTC",
+        "displaySymbol": "AMB/BTC",
+        "symbol": "HITBTC:AMBBTC"
+    },
+    {
+        "description": "Hitbtc PNT/ETH",
+        "displaySymbol": "PNT/ETH",
+        "symbol": "HITBTC:PNTETH"
+    },
+    {
+        "description": "Hitbtc SOL/BTC",
+        "displaySymbol": "SOL/BTC",
+        "symbol": "HITBTC:SOLBTC"
+    },
+    {
+        "description": "Hitbtc EVX/USD",
+        "displaySymbol": "EVX/USD",
+        "symbol": "HITBTC:EVXUSD"
+    },
+    {
+        "description": "Hitbtc ETC/BTC",
+        "displaySymbol": "ETC/BTC",
+        "symbol": "HITBTC:ETCBTC"
+    },
+    {
+        "description": "Hitbtc BLZ/BTC",
+        "displaySymbol": "BLZ/BTC",
+        "symbol": "HITBTC:BLZBTC"
+    },
+    {
+        "description": "Hitbtc AUTO/BTC",
+        "displaySymbol": "AUTO/BTC",
+        "symbol": "HITBTC:AUTOBTC"
+    },
+    {
+        "description": "Hitbtc COV/BTC",
+        "displaySymbol": "COV/BTC",
+        "symbol": "HITBTC:COVBTC"
+    },
+    {
+        "description": "Hitbtc ENJ/USD",
+        "displaySymbol": "ENJ/USD",
+        "symbol": "HITBTC:ENJUSD"
+    },
+    {
+        "description": "Hitbtc MITX/BTC",
+        "displaySymbol": "MITX/BTC",
+        "symbol": "HITBTC:MITXBTC"
+    },
+    {
+        "description": "Hitbtc AUCTION/USD",
+        "displaySymbol": "AUCTION/USD",
+        "symbol": "HITBTC:AUCTIONUSDT"
+    },
+    {
+        "description": "Hitbtc ARRR/BCH",
+        "displaySymbol": "ARRR/BCH",
+        "symbol": "HITBTC:ARRRBCH"
+    },
+    {
+        "description": "Hitbtc AXPR/BTC",
+        "displaySymbol": "AXPR/BTC",
+        "symbol": "HITBTC:AXPRBTC"
+    },
+    {
+        "description": "Hitbtc PAR/BTC",
+        "displaySymbol": "PAR/BTC",
+        "symbol": "HITBTC:PARBTC"
+    },
+    {
+        "description": "Hitbtc USD/USDC",
+        "displaySymbol": "USD/USDC",
+        "symbol": "HITBTC:USDUSDC"
+    },
+    {
+        "description": "Hitbtc DAY/ETH",
+        "displaySymbol": "DAY/ETH",
+        "symbol": "HITBTC:DAYETH"
+    },
+    {
+        "description": "Hitbtc BAKE/BTC",
+        "displaySymbol": "BAKE/BTC",
+        "symbol": "HITBTC:BAKEBTC"
+    },
+    {
+        "description": "Hitbtc BCUG/ETH",
+        "displaySymbol": "BCUG/ETH",
+        "symbol": "HITBTC:BCUGETH"
+    },
+    {
+        "description": "Hitbtc STRAT/USD",
+        "displaySymbol": "STRAT/USD",
+        "symbol": "HITBTC:STRATUSD"
+    },
+    {
+        "description": "Hitbtc DRT/USD",
+        "displaySymbol": "DRT/USD",
+        "symbol": "HITBTC:DRTUSDT"
+    },
+    {
+        "description": "Hitbtc ADA/BTC",
+        "displaySymbol": "ADA/BTC",
+        "symbol": "HITBTC:ADABTC"
+    },
+    {
+        "description": "Hitbtc DNA/BTC",
+        "displaySymbol": "DNA/BTC",
+        "symbol": "HITBTC:DNABTC"
+    },
+    {
+        "description": "Hitbtc BIZZ/BTC",
+        "displaySymbol": "BIZZ/BTC",
+        "symbol": "HITBTC:BIZZBTC"
+    },
+    {
+        "description": "Hitbtc ORN/BTC",
+        "displaySymbol": "ORN/BTC",
+        "symbol": "HITBTC:ORNBTC"
+    },
+    {
+        "description": "Hitbtc POA20/DAI",
+        "displaySymbol": "POA20/DAI",
+        "symbol": "HITBTC:POA20DAI"
+    },
+    {
+        "description": "Hitbtc XDN/USD",
+        "displaySymbol": "XDN/USD",
+        "symbol": "HITBTC:XDNUSD"
+    },
+    {
+        "description": "Hitbtc LTC/TUSD",
+        "displaySymbol": "LTC/TUSD",
+        "symbol": "HITBTC:LTCTUSD"
+    },
+    {
+        "description": "Hitbtc DAI/USDC",
+        "displaySymbol": "DAI/USDC",
+        "symbol": "HITBTC:DAIUSDC"
+    },
+    {
+        "description": "Hitbtc IOTA/ETH",
+        "displaySymbol": "IOTA/ETH",
+        "symbol": "HITBTC:IOTAETH"
+    },
+    {
+        "description": "Hitbtc AUCTION/BTC",
+        "displaySymbol": "AUCTION/BTC",
+        "symbol": "HITBTC:AUCTIONBTC"
+    },
+    {
+        "description": "Hitbtc PSL/USD",
+        "displaySymbol": "PSL/USD",
+        "symbol": "HITBTC:PSLUSD"
+    },
+    {
+        "description": "Hitbtc BTTOLD/ETH",
+        "displaySymbol": "BTTOLD/ETH",
+        "symbol": "HITBTC:BTTOLDETH"
+    },
+    {
+        "description": "Hitbtc HEDG/USD",
+        "displaySymbol": "HEDG/USD",
+        "symbol": "HITBTC:HEDGUSD"
+    },
+    {
+        "description": "Hitbtc GHST/USD",
+        "displaySymbol": "GHST/USD",
+        "symbol": "HITBTC:GHSTUSD"
+    },
+    {
+        "description": "Hitbtc BTC/USDC",
+        "displaySymbol": "BTC/USDC",
+        "symbol": "HITBTC:BTCUSDC"
+    },
+    {
+        "description": "Hitbtc ALPACA/BTC",
+        "displaySymbol": "ALPACA/BTC",
+        "symbol": "HITBTC:ALPACABTC"
+    },
+    {
+        "description": "Hitbtc PERL/BTC",
+        "displaySymbol": "PERL/BTC",
+        "symbol": "HITBTC:PERLBTC"
+    },
+    {
+        "description": "Hitbtc APPC/USD",
+        "displaySymbol": "APPC/USD",
+        "symbol": "HITBTC:APPCUSD"
+    },
+    {
+        "description": "Hitbtc MDX/BTC",
+        "displaySymbol": "MDX/BTC",
+        "symbol": "HITBTC:MDXBTC"
+    },
+    {
+        "description": "Hitbtc KEY/USD",
+        "displaySymbol": "KEY/USD",
+        "symbol": "HITBTC:KEYUSD"
+    },
+    {
+        "description": "Hitbtc VRA/BTC",
+        "displaySymbol": "VRA/BTC",
+        "symbol": "HITBTC:VRABTC"
+    },
+    {
+        "description": "Hitbtc EURS/DAI",
+        "displaySymbol": "EURS/DAI",
+        "symbol": "HITBTC:EURSDAI"
+    },
+    {
+        "description": "Hitbtc CBC/BTC",
+        "displaySymbol": "CBC/BTC",
+        "symbol": "HITBTC:CBCBTC"
+    },
+    {
+        "description": "Hitbtc NEU/BTC",
+        "displaySymbol": "NEU/BTC",
+        "symbol": "HITBTC:NEUBTC"
+    },
+    {
+        "description": "Hitbtc SOL/USD",
+        "displaySymbol": "SOL/USD",
+        "symbol": "HITBTC:SOLUSD"
+    },
+    {
+        "description": "Hitbtc EPS/USD",
+        "displaySymbol": "EPS/USD",
+        "symbol": "HITBTC:EPSUSD"
+    },
+    {
+        "description": "Hitbtc ETC/BCH",
+        "displaySymbol": "ETC/BCH",
+        "symbol": "HITBTC:ETCBCH"
+    },
+    {
+        "description": "Hitbtc BMH/BTC",
+        "displaySymbol": "BMH/BTC",
+        "symbol": "HITBTC:BMHBTC"
+    },
+    {
+        "description": "Hitbtc NEO/TUSD",
+        "displaySymbol": "NEO/TUSD",
+        "symbol": "HITBTC:NEOTUSD"
+    },
+    {
+        "description": "Hitbtc SRM/USD",
+        "displaySymbol": "SRM/USD",
+        "symbol": "HITBTC:SRMUSD"
+    },
+    {
+        "description": "Hitbtc AVAX/USD",
+        "displaySymbol": "AVAX/USD",
+        "symbol": "HITBTC:AVAXUSDT"
+    },
+    {
+        "description": "Hitbtc ETH/USDP",
+        "displaySymbol": "ETH/USDP",
+        "symbol": "HITBTC:ETHUSDP"
+    },
+    {
+        "description": "Hitbtc PHX/USD",
+        "displaySymbol": "PHX/USD",
+        "symbol": "HITBTC:PHXUSD"
+    },
+    {
+        "description": "Hitbtc XTZ/ETH",
+        "displaySymbol": "XTZ/ETH",
+        "symbol": "HITBTC:XTZETH"
+    },
+    {
+        "description": "Hitbtc BMC/ETH",
+        "displaySymbol": "BMC/ETH",
+        "symbol": "HITBTC:BMCETH"
+    },
+    {
+        "description": "Hitbtc DRG/BTC",
+        "displaySymbol": "DRG/BTC",
+        "symbol": "HITBTC:DRGBTC"
+    },
+    {
+        "description": "Hitbtc SUPER/BTC",
+        "displaySymbol": "SUPER/BTC",
+        "symbol": "HITBTC:SUPERBTC"
+    },
+    {
+        "description": "Hitbtc LUNA/USD",
+        "displaySymbol": "LUNA/USD",
+        "symbol": "HITBTC:LUNAUSD"
+    },
+    {
+        "description": "Hitbtc MBOX/BTC",
+        "displaySymbol": "MBOX/BTC",
+        "symbol": "HITBTC:MBOXBTC"
+    },
+    {
+        "description": "Hitbtc HSR/BTC",
+        "displaySymbol": "HSR/BTC",
+        "symbol": "HITBTC:HSRBTC"
+    },
+    {
+        "description": "Hitbtc DASH/ETH",
+        "displaySymbol": "DASH/ETH",
+        "symbol": "HITBTC:DASHETH"
+    },
+    {
+        "description": "Hitbtc USD/UST",
+        "displaySymbol": "USD/UST",
+        "symbol": "HITBTC:USDTUST"
+    },
+    {
+        "description": "Hitbtc SPI/USD",
+        "displaySymbol": "SPI/USD",
+        "symbol": "HITBTC:SPIUSD"
+    },
+    {
+        "description": "Hitbtc KIND/BTC",
+        "displaySymbol": "KIND/BTC",
+        "symbol": "HITBTC:KINDBTC"
+    },
+    {
+        "description": "Hitbtc BAL/USD",
+        "displaySymbol": "BAL/USD",
+        "symbol": "HITBTC:BALUSDT"
+    },
+    {
+        "description": "Hitbtc ETC/USD",
+        "displaySymbol": "ETC/USD",
+        "symbol": "HITBTC:ETCUSD"
+    },
+    {
+        "description": "Hitbtc BNX/USD",
+        "displaySymbol": "BNX/USD",
+        "symbol": "HITBTC:BNXUSDT"
+    },
+    {
+        "description": "Hitbtc VIBE/BTC",
+        "displaySymbol": "VIBE/BTC",
+        "symbol": "HITBTC:VIBEBTC"
+    },
+    {
+        "description": "Hitbtc STAK/BTC",
+        "displaySymbol": "STAK/BTC",
+        "symbol": "HITBTC:STAKBTC"
+    },
+    {
+        "description": "Hitbtc FACE/BTC",
+        "displaySymbol": "FACE/BTC",
+        "symbol": "HITBTC:FACEBTC"
+    },
+    {
+        "description": "Hitbtc PTOY/ETH",
+        "displaySymbol": "PTOY/ETH",
+        "symbol": "HITBTC:PTOYETH"
+    },
+    {
+        "description": "Hitbtc OKB/BTC",
+        "displaySymbol": "OKB/BTC",
+        "symbol": "HITBTC:OKBBTC"
+    },
+    {
+        "description": "Hitbtc SWM/ETH",
+        "displaySymbol": "SWM/ETH",
+        "symbol": "HITBTC:SWMETH"
+    },
+    {
+        "description": "Hitbtc ZRC/BTC",
+        "displaySymbol": "ZRC/BTC",
+        "symbol": "HITBTC:ZRCBTC"
+    },
+    {
+        "description": "Hitbtc ENJ/ETH",
+        "displaySymbol": "ENJ/ETH",
+        "symbol": "HITBTC:ENJETH"
+    },
+    {
+        "description": "Hitbtc KIN/USD",
+        "displaySymbol": "KIN/USD",
+        "symbol": "HITBTC:KINUSD"
+    },
+    {
+        "description": "Hitbtc XLM/USD",
+        "displaySymbol": "XLM/USD",
+        "symbol": "HITBTC:XLMUSD"
+    },
+    {
+        "description": "Hitbtc DICE/BTC",
+        "displaySymbol": "DICE/BTC",
+        "symbol": "HITBTC:DICEBTC"
+    },
+    {
+        "description": "Hitbtc SEELE/USD",
+        "displaySymbol": "SEELE/USD",
+        "symbol": "HITBTC:SEELEUSD"
+    },
+    {
+        "description": "Hitbtc SUR/BTC",
+        "displaySymbol": "SUR/BTC",
+        "symbol": "HITBTC:SURBTC"
+    },
+    {
+        "description": "Hitbtc PBT/BTC",
+        "displaySymbol": "PBT/BTC",
+        "symbol": "HITBTC:PBTBTC"
+    },
+    {
+        "description": "Hitbtc MAN/ETH",
+        "displaySymbol": "MAN/ETH",
+        "symbol": "HITBTC:MANETH"
+    },
+    {
+        "description": "Hitbtc NKN/USD",
+        "displaySymbol": "NKN/USD",
+        "symbol": "HITBTC:NKNUSD"
+    },
+    {
+        "description": "Hitbtc LOC/USD",
+        "displaySymbol": "LOC/USD",
+        "symbol": "HITBTC:LOCUSD"
+    },
+    {
+        "description": "Hitbtc BCPT/BTC",
+        "displaySymbol": "BCPT/BTC",
+        "symbol": "HITBTC:BCPTBTC"
+    },
+    {
+        "description": "Hitbtc XMC/USD",
+        "displaySymbol": "XMC/USD",
+        "symbol": "HITBTC:XMCUSDT"
+    },
+    {
+        "description": "Hitbtc MAID/USD",
+        "displaySymbol": "MAID/USD",
+        "symbol": "HITBTC:MAIDUSD"
+    },
+    {
+        "description": "Hitbtc KSM/USD",
+        "displaySymbol": "KSM/USD",
+        "symbol": "HITBTC:KSMUSD"
+    },
+    {
+        "description": "Hitbtc FRONT/BTC",
+        "displaySymbol": "FRONT/BTC",
+        "symbol": "HITBTC:FRONTBTC"
+    },
+    {
+        "description": "Hitbtc ANKR/USD",
+        "displaySymbol": "ANKR/USD",
+        "symbol": "HITBTC:ANKRUSD"
+    },
+    {
+        "description": "Hitbtc TENT/BTC",
+        "displaySymbol": "TENT/BTC",
+        "symbol": "HITBTC:TENTBTC"
+    },
+    {
+        "description": "Hitbtc TNC/BTC",
+        "displaySymbol": "TNC/BTC",
+        "symbol": "HITBTC:TNCBTC"
+    },
+    {
+        "description": "Hitbtc ETH/GUSD",
+        "displaySymbol": "ETH/GUSD",
+        "symbol": "HITBTC:ETHGUSD"
+    },
+    {
+        "description": "Hitbtc DIT/BTC",
+        "displaySymbol": "DIT/BTC",
+        "symbol": "HITBTC:DITBTC"
+    },
+    {
+        "description": "Hitbtc NEO/EOS",
+        "displaySymbol": "NEO/EOS",
+        "symbol": "HITBTC:NEOEOS"
+    },
+    {
+        "description": "Hitbtc AUC/BTC",
+        "displaySymbol": "AUC/BTC",
+        "symbol": "HITBTC:AUCBTC"
+    },
+    {
+        "description": "Hitbtc XVG/ETH",
+        "displaySymbol": "XVG/ETH",
+        "symbol": "HITBTC:XVGETH"
+    },
+    {
+        "description": "Hitbtc RARE/BTC",
+        "displaySymbol": "RARE/BTC",
+        "symbol": "HITBTC:RAREBTC"
+    },
+    {
+        "description": "Hitbtc GOF/USD",
+        "displaySymbol": "GOF/USD",
+        "symbol": "HITBTC:GOFUSD"
+    },
+    {
+        "description": "Hitbtc SLP/BTC",
+        "displaySymbol": "SLP/BTC",
+        "symbol": "HITBTC:SLPBTC"
+    },
+    {
+        "description": "Hitbtc WIKI/USD",
+        "displaySymbol": "WIKI/USD",
+        "symbol": "HITBTC:WIKIUSD"
+    },
+    {
+        "description": "Hitbtc BRD/ETH",
+        "displaySymbol": "BRD/ETH",
+        "symbol": "HITBTC:BRDETH"
+    },
+    {
+        "description": "Hitbtc CHR/BTC",
+        "displaySymbol": "CHR/BTC",
+        "symbol": "HITBTC:CHRBTC"
+    },
+    {
+        "description": "Hitbtc ERK/USD",
+        "displaySymbol": "ERK/USD",
+        "symbol": "HITBTC:ERKUSD"
+    },
+    {
+        "description": "Hitbtc SCL/BTC",
+        "displaySymbol": "SCL/BTC",
+        "symbol": "HITBTC:SCLBTC"
+    },
+    {
+        "description": "Hitbtc FOTA/BTC",
+        "displaySymbol": "FOTA/BTC",
+        "symbol": "HITBTC:FOTABTC"
+    },
+    {
+        "description": "Hitbtc KNC/ETH",
+        "displaySymbol": "KNC/ETH",
+        "symbol": "HITBTC:KNCETH"
+    },
+    {
+        "description": "Hitbtc KLV/USD",
+        "displaySymbol": "KLV/USD",
+        "symbol": "HITBTC:KLVUSD"
+    },
+    {
+        "description": "Hitbtc SNC/BTC",
+        "displaySymbol": "SNC/BTC",
+        "symbol": "HITBTC:SNCBTC"
+    },
+    {
+        "description": "Hitbtc MIMO/USD",
+        "displaySymbol": "MIMO/USD",
+        "symbol": "HITBTC:MIMOUSDT"
+    },
+    {
+        "description": "Hitbtc KNC/BTC",
+        "displaySymbol": "KNC/BTC",
+        "symbol": "HITBTC:KNCBTC"
+    },
+    {
+        "description": "Hitbtc HEDG/BTC",
+        "displaySymbol": "HEDG/BTC",
+        "symbol": "HITBTC:HEDGBTC"
+    },
+    {
+        "description": "Hitbtc BCH/USD",
+        "displaySymbol": "BCH/USD",
+        "symbol": "HITBTC:BCHUSD"
+    },
+    {
+        "description": "Hitbtc HTML/BTC",
+        "displaySymbol": "HTML/BTC",
+        "symbol": "HITBTC:HTMLBTC"
+    },
+    {
+        "description": "Hitbtc SENT/USD",
+        "displaySymbol": "SENT/USD",
+        "symbol": "HITBTC:SENTUSD"
+    },
+    {
+        "description": "Hitbtc ZRX/USD",
+        "displaySymbol": "ZRX/USD",
+        "symbol": "HITBTC:ZRXUSD"
+    },
+    {
+        "description": "Hitbtc IGNIS/ETH",
+        "displaySymbol": "IGNIS/ETH",
+        "symbol": "HITBTC:IGNISETH"
+    },
+    {
+        "description": "Hitbtc VSYS/USD",
+        "displaySymbol": "VSYS/USD",
+        "symbol": "HITBTC:VSYSUSD"
+    },
+    {
+        "description": "Hitbtc TEL/BTC",
+        "displaySymbol": "TEL/BTC",
+        "symbol": "HITBTC:TELBTC"
+    },
+    {
+        "description": "Hitbtc LAZIO/USD",
+        "displaySymbol": "LAZIO/USD",
+        "symbol": "HITBTC:LAZIOUSDT"
+    },
+    {
+        "description": "Hitbtc TRAC/BTC",
+        "displaySymbol": "TRAC/BTC",
+        "symbol": "HITBTC:TRACBTC"
+    },
+    {
+        "description": "Hitbtc IQQ/BTC",
+        "displaySymbol": "IQQ/BTC",
+        "symbol": "HITBTC:IQQBTC"
+    },
+    {
+        "description": "Hitbtc ZIL/BTC",
+        "displaySymbol": "ZIL/BTC",
+        "symbol": "HITBTC:ZILBTC"
+    },
+    {
+        "description": "Hitbtc BDG/BTC",
+        "displaySymbol": "BDG/BTC",
+        "symbol": "HITBTC:BDGBTC"
+    },
+    {
+        "description": "Hitbtc IOTX/BTC",
+        "displaySymbol": "IOTX/BTC",
+        "symbol": "HITBTC:IOTXBTC"
+    },
+    {
+        "description": "Hitbtc ALGO/USD",
+        "displaySymbol": "ALGO/USD",
+        "symbol": "HITBTC:ALGOUSD"
+    },
+    {
+        "description": "Hitbtc RSR/USD",
+        "displaySymbol": "RSR/USD",
+        "symbol": "HITBTC:RSRUSD"
+    },
+    {
+        "description": "Hitbtc XMR/ETH",
+        "displaySymbol": "XMR/ETH",
+        "symbol": "HITBTC:XMRETH"
+    },
+    {
+        "description": "Hitbtc POE/BTC",
+        "displaySymbol": "POE/BTC",
+        "symbol": "HITBTC:POEBTC"
+    },
+    {
+        "description": "Hitbtc FREE/USD",
+        "displaySymbol": "FREE/USD",
+        "symbol": "HITBTC:FREEUSD"
+    },
+    {
+        "description": "Hitbtc BNK/ETH",
+        "displaySymbol": "BNK/ETH",
+        "symbol": "HITBTC:BNKETH"
+    },
+    {
+        "description": "Hitbtc TT/BTC",
+        "displaySymbol": "TT/BTC",
+        "symbol": "HITBTC:TTBTC"
+    },
+    {
+        "description": "Hitbtc SPC/ETH",
+        "displaySymbol": "SPC/ETH",
+        "symbol": "HITBTC:SPCETH"
+    },
+    {
+        "description": "Hitbtc BNT/USD",
+        "displaySymbol": "BNT/USD",
+        "symbol": "HITBTC:BNTUSD"
+    },
+    {
+        "description": "Hitbtc EDG/USD",
+        "displaySymbol": "EDG/USD",
+        "symbol": "HITBTC:EDGUSD"
+    },
+    {
+        "description": "Hitbtc WAXP/USD",
+        "displaySymbol": "WAXP/USD",
+        "symbol": "HITBTC:WAXPUSD"
+    },
+    {
+        "description": "Hitbtc SAND/BTC",
+        "displaySymbol": "SAND/BTC",
+        "symbol": "HITBTC:SANDBTC"
+    },
+    {
+        "description": "Hitbtc CCE/BTC",
+        "displaySymbol": "CCE/BTC",
+        "symbol": "HITBTC:CCEBTC"
+    },
+    {
+        "description": "Hitbtc DENT/USD",
+        "displaySymbol": "DENT/USD",
+        "symbol": "HITBTC:DENTUSD"
+    },
+    {
+        "description": "Hitbtc SWT/BTC",
+        "displaySymbol": "SWT/BTC",
+        "symbol": "HITBTC:SWTBTC"
+    },
+    {
+        "description": "Hitbtc IHT/BTC",
+        "displaySymbol": "IHT/BTC",
+        "symbol": "HITBTC:IHTBTC"
+    },
+    {
+        "description": "Hitbtc TRX/BTC",
+        "displaySymbol": "TRX/BTC",
+        "symbol": "HITBTC:TRXBTC"
+    },
+    {
+        "description": "Hitbtc TRU/BTC",
+        "displaySymbol": "TRU/BTC",
+        "symbol": "HITBTC:TRUBTC"
+    },
+    {
+        "description": "Hitbtc XLM/BCH",
+        "displaySymbol": "XLM/BCH",
+        "symbol": "HITBTC:XLMBCH"
+    },
+    {
+        "description": "Hitbtc LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "HITBTC:LTCBTC"
+    },
+    {
+        "description": "Hitbtc NXT/ETH",
+        "displaySymbol": "NXT/ETH",
+        "symbol": "HITBTC:NXTETH"
+    },
+    {
+        "description": "Hitbtc GALA/USD",
+        "displaySymbol": "GALA/USD",
+        "symbol": "HITBTC:GALAUSDT"
+    },
+    {
+        "description": "Hitbtc MDX/USD",
+        "displaySymbol": "MDX/USD",
+        "symbol": "HITBTC:MDXUSD"
+    },
+    {
+        "description": "Hitbtc PYR/BTC",
+        "displaySymbol": "PYR/BTC",
+        "symbol": "HITBTC:PYRBTC"
+    },
+    {
+        "description": "Hitbtc DOT/USD",
+        "displaySymbol": "DOT/USD",
+        "symbol": "HITBTC:DOTUSD"
+    },
+    {
+        "description": "Hitbtc EKO/USD",
+        "displaySymbol": "EKO/USD",
+        "symbol": "HITBTC:EKOUSDT"
+    },
+    {
+        "description": "Hitbtc CW/BTC",
+        "displaySymbol": "CW/BTC",
+        "symbol": "HITBTC:CWBTC"
+    },
+    {
+        "description": "Hitbtc LSK/ETH",
+        "displaySymbol": "LSK/ETH",
+        "symbol": "HITBTC:LSKETH"
+    },
+    {
+        "description": "Hitbtc AGLD/BTC",
+        "displaySymbol": "AGLD/BTC",
+        "symbol": "HITBTC:AGLDBTC"
+    },
+    {
+        "description": "Hitbtc ZKS/BTC",
+        "displaySymbol": "ZKS/BTC",
+        "symbol": "HITBTC:ZKSBTC"
+    },
+    {
+        "description": "Hitbtc SMART/USD",
+        "displaySymbol": "SMART/USD",
+        "symbol": "HITBTC:SMARTUSD"
+    },
+    {
+        "description": "Hitbtc MITX/ETH",
+        "displaySymbol": "MITX/ETH",
+        "symbol": "HITBTC:MITXETH"
+    },
+    {
+        "description": "Hitbtc VET/ETH",
+        "displaySymbol": "VET/ETH",
+        "symbol": "HITBTC:VETETH"
+    },
+    {
+        "description": "Hitbtc DAISY/USD",
+        "displaySymbol": "DAISY/USD",
+        "symbol": "HITBTC:DAISYUSDT"
+    },
+    {
+        "description": "Hitbtc QKC/BTC",
+        "displaySymbol": "QKC/BTC",
+        "symbol": "HITBTC:QKCBTC"
+    },
+    {
+        "description": "Hitbtc GBX/ETH",
+        "displaySymbol": "GBX/ETH",
+        "symbol": "HITBTC:GBXETH"
+    },
+    {
+        "description": "Hitbtc CNS/USD",
+        "displaySymbol": "CNS/USD",
+        "symbol": "HITBTC:CNSUSD"
+    },
+    {
+        "description": "Hitbtc GTC/USD",
+        "displaySymbol": "GTC/USD",
+        "symbol": "HITBTC:GTCUSD"
+    },
+    {
+        "description": "Hitbtc SWFTC/BTC",
+        "displaySymbol": "SWFTC/BTC",
+        "symbol": "HITBTC:SWFTCBTC"
+    },
+    {
+        "description": "Hitbtc YOYOW/BTC",
+        "displaySymbol": "YOYOW/BTC",
+        "symbol": "HITBTC:YOYOWBTC"
+    },
+    {
+        "description": "Hitbtc BAL/BTC",
+        "displaySymbol": "BAL/BTC",
+        "symbol": "HITBTC:BALBTC"
+    },
+    {
+        "description": "Hitbtc CUR/ETH",
+        "displaySymbol": "CUR/ETH",
+        "symbol": "HITBTC:CURETH"
+    },
+    {
+        "description": "Hitbtc WAXP/BTC",
+        "displaySymbol": "WAXP/BTC",
+        "symbol": "HITBTC:WAXPBTC"
+    },
+    {
+        "description": "Hitbtc CITY/USD",
+        "displaySymbol": "CITY/USD",
+        "symbol": "HITBTC:CITYUSDT"
+    },
+    {
+        "description": "Hitbtc BOX/EOS",
+        "displaySymbol": "BOX/EOS",
+        "symbol": "HITBTC:BOXEOS"
+    },
+    {
+        "description": "Hitbtc JAM/BTC",
+        "displaySymbol": "JAM/BTC",
+        "symbol": "HITBTC:JAMBTC"
+    },
+    {
+        "description": "Hitbtc ALCX/BTC",
+        "displaySymbol": "ALCX/BTC",
+        "symbol": "HITBTC:ALCXBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/EOS",
+        "displaySymbol": "ZEC/EOS",
+        "symbol": "HITBTC:ZECEOS"
+    },
+    {
+        "description": "Hitbtc BDP/ETH",
+        "displaySymbol": "BDP/ETH",
+        "symbol": "HITBTC:BDPETH"
+    },
+    {
+        "description": "Hitbtc EOS/DAI",
+        "displaySymbol": "EOS/DAI",
+        "symbol": "HITBTC:EOSDAI"
+    },
+    {
+        "description": "Hitbtc EURS/USD",
+        "displaySymbol": "EURS/USD",
+        "symbol": "HITBTC:EURSUSD"
+    },
+    {
+        "description": "Hitbtc CRPT/USD",
+        "displaySymbol": "CRPT/USD",
+        "symbol": "HITBTC:CRPTUSD"
+    },
+    {
+        "description": "Hitbtc DACXI/USD",
+        "displaySymbol": "DACXI/USD",
+        "symbol": "HITBTC:DACXIUSDT"
+    },
+    {
+        "description": "Hitbtc CELO/USD",
+        "displaySymbol": "CELO/USD",
+        "symbol": "HITBTC:CELOUSDT"
+    },
+    {
+        "description": "Hitbtc OCEAN/USD",
+        "displaySymbol": "OCEAN/USD",
+        "symbol": "HITBTC:OCEANUSD"
+    },
+    {
+        "description": "Hitbtc IGNIS/BTC",
+        "displaySymbol": "IGNIS/BTC",
+        "symbol": "HITBTC:IGNISBTC"
+    },
+    {
+        "description": "Hitbtc ETH/EOSDT",
+        "displaySymbol": "ETH/EOSDT",
+        "symbol": "HITBTC:ETHEOSDT"
+    },
+    {
+        "description": "Hitbtc BCUG/BTC",
+        "displaySymbol": "BCUG/BTC",
+        "symbol": "HITBTC:BCUGBTC"
+    },
+    {
+        "description": "Hitbtc MTX/ETH",
+        "displaySymbol": "MTX/ETH",
+        "symbol": "HITBTC:MTXETH"
+    },
+    {
+        "description": "Hitbtc REN/USD",
+        "displaySymbol": "REN/USD",
+        "symbol": "HITBTC:RENUSDT"
+    },
+    {
+        "description": "Hitbtc PLA/USD",
+        "displaySymbol": "PLA/USD",
+        "symbol": "HITBTC:PLAUSD"
+    },
+    {
+        "description": "Hitbtc CROOLD/ETH",
+        "displaySymbol": "CROOLD/ETH",
+        "symbol": "HITBTC:CROOLDETH"
+    },
+    {
+        "description": "Hitbtc GOLDR/USD",
+        "displaySymbol": "GOLDR/USD",
+        "symbol": "HITBTC:GOLDRUSD"
+    },
+    {
+        "description": "Hitbtc USD/DDRST",
+        "displaySymbol": "USD/DDRST",
+        "symbol": "HITBTC:USDDDRST"
+    },
+    {
+        "description": "Hitbtc SNX/ETH",
+        "displaySymbol": "SNX/ETH",
+        "symbol": "HITBTC:SNXETH"
+    },
+    {
+        "description": "Hitbtc PRE/BTC",
+        "displaySymbol": "PRE/BTC",
+        "symbol": "HITBTC:PREBTC"
+    },
+    {
+        "description": "Hitbtc VIDT/BTC",
+        "displaySymbol": "VIDT/BTC",
+        "symbol": "HITBTC:VIDTBTC"
+    },
+    {
+        "description": "Hitbtc IDH/BTC",
+        "displaySymbol": "IDH/BTC",
+        "symbol": "HITBTC:IDHBTC"
+    },
+    {
+        "description": "Hitbtc SALT/BTC",
+        "displaySymbol": "SALT/BTC",
+        "symbol": "HITBTC:SALTBTC"
+    },
+    {
+        "description": "Hitbtc SWT/ETH",
+        "displaySymbol": "SWT/ETH",
+        "symbol": "HITBTC:SWTETH"
+    },
+    {
+        "description": "Hitbtc CLO/USD",
+        "displaySymbol": "CLO/USD",
+        "symbol": "HITBTC:CLOUSD"
+    },
+    {
+        "description": "Hitbtc NU/USD",
+        "displaySymbol": "NU/USD",
+        "symbol": "HITBTC:NUUSD"
+    },
+    {
+        "description": "Hitbtc CLT/BTC",
+        "displaySymbol": "CLT/BTC",
+        "symbol": "HITBTC:CLTBTC"
+    },
+    {
+        "description": "Hitbtc APM/BTC",
+        "displaySymbol": "APM/BTC",
+        "symbol": "HITBTC:APMBTC"
+    },
+    {
+        "description": "Hitbtc BAKE/USD",
+        "displaySymbol": "BAKE/USD",
+        "symbol": "HITBTC:BAKEUSD"
+    },
+    {
+        "description": "Hitbtc MESH/BTC",
+        "displaySymbol": "MESH/BTC",
+        "symbol": "HITBTC:MESHBTC"
+    },
+    {
+        "description": "Hitbtc BCD/BTC",
+        "displaySymbol": "BCD/BTC",
+        "symbol": "HITBTC:BCDBTC"
+    },
+    {
+        "description": "Hitbtc DYDX/USD",
+        "displaySymbol": "DYDX/USD",
+        "symbol": "HITBTC:DYDXUSDT"
+    },
+    {
+        "description": "Hitbtc XTZ/USD",
+        "displaySymbol": "XTZ/USD",
+        "symbol": "HITBTC:XTZUSD"
+    },
+    {
+        "description": "Hitbtc ARNX/ETH",
+        "displaySymbol": "ARNX/ETH",
+        "symbol": "HITBTC:ARNXETH"
+    },
+    {
+        "description": "Hitbtc CBC/USD",
+        "displaySymbol": "CBC/USD",
+        "symbol": "HITBTC:CBCUSD"
+    },
+    {
+        "description": "Hitbtc MBOX/USD",
+        "displaySymbol": "MBOX/USD",
+        "symbol": "HITBTC:MBOXUSDT"
+    },
+    {
+        "description": "Hitbtc AVA/USD",
+        "displaySymbol": "AVA/USD",
+        "symbol": "HITBTC:AVAUSD"
+    },
+    {
+        "description": "Hitbtc LINK/HIT",
+        "displaySymbol": "LINK/HIT",
+        "symbol": "HITBTC:LINKHIT"
+    },
+    {
+        "description": "Hitbtc IDEX/BTC",
+        "displaySymbol": "IDEX/BTC",
+        "symbol": "HITBTC:IDEXBTC"
+    },
+    {
+        "description": "Hitbtc SFP/USD",
+        "displaySymbol": "SFP/USD",
+        "symbol": "HITBTC:SFPUSD"
+    },
+    {
+        "description": "Hitbtc GMT/USD",
+        "displaySymbol": "GMT/USD",
+        "symbol": "HITBTC:GMTUSDT"
+    },
+    {
+        "description": "Hitbtc PAN/BTC",
+        "displaySymbol": "PAN/BTC",
+        "symbol": "HITBTC:PANBTC"
+    },
+    {
+        "description": "Hitbtc TRIGX/BTC",
+        "displaySymbol": "TRIGX/BTC",
+        "symbol": "HITBTC:TRIGXBTC"
+    },
+    {
+        "description": "Hitbtc TRUE/BTC",
+        "displaySymbol": "TRUE/BTC",
+        "symbol": "HITBTC:TRUEBTC"
+    },
+    {
+        "description": "Hitbtc PASS/ETH",
+        "displaySymbol": "PASS/ETH",
+        "symbol": "HITBTC:PASSETH"
+    },
+    {
+        "description": "Hitbtc PAY/ETH",
+        "displaySymbol": "PAY/ETH",
+        "symbol": "HITBTC:PAYETH"
+    },
+    {
+        "description": "Hitbtc AVAX/BTC",
+        "displaySymbol": "AVAX/BTC",
+        "symbol": "HITBTC:AVAXBTC"
+    },
+    {
+        "description": "Hitbtc TRX/ETH",
+        "displaySymbol": "TRX/ETH",
+        "symbol": "HITBTC:TRXETH"
+    },
+    {
+        "description": "Hitbtc LTNM/BTC",
+        "displaySymbol": "LTNM/BTC",
+        "symbol": "HITBTC:LTNMBTC"
+    },
+    {
+        "description": "Hitbtc ZRX/TUSD",
+        "displaySymbol": "ZRX/TUSD",
+        "symbol": "HITBTC:ZRXTUSD"
+    },
+    {
+        "description": "Hitbtc USD/IDRT",
+        "displaySymbol": "USD/IDRT",
+        "symbol": "HITBTC:USDIDRT"
+    },
+    {
+        "description": "Hitbtc NUT/EOS",
+        "displaySymbol": "NUT/EOS",
+        "symbol": "HITBTC:NUTEOS"
+    },
+    {
+        "description": "Hitbtc CTSI/USD",
+        "displaySymbol": "CTSI/USD",
+        "symbol": "HITBTC:CTSIUSD"
+    },
+    {
+        "description": "Hitbtc NIM/BTC",
+        "displaySymbol": "NIM/BTC",
+        "symbol": "HITBTC:NIMBTC"
+    },
+    {
+        "description": "Hitbtc AR/BTC",
+        "displaySymbol": "AR/BTC",
+        "symbol": "HITBTC:ARBTC"
+    },
+    {
+        "description": "Hitbtc PEAK/BTC",
+        "displaySymbol": "PEAK/BTC",
+        "symbol": "HITBTC:PEAKBTC"
+    },
+    {
+        "description": "Hitbtc FET/BTC",
+        "displaySymbol": "FET/BTC",
+        "symbol": "HITBTC:FETBTC"
+    },
+    {
+        "description": "Hitbtc UNO/BTC",
+        "displaySymbol": "UNO/BTC",
+        "symbol": "HITBTC:UNOBTC"
+    },
+    {
+        "description": "Hitbtc DDRT/USD",
+        "displaySymbol": "DDRT/USD",
+        "symbol": "HITBTC:DDRTUSD"
+    },
+    {
+        "description": "Hitbtc DAG/BTC",
+        "displaySymbol": "DAG/BTC",
+        "symbol": "HITBTC:DAGBTC"
+    },
+    {
+        "description": "Hitbtc PAXG/BTC",
+        "displaySymbol": "PAXG/BTC",
+        "symbol": "HITBTC:PAXGBTC"
+    },
+    {
+        "description": "Hitbtc BSV/BTC",
+        "displaySymbol": "BSV/BTC",
+        "symbol": "HITBTC:BSVBTC"
+    },
+    {
+        "description": "Hitbtc XBP/BTC",
+        "displaySymbol": "XBP/BTC",
+        "symbol": "HITBTC:XBPBTC"
+    },
+    {
+        "description": "Hitbtc NMR/USD",
+        "displaySymbol": "NMR/USD",
+        "symbol": "HITBTC:NMRUSD"
+    },
+    {
+        "description": "Hitbtc GXC/BTC",
+        "displaySymbol": "GXC/BTC",
+        "symbol": "HITBTC:GXCBTC"
+    },
+    {
+        "description": "Hitbtc C98/USD",
+        "displaySymbol": "C98/USD",
+        "symbol": "HITBTC:C98USDT"
+    },
+    {
+        "description": "Hitbtc NULS/USD",
+        "displaySymbol": "NULS/USD",
+        "symbol": "HITBTC:NULSUSDT"
+    },
+    {
+        "description": "Hitbtc FORTH/USD",
+        "displaySymbol": "FORTH/USD",
+        "symbol": "HITBTC:FORTHUSD"
+    },
+    {
+        "description": "Hitbtc PERL/USD",
+        "displaySymbol": "PERL/USD",
+        "symbol": "HITBTC:PERLUSD"
+    },
+    {
+        "description": "Hitbtc XYM/USD",
+        "displaySymbol": "XYM/USD",
+        "symbol": "HITBTC:XYMUSD"
+    },
+    {
+        "description": "Hitbtc FLP/ETH",
+        "displaySymbol": "FLP/ETH",
+        "symbol": "HITBTC:FLPETH"
+    },
+    {
+        "description": "Hitbtc SBTC/ETH",
+        "displaySymbol": "SBTC/ETH",
+        "symbol": "HITBTC:SBTCETH"
+    },
+    {
+        "description": "Hitbtc MIN/BTC",
+        "displaySymbol": "MIN/BTC",
+        "symbol": "HITBTC:MINBTC"
+    },
+    {
+        "description": "Hitbtc MKR/BTC",
+        "displaySymbol": "MKR/BTC",
+        "symbol": "HITBTC:MKRBTC"
+    },
+    {
+        "description": "Hitbtc TRX/BCH",
+        "displaySymbol": "TRX/BCH",
+        "symbol": "HITBTC:TRXBCH"
+    },
+    {
+        "description": "Hitbtc MESH/USD",
+        "displaySymbol": "MESH/USD",
+        "symbol": "HITBTC:MESHUSD"
+    },
+    {
+        "description": "Hitbtc ERK/BTC",
+        "displaySymbol": "ERK/BTC",
+        "symbol": "HITBTC:ERKBTC"
+    },
+    {
+        "description": "Hitbtc LA/ETH",
+        "displaySymbol": "LA/ETH",
+        "symbol": "HITBTC:LAETH"
+    },
+    {
+        "description": "Hitbtc MTLX/BTC",
+        "displaySymbol": "MTLX/BTC",
+        "symbol": "HITBTC:MTLXBTC"
+    },
+    {
+        "description": "Hitbtc FDZ/USD",
+        "displaySymbol": "FDZ/USD",
+        "symbol": "HITBTC:FDZUSD"
+    },
+    {
+        "description": "Hitbtc ERG/BTC",
+        "displaySymbol": "ERG/BTC",
+        "symbol": "HITBTC:ERGBTC"
+    },
+    {
+        "description": "Hitbtc LSK/USD",
+        "displaySymbol": "LSK/USD",
+        "symbol": "HITBTC:LSKUSD"
+    },
+    {
+        "description": "Hitbtc GNO/ETH",
+        "displaySymbol": "GNO/ETH",
+        "symbol": "HITBTC:GNOETH"
+    },
+    {
+        "description": "Hitbtc TLM/USD",
+        "displaySymbol": "TLM/USD",
+        "symbol": "HITBTC:TLMUSD"
+    },
+    {
+        "description": "Hitbtc SKL/BTC",
+        "displaySymbol": "SKL/BTC",
+        "symbol": "HITBTC:SKLBTC"
+    },
+    {
+        "description": "Hitbtc SYBC/BTC",
+        "displaySymbol": "SYBC/BTC",
+        "symbol": "HITBTC:SYBCBTC"
+    },
+    {
+        "description": "Hitbtc HUB/BTC",
+        "displaySymbol": "HUB/BTC",
+        "symbol": "HITBTC:HUBBTC"
+    },
+    {
+        "description": "Hitbtc OPT/BTC",
+        "displaySymbol": "OPT/BTC",
+        "symbol": "HITBTC:OPTBTC"
+    },
+    {
+        "description": "Hitbtc KRRX/USD",
+        "displaySymbol": "KRRX/USD",
+        "symbol": "HITBTC:KRRXUSDT"
+    },
+    {
+        "description": "Hitbtc OMG/ETH",
+        "displaySymbol": "OMG/ETH",
+        "symbol": "HITBTC:OMGETH"
+    },
+    {
+        "description": "Hitbtc AAVE/USD",
+        "displaySymbol": "AAVE/USD",
+        "symbol": "HITBTC:AAVEUSD"
+    },
+    {
+        "description": "Hitbtc REEF/BTC",
+        "displaySymbol": "REEF/BTC",
+        "symbol": "HITBTC:REEFBTC"
+    },
+    {
+        "description": "Hitbtc PAR/USD",
+        "displaySymbol": "PAR/USD",
+        "symbol": "HITBTC:PARUSDT"
+    },
+    {
+        "description": "Hitbtc SWM/BTC",
+        "displaySymbol": "SWM/BTC",
+        "symbol": "HITBTC:SWMBTC"
+    },
+    {
+        "description": "Hitbtc MDT/BTC",
+        "displaySymbol": "MDT/BTC",
+        "symbol": "HITBTC:MDTBTC"
+    },
+    {
+        "description": "Hitbtc MKR/DAI",
+        "displaySymbol": "MKR/DAI",
+        "symbol": "HITBTC:MKRDAI"
+    },
+    {
+        "description": "Hitbtc SUB/BTC",
+        "displaySymbol": "SUB/BTC",
+        "symbol": "HITBTC:SUBBTC"
+    },
+    {
+        "description": "Hitbtc ANKR/BTC",
+        "displaySymbol": "ANKR/BTC",
+        "symbol": "HITBTC:ANKRBTC"
+    },
+    {
+        "description": "Hitbtc MATIC/USD",
+        "displaySymbol": "MATIC/USD",
+        "symbol": "HITBTC:MATICUSD"
+    },
+    {
+        "description": "Hitbtc CEL/BTC",
+        "displaySymbol": "CEL/BTC",
+        "symbol": "HITBTC:CELBTC"
+    },
+    {
+        "description": "Hitbtc BIT/ETH",
+        "displaySymbol": "BIT/ETH",
+        "symbol": "HITBTC:BITETH"
+    },
+    {
+        "description": "Hitbtc LPT/USD",
+        "displaySymbol": "LPT/USD",
+        "symbol": "HITBTC:LPTUSD"
+    },
+    {
+        "description": "Hitbtc MITH/BTC",
+        "displaySymbol": "MITH/BTC",
+        "symbol": "HITBTC:MITHBTC"
+    },
+    {
+        "description": "Hitbtc ARRR/BTC",
+        "displaySymbol": "ARRR/BTC",
+        "symbol": "HITBTC:ARRRBTC"
+    },
+    {
+        "description": "Hitbtc POA/USD",
+        "displaySymbol": "POA/USD",
+        "symbol": "HITBTC:POAUSD"
+    },
+    {
+        "description": "Hitbtc DOV/ETH",
+        "displaySymbol": "DOV/ETH",
+        "symbol": "HITBTC:DOVETH"
+    },
+    {
+        "description": "Hitbtc SENSO/USD",
+        "displaySymbol": "SENSO/USD",
+        "symbol": "HITBTC:SENSOUSD"
+    },
+    {
+        "description": "Hitbtc HVN/BTC",
+        "displaySymbol": "HVN/BTC",
+        "symbol": "HITBTC:HVNBTC"
+    },
+    {
+        "description": "Hitbtc EOS/EOSDT",
+        "displaySymbol": "EOS/EOSDT",
+        "symbol": "HITBTC:EOSEOSDT"
+    },
+    {
+        "description": "Hitbtc NUT/USD",
+        "displaySymbol": "NUT/USD",
+        "symbol": "HITBTC:NUTUSD"
+    },
+    {
+        "description": "Hitbtc ATOM/BCH",
+        "displaySymbol": "ATOM/BCH",
+        "symbol": "HITBTC:ATOMBCH"
+    },
+    {
+        "description": "Hitbtc BICO/USD",
+        "displaySymbol": "BICO/USD",
+        "symbol": "HITBTC:BICOUSDT"
+    },
+    {
+        "description": "Hitbtc JULD/BTC",
+        "displaySymbol": "JULD/BTC",
+        "symbol": "HITBTC:JULDBTC"
+    },
+    {
+        "description": "Hitbtc VLX/BTC",
+        "displaySymbol": "VLX/BTC",
+        "symbol": "HITBTC:VLXBTC"
+    },
+    {
+        "description": "Hitbtc ATA/USD",
+        "displaySymbol": "ATA/USD",
+        "symbol": "HITBTC:ATAUSD"
+    },
+    {
+        "description": "Hitbtc CHAT/ETH",
+        "displaySymbol": "CHAT/ETH",
+        "symbol": "HITBTC:CHATETH"
+    },
+    {
+        "description": "Hitbtc CVP/USD",
+        "displaySymbol": "CVP/USD",
+        "symbol": "HITBTC:CVPUSD"
+    },
+    {
+        "description": "Hitbtc DASH/EURS",
+        "displaySymbol": "DASH/EURS",
+        "symbol": "HITBTC:DASHEURS"
+    },
+    {
+        "description": "Hitbtc XMR/HIT",
+        "displaySymbol": "XMR/HIT",
+        "symbol": "HITBTC:XMRHIT"
+    },
+    {
+        "description": "Hitbtc POLY/BTC",
+        "displaySymbol": "POLY/BTC",
+        "symbol": "HITBTC:POLYBTC"
+    },
+    {
+        "description": "Hitbtc CVT/ETH",
+        "displaySymbol": "CVT/ETH",
+        "symbol": "HITBTC:CVTETH"
+    },
+    {
+        "description": "Hitbtc PLR/USD",
+        "displaySymbol": "PLR/USD",
+        "symbol": "HITBTC:PLRUSD"
+    },
+    {
+        "description": "Hitbtc REEF/USD",
+        "displaySymbol": "REEF/USD",
+        "symbol": "HITBTC:REEFUSD"
+    },
+    {
+        "description": "Hitbtc RIF/USD",
+        "displaySymbol": "RIF/USD",
+        "symbol": "HITBTC:RIFUSD"
+    },
+    {
+        "description": "Hitbtc SFP/BTC",
+        "displaySymbol": "SFP/BTC",
+        "symbol": "HITBTC:SFPBTC"
+    },
+    {
+        "description": "Hitbtc AMP/BTC",
+        "displaySymbol": "AMP/BTC",
+        "symbol": "HITBTC:AMPBTC"
+    },
+    {
+        "description": "Hitbtc NIM/ETH",
+        "displaySymbol": "NIM/ETH",
+        "symbol": "HITBTC:NIMETH"
+    },
+    {
+        "description": "Hitbtc CUTE/EOS",
+        "displaySymbol": "CUTE/EOS",
+        "symbol": "HITBTC:CUTEEOS"
+    },
+    {
+        "description": "Hitbtc IPL/BTC",
+        "displaySymbol": "IPL/BTC",
+        "symbol": "HITBTC:IPLBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/HIT",
+        "displaySymbol": "ZEC/HIT",
+        "symbol": "HITBTC:ZECHIT"
+    },
+    {
+        "description": "Hitbtc MATIC/HIT",
+        "displaySymbol": "MATIC/HIT",
+        "symbol": "HITBTC:MATICHIT"
+    },
+    {
+        "description": "Hitbtc PHX/BTC",
+        "displaySymbol": "PHX/BTC",
+        "symbol": "HITBTC:PHXBTC"
+    },
+    {
+        "description": "Hitbtc ERK/ETH",
+        "displaySymbol": "ERK/ETH",
+        "symbol": "HITBTC:ERKETH"
+    },
+    {
+        "description": "Hitbtc ENS/USD",
+        "displaySymbol": "ENS/USD",
+        "symbol": "HITBTC:ENSUSDT"
+    },
+    {
+        "description": "Hitbtc ICX/ETH",
+        "displaySymbol": "ICX/ETH",
+        "symbol": "HITBTC:ICXETH"
+    },
+    {
+        "description": "Hitbtc ROX/ETH",
+        "displaySymbol": "ROX/ETH",
+        "symbol": "HITBTC:ROXETH"
+    },
+    {
+        "description": "Hitbtc FKX/BTC",
+        "displaySymbol": "FKX/BTC",
+        "symbol": "HITBTC:FKXBTC"
+    },
+    {
+        "description": "Hitbtc NAV/BTC",
+        "displaySymbol": "NAV/BTC",
+        "symbol": "HITBTC:NAVBTC"
+    },
+    {
+        "description": "Hitbtc ETN/USD",
+        "displaySymbol": "ETN/USD",
+        "symbol": "HITBTC:ETNUSD"
+    },
+    {
+        "description": "Hitbtc COMP/USD",
+        "displaySymbol": "COMP/USD",
+        "symbol": "HITBTC:COMPUSD"
+    },
+    {
+        "description": "Hitbtc BTB/BTC",
+        "displaySymbol": "BTB/BTC",
+        "symbol": "HITBTC:BTBBTC"
+    },
+    {
+        "description": "Hitbtc IDRT/BTC",
+        "displaySymbol": "IDRT/BTC",
+        "symbol": "HITBTC:IDRTBTC"
+    },
+    {
+        "description": "Hitbtc BWI/BTC",
+        "displaySymbol": "BWI/BTC",
+        "symbol": "HITBTC:BWIBTC"
+    },
+    {
+        "description": "Hitbtc VSYS/BTC",
+        "displaySymbol": "VSYS/BTC",
+        "symbol": "HITBTC:VSYSBTC"
+    },
+    {
+        "description": "Hitbtc PORTO/USD",
+        "displaySymbol": "PORTO/USD",
+        "symbol": "HITBTC:PORTOUSDT"
+    },
+    {
+        "description": "Hitbtc AAB/USD",
+        "displaySymbol": "AAB/USD",
+        "symbol": "HITBTC:AABUSD"
+    },
+    {
+        "description": "Hitbtc BTMC/BTC",
+        "displaySymbol": "BTMC/BTC",
+        "symbol": "HITBTC:BTMCBTC"
+    },
+    {
+        "description": "Hitbtc DATA/BTC",
+        "displaySymbol": "DATA/BTC",
+        "symbol": "HITBTC:DATABTC"
+    },
+    {
+        "description": "Hitbtc GOC/ETH",
+        "displaySymbol": "GOC/ETH",
+        "symbol": "HITBTC:GOCETH"
+    },
+    {
+        "description": "Hitbtc ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "HITBTC:ETHDAI"
+    },
+    {
+        "description": "Hitbtc PEARL/USD",
+        "displaySymbol": "PEARL/USD",
+        "symbol": "HITBTC:PEARLUSD"
+    },
+    {
+        "description": "Hitbtc LAS/ETH",
+        "displaySymbol": "LAS/ETH",
+        "symbol": "HITBTC:LASETH"
+    },
+    {
+        "description": "Hitbtc DATA/ETH",
+        "displaySymbol": "DATA/ETH",
+        "symbol": "HITBTC:DATAETH"
+    },
+    {
+        "description": "Hitbtc HMQ/ETH",
+        "displaySymbol": "HMQ/ETH",
+        "symbol": "HITBTC:HMQETH"
+    },
+    {
+        "description": "Hitbtc DACXI/BTC",
+        "displaySymbol": "DACXI/BTC",
+        "symbol": "HITBTC:DACXIBTC"
+    },
+    {
+        "description": "Hitbtc LINK/ETH",
+        "displaySymbol": "LINK/ETH",
+        "symbol": "HITBTC:LINKETH"
+    },
+    {
+        "description": "Hitbtc EKO/ETH",
+        "displaySymbol": "EKO/ETH",
+        "symbol": "HITBTC:EKOETH"
+    },
+    {
+        "description": "Hitbtc XUC/BTC",
+        "displaySymbol": "XUC/BTC",
+        "symbol": "HITBTC:XUCBTC"
+    },
+    {
+        "description": "Hitbtc GASP/USD",
+        "displaySymbol": "GASP/USD",
+        "symbol": "HITBTC:GASPUSD"
+    },
+    {
+        "description": "Hitbtc FTT/BTC",
+        "displaySymbol": "FTT/BTC",
+        "symbol": "HITBTC:FTTBTC"
+    },
+    {
+        "description": "Hitbtc BAT/USD",
+        "displaySymbol": "BAT/USD",
+        "symbol": "HITBTC:BATUSD"
+    },
+    {
+        "description": "Hitbtc XCH/USD",
+        "displaySymbol": "XCH/USD",
+        "symbol": "HITBTC:XCHUSD"
+    },
+    {
+        "description": "Hitbtc DNT/BTC",
+        "displaySymbol": "DNT/BTC",
+        "symbol": "HITBTC:DNTBTC"
+    },
+    {
+        "description": "Hitbtc PLI/XDC",
+        "displaySymbol": "PLI/XDC",
+        "symbol": "HITBTC:PLIXDC"
+    },
+    {
+        "description": "Hitbtc BERRY/ETH",
+        "displaySymbol": "BERRY/ETH",
+        "symbol": "HITBTC:BERRYETH"
+    },
+    {
+        "description": "Hitbtc DUSK/USD",
+        "displaySymbol": "DUSK/USD",
+        "symbol": "HITBTC:DUSKUSDT"
+    },
+    {
+        "description": "Hitbtc DAR/BTC",
+        "displaySymbol": "DAR/BTC",
+        "symbol": "HITBTC:DARBTC"
+    },
+    {
+        "description": "Hitbtc NEAR/BTC",
+        "displaySymbol": "NEAR/BTC",
+        "symbol": "HITBTC:NEARBTC"
+    },
+    {
+        "description": "Hitbtc PPT/ETH",
+        "displaySymbol": "PPT/ETH",
+        "symbol": "HITBTC:PPTETH"
+    },
+    {
+        "description": "Hitbtc COMP/BTC",
+        "displaySymbol": "COMP/BTC",
+        "symbol": "HITBTC:COMPBTC"
+    },
+    {
+        "description": "Hitbtc MFT/BTC",
+        "displaySymbol": "MFT/BTC",
+        "symbol": "HITBTC:MFTBTC"
+    },
+    {
+        "description": "Hitbtc TVK/BTC",
+        "displaySymbol": "TVK/BTC",
+        "symbol": "HITBTC:TVKBTC"
+    },
+    {
+        "description": "Hitbtc ADK/BTC",
+        "displaySymbol": "ADK/BTC",
+        "symbol": "HITBTC:ADKBTC"
+    },
+    {
+        "description": "Hitbtc ASP/USD",
+        "displaySymbol": "ASP/USD",
+        "symbol": "HITBTC:ASPUSD"
+    },
+    {
+        "description": "Hitbtc SWFTC/ETH",
+        "displaySymbol": "SWFTC/ETH",
+        "symbol": "HITBTC:SWFTCETH"
+    },
+    {
+        "description": "Hitbtc BCN/EOS",
+        "displaySymbol": "BCN/EOS",
+        "symbol": "HITBTC:BCNEOS"
+    },
+    {
+        "description": "Hitbtc CURE/BTC",
+        "displaySymbol": "CURE/BTC",
+        "symbol": "HITBTC:CUREBTC"
+    },
+    {
+        "description": "Hitbtc AUC/ETH",
+        "displaySymbol": "AUC/ETH",
+        "symbol": "HITBTC:AUCETH"
+    },
+    {
+        "description": "Hitbtc PKT/ETH",
+        "displaySymbol": "PKT/ETH",
+        "symbol": "HITBTC:PKTETH"
+    },
+    {
+        "description": "Hitbtc DODO/USD",
+        "displaySymbol": "DODO/USD",
+        "symbol": "HITBTC:DODOUSD"
+    },
+    {
+        "description": "Hitbtc ZEN/USD",
+        "displaySymbol": "ZEN/USD",
+        "symbol": "HITBTC:ZENUSD"
+    },
+    {
+        "description": "Hitbtc XPR/USD",
+        "displaySymbol": "XPR/USD",
+        "symbol": "HITBTC:XPRUSDT"
+    },
+    {
+        "description": "Hitbtc GODS/USD",
+        "displaySymbol": "GODS/USD",
+        "symbol": "HITBTC:GODSUSDT"
+    },
+    {
+        "description": "Hitbtc XRP/DAI",
+        "displaySymbol": "XRP/DAI",
+        "symbol": "HITBTC:XRPDAI"
+    },
+    {
+        "description": "Hitbtc CRDT/BTC",
+        "displaySymbol": "CRDT/BTC",
+        "symbol": "HITBTC:CRDTBTC"
+    },
+    {
+        "description": "Hitbtc STPT/BTC",
+        "displaySymbol": "STPT/BTC",
+        "symbol": "HITBTC:STPTBTC"
+    },
+    {
+        "description": "Hitbtc KEEP/BTC",
+        "displaySymbol": "KEEP/BTC",
+        "symbol": "HITBTC:KEEPBTC"
+    },
+    {
+        "description": "Hitbtc ZKS/USD",
+        "displaySymbol": "ZKS/USD",
+        "symbol": "HITBTC:ZKSUSD"
+    },
+    {
+        "description": "Hitbtc OCC/USD",
+        "displaySymbol": "OCC/USD",
+        "symbol": "HITBTC:OCCUSD"
+    },
+    {
+        "description": "Hitbtc NLC2/BTC",
+        "displaySymbol": "NLC2/BTC",
+        "symbol": "HITBTC:NLC2BTC"
+    },
+    {
+        "description": "Hitbtc DCR/USD",
+        "displaySymbol": "DCR/USD",
+        "symbol": "HITBTC:DCRUSD"
+    },
+    {
+        "description": "Hitbtc ORMEUS/BTC",
+        "displaySymbol": "ORMEUS/BTC",
+        "symbol": "HITBTC:ORMEUSBTC"
+    },
+    {
+        "description": "Hitbtc BOX/EURS",
+        "displaySymbol": "BOX/EURS",
+        "symbol": "HITBTC:BOXEURS"
+    },
+    {
+        "description": "Hitbtc SUKU/BTC",
+        "displaySymbol": "SUKU/BTC",
+        "symbol": "HITBTC:SUKUBTC"
+    },
+    {
+        "description": "Hitbtc BTTOLD/BTC",
+        "displaySymbol": "BTTOLD/BTC",
+        "symbol": "HITBTC:BTTOLDBTC"
+    },
+    {
+        "description": "Hitbtc RIF/BTC",
+        "displaySymbol": "RIF/BTC",
+        "symbol": "HITBTC:RIFBTC"
+    },
+    {
+        "description": "Hitbtc SOL/HIT",
+        "displaySymbol": "SOL/HIT",
+        "symbol": "HITBTC:SOLHIT"
+    },
+    {
+        "description": "Hitbtc CUR/BTC",
+        "displaySymbol": "CUR/BTC",
+        "symbol": "HITBTC:CURBTC"
+    },
+    {
+        "description": "Hitbtc XMC/ETH",
+        "displaySymbol": "XMC/ETH",
+        "symbol": "HITBTC:XMCETH"
+    },
+    {
+        "description": "Hitbtc MIR/BTC",
+        "displaySymbol": "MIR/BTC",
+        "symbol": "HITBTC:MIRBTC"
+    },
+    {
+        "description": "Hitbtc NEO/EURS",
+        "displaySymbol": "NEO/EURS",
+        "symbol": "HITBTC:NEOEURS"
+    },
+    {
+        "description": "Hitbtc MFT/USD",
+        "displaySymbol": "MFT/USD",
+        "symbol": "HITBTC:MFTUSD"
+    },
+    {
+        "description": "Hitbtc RFR/USD",
+        "displaySymbol": "RFR/USD",
+        "symbol": "HITBTC:RFRUSD"
+    },
+    {
+        "description": "Hitbtc KEY/BTC",
+        "displaySymbol": "KEY/BTC",
+        "symbol": "HITBTC:KEYBTC"
+    },
+    {
+        "description": "Hitbtc IDEX/USD",
+        "displaySymbol": "IDEX/USD",
+        "symbol": "HITBTC:IDEXUSDT"
+    },
+    {
+        "description": "Hitbtc DYDX/BTC",
+        "displaySymbol": "DYDX/BTC",
+        "symbol": "HITBTC:DYDXBTC"
+    },
+    {
+        "description": "Hitbtc RGT/BTC",
+        "displaySymbol": "RGT/BTC",
+        "symbol": "HITBTC:RGTBTC"
+    },
+    {
+        "description": "Hitbtc BDP/USD",
+        "displaySymbol": "BDP/USD",
+        "symbol": "HITBTC:BDPUSD"
+    },
+    {
+        "description": "Hitbtc ONE/BTC",
+        "displaySymbol": "ONE/BTC",
+        "symbol": "HITBTC:ONEBTC"
+    },
+    {
+        "description": "Hitbtc NRG/BTC",
+        "displaySymbol": "NRG/BTC",
+        "symbol": "HITBTC:NRGBTC"
+    },
+    {
+        "description": "Hitbtc BYTZ/BTC",
+        "displaySymbol": "BYTZ/BTC",
+        "symbol": "HITBTC:BYTZBTC"
+    },
+    {
+        "description": "Hitbtc ATOM/BTC",
+        "displaySymbol": "ATOM/BTC",
+        "symbol": "HITBTC:ATOMBTC"
+    },
+    {
+        "description": "Hitbtc LINA/USD",
+        "displaySymbol": "LINA/USD",
+        "symbol": "HITBTC:LINAUSD"
+    },
+    {
+        "description": "Hitbtc PITCH/BTC",
+        "displaySymbol": "PITCH/BTC",
+        "symbol": "HITBTC:PITCHBTC"
+    },
+    {
+        "description": "Hitbtc TXA/DAI",
+        "displaySymbol": "TXA/DAI",
+        "symbol": "HITBTC:TXADAI"
+    },
+    {
+        "description": "Hitbtc CUTE/USD",
+        "displaySymbol": "CUTE/USD",
+        "symbol": "HITBTC:CUTEUSD"
+    },
+    {
+        "description": "Hitbtc USE/BTC",
+        "displaySymbol": "USE/BTC",
+        "symbol": "HITBTC:USEBTC"
+    },
+    {
+        "description": "Hitbtc HT/USD",
+        "displaySymbol": "HT/USD",
+        "symbol": "HITBTC:HTUSD"
+    },
+    {
+        "description": "Hitbtc LND/ETH",
+        "displaySymbol": "LND/ETH",
+        "symbol": "HITBTC:LNDETH"
+    },
+    {
+        "description": "Hitbtc SCRT/BTC",
+        "displaySymbol": "SCRT/BTC",
+        "symbol": "HITBTC:SCRTBTC"
+    },
+    {
+        "description": "Hitbtc LRC/BTC",
+        "displaySymbol": "LRC/BTC",
+        "symbol": "HITBTC:LRCBTC"
+    },
+    {
+        "description": "Hitbtc GAS/USD",
+        "displaySymbol": "GAS/USD",
+        "symbol": "HITBTC:GASUSD"
+    },
+    {
+        "description": "Hitbtc PMA/USD",
+        "displaySymbol": "PMA/USD",
+        "symbol": "HITBTC:PMAUSD"
+    },
+    {
+        "description": "Hitbtc ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "HITBTC:ETHBTC"
+    },
+    {
+        "description": "Hitbtc EOS/BTC",
+        "displaySymbol": "EOS/BTC",
+        "symbol": "HITBTC:EOSBTC"
+    },
+    {
+        "description": "Hitbtc BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "HITBTC:BTCDAI"
+    },
+    {
+        "description": "Hitbtc ONT/ETH",
+        "displaySymbol": "ONT/ETH",
+        "symbol": "HITBTC:ONTETH"
+    },
+    {
+        "description": "Hitbtc PLBT/BTC",
+        "displaySymbol": "PLBT/BTC",
+        "symbol": "HITBTC:PLBTBTC"
+    },
+    {
+        "description": "Hitbtc LAZIO/BTC",
+        "displaySymbol": "LAZIO/BTC",
+        "symbol": "HITBTC:LAZIOBTC"
+    },
+    {
+        "description": "Hitbtc GLEEC/USD",
+        "displaySymbol": "GLEEC/USD",
+        "symbol": "HITBTC:GLEECUSD"
+    },
+    {
+        "description": "Hitbtc 1INCH/USD",
+        "displaySymbol": "1INCH/USD",
+        "symbol": "HITBTC:1INCHUSD"
+    },
+    {
+        "description": "Hitbtc BOX/BTC",
+        "displaySymbol": "BOX/BTC",
+        "symbol": "HITBTC:BOXBTC"
+    },
+    {
+        "description": "Hitbtc CRV/BTC",
+        "displaySymbol": "CRV/BTC",
+        "symbol": "HITBTC:CRVBTC"
+    },
+    {
+        "description": "Hitbtc MTX/BTC",
+        "displaySymbol": "MTX/BTC",
+        "symbol": "HITBTC:MTXBTC"
+    },
+    {
+        "description": "Hitbtc BNB/BTC",
+        "displaySymbol": "BNB/BTC",
+        "symbol": "HITBTC:BNBBTC"
+    },
+    {
+        "description": "Hitbtc ATM/BTC",
+        "displaySymbol": "ATM/BTC",
+        "symbol": "HITBTC:ATMBTC"
+    },
+    {
+        "description": "Hitbtc BYTZ/USD",
+        "displaySymbol": "BYTZ/USD",
+        "symbol": "HITBTC:BYTZUSD"
+    },
+    {
+        "description": "Hitbtc ONT/BCH",
+        "displaySymbol": "ONT/BCH",
+        "symbol": "HITBTC:ONTBCH"
+    },
+    {
+        "description": "Hitbtc ZAP/USD",
+        "displaySymbol": "ZAP/USD",
+        "symbol": "HITBTC:ZAPUSD"
+    },
+    {
+        "description": "Hitbtc BCD/USD",
+        "displaySymbol": "BCD/USD",
+        "symbol": "HITBTC:BCDUSD"
+    },
+    {
+        "description": "Hitbtc AAVE/HIT",
+        "displaySymbol": "AAVE/HIT",
+        "symbol": "HITBTC:AAVEHIT"
+    },
+    {
+        "description": "Hitbtc USD/DAI",
+        "displaySymbol": "USD/DAI",
+        "symbol": "HITBTC:USDDAI"
+    },
+    {
+        "description": "Hitbtc POE/ETH",
+        "displaySymbol": "POE/ETH",
+        "symbol": "HITBTC:POEETH"
+    },
+    {
+        "description": "Hitbtc APPC/BTC",
+        "displaySymbol": "APPC/BTC",
+        "symbol": "HITBTC:APPCBTC"
+    },
+    {
+        "description": "Hitbtc RSR/BTC",
+        "displaySymbol": "RSR/BTC",
+        "symbol": "HITBTC:RSRBTC"
+    },
+    {
+        "description": "Hitbtc VIB/ETH",
+        "displaySymbol": "VIB/ETH",
+        "symbol": "HITBTC:VIBETH"
+    },
+    {
+        "description": "Hitbtc PVM/USD",
+        "displaySymbol": "PVM/USD",
+        "symbol": "HITBTC:PVMUSDT"
+    },
+    {
+        "description": "Hitbtc CSOV/BTC",
+        "displaySymbol": "CSOV/BTC",
+        "symbol": "HITBTC:CSOVBTC"
+    },
+    {
+        "description": "Hitbtc UTT/ETH",
+        "displaySymbol": "UTT/ETH",
+        "symbol": "HITBTC:UTTETH"
+    },
+    {
+        "description": "Hitbtc PASS/BTC",
+        "displaySymbol": "PASS/BTC",
+        "symbol": "HITBTC:PASSBTC"
+    },
+    {
+        "description": "Hitbtc WOZX/ETH",
+        "displaySymbol": "WOZX/ETH",
+        "symbol": "HITBTC:WOZXETH"
+    },
+    {
+        "description": "Hitbtc RBIS/ETH",
+        "displaySymbol": "RBIS/ETH",
+        "symbol": "HITBTC:RBISETH"
+    },
+    {
+        "description": "Hitbtc TRIBE/USD",
+        "displaySymbol": "TRIBE/USD",
+        "symbol": "HITBTC:TRIBEUSDT"
+    },
+    {
+        "description": "Hitbtc MTH/ETH",
+        "displaySymbol": "MTH/ETH",
+        "symbol": "HITBTC:MTHETH"
+    },
+    {
+        "description": "Hitbtc TRAC/ETH",
+        "displaySymbol": "TRAC/ETH",
+        "symbol": "HITBTC:TRACETH"
+    },
+    {
+        "description": "Hitbtc POA20/USD",
+        "displaySymbol": "POA20/USD",
+        "symbol": "HITBTC:POA20USD"
+    },
+    {
+        "description": "Hitbtc COCOS/USD",
+        "displaySymbol": "COCOS/USD",
+        "symbol": "HITBTC:COCOSUSDT"
+    },
+    {
+        "description": "Hitbtc UNI/USD",
+        "displaySymbol": "UNI/USD",
+        "symbol": "HITBTC:UNIUSD"
+    },
+    {
+        "description": "Hitbtc MANA/ETH",
+        "displaySymbol": "MANA/ETH",
+        "symbol": "HITBTC:MANAETH"
+    },
+    {
+        "description": "Hitbtc CHAT/USD",
+        "displaySymbol": "CHAT/USD",
+        "symbol": "HITBTC:CHATUSD"
+    },
+    {
+        "description": "Hitbtc REQ/BTC",
+        "displaySymbol": "REQ/BTC",
+        "symbol": "HITBTC:REQBTC"
+    },
+    {
+        "description": "Hitbtc DDR/DDRST",
+        "displaySymbol": "DDR/DDRST",
+        "symbol": "HITBTC:DDRDDRST"
+    },
+    {
+        "description": "Hitbtc HEX/BTC",
+        "displaySymbol": "HEX/BTC",
+        "symbol": "HITBTC:HEXBTC"
+    },
+    {
+        "description": "Hitbtc CW/USD",
+        "displaySymbol": "CW/USD",
+        "symbol": "HITBTC:CWUSDT"
+    },
+    {
+        "description": "Hitbtc SMT/ETH",
+        "displaySymbol": "SMT/ETH",
+        "symbol": "HITBTC:SMTETH"
+    },
+    {
+        "description": "Hitbtc CHESS/USD",
+        "displaySymbol": "CHESS/USD",
+        "symbol": "HITBTC:CHESSUSDT"
+    },
+    {
+        "description": "Hitbtc QKC/ETH",
+        "displaySymbol": "QKC/ETH",
+        "symbol": "HITBTC:QKCETH"
+    },
+    {
+        "description": "Hitbtc OCN/BTC",
+        "displaySymbol": "OCN/BTC",
+        "symbol": "HITBTC:OCNBTC"
+    },
+    {
+        "description": "Hitbtc ARPA/USD",
+        "displaySymbol": "ARPA/USD",
+        "symbol": "HITBTC:ARPAUSD"
+    },
+    {
+        "description": "Hitbtc FLEX/BCH",
+        "displaySymbol": "FLEX/BCH",
+        "symbol": "HITBTC:FLEXBCH"
+    },
+    {
+        "description": "Hitbtc CVNX/BTC",
+        "displaySymbol": "CVNX/BTC",
+        "symbol": "HITBTC:CVNXBTC"
+    },
+    {
+        "description": "Hitbtc CROOLD/USD",
+        "displaySymbol": "CROOLD/USD",
+        "symbol": "HITBTC:CROOLDUSD"
+    },
+    {
+        "description": "Hitbtc FTX/ETH",
+        "displaySymbol": "FTX/ETH",
+        "symbol": "HITBTC:FTXETH"
+    },
+    {
+        "description": "Hitbtc DAY/USD",
+        "displaySymbol": "DAY/USD",
+        "symbol": "HITBTC:DAYUSD"
+    },
+    {
+        "description": "Hitbtc ZRX/BTC",
+        "displaySymbol": "ZRX/BTC",
+        "symbol": "HITBTC:ZRXBTC"
+    },
+    {
+        "description": "Hitbtc UUU/BTC",
+        "displaySymbol": "UUU/BTC",
+        "symbol": "HITBTC:UUUBTC"
+    },
+    {
+        "description": "Hitbtc BTG/ETH",
+        "displaySymbol": "BTG/ETH",
+        "symbol": "HITBTC:BTGETH"
+    },
+    {
+        "description": "Hitbtc BCPT/ETH",
+        "displaySymbol": "BCPT/ETH",
+        "symbol": "HITBTC:BCPTETH"
+    },
+    {
+        "description": "Hitbtc BTCB/BTC",
+        "displaySymbol": "BTCB/BTC",
+        "symbol": "HITBTC:BTCBBTC"
+    },
+    {
+        "description": "Hitbtc KIN/ETH",
+        "displaySymbol": "KIN/ETH",
+        "symbol": "HITBTC:KINETH"
+    },
+    {
+        "description": "Hitbtc ALPHA/BTC",
+        "displaySymbol": "ALPHA/BTC",
+        "symbol": "HITBTC:ALPHABTC"
+    },
+    {
+        "description": "Hitbtc GRIN/BTC",
+        "displaySymbol": "GRIN/BTC",
+        "symbol": "HITBTC:GRINBTC"
+    },
+    {
+        "description": "Hitbtc ADXN/USD",
+        "displaySymbol": "ADXN/USD",
+        "symbol": "HITBTC:ADXNUSD"
+    },
+    {
+        "description": "Hitbtc OMG/USD",
+        "displaySymbol": "OMG/USD",
+        "symbol": "HITBTC:OMGUSD"
+    },
+    {
+        "description": "Hitbtc HIT/BTC",
+        "displaySymbol": "HIT/BTC",
+        "symbol": "HITBTC:HITBTC"
+    },
+    {
+        "description": "Hitbtc BTC/EURST",
+        "displaySymbol": "BTC/EURST",
+        "symbol": "HITBTC:BTCEURST"
+    },
+    {
+        "description": "Hitbtc DEXE/BTC",
+        "displaySymbol": "DEXE/BTC",
+        "symbol": "HITBTC:DEXEBTC"
+    },
+    {
+        "description": "Hitbtc FIL/HIT",
+        "displaySymbol": "FIL/HIT",
+        "symbol": "HITBTC:FILHIT"
+    },
+    {
+        "description": "Hitbtc FACE/ETH",
+        "displaySymbol": "FACE/ETH",
+        "symbol": "HITBTC:FACEETH"
+    },
+    {
+        "description": "Hitbtc COTI/USD",
+        "displaySymbol": "COTI/USD",
+        "symbol": "HITBTC:COTIUSD"
+    },
+    {
+        "description": "Hitbtc FIL/BTC",
+        "displaySymbol": "FIL/BTC",
+        "symbol": "HITBTC:FILBTC"
+    },
+    {
+        "description": "Hitbtc ILV/BTC",
+        "displaySymbol": "ILV/BTC",
+        "symbol": "HITBTC:ILVBTC"
+    },
+    {
+        "description": "Hitbtc CEL/ETH",
+        "displaySymbol": "CEL/ETH",
+        "symbol": "HITBTC:CELETH"
+    },
+    {
+        "description": "Hitbtc PPC/USD",
+        "displaySymbol": "PPC/USD",
+        "symbol": "HITBTC:PPCUSD"
+    },
+    {
+        "description": "Hitbtc DAPP/EOS",
+        "displaySymbol": "DAPP/EOS",
+        "symbol": "HITBTC:DAPPEOS"
+    },
+    {
+        "description": "Hitbtc XRP/ETH",
+        "displaySymbol": "XRP/ETH",
+        "symbol": "HITBTC:XRPETH"
+    },
+    {
+        "description": "Hitbtc XMR/USD",
+        "displaySymbol": "XMR/USD",
+        "symbol": "HITBTC:XMRUSD"
+    },
+    {
+        "description": "Hitbtc XLM/HIT",
+        "displaySymbol": "XLM/HIT",
+        "symbol": "HITBTC:XLMHIT"
+    },
+    {
+        "description": "Hitbtc BMC/USD",
+        "displaySymbol": "BMC/USD",
+        "symbol": "HITBTC:BMCUSD"
+    },
+    {
+        "description": "Hitbtc REV/USD",
+        "displaySymbol": "REV/USD",
+        "symbol": "HITBTC:REVUSD"
+    },
+    {
+        "description": "Hitbtc CELR/BTC",
+        "displaySymbol": "CELR/BTC",
+        "symbol": "HITBTC:CELRBTC"
+    },
+    {
+        "description": "Hitbtc BOND/BTC",
+        "displaySymbol": "BOND/BTC",
+        "symbol": "HITBTC:BONDBTC"
+    },
+    {
+        "description": "Hitbtc USG/ETH",
+        "displaySymbol": "USG/ETH",
+        "symbol": "HITBTC:USGETH"
+    },
+    {
+        "description": "Hitbtc ETP/ETH",
+        "displaySymbol": "ETP/ETH",
+        "symbol": "HITBTC:ETPETH"
+    },
+    {
+        "description": "Hitbtc DODO/BTC",
+        "displaySymbol": "DODO/BTC",
+        "symbol": "HITBTC:DODOBTC"
+    },
+    {
+        "description": "Hitbtc ADA/ETH",
+        "displaySymbol": "ADA/ETH",
+        "symbol": "HITBTC:ADAETH"
+    },
+    {
+        "description": "Hitbtc CHSB/ETH",
+        "displaySymbol": "CHSB/ETH",
+        "symbol": "HITBTC:CHSBETH"
+    },
+    {
+        "description": "Hitbtc PBTT/BTC",
+        "displaySymbol": "PBTT/BTC",
+        "symbol": "HITBTC:PBTTBTC"
+    },
+    {
+        "description": "Hitbtc UTK/BTC",
+        "displaySymbol": "UTK/BTC",
+        "symbol": "HITBTC:UTKBTC"
+    },
+    {
+        "description": "Hitbtc VIDT/USD",
+        "displaySymbol": "VIDT/USD",
+        "symbol": "HITBTC:VIDTUSDT"
+    },
+    {
+        "description": "Hitbtc CND/BTC",
+        "displaySymbol": "CND/BTC",
+        "symbol": "HITBTC:CNDBTC"
+    },
+    {
+        "description": "Hitbtc XPNT/ETH",
+        "displaySymbol": "XPNT/ETH",
+        "symbol": "HITBTC:XPNTETH"
+    },
+    {
+        "description": "Hitbtc BDG/ETH",
+        "displaySymbol": "BDG/ETH",
+        "symbol": "HITBTC:BDGETH"
+    },
+    {
+        "description": "Hitbtc BOR/BTC",
+        "displaySymbol": "BOR/BTC",
+        "symbol": "HITBTC:BORBTC"
+    },
+    {
+        "description": "Hitbtc CND/ETH",
+        "displaySymbol": "CND/ETH",
+        "symbol": "HITBTC:CNDETH"
+    },
+    {
+        "description": "Hitbtc ZEN/BTC",
+        "displaySymbol": "ZEN/BTC",
+        "symbol": "HITBTC:ZENBTC"
+    },
+    {
+        "description": "Hitbtc AYA/USD",
+        "displaySymbol": "AYA/USD",
+        "symbol": "HITBTC:AYAUSD"
+    },
+    {
+        "description": "Hitbtc LTC/BCH",
+        "displaySymbol": "LTC/BCH",
+        "symbol": "HITBTC:LTCBCH"
+    },
+    {
+        "description": "Hitbtc CHESS/BTC",
+        "displaySymbol": "CHESS/BTC",
+        "symbol": "HITBTC:CHESSBTC"
+    },
+    {
+        "description": "Hitbtc XAUR/ETH",
+        "displaySymbol": "XAUR/ETH",
+        "symbol": "HITBTC:XAURETH"
+    },
+    {
+        "description": "Hitbtc PAXG/USD",
+        "displaySymbol": "PAXG/USD",
+        "symbol": "HITBTC:PAXGUSD"
+    },
+    {
+        "description": "Hitbtc ICP/BTC",
+        "displaySymbol": "ICP/BTC",
+        "symbol": "HITBTC:ICPBTC"
+    },
+    {
+        "description": "Hitbtc STC/USD",
+        "displaySymbol": "STC/USD",
+        "symbol": "HITBTC:STCUSD"
+    },
+    {
+        "description": "Hitbtc IOST/BTC",
+        "displaySymbol": "IOST/BTC",
+        "symbol": "HITBTC:IOSTBTC"
+    },
+    {
+        "description": "Hitbtc AKRO/USD",
+        "displaySymbol": "AKRO/USD",
+        "symbol": "HITBTC:AKROUSD"
+    },
+    {
+        "description": "Hitbtc XCH/BTC",
+        "displaySymbol": "XCH/BTC",
+        "symbol": "HITBTC:XCHBTC"
+    },
+    {
+        "description": "Hitbtc G999/USD",
+        "displaySymbol": "G999/USD",
+        "symbol": "HITBTC:G999USD"
+    },
+    {
+        "description": "Hitbtc TV/ETH",
+        "displaySymbol": "TV/ETH",
+        "symbol": "HITBTC:TVETH"
+    },
+    {
+        "description": "Hitbtc DASH/EOS",
+        "displaySymbol": "DASH/EOS",
+        "symbol": "HITBTC:DASHEOS"
+    },
+    {
+        "description": "Hitbtc PRE/ETH",
+        "displaySymbol": "PRE/ETH",
+        "symbol": "HITBTC:PREETH"
+    },
+    {
+        "description": "Hitbtc FTT/HIT",
+        "displaySymbol": "FTT/HIT",
+        "symbol": "HITBTC:FTTHIT"
+    },
+    {
+        "description": "Hitbtc UTT/USD",
+        "displaySymbol": "UTT/USD",
+        "symbol": "HITBTC:UTTUSD"
+    },
+    {
+        "description": "Hitbtc GNO/BTC",
+        "displaySymbol": "GNO/BTC",
+        "symbol": "HITBTC:GNOBTC"
+    },
+    {
+        "description": "Hitbtc DGTX/ETH",
+        "displaySymbol": "DGTX/ETH",
+        "symbol": "HITBTC:DGTXETH"
+    },
+    {
+        "description": "Hitbtc REV/BTC",
+        "displaySymbol": "REV/BTC",
+        "symbol": "HITBTC:REVBTC"
+    },
+    {
+        "description": "Hitbtc DUSK/BTC",
+        "displaySymbol": "DUSK/BTC",
+        "symbol": "HITBTC:DUSKBTC"
+    },
+    {
+        "description": "Hitbtc OXT/USD",
+        "displaySymbol": "OXT/USD",
+        "symbol": "HITBTC:OXTUSD"
+    },
+    {
+        "description": "Hitbtc ZSC/BTC",
+        "displaySymbol": "ZSC/BTC",
+        "symbol": "HITBTC:ZSCBTC"
+    },
+    {
+        "description": "Hitbtc TBC/USD",
+        "displaySymbol": "TBC/USD",
+        "symbol": "HITBTC:TBCUSDT"
+    },
+    {
+        "description": "Hitbtc EXP/BTC",
+        "displaySymbol": "EXP/BTC",
+        "symbol": "HITBTC:EXPBTC"
+    },
+    {
+        "description": "Hitbtc SKP/USD",
+        "displaySymbol": "SKP/USD",
+        "symbol": "HITBTC:SKPUSDT"
+    },
+    {
+        "description": "Hitbtc TXA/USD",
+        "displaySymbol": "TXA/USD",
+        "symbol": "HITBTC:TXAUSDT"
+    },
+    {
+        "description": "Hitbtc WINGS/BTC",
+        "displaySymbol": "WINGS/BTC",
+        "symbol": "HITBTC:WINGSBTC"
+    },
+    {
+        "description": "Hitbtc UOS/USD",
+        "displaySymbol": "UOS/USD",
+        "symbol": "HITBTC:UOSUSDT"
+    },
+    {
+        "description": "Hitbtc OMG/BTC",
+        "displaySymbol": "OMG/BTC",
+        "symbol": "HITBTC:OMGBTC"
+    },
+    {
+        "description": "Hitbtc TEL/ETH",
+        "displaySymbol": "TEL/ETH",
+        "symbol": "HITBTC:TELETH"
+    },
+    {
+        "description": "Hitbtc PYR/USD",
+        "displaySymbol": "PYR/USD",
+        "symbol": "HITBTC:PYRUSDT"
+    },
+    {
+        "description": "Hitbtc XRP/USD",
+        "displaySymbol": "XRP/USD",
+        "symbol": "HITBTC:XRPUSDT"
+    },
+    {
+        "description": "Hitbtc BEST/BTC",
+        "displaySymbol": "BEST/BTC",
+        "symbol": "HITBTC:BESTBTC"
+    },
+    {
+        "description": "Hitbtc PRO/BTC",
+        "displaySymbol": "PRO/BTC",
+        "symbol": "HITBTC:PROBTC"
+    },
+    {
+        "description": "Hitbtc FTM/USD",
+        "displaySymbol": "FTM/USD",
+        "symbol": "HITBTC:FTMUSD"
+    },
+    {
+        "description": "Hitbtc VIB/BTC",
+        "displaySymbol": "VIB/BTC",
+        "symbol": "HITBTC:VIBBTC"
+    },
+    {
+        "description": "Hitbtc RCN/BTC",
+        "displaySymbol": "RCN/BTC",
+        "symbol": "HITBTC:RCNBTC"
+    },
+    {
+        "description": "Hitbtc SMT/USD",
+        "displaySymbol": "SMT/USD",
+        "symbol": "HITBTC:SMTUSD"
+    },
+    {
+        "description": "Hitbtc DFC/BTC",
+        "displaySymbol": "DFC/BTC",
+        "symbol": "HITBTC:DFCBTC"
+    },
+    {
+        "description": "Hitbtc BERRY/USD",
+        "displaySymbol": "BERRY/USD",
+        "symbol": "HITBTC:BERRYUSD"
+    },
+    {
+        "description": "Hitbtc SNT/BTC",
+        "displaySymbol": "SNT/BTC",
+        "symbol": "HITBTC:SNTBTC"
+    },
+    {
+        "description": "Hitbtc STC/ETH",
+        "displaySymbol": "STC/ETH",
+        "symbol": "HITBTC:STCETH"
+    },
+    {
+        "description": "Hitbtc NPX/ETH",
+        "displaySymbol": "NPX/ETH",
+        "symbol": "HITBTC:NPXETH"
+    },
+    {
+        "description": "Hitbtc ICX/USD",
+        "displaySymbol": "ICX/USD",
+        "symbol": "HITBTC:ICXUSD"
+    },
+    {
+        "description": "Hitbtc SNC/USD",
+        "displaySymbol": "SNC/USD",
+        "symbol": "HITBTC:SNCUSD"
+    },
+    {
+        "description": "Hitbtc LOAN/BTC",
+        "displaySymbol": "LOAN/BTC",
+        "symbol": "HITBTC:LOANBTC"
+    },
+    {
+        "description": "Hitbtc MOVR/USD",
+        "displaySymbol": "MOVR/USD",
+        "symbol": "HITBTC:MOVRUSDT"
+    },
+    {
+        "description": "Hitbtc WLITI/BTC",
+        "displaySymbol": "WLITI/BTC",
+        "symbol": "HITBTC:WLITIBTC"
+    },
+    {
+        "description": "Hitbtc XTZ/BTC",
+        "displaySymbol": "XTZ/BTC",
+        "symbol": "HITBTC:XTZBTC"
+    },
+    {
+        "description": "Hitbtc BMC/BTC",
+        "displaySymbol": "BMC/BTC",
+        "symbol": "HITBTC:BMCBTC"
+    },
+    {
+        "description": "Hitbtc XTZ/HIT",
+        "displaySymbol": "XTZ/HIT",
+        "symbol": "HITBTC:XTZHIT"
+    },
+    {
+        "description": "Hitbtc ABBC/USD",
+        "displaySymbol": "ABBC/USD",
+        "symbol": "HITBTC:ABBCUSDT"
+    },
+    {
+        "description": "Hitbtc DAG/ETH",
+        "displaySymbol": "DAG/ETH",
+        "symbol": "HITBTC:DAGETH"
+    },
+    {
+        "description": "Hitbtc EDG/BTC",
+        "displaySymbol": "EDG/BTC",
+        "symbol": "HITBTC:EDGBTC"
+    },
+    {
+        "description": "Hitbtc MDT/USD",
+        "displaySymbol": "MDT/USD",
+        "symbol": "HITBTC:MDTUSDT"
+    },
+    {
+        "description": "Hitbtc POND/USD",
+        "displaySymbol": "POND/USD",
+        "symbol": "HITBTC:PONDUSD"
+    },
+    {
+        "description": "Hitbtc ZAP/ETH",
+        "displaySymbol": "ZAP/ETH",
+        "symbol": "HITBTC:ZAPETH"
+    },
+    {
+        "description": "Hitbtc IOTA/USD",
+        "displaySymbol": "IOTA/USD",
+        "symbol": "HITBTC:IOTAUSD"
+    },
+    {
+        "description": "Hitbtc DASH/USD",
+        "displaySymbol": "DASH/USD",
+        "symbol": "HITBTC:DASHUSD"
+    },
+    {
+        "description": "Hitbtc AUTO/USD",
+        "displaySymbol": "AUTO/USD",
+        "symbol": "HITBTC:AUTOUSD"
+    },
+    {
+        "description": "Hitbtc CPT/BTC",
+        "displaySymbol": "CPT/BTC",
+        "symbol": "HITBTC:CPTBTC"
+    },
+    {
+        "description": "Hitbtc PART/BTC",
+        "displaySymbol": "PART/BTC",
+        "symbol": "HITBTC:PARTBTC"
+    },
+    {
+        "description": "Hitbtc HMQ/BTC",
+        "displaySymbol": "HMQ/BTC",
+        "symbol": "HITBTC:HMQBTC"
+    },
+    {
+        "description": "Hitbtc PLC/USD",
+        "displaySymbol": "PLC/USD",
+        "symbol": "HITBTC:PLCUSD"
+    },
+    {
+        "description": "Hitbtc BICO/BTC",
+        "displaySymbol": "BICO/BTC",
+        "symbol": "HITBTC:BICOBTC"
+    },
+    {
+        "description": "Hitbtc MIMO/BTC",
+        "displaySymbol": "MIMO/BTC",
+        "symbol": "HITBTC:MIMOBTC"
+    },
+    {
+        "description": "Hitbtc USNOTA/ETH",
+        "displaySymbol": "USNOTA/ETH",
+        "symbol": "HITBTC:USNOTAETH"
+    },
+    {
+        "description": "Hitbtc SAI/BCH",
+        "displaySymbol": "SAI/BCH",
+        "symbol": "HITBTC:SAIBCH"
+    },
+    {
+        "description": "Hitbtc SMART/BTC",
+        "displaySymbol": "SMART/BTC",
+        "symbol": "HITBTC:SMARTBTC"
+    },
+    {
+        "description": "Hitbtc JST/BTC",
+        "displaySymbol": "JST/BTC",
+        "symbol": "HITBTC:JSTBTC"
+    },
+    {
+        "description": "Hitbtc USD/GUSD",
+        "displaySymbol": "USD/GUSD",
+        "symbol": "HITBTC:USDTGUSD"
+    },
+    {
+        "description": "Hitbtc IOTA/BTC",
+        "displaySymbol": "IOTA/BTC",
+        "symbol": "HITBTC:IOTABTC"
+    },
+    {
+        "description": "Hitbtc DLT/BTC",
+        "displaySymbol": "DLT/BTC",
+        "symbol": "HITBTC:DLTBTC"
+    },
+    {
+        "description": "Hitbtc DAR/USD",
+        "displaySymbol": "DAR/USD",
+        "symbol": "HITBTC:DARUSDT"
+    },
+    {
+        "description": "Hitbtc AVA/BTC",
+        "displaySymbol": "AVA/BTC",
+        "symbol": "HITBTC:AVABTC"
+    },
+    {
+        "description": "Hitbtc AERGO/BTC",
+        "displaySymbol": "AERGO/BTC",
+        "symbol": "HITBTC:AERGOBTC"
+    },
+    {
+        "description": "Hitbtc VTHO/USD",
+        "displaySymbol": "VTHO/USD",
+        "symbol": "HITBTC:VTHOUSD"
+    },
+    {
+        "description": "Hitbtc RUNE/USD",
+        "displaySymbol": "RUNE/USD",
+        "symbol": "HITBTC:RUNEUSD"
+    },
+    {
+        "description": "Hitbtc CENNZ/USD",
+        "displaySymbol": "CENNZ/USD",
+        "symbol": "HITBTC:CENNZUSD"
+    },
+    {
+        "description": "Hitbtc MTH/BTC",
+        "displaySymbol": "MTH/BTC",
+        "symbol": "HITBTC:MTHBTC"
+    },
+    {
+        "description": "Hitbtc ADXN/ETH",
+        "displaySymbol": "ADXN/ETH",
+        "symbol": "HITBTC:ADXNETH"
+    },
+    {
+        "description": "Hitbtc BCPT/USD",
+        "displaySymbol": "BCPT/USD",
+        "symbol": "HITBTC:BCPTUSDT"
+    },
+    {
+        "description": "Hitbtc ONT/USD",
+        "displaySymbol": "ONT/USD",
+        "symbol": "HITBTC:ONTUSD"
+    },
+    {
+        "description": "Hitbtc ADS/BTC",
+        "displaySymbol": "ADS/BTC",
+        "symbol": "HITBTC:ADSBTC"
+    },
+    {
+        "description": "Hitbtc LTC/DAI",
+        "displaySymbol": "LTC/DAI",
+        "symbol": "HITBTC:LTCDAI"
+    },
+    {
+        "description": "Hitbtc BTC/EOSDT",
+        "displaySymbol": "BTC/EOSDT",
+        "symbol": "HITBTC:BTCEOSDT"
+    },
+    {
+        "description": "Hitbtc CHR/USD",
+        "displaySymbol": "CHR/USD",
+        "symbol": "HITBTC:CHRUSD"
+    },
+    {
+        "description": "Hitbtc DRT/BTC",
+        "displaySymbol": "DRT/BTC",
+        "symbol": "HITBTC:DRTBTC"
+    },
+    {
+        "description": "Hitbtc ALPACA/USD",
+        "displaySymbol": "ALPACA/USD",
+        "symbol": "HITBTC:ALPACAUSDT"
+    },
+    {
+        "description": "Hitbtc GET/BTC",
+        "displaySymbol": "GET/BTC",
+        "symbol": "HITBTC:GETBTC"
+    },
+    {
+        "description": "Hitbtc BTC/USD",
+        "displaySymbol": "BTC/USD",
+        "symbol": "HITBTC:BTCUSD"
+    },
+    {
+        "description": "Hitbtc LOOM/BTC",
+        "displaySymbol": "LOOM/BTC",
+        "symbol": "HITBTC:LOOMBTC"
+    },
+    {
+        "description": "Hitbtc EOS/USD",
+        "displaySymbol": "EOS/USD",
+        "symbol": "HITBTC:EOSUSD"
+    },
+    {
+        "description": "Hitbtc XRP/BTC",
+        "displaySymbol": "XRP/BTC",
+        "symbol": "HITBTC:XRPBTC"
+    },
+    {
+        "description": "Hitbtc WOZX/USD",
+        "displaySymbol": "WOZX/USD",
+        "symbol": "HITBTC:WOZXUSDT"
+    },
+    {
+        "description": "Hitbtc BOX/ETH",
+        "displaySymbol": "BOX/ETH",
+        "symbol": "HITBTC:BOXETH"
+    },
+    {
+        "description": "Hitbtc HUB/USD",
+        "displaySymbol": "HUB/USD",
+        "symbol": "HITBTC:HUBUSD"
+    },
+    {
+        "description": "Hitbtc SUSHI/BTC",
+        "displaySymbol": "SUSHI/BTC",
+        "symbol": "HITBTC:SUSHIBTC"
+    },
+    {
+        "description": "Hitbtc XEM/ETH",
+        "displaySymbol": "XEM/ETH",
+        "symbol": "HITBTC:XEMETH"
+    },
+    {
+        "description": "Hitbtc LOOM/ETH",
+        "displaySymbol": "LOOM/ETH",
+        "symbol": "HITBTC:LOOMETH"
+    },
+    {
+        "description": "Hitbtc EKO/BTC",
+        "displaySymbol": "EKO/BTC",
+        "symbol": "HITBTC:EKOBTC"
+    },
+    {
+        "description": "Hitbtc REP/USD",
+        "displaySymbol": "REP/USD",
+        "symbol": "HITBTC:REPUSDT"
+    },
+    {
+        "description": "Hitbtc REP/BTC",
+        "displaySymbol": "REP/BTC",
+        "symbol": "HITBTC:REPBTC"
+    },
+    {
+        "description": "Hitbtc ARV/USD",
+        "displaySymbol": "ARV/USD",
+        "symbol": "HITBTC:ARVUSDT"
+    },
+    {
+        "description": "Hitbtc PORTO/BTC",
+        "displaySymbol": "PORTO/BTC",
+        "symbol": "HITBTC:PORTOBTC"
+    },
+    {
+        "description": "Hitbtc C20/BTC",
+        "displaySymbol": "C20/BTC",
+        "symbol": "HITBTC:C20BTC"
+    },
+    {
+        "description": "Hitbtc CUTE/BTC",
+        "displaySymbol": "CUTE/BTC",
+        "symbol": "HITBTC:CUTEBTC"
+    },
+    {
+        "description": "Hitbtc TIME/BTC",
+        "displaySymbol": "TIME/BTC",
+        "symbol": "HITBTC:TIMEBTC"
+    },
+    {
+        "description": "Hitbtc NEO/USD",
+        "displaySymbol": "NEO/USD",
+        "symbol": "HITBTC:NEOUSD"
+    },
+    {
+        "description": "Hitbtc GLM/ETH",
+        "displaySymbol": "GLM/ETH",
+        "symbol": "HITBTC:GLMETH"
+    },
+    {
+        "description": "Hitbtc MAN/USD",
+        "displaySymbol": "MAN/USD",
+        "symbol": "HITBTC:MANUSD"
+    },
+    {
+        "description": "Hitbtc SANTOS/USD",
+        "displaySymbol": "SANTOS/USD",
+        "symbol": "HITBTC:SANTOSUSDT"
+    },
+    {
+        "description": "Hitbtc SIG/BTC",
+        "displaySymbol": "SIG/BTC",
+        "symbol": "HITBTC:SIGBTC"
+    },
+    {
+        "description": "Hitbtc STORJ/BTC",
+        "displaySymbol": "STORJ/BTC",
+        "symbol": "HITBTC:STORJBTC"
+    },
+    {
+        "description": "Hitbtc XCON/BTC",
+        "displaySymbol": "XCON/BTC",
+        "symbol": "HITBTC:XCONBTC"
+    },
+    {
+        "description": "Hitbtc CVC/USD",
+        "displaySymbol": "CVC/USD",
+        "symbol": "HITBTC:CVCUSD"
+    },
+    {
+        "description": "Hitbtc FTT/ETH",
+        "displaySymbol": "FTT/ETH",
+        "symbol": "HITBTC:FTTETH"
+    },
+    {
+        "description": "Hitbtc DRGN/BTC",
+        "displaySymbol": "DRGN/BTC",
+        "symbol": "HITBTC:DRGNBTC"
+    },
+    {
+        "description": "Hitbtc CHZ/USD",
+        "displaySymbol": "CHZ/USD",
+        "symbol": "HITBTC:CHZUSD"
+    },
+    {
+        "description": "Hitbtc ACH/BTC",
+        "displaySymbol": "ACH/BTC",
+        "symbol": "HITBTC:ACHBTC"
+    },
+    {
+        "description": "Hitbtc MC/BTC",
+        "displaySymbol": "MC/BTC",
+        "symbol": "HITBTC:MCBTC"
+    },
+    {
+        "description": "Hitbtc CHZ/BTC",
+        "displaySymbol": "CHZ/BTC",
+        "symbol": "HITBTC:CHZBTC"
+    },
+    {
+        "description": "Hitbtc ETP/USD",
+        "displaySymbol": "ETP/USD",
+        "symbol": "HITBTC:ETPUSD"
+    },
+    {
+        "description": "Hitbtc ALICE/BTC",
+        "displaySymbol": "ALICE/BTC",
+        "symbol": "HITBTC:ALICEBTC"
+    },
+    {
+        "description": "Hitbtc BOND/USD",
+        "displaySymbol": "BOND/USD",
+        "symbol": "HITBTC:BONDUSD"
+    },
+    {
+        "description": "Hitbtc ASI/BTC",
+        "displaySymbol": "ASI/BTC",
+        "symbol": "HITBTC:ASIBTC"
+    },
+    {
+        "description": "Hitbtc BADGER/USD",
+        "displaySymbol": "BADGER/USD",
+        "symbol": "HITBTC:BADGERUSDT"
+    },
+    {
+        "description": "Hitbtc CRDT/ETH",
+        "displaySymbol": "CRDT/ETH",
+        "symbol": "HITBTC:CRDTETH"
+    },
+    {
+        "description": "Hitbtc CRV/USD",
+        "displaySymbol": "CRV/USD",
+        "symbol": "HITBTC:CRVUSD"
+    },
+    {
+        "description": "Hitbtc PLTC/USD",
+        "displaySymbol": "PLTC/USD",
+        "symbol": "HITBTC:PLTCUSD"
+    },
+    {
+        "description": "Hitbtc XDC/USD",
+        "displaySymbol": "XDC/USD",
+        "symbol": "HITBTC:XDCUSD"
+    },
+    {
+        "description": "Hitbtc REX/USD",
+        "displaySymbol": "REX/USD",
+        "symbol": "HITBTC:REXUSD"
+    },
+    {
+        "description": "Hitbtc TXA/TUSD",
+        "displaySymbol": "TXA/TUSD",
+        "symbol": "HITBTC:TXATUSD"
+    },
+    {
+        "description": "Hitbtc EEX/BTC",
+        "displaySymbol": "EEX/BTC",
+        "symbol": "HITBTC:EEXBTC"
+    },
+    {
+        "description": "Hitbtc ABBC/BTC",
+        "displaySymbol": "ABBC/BTC",
+        "symbol": "HITBTC:ABBCBTC"
+    },
+    {
+        "description": "Hitbtc PSL/BTC",
+        "displaySymbol": "PSL/BTC",
+        "symbol": "HITBTC:PSLBTC"
+    },
+    {
+        "description": "Hitbtc PLR/BTC",
+        "displaySymbol": "PLR/BTC",
+        "symbol": "HITBTC:PLRBTC"
+    },
+    {
+        "description": "Hitbtc KMD/ETH",
+        "displaySymbol": "KMD/ETH",
+        "symbol": "HITBTC:KMDETH"
+    },
+    {
+        "description": "Hitbtc NWC/USD",
+        "displaySymbol": "NWC/USD",
+        "symbol": "HITBTC:NWCUSD"
+    },
+    {
+        "description": "Hitbtc VRA/ETH",
+        "displaySymbol": "VRA/ETH",
+        "symbol": "HITBTC:VRAETH"
+    },
+    {
+        "description": "Hitbtc SATT/USD",
+        "displaySymbol": "SATT/USD",
+        "symbol": "HITBTC:SATTUSD"
+    },
+    {
+        "description": "Hitbtc SWRV/USD",
+        "displaySymbol": "SWRV/USD",
+        "symbol": "HITBTC:SWRVUSD"
+    },
+    {
+        "description": "Hitbtc ONG/USD",
+        "displaySymbol": "ONG/USD",
+        "symbol": "HITBTC:ONGUSD"
+    },
+    {
+        "description": "Hitbtc TOMO/USD",
+        "displaySymbol": "TOMO/USD",
+        "symbol": "HITBTC:TOMOUSD"
+    },
+    {
+        "description": "Hitbtc GST/USD",
+        "displaySymbol": "GST/USD",
+        "symbol": "HITBTC:GSTUSD"
+    },
+    {
+        "description": "Hitbtc XYO/BTC",
+        "displaySymbol": "XYO/BTC",
+        "symbol": "HITBTC:XYOBTC"
+    },
+    {
+        "description": "Hitbtc UMA/USD",
+        "displaySymbol": "UMA/USD",
+        "symbol": "HITBTC:UMAUSD"
+    },
+    {
+        "description": "Hitbtc EASY/ETH",
+        "displaySymbol": "EASY/ETH",
+        "symbol": "HITBTC:EASYETH"
+    },
+    {
+        "description": "Hitbtc IND/ETH",
+        "displaySymbol": "IND/ETH",
+        "symbol": "HITBTC:INDETH"
+    },
+    {
+        "description": "Hitbtc ACM/USD",
+        "displaySymbol": "ACM/USD",
+        "symbol": "HITBTC:ACMUSD"
+    },
+    {
+        "description": "Hitbtc FIDA/BTC",
+        "displaySymbol": "FIDA/BTC",
+        "symbol": "HITBTC:FIDABTC"
+    },
+    {
+        "description": "Hitbtc AR/USD",
+        "displaySymbol": "AR/USD",
+        "symbol": "HITBTC:ARUSD"
+    },
+    {
+        "description": "Hitbtc GOLDR/BTC",
+        "displaySymbol": "GOLDR/BTC",
+        "symbol": "HITBTC:GOLDRBTC"
+    },
+    {
+        "description": "Hitbtc UUU/ETH",
+        "displaySymbol": "UUU/ETH",
+        "symbol": "HITBTC:UUUETH"
+    },
+    {
+        "description": "Hitbtc AYA/BTC",
+        "displaySymbol": "AYA/BTC",
+        "symbol": "HITBTC:AYABTC"
+    },
+    {
+        "description": "Hitbtc EOS/GUSD",
+        "displaySymbol": "EOS/GUSD",
+        "symbol": "HITBTC:EOSGUSD"
+    },
+    {
+        "description": "Hitbtc TRIBE/BTC",
+        "displaySymbol": "TRIBE/BTC",
+        "symbol": "HITBTC:TRIBEBTC"
+    },
+    {
+        "description": "Hitbtc CVT/USD",
+        "displaySymbol": "CVT/USD",
+        "symbol": "HITBTC:CVTUSD"
+    },
+    {
+        "description": "Hitbtc BAND/BTC",
+        "displaySymbol": "BAND/BTC",
+        "symbol": "HITBTC:BANDBTC"
+    },
+    {
+        "description": "Hitbtc ADA/HIT",
+        "displaySymbol": "ADA/HIT",
+        "symbol": "HITBTC:ADAHIT"
+    },
+    {
+        "description": "Hitbtc SENT/BTC",
+        "displaySymbol": "SENT/BTC",
+        "symbol": "HITBTC:SENTBTC"
+    },
+    {
+        "description": "Hitbtc YGG/USD",
+        "displaySymbol": "YGG/USD",
+        "symbol": "HITBTC:YGGUSDT"
+    },
+    {
+        "description": "Hitbtc ICP/USD",
+        "displaySymbol": "ICP/USD",
+        "symbol": "HITBTC:ICPUSD"
+    },
+    {
+        "description": "Hitbtc DENT/BTC",
+        "displaySymbol": "DENT/BTC",
+        "symbol": "HITBTC:DENTBTC"
+    },
+    {
+        "description": "Hitbtc CUR/USD",
+        "displaySymbol": "CUR/USD",
+        "symbol": "HITBTC:CURUSD"
+    },
+    {
+        "description": "Hitbtc XPNT/USD",
+        "displaySymbol": "XPNT/USD",
+        "symbol": "HITBTC:XPNTUSD"
+    },
+    {
+        "description": "Hitbtc XEM/EOS",
+        "displaySymbol": "XEM/EOS",
+        "symbol": "HITBTC:XEMEOS"
+    },
+    {
+        "description": "Hitbtc AMP/USD",
+        "displaySymbol": "AMP/USD",
+        "symbol": "HITBTC:AMPUSDT"
+    },
+    {
+        "description": "Hitbtc PLI/USD",
+        "displaySymbol": "PLI/USD",
+        "symbol": "HITBTC:PLIUSDT"
+    },
+    {
+        "description": "Hitbtc IHF/USD",
+        "displaySymbol": "IHF/USD",
+        "symbol": "HITBTC:IHFUSD"
+    },
+    {
+        "description": "Hitbtc LSK/EOS",
+        "displaySymbol": "LSK/EOS",
+        "symbol": "HITBTC:LSKEOS"
+    },
+    {
+        "description": "Hitbtc NEBL/ETH",
+        "displaySymbol": "NEBL/ETH",
+        "symbol": "HITBTC:NEBLETH"
+    },
+    {
+        "description": "Hitbtc PKT/BTC",
+        "displaySymbol": "PKT/BTC",
+        "symbol": "HITBTC:PKTBTC"
+    },
+    {
+        "description": "Hitbtc VEO/BTC",
+        "displaySymbol": "VEO/BTC",
+        "symbol": "HITBTC:VEOBTC"
+    },
+    {
+        "description": "Hitbtc CND/USD",
+        "displaySymbol": "CND/USD",
+        "symbol": "HITBTC:CNDUSD"
+    },
+    {
+        "description": "Hitbtc JAM/USD",
+        "displaySymbol": "JAM/USD",
+        "symbol": "HITBTC:JAMUSDT"
+    },
+    {
+        "description": "Hitbtc ABYSS/BTC",
+        "displaySymbol": "ABYSS/BTC",
+        "symbol": "HITBTC:ABYSSBTC"
+    },
+    {
+        "description": "Hitbtc ICX/BTC",
+        "displaySymbol": "ICX/BTC",
+        "symbol": "HITBTC:ICXBTC"
+    },
+    {
+        "description": "Hitbtc ARV/BTC",
+        "displaySymbol": "ARV/BTC",
+        "symbol": "HITBTC:ARVBTC"
+    },
+    {
+        "description": "Hitbtc APPC/ETH",
+        "displaySymbol": "APPC/ETH",
+        "symbol": "HITBTC:APPCETH"
+    },
+    {
+        "description": "Hitbtc PHX/ETH",
+        "displaySymbol": "PHX/ETH",
+        "symbol": "HITBTC:PHXETH"
+    },
+    {
+        "description": "Hitbtc REX/ETH",
+        "displaySymbol": "REX/ETH",
+        "symbol": "HITBTC:REXETH"
+    },
+    {
+        "description": "Hitbtc ATOM/USD",
+        "displaySymbol": "ATOM/USD",
+        "symbol": "HITBTC:ATOMUSD"
+    },
+    {
+        "description": "Hitbtc STARL/BTC",
+        "displaySymbol": "STARL/BTC",
+        "symbol": "HITBTC:STARLBTC"
+    },
+    {
+        "description": "Hitbtc KAVA/BTC",
+        "displaySymbol": "KAVA/BTC",
+        "symbol": "HITBTC:KAVABTC"
+    },
+    {
+        "description": "Hitbtc BNB/USD",
+        "displaySymbol": "BNB/USD",
+        "symbol": "HITBTC:BNBUSD"
+    },
+    {
+        "description": "Hitbtc SUN/USD",
+        "displaySymbol": "SUN/USD",
+        "symbol": "HITBTC:SUNUSD"
+    },
+    {
+        "description": "Hitbtc ETH/USD",
+        "displaySymbol": "ETH/USD",
+        "symbol": "HITBTC:ETHUSD"
+    },
+    {
+        "description": "Hitbtc LTC/USD",
+        "displaySymbol": "LTC/USD",
+        "symbol": "HITBTC:LTCUSD"
+    },
+    {
+        "description": "Hitbtc HOT/USD",
+        "displaySymbol": "HOT/USD",
+        "symbol": "HITBTC:HOTUSD"
+    },
+    {
+        "description": "Hitbtc WBTC/ETH",
+        "displaySymbol": "WBTC/ETH",
+        "symbol": "HITBTC:WBTCETH"
+    },
+    {
+        "description": "Hitbtc CHSB/BTC",
+        "displaySymbol": "CHSB/BTC",
+        "symbol": "HITBTC:CHSBBTC"
+    },
+    {
+        "description": "Hitbtc XEM/BTC",
+        "displaySymbol": "XEM/BTC",
+        "symbol": "HITBTC:XEMBTC"
+    },
+    {
+        "description": "Hitbtc SPICE/BTC",
+        "displaySymbol": "SPICE/BTC",
+        "symbol": "HITBTC:SPICEBTC"
+    },
+    {
+        "description": "Hitbtc NAV/USD",
+        "displaySymbol": "NAV/USD",
+        "symbol": "HITBTC:NAVUSD"
+    },
+    {
+        "description": "Hitbtc XRP/HIT",
+        "displaySymbol": "XRP/HIT",
+        "symbol": "HITBTC:XRPHIT"
+    },
+    {
+        "description": "Hitbtc DASH/BTC",
+        "displaySymbol": "DASH/BTC",
+        "symbol": "HITBTC:DASHBTC"
+    },
+    {
+        "description": "Hitbtc GST/ETH",
+        "displaySymbol": "GST/ETH",
+        "symbol": "HITBTC:GSTETH"
+    },
+    {
+        "description": "Hitbtc XMR/DAI",
+        "displaySymbol": "XMR/DAI",
+        "symbol": "HITBTC:XMRDAI"
+    },
+    {
+        "description": "Hitbtc VOW/USD",
+        "displaySymbol": "VOW/USD",
+        "symbol": "HITBTC:VOWUSDT"
+    },
+    {
+        "description": "Hitbtc IQN/USD",
+        "displaySymbol": "IQN/USD",
+        "symbol": "HITBTC:IQNUSD"
+    },
+    {
+        "description": "Hitbtc DOT/ETH",
+        "displaySymbol": "DOT/ETH",
+        "symbol": "HITBTC:DOTETH"
+    },
+    {
+        "description": "Hitbtc BZRX/BTC",
+        "displaySymbol": "BZRX/BTC",
+        "symbol": "HITBTC:BZRXBTC"
+    },
+    {
+        "description": "Hitbtc SKL/USD",
+        "displaySymbol": "SKL/USD",
+        "symbol": "HITBTC:SKLUSD"
+    },
+    {
+        "description": "Hitbtc ZRX/ETH",
+        "displaySymbol": "ZRX/ETH",
+        "symbol": "HITBTC:ZRXETH"
+    },
+    {
+        "description": "Hitbtc LOC/BTC",
+        "displaySymbol": "LOC/BTC",
+        "symbol": "HITBTC:LOCBTC"
+    },
+    {
+        "description": "Hitbtc SHIB/USD",
+        "displaySymbol": "SHIB/USD",
+        "symbol": "HITBTC:SHIBUSD"
+    },
+    {
+        "description": "Hitbtc SCRT/USD",
+        "displaySymbol": "SCRT/USD",
+        "symbol": "HITBTC:SCRTUSDT"
+    },
+    {
+        "description": "Hitbtc DOV/BTC",
+        "displaySymbol": "DOV/BTC",
+        "symbol": "HITBTC:DOVBTC"
+    },
+    {
+        "description": "Hitbtc ALPHA/USD",
+        "displaySymbol": "ALPHA/USD",
+        "symbol": "HITBTC:ALPHAUSD"
+    },
+    {
+        "description": "Hitbtc BCVT/ETH",
+        "displaySymbol": "BCVT/ETH",
+        "symbol": "HITBTC:BCVTETH"
+    },
+    {
+        "description": "Hitbtc VTHO/BTC",
+        "displaySymbol": "VTHO/BTC",
+        "symbol": "HITBTC:VTHOBTC"
+    },
+    {
+        "description": "Hitbtc WAVES/BTC",
+        "displaySymbol": "WAVES/BTC",
+        "symbol": "HITBTC:WAVESBTC"
+    },
+    {
+        "description": "Hitbtc FTM/BTC",
+        "displaySymbol": "FTM/BTC",
+        "symbol": "HITBTC:FTMBTC"
+    },
+    {
+        "description": "Hitbtc LRC/ETH",
+        "displaySymbol": "LRC/ETH",
+        "symbol": "HITBTC:LRCETH"
+    },
+    {
+        "description": "Hitbtc POLS/USD",
+        "displaySymbol": "POLS/USD",
+        "symbol": "HITBTC:POLSUSD"
+    },
+    {
+        "description": "Hitbtc XHV/BTC",
+        "displaySymbol": "XHV/BTC",
+        "symbol": "HITBTC:XHVBTC"
+    },
+    {
+        "description": "Hitbtc ETN/BTC",
+        "displaySymbol": "ETN/BTC",
+        "symbol": "HITBTC:ETNBTC"
+    },
+    {
+        "description": "Hitbtc XUC/USD",
+        "displaySymbol": "XUC/USD",
+        "symbol": "HITBTC:XUCUSD"
+    },
+    {
+        "description": "Hitbtc NEO/DAI",
+        "displaySymbol": "NEO/DAI",
+        "symbol": "HITBTC:NEODAI"
+    },
+    {
+        "description": "Hitbtc DGD/BTC",
+        "displaySymbol": "DGD/BTC",
+        "symbol": "HITBTC:DGDBTC"
+    },
+    {
+        "description": "Hitbtc CVT/BTC",
+        "displaySymbol": "CVT/BTC",
+        "symbol": "HITBTC:CVTBTC"
+    },
+    {
+        "description": "Hitbtc XMR/BCH",
+        "displaySymbol": "XMR/BCH",
+        "symbol": "HITBTC:XMRBCH"
+    },
+    {
+        "description": "Hitbtc ONT/BTC",
+        "displaySymbol": "ONT/BTC",
+        "symbol": "HITBTC:ONTBTC"
+    },
+    {
+        "description": "Hitbtc OGN/BTC",
+        "displaySymbol": "OGN/BTC",
+        "symbol": "HITBTC:OGNBTC"
+    },
+    {
+        "description": "Hitbtc FESS/USD",
+        "displaySymbol": "FESS/USD",
+        "symbol": "HITBTC:FESSUSD"
+    },
+    {
+        "description": "Hitbtc FRONT/ETH",
+        "displaySymbol": "FRONT/ETH",
+        "symbol": "HITBTC:FRONTETH"
+    },
+    {
+        "description": "Hitbtc BNT/ETH",
+        "displaySymbol": "BNT/ETH",
+        "symbol": "HITBTC:BNTETH"
+    },
+    {
+        "description": "Hitbtc XDN/ETH",
+        "displaySymbol": "XDN/ETH",
+        "symbol": "HITBTC:XDNETH"
+    },
+    {
+        "description": "Hitbtc YFII/USD",
+        "displaySymbol": "YFII/USD",
+        "symbol": "HITBTC:YFIIUSD"
+    },
+    {
+        "description": "Hitbtc FDZ/ETH",
+        "displaySymbol": "FDZ/ETH",
+        "symbol": "HITBTC:FDZETH"
+    },
+    {
+        "description": "Hitbtc EQX/BTC",
+        "displaySymbol": "EQX/BTC",
+        "symbol": "HITBTC:EQXBTC"
+    },
+    {
+        "description": "Hitbtc BTNYX/BTC",
+        "displaySymbol": "BTNYX/BTC",
+        "symbol": "HITBTC:BTNYXBTC"
+    },
+    {
+        "description": "Hitbtc DFC/USD",
+        "displaySymbol": "DFC/USD",
+        "symbol": "HITBTC:DFCUSD"
+    },
+    {
+        "description": "Hitbtc G999/ETH",
+        "displaySymbol": "G999/ETH",
+        "symbol": "HITBTC:G999ETH"
+    },
+    {
+        "description": "Hitbtc BTG/USD",
+        "displaySymbol": "BTG/USD",
+        "symbol": "HITBTC:BTGUSD"
+    },
+    {
+        "description": "Hitbtc SUPERBID/USD",
+        "displaySymbol": "SUPERBID/USD",
+        "symbol": "HITBTC:SUPERBIDUSD"
+    },
+    {
+        "description": "Hitbtc SUKU/USD",
+        "displaySymbol": "SUKU/USD",
+        "symbol": "HITBTC:SUKUUSDT"
+    },
+    {
+        "description": "Hitbtc AVT/ETH",
+        "displaySymbol": "AVT/ETH",
+        "symbol": "HITBTC:AVTETH"
+    },
+    {
+        "description": "Hitbtc IPL/USD",
+        "displaySymbol": "IPL/USD",
+        "symbol": "HITBTC:IPLUSD"
+    },
+    {
+        "description": "Hitbtc STORJ/ETH",
+        "displaySymbol": "STORJ/ETH",
+        "symbol": "HITBTC:STORJETH"
+    },
+    {
+        "description": "Hitbtc PMA/BTC",
+        "displaySymbol": "PMA/BTC",
+        "symbol": "HITBTC:PMABTC"
+    },
+    {
+        "description": "Hitbtc NULS/BTC",
+        "displaySymbol": "NULS/BTC",
+        "symbol": "HITBTC:NULSBTC"
+    },
+    {
+        "description": "Hitbtc CHZ/ETH",
+        "displaySymbol": "CHZ/ETH",
+        "symbol": "HITBTC:CHZETH"
+    },
+    {
+        "description": "Hitbtc EDG/ETH",
+        "displaySymbol": "EDG/ETH",
+        "symbol": "HITBTC:EDGETH"
+    },
+    {
+        "description": "Hitbtc DGTX/USD",
+        "displaySymbol": "DGTX/USD",
+        "symbol": "HITBTC:DGTXUSD"
+    },
+    {
+        "description": "Hitbtc XNO/BTC",
+        "displaySymbol": "XNO/BTC",
+        "symbol": "HITBTC:XNOBTC"
+    },
+    {
+        "description": "Hitbtc CTXC/USD",
+        "displaySymbol": "CTXC/USD",
+        "symbol": "HITBTC:CTXCUSDT"
+    },
+    {
+        "description": "Hitbtc POLS/BTC",
+        "displaySymbol": "POLS/BTC",
+        "symbol": "HITBTC:POLSBTC"
+    },
+    {
+        "description": "Hitbtc ADA/BCH",
+        "displaySymbol": "ADA/BCH",
+        "symbol": "HITBTC:ADABCH"
+    },
+    {
+        "description": "Hitbtc POLY/ETH",
+        "displaySymbol": "POLY/ETH",
+        "symbol": "HITBTC:POLYETH"
+    },
+    {
+        "description": "Hitbtc DAV/ETH",
+        "displaySymbol": "DAV/ETH",
+        "symbol": "HITBTC:DAVETH"
+    },
+    {
+        "description": "Hitbtc VGX/USD",
+        "displaySymbol": "VGX/USD",
+        "symbol": "HITBTC:VGXUSDT"
+    },
+    {
+        "description": "Hitbtc NKN/BTC",
+        "displaySymbol": "NKN/BTC",
+        "symbol": "HITBTC:NKNBTC"
+    },
+    {
+        "description": "Hitbtc CAKE/USD",
+        "displaySymbol": "CAKE/USD",
+        "symbol": "HITBTC:CAKEUSD"
+    },
+    {
+        "description": "Hitbtc ACH/USD",
+        "displaySymbol": "ACH/USD",
+        "symbol": "HITBTC:ACHUSDT"
+    },
+    {
+        "description": "Hitbtc LTNM/USD",
+        "displaySymbol": "LTNM/USD",
+        "symbol": "HITBTC:LTNMUSDT"
+    },
+    {
+        "description": "Hitbtc VTC/BTC",
+        "displaySymbol": "VTC/BTC",
+        "symbol": "HITBTC:VTCBTC"
+    },
+    {
+        "description": "Hitbtc MTLX/USD",
+        "displaySymbol": "MTLX/USD",
+        "symbol": "HITBTC:MTLXUSD"
+    },
+    {
+        "description": "Hitbtc ARDR/BTC",
+        "displaySymbol": "ARDR/BTC",
+        "symbol": "HITBTC:ARDRBTC"
+    },
+    {
+        "description": "Hitbtc INK/BTC",
+        "displaySymbol": "INK/BTC",
+        "symbol": "HITBTC:INKBTC"
+    },
+    {
+        "description": "Hitbtc ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "HITBTC:ZECBTC"
+    },
+    {
+        "description": "Hitbtc INJ/BTC",
+        "displaySymbol": "INJ/BTC",
+        "symbol": "HITBTC:INJBTC"
+    },
+    {
+        "description": "Hitbtc GASP/BTC",
+        "displaySymbol": "GASP/BTC",
+        "symbol": "HITBTC:GASPBTC"
+    },
+    {
+        "description": "Hitbtc TRV/BCH",
+        "displaySymbol": "TRV/BCH",
+        "symbol": "HITBTC:TRVBCH"
+    },
+    {
+        "description": "Hitbtc BAT/ETH",
+        "displaySymbol": "BAT/ETH",
+        "symbol": "HITBTC:BATETH"
+    },
+    {
+        "description": "Hitbtc XPR/BTC",
+        "displaySymbol": "XPR/BTC",
+        "symbol": "HITBTC:XPRBTC"
+    },
+    {
+        "description": "Hitbtc SBD/USD",
+        "displaySymbol": "SBD/USD",
+        "symbol": "HITBTC:SBDUSD"
+    },
+    {
+        "description": "Hitbtc ATRI/BTC",
+        "displaySymbol": "ATRI/BTC",
+        "symbol": "HITBTC:ATRIBTC"
+    },
+    {
+        "description": "Hitbtc ELF/USD",
+        "displaySymbol": "ELF/USD",
+        "symbol": "HITBTC:ELFUSD"
+    },
+    {
+        "description": "Hitbtc MLN/BTC",
+        "displaySymbol": "MLN/BTC",
+        "symbol": "HITBTC:MLNBTC"
+    },
+    {
+        "description": "Hitbtc REM/USD",
+        "displaySymbol": "REM/USD",
+        "symbol": "HITBTC:REMUSD"
+    },
+    {
+        "description": "Hitbtc IOTA/HIT",
+        "displaySymbol": "IOTA/HIT",
+        "symbol": "HITBTC:IOTAHIT"
+    },
+    {
+        "description": "Hitbtc INK/ETH",
+        "displaySymbol": "INK/ETH",
+        "symbol": "HITBTC:INKETH"
+    },
+    {
+        "description": "Hitbtc MAID/ETH",
+        "displaySymbol": "MAID/ETH",
+        "symbol": "HITBTC:MAIDETH"
+    },
+    {
+        "description": "Hitbtc NGC/USD",
+        "displaySymbol": "NGC/USD",
+        "symbol": "HITBTC:NGCUSD"
+    },
+    {
+        "description": "Hitbtc DGB/BTC",
+        "displaySymbol": "DGB/BTC",
+        "symbol": "HITBTC:DGBBTC"
+    },
+    {
+        "description": "Hitbtc NCT/USD",
+        "displaySymbol": "NCT/USD",
+        "symbol": "HITBTC:NCTUSD"
+    },
+    {
+        "description": "Hitbtc VALUE/USD",
+        "displaySymbol": "VALUE/USD",
+        "symbol": "HITBTC:VALUEUSD"
+    },
+    {
+        "description": "Hitbtc KLAY/USD",
+        "displaySymbol": "KLAY/USD",
+        "symbol": "HITBTC:KLAYUSD"
+    },
+    {
+        "description": "Hitbtc WAXP/ETH",
+        "displaySymbol": "WAXP/ETH",
+        "symbol": "HITBTC:WAXPETH"
+    },
+    {
+        "description": "Hitbtc FLUX/USD",
+        "displaySymbol": "FLUX/USD",
+        "symbol": "HITBTC:FLUXUSDT"
+    },
+    {
+        "description": "Hitbtc BTCBAM/USD",
+        "displaySymbol": "BTCBAM/USD",
+        "symbol": "HITBTC:BTCBAMUSDT"
+    },
+    {
+        "description": "Hitbtc BDP/BTC",
+        "displaySymbol": "BDP/BTC",
+        "symbol": "HITBTC:BDPBTC"
+    },
+    {
+        "description": "Hitbtc SPELL/USD",
+        "displaySymbol": "SPELL/USD",
+        "symbol": "HITBTC:SPELLUSDT"
+    },
+    {
+        "description": "Hitbtc MYST/ETH",
+        "displaySymbol": "MYST/ETH",
+        "symbol": "HITBTC:MYSTETH"
+    },
+    {
+        "description": "Hitbtc DOGE/ETH",
+        "displaySymbol": "DOGE/ETH",
+        "symbol": "HITBTC:DOGEETH"
+    },
+    {
+        "description": "Hitbtc SILK/ETH",
+        "displaySymbol": "SILK/ETH",
+        "symbol": "HITBTC:SILKETH"
+    },
+    {
+        "description": "Hitbtc REN/BTC",
+        "displaySymbol": "REN/BTC",
+        "symbol": "HITBTC:RENBTC"
+    },
+    {
+        "description": "Hitbtc RAISE/ETH",
+        "displaySymbol": "RAISE/ETH",
+        "symbol": "HITBTC:RAISEETH"
+    },
+    {
+        "description": "Hitbtc CKB/USD",
+        "displaySymbol": "CKB/USD",
+        "symbol": "HITBTC:CKBUSD"
+    },
+    {
+        "description": "Hitbtc SUPER/USD",
+        "displaySymbol": "SUPER/USD",
+        "symbol": "HITBTC:SUPERUSD"
+    },
+    {
+        "description": "Hitbtc FLOW/BTC",
+        "displaySymbol": "FLOW/BTC",
+        "symbol": "HITBTC:FLOWBTC"
+    },
+    {
+        "description": "Hitbtc C20/USD",
+        "displaySymbol": "C20/USD",
+        "symbol": "HITBTC:C20USD"
+    },
+    {
+        "description": "Hitbtc 1INCH/BTC",
+        "displaySymbol": "1INCH/BTC",
+        "symbol": "HITBTC:1INCHBTC"
+    },
+    {
+        "description": "Hitbtc DCN/ETH",
+        "displaySymbol": "DCN/ETH",
+        "symbol": "HITBTC:DCNETH"
+    },
+    {
+        "description": "Hitbtc ELEC/USD",
+        "displaySymbol": "ELEC/USD",
+        "symbol": "HITBTC:ELECUSD"
+    },
+    {
+        "description": "Hitbtc HBAR/USD",
+        "displaySymbol": "HBAR/USD",
+        "symbol": "HITBTC:HBARUSD"
+    },
+    {
+        "description": "Hitbtc NPLC/BTC",
+        "displaySymbol": "NPLC/BTC",
+        "symbol": "HITBTC:NPLCBTC"
+    },
+    {
+        "description": "Hitbtc SOLO/BTC",
+        "displaySymbol": "SOLO/BTC",
+        "symbol": "HITBTC:SOLOBTC"
+    },
+    {
+        "description": "Hitbtc XDN/BTC",
+        "displaySymbol": "XDN/BTC",
+        "symbol": "HITBTC:XDNBTC"
+    },
+    {
+        "description": "Hitbtc XLM/ETH",
+        "displaySymbol": "XLM/ETH",
+        "symbol": "HITBTC:XLMETH"
+    },
+    {
+        "description": "Hitbtc TV/BTC",
+        "displaySymbol": "TV/BTC",
+        "symbol": "HITBTC:TVBTC"
+    },
+    {
+        "description": "Hitbtc LPT/BTC",
+        "displaySymbol": "LPT/BTC",
+        "symbol": "HITBTC:LPTBTC"
+    },
+    {
+        "description": "Hitbtc NEXO/BTC",
+        "displaySymbol": "NEXO/BTC",
+        "symbol": "HITBTC:NEXOBTC"
+    },
+    {
+        "description": "Hitbtc JULD/USD",
+        "displaySymbol": "JULD/USD",
+        "symbol": "HITBTC:JULDUSD"
+    },
+    {
+        "description": "Hitbtc TRAD/BTC",
+        "displaySymbol": "TRAD/BTC",
+        "symbol": "HITBTC:TRADBTC"
+    },
+    {
+        "description": "Hitbtc CBC/ETH",
+        "displaySymbol": "CBC/ETH",
+        "symbol": "HITBTC:CBCETH"
+    },
+    {
+        "description": "Hitbtc FTT/USD",
+        "displaySymbol": "FTT/USD",
+        "symbol": "HITBTC:FTTUSD"
+    },
+    {
+        "description": "Hitbtc PBT/ETH",
+        "displaySymbol": "PBT/ETH",
+        "symbol": "HITBTC:PBTETH"
+    },
+    {
+        "description": "Hitbtc GLM/USD",
+        "displaySymbol": "GLM/USD",
+        "symbol": "HITBTC:GLMUSD"
+    },
+    {
+        "description": "Hitbtc GLEEC/BTC",
+        "displaySymbol": "GLEEC/BTC",
+        "symbol": "HITBTC:GLEECBTC"
+    },
+    {
+        "description": "Hitbtc QTUM/USD",
+        "displaySymbol": "QTUM/USD",
+        "symbol": "HITBTC:QTUMUSD"
+    },
+    {
+        "description": "Hitbtc BOSON/USD",
+        "displaySymbol": "BOSON/USD",
+        "symbol": "HITBTC:BOSONUSD"
+    },
+    {
+        "description": "Hitbtc BETA/BTC",
+        "displaySymbol": "BETA/BTC",
+        "symbol": "HITBTC:BETABTC"
+    },
+    {
+        "description": "Hitbtc SWRV/BTC",
+        "displaySymbol": "SWRV/BTC",
+        "symbol": "HITBTC:SWRVBTC"
+    },
+    {
+        "description": "Hitbtc ENS/BTC",
+        "displaySymbol": "ENS/BTC",
+        "symbol": "HITBTC:ENSBTC"
+    },
+    {
+        "description": "Hitbtc ETL/BTC",
+        "displaySymbol": "ETL/BTC",
+        "symbol": "HITBTC:ETLBTC"
+    },
+    {
+        "description": "Hitbtc OMG/BCH",
+        "displaySymbol": "OMG/BCH",
+        "symbol": "HITBTC:OMGBCH"
+    },
+    {
+        "description": "Hitbtc ARK/BTC",
+        "displaySymbol": "ARK/BTC",
+        "symbol": "HITBTC:ARKBTC"
+    },
+    {
+        "description": "Hitbtc EGLD/BTC",
+        "displaySymbol": "EGLD/BTC",
+        "symbol": "HITBTC:EGLDBTC"
+    },
+    {
+        "description": "Hitbtc ATM/USD",
+        "displaySymbol": "ATM/USD",
+        "symbol": "HITBTC:ATMUSD"
+    },
+    {
+        "description": "Hitbtc EVX/ETH",
+        "displaySymbol": "EVX/ETH",
+        "symbol": "HITBTC:EVXETH"
+    },
+    {
+        "description": "Hitbtc BANCA/USD",
+        "displaySymbol": "BANCA/USD",
+        "symbol": "HITBTC:BANCAUSD"
+    },
+    {
+        "description": "Hitbtc TUSD/USDC",
+        "displaySymbol": "TUSD/USDC",
+        "symbol": "HITBTC:TUSDUSDC"
+    },
+    {
+        "description": "Hitbtc BTRST/BTC",
+        "displaySymbol": "BTRST/BTC",
+        "symbol": "HITBTC:BTRSTBTC"
+    },
+    {
+        "description": "Hitbtc TOMO/BTC",
+        "displaySymbol": "TOMO/BTC",
+        "symbol": "HITBTC:TOMOBTC"
+    },
+    {
+        "description": "Hitbtc BUSD/USD",
+        "displaySymbol": "BUSD/USD",
+        "symbol": "HITBTC:BUSDUSD"
+    },
+    {
+        "description": "Hitbtc DICE/ETH",
+        "displaySymbol": "DICE/ETH",
+        "symbol": "HITBTC:DICEETH"
+    },
+    {
+        "description": "Hitbtc MKR/USD",
+        "displaySymbol": "MKR/USD",
+        "symbol": "HITBTC:MKRUSD"
+    },
+    {
+        "description": "Hitbtc STRAT/BTC",
+        "displaySymbol": "STRAT/BTC",
+        "symbol": "HITBTC:STRATBTC"
+    },
+    {
+        "description": "Hitbtc ATOM/ETH",
+        "displaySymbol": "ATOM/ETH",
+        "symbol": "HITBTC:ATOMETH"
+    },
+    {
+        "description": "Hitbtc CAKE/BTC",
+        "displaySymbol": "CAKE/BTC",
+        "symbol": "HITBTC:CAKEBTC"
+    },
+    {
+        "description": "Hitbtc GBX/BTC",
+        "displaySymbol": "GBX/BTC",
+        "symbol": "HITBTC:GBXBTC"
+    },
+    {
+        "description": "Hitbtc XVG/BTC",
+        "displaySymbol": "XVG/BTC",
+        "symbol": "HITBTC:XVGBTC"
+    },
+    {
+        "description": "Hitbtc BCUG/USD",
+        "displaySymbol": "BCUG/USD",
+        "symbol": "HITBTC:BCUGUSDT"
+    },
+    {
+        "description": "Hitbtc XRP/BCH",
+        "displaySymbol": "XRP/BCH",
+        "symbol": "HITBTC:XRPBCH"
+    },
+    {
+        "description": "Hitbtc PLBT/ETH",
+        "displaySymbol": "PLBT/ETH",
+        "symbol": "HITBTC:PLBTETH"
+    },
+    {
+        "description": "Hitbtc ONEUSD/BTC",
+        "displaySymbol": "ONEUSD/BTC",
+        "symbol": "HITBTC:ONEUSDBTC"
+    },
+    {
+        "description": "Hitbtc KEY/ETH",
+        "displaySymbol": "KEY/ETH",
+        "symbol": "HITBTC:KEYETH"
+    },
+    {
+        "description": "Hitbtc BIZZ/USD",
+        "displaySymbol": "BIZZ/USD",
+        "symbol": "HITBTC:BIZZUSD"
+    },
+    {
+        "description": "Hitbtc MBL/USD",
+        "displaySymbol": "MBL/USD",
+        "symbol": "HITBTC:MBLUSD"
+    },
+    {
+        "description": "Hitbtc WAVES/USD",
+        "displaySymbol": "WAVES/USD",
+        "symbol": "HITBTC:WAVESUSD"
+    },
+    {
+        "description": "Hitbtc FTX/BTC",
+        "displaySymbol": "FTX/BTC",
+        "symbol": "HITBTC:FTXBTC"
+    },
+    {
+        "description": "Hitbtc XDC/ETH",
+        "displaySymbol": "XDC/ETH",
+        "symbol": "HITBTC:XDCETH"
+    },
+    {
+        "description": "Hitbtc BRD/BTC",
+        "displaySymbol": "BRD/BTC",
+        "symbol": "HITBTC:BRDBTC"
+    },
+    {
+        "description": "Hitbtc NTK/ETH",
+        "displaySymbol": "NTK/ETH",
+        "symbol": "HITBTC:NTKETH"
+    },
+    {
+        "description": "Hitbtc AMB/ETH",
+        "displaySymbol": "AMB/ETH",
+        "symbol": "HITBTC:AMBETH"
+    },
+    {
+        "description": "Hitbtc DAV/BTC",
+        "displaySymbol": "DAV/BTC",
+        "symbol": "HITBTC:DAVBTC"
+    },
+    {
+        "description": "Hitbtc BTC/TUSD",
+        "displaySymbol": "BTC/TUSD",
+        "symbol": "HITBTC:BTCTUSD"
+    },
+    {
+        "description": "Hitbtc PLA/BTC",
+        "displaySymbol": "PLA/BTC",
+        "symbol": "HITBTC:PLABTC"
+    },
+    {
+        "description": "Hitbtc SBTC/BTC",
+        "displaySymbol": "SBTC/BTC",
+        "symbol": "HITBTC:SBTCBTC"
+    },
+    {
+        "description": "Hitbtc TORN/BTC",
+        "displaySymbol": "TORN/BTC",
+        "symbol": "HITBTC:TORNBTC"
+    },
+    {
+        "description": "Hitbtc XMC/BTC",
+        "displaySymbol": "XMC/BTC",
+        "symbol": "HITBTC:XMCBTC"
+    },
+    {
+        "description": "Hitbtc PNT/BTC",
+        "displaySymbol": "PNT/BTC",
+        "symbol": "HITBTC:PNTBTC"
+    },
+    {
+        "description": "Hitbtc UOS/BTC",
+        "displaySymbol": "UOS/BTC",
+        "symbol": "HITBTC:UOSBTC"
+    },
+    {
+        "description": "Hitbtc PLR/ETH",
+        "displaySymbol": "PLR/ETH",
+        "symbol": "HITBTC:PLRETH"
+    },
+    {
+        "description": "Hitbtc RCN/ETH",
+        "displaySymbol": "RCN/ETH",
+        "symbol": "HITBTC:RCNETH"
+    },
+    {
+        "description": "Hitbtc WTC/BTC",
+        "displaySymbol": "WTC/BTC",
+        "symbol": "HITBTC:WTCBTC"
+    },
+    {
+        "description": "Hitbtc EURS/TUSD",
+        "displaySymbol": "EURS/TUSD",
+        "symbol": "HITBTC:EURSTUSD"
+    },
+    {
+        "description": "Hitbtc REX/BTC",
+        "displaySymbol": "REX/BTC",
+        "symbol": "HITBTC:REXBTC"
+    },
+    {
+        "description": "Hitbtc PITCH/ETH",
+        "displaySymbol": "PITCH/ETH",
+        "symbol": "HITBTC:PITCHETH"
+    },
+    {
+        "description": "Hitbtc EVER/USD",
+        "displaySymbol": "EVER/USD",
+        "symbol": "HITBTC:EVERUSDT"
+    },
+    {
+        "description": "Hitbtc PEARL/BTC",
+        "displaySymbol": "PEARL/BTC",
+        "symbol": "HITBTC:PEARLBTC"
+    },
+    {
+        "description": "Hitbtc GAS/ETH",
+        "displaySymbol": "GAS/ETH",
+        "symbol": "HITBTC:GASETH"
+    },
+    {
+        "description": "Hitbtc MLN/ETH",
+        "displaySymbol": "MLN/ETH",
+        "symbol": "HITBTC:MLNETH"
+    },
+    {
+        "description": "Hitbtc BTC/UST",
+        "displaySymbol": "BTC/UST",
+        "symbol": "HITBTC:BTCUST"
+    },
+    {
+        "description": "Hitbtc DCR/ETH",
+        "displaySymbol": "DCR/ETH",
+        "symbol": "HITBTC:DCRETH"
+    },
+    {
+        "description": "Hitbtc ONG/BTC",
+        "displaySymbol": "ONG/BTC",
+        "symbol": "HITBTC:ONGBTC"
+    },
+    {
+        "description": "Hitbtc UBT/BTC",
+        "displaySymbol": "UBT/BTC",
+        "symbol": "HITBTC:UBTBTC"
+    },
+    {
+        "description": "Hitbtc BTRST/USD",
+        "displaySymbol": "BTRST/USD",
+        "symbol": "HITBTC:BTRSTUSDT"
+    },
+    {
+        "description": "Hitbtc INSUR/USD",
+        "displaySymbol": "INSUR/USD",
+        "symbol": "HITBTC:INSURUSD"
+    },
+    {
+        "description": "Hitbtc PMA/ETH",
+        "displaySymbol": "PMA/ETH",
+        "symbol": "HITBTC:PMAETH"
+    },
+    {
+        "description": "Hitbtc SAND/USD",
+        "displaySymbol": "SAND/USD",
+        "symbol": "HITBTC:SANDUSD"
+    },
+    {
+        "description": "Hitbtc FLP/USD",
+        "displaySymbol": "FLP/USD",
+        "symbol": "HITBTC:FLPUSD"
+    },
+    {
+        "description": "Hitbtc HIT/ETH",
+        "displaySymbol": "HIT/ETH",
+        "symbol": "HITBTC:HITETH"
+    },
+    {
+        "description": "Hitbtc CHAT/BTC",
+        "displaySymbol": "CHAT/BTC",
+        "symbol": "HITBTC:CHATBTC"
+    },
+    {
+        "description": "Hitbtc ONE/USD",
+        "displaySymbol": "ONE/USD",
+        "symbol": "HITBTC:ONEUSD"
+    },
+    {
+        "description": "Hitbtc FUN/BTC",
+        "displaySymbol": "FUN/BTC",
+        "symbol": "HITBTC:FUNBTC"
+    },
+    {
+        "description": "Hitbtc POWR/BTC",
+        "displaySymbol": "POWR/BTC",
+        "symbol": "HITBTC:POWRBTC"
+    },
+    {
+        "description": "Hitbtc COCOS/BTC",
+        "displaySymbol": "COCOS/BTC",
+        "symbol": "HITBTC:COCOSBTC"
+    },
+    {
+        "description": "Hitbtc WIN/BTC",
+        "displaySymbol": "WIN/BTC",
+        "symbol": "HITBTC:WINBTC"
+    },
+    {
+        "description": "Hitbtc COV/ETH",
+        "displaySymbol": "COV/ETH",
+        "symbol": "HITBTC:COVETH"
+    },
+    {
+        "description": "Hitbtc RNDR/USD",
+        "displaySymbol": "RNDR/USD",
+        "symbol": "HITBTC:RNDRUSD"
+    },
+    {
+        "description": "Hitbtc VITAE/BTC",
+        "displaySymbol": "VITAE/BTC",
+        "symbol": "HITBTC:VITAEBTC"
+    },
+    {
+        "description": "Hitbtc DOT/BTC",
+        "displaySymbol": "DOT/BTC",
+        "symbol": "HITBTC:DOTBTC"
+    },
+    {
+        "description": "Hitbtc CKB/BTC",
+        "displaySymbol": "CKB/BTC",
+        "symbol": "HITBTC:CKBBTC"
+    },
+    {
+        "description": "Hitbtc TV/USD",
+        "displaySymbol": "TV/USD",
+        "symbol": "HITBTC:TVUSD"
+    },
+    {
+        "description": "Hitbtc WRX/BTC",
+        "displaySymbol": "WRX/BTC",
+        "symbol": "HITBTC:WRXBTC"
+    },
+    {
+        "description": "Hitbtc DOGE/BTC",
+        "displaySymbol": "DOGE/BTC",
+        "symbol": "HITBTC:DOGEBTC"
+    },
+    {
+        "description": "Hitbtc BZRX/USD",
+        "displaySymbol": "BZRX/USD",
+        "symbol": "HITBTC:BZRXUSD"
+    },
+    {
+        "description": "Hitbtc DAPP/BTC",
+        "displaySymbol": "DAPP/BTC",
+        "symbol": "HITBTC:DAPPBTC"
+    },
+    {
+        "description": "Hitbtc UNO/USD",
+        "displaySymbol": "UNO/USD",
+        "symbol": "HITBTC:UNOUSD"
+    },
+    {
+        "description": "Hitbtc LCX/BTC",
+        "displaySymbol": "LCX/BTC",
+        "symbol": "HITBTC:LCXBTC"
+    },
+    {
+        "description": "Hitbtc ROSE/BTC",
+        "displaySymbol": "ROSE/BTC",
+        "symbol": "HITBTC:ROSEBTC"
+    },
+    {
+        "description": "Hitbtc COMP/ETH",
+        "displaySymbol": "COMP/ETH",
+        "symbol": "HITBTC:COMPETH"
+    },
+    {
+        "description": "Hitbtc CCE/BCH",
+        "displaySymbol": "CCE/BCH",
+        "symbol": "HITBTC:CCEBCH"
+    },
+    {
+        "description": "Hitbtc SXP/BTC",
+        "displaySymbol": "SXP/BTC",
+        "symbol": "HITBTC:SXPBTC"
+    },
+    {
+        "description": "Hitbtc UNI/HIT",
+        "displaySymbol": "UNI/HIT",
+        "symbol": "HITBTC:UNIHIT"
+    },
+    {
+        "description": "Hitbtc TTCC/BTC",
+        "displaySymbol": "TTCC/BTC",
+        "symbol": "HITBTC:TTCCBTC"
+    },
+    {
+        "description": "Hitbtc SNT/USD",
+        "displaySymbol": "SNT/USD",
+        "symbol": "HITBTC:SNTUSD"
+    },
+    {
+        "description": "Hitbtc NU/BTC",
+        "displaySymbol": "NU/BTC",
+        "symbol": "HITBTC:NUBTC"
+    },
+    {
+        "description": "Hitbtc DCR/BTC",
+        "displaySymbol": "DCR/BTC",
+        "symbol": "HITBTC:DCRBTC"
+    },
+    {
+        "description": "Hitbtc CENNZ/BTC",
+        "displaySymbol": "CENNZ/BTC",
+        "symbol": "HITBTC:CENNZBTC"
+    },
+    {
+        "description": "Hitbtc C98/BTC",
+        "displaySymbol": "C98/BTC",
+        "symbol": "HITBTC:C98BTC"
+    },
+    {
+        "description": "Hitbtc SBTC/USD",
+        "displaySymbol": "SBTC/USD",
+        "symbol": "HITBTC:SBTCUSDT"
+    },
+    {
+        "description": "Hitbtc GBX/USD",
+        "displaySymbol": "GBX/USD",
+        "symbol": "HITBTC:GBXUSD"
+    },
+    {
+        "description": "Hitbtc XAUR/BTC",
+        "displaySymbol": "XAUR/BTC",
+        "symbol": "HITBTC:XAURBTC"
+    },
+    {
+        "description": "Hitbtc XVS/USD",
+        "displaySymbol": "XVS/USD",
+        "symbol": "HITBTC:XVSUSD"
+    },
+    {
+        "description": "Hitbtc TTCC/USD",
+        "displaySymbol": "TTCC/USD",
+        "symbol": "HITBTC:TTCCUSDT"
+    },
+    {
+        "description": "Hitbtc SMART/ETH",
+        "displaySymbol": "SMART/ETH",
+        "symbol": "HITBTC:SMARTETH"
+    },
+    {
+        "description": "Hitbtc PUNDIX/BTC",
+        "displaySymbol": "PUNDIX/BTC",
+        "symbol": "HITBTC:PUNDIXBTC"
+    },
+    {
+        "description": "Hitbtc NPLC/ETH",
+        "displaySymbol": "NPLC/ETH",
+        "symbol": "HITBTC:NPLCETH"
+    },
+    {
+        "description": "Hitbtc CUTE/ETH",
+        "displaySymbol": "CUTE/ETH",
+        "symbol": "HITBTC:CUTEETH"
+    },
+    {
+        "description": "Hitbtc DGTX/BTC",
+        "displaySymbol": "DGTX/BTC",
+        "symbol": "HITBTC:DGTXBTC"
+    },
+    {
+        "description": "Hitbtc HBAR/BTC",
+        "displaySymbol": "HBAR/BTC",
+        "symbol": "HITBTC:HBARBTC"
+    },
+    {
+        "description": "Hitbtc FLP/BTC",
+        "displaySymbol": "FLP/BTC",
+        "symbol": "HITBTC:FLPBTC"
+    },
+    {
+        "description": "Hitbtc KMD/BTC",
+        "displaySymbol": "KMD/BTC",
+        "symbol": "HITBTC:KMDBTC"
+    },
+    {
+        "description": "Hitbtc AIM/BTC",
+        "displaySymbol": "AIM/BTC",
+        "symbol": "HITBTC:AIMBTC"
+    },
+    {
+        "description": "Hitbtc BCN/BTC",
+        "displaySymbol": "BCN/BTC",
+        "symbol": "HITBTC:BCNBTC"
+    },
+    {
+        "description": "Hitbtc PRO/ETH",
+        "displaySymbol": "PRO/ETH",
+        "symbol": "HITBTC:PROETH"
+    },
+    {
+        "description": "Hitbtc SEELE/BTC",
+        "displaySymbol": "SEELE/BTC",
+        "symbol": "HITBTC:SEELEBTC"
+    },
+    {
+        "description": "Hitbtc NUT/BTC",
+        "displaySymbol": "NUT/BTC",
+        "symbol": "HITBTC:NUTBTC"
+    },
+    {
+        "description": "Hitbtc GRT/USD",
+        "displaySymbol": "GRT/USD",
+        "symbol": "HITBTC:GRTUSD"
+    },
+    {
+        "description": "Hitbtc LCX/ETH",
+        "displaySymbol": "LCX/ETH",
+        "symbol": "HITBTC:LCXETH"
+    },
+    {
+        "description": "Hitbtc AE/BTC",
+        "displaySymbol": "AE/BTC",
+        "symbol": "HITBTC:AEBTC"
+    },
+    {
+        "description": "Hitbtc TRAC/USD",
+        "displaySymbol": "TRAC/USD",
+        "symbol": "HITBTC:TRACUSDT"
+    },
+    {
+        "description": "Hitbtc CITY/BTC",
+        "displaySymbol": "CITY/BTC",
+        "symbol": "HITBTC:CITYBTC"
+    },
+    {
+        "description": "Hitbtc DGB/ETH",
+        "displaySymbol": "DGB/ETH",
+        "symbol": "HITBTC:DGBETH"
+    },
+    {
+        "description": "Hitbtc CRV/ETH",
+        "displaySymbol": "CRV/ETH",
+        "symbol": "HITBTC:CRVETH"
+    },
+    {
+        "description": "Hitbtc PERP/BTC",
+        "displaySymbol": "PERP/BTC",
+        "symbol": "HITBTC:PERPBTC"
+    },
+    {
+        "description": "Hitbtc RFR/BTC",
+        "displaySymbol": "RFR/BTC",
+        "symbol": "HITBTC:RFRBTC"
+    },
+    {
+        "description": "Hitbtc GHST/BTC",
+        "displaySymbol": "GHST/BTC",
+        "symbol": "HITBTC:GHSTBTC"
+    },
+    {
+        "description": "Hitbtc UTK/USD",
+        "displaySymbol": "UTK/USD",
+        "symbol": "HITBTC:UTKUSD"
+    },
+    {
+        "description": "Hitbtc GOF/BTC",
+        "displaySymbol": "GOF/BTC",
+        "symbol": "HITBTC:GOFBTC"
+    },
+    {
+        "description": "Hitbtc TRX/EOS",
+        "displaySymbol": "TRX/EOS",
+        "symbol": "HITBTC:TRXEOS"
+    },
+    {
+        "description": "Hitbtc TONCOIN/USD",
+        "displaySymbol": "TONCOIN/USD",
+        "symbol": "HITBTC:TONCOINUSDT"
+    },
+    {
+        "description": "Hitbtc SUR/ETH",
+        "displaySymbol": "SUR/ETH",
+        "symbol": "HITBTC:SURETH"
+    },
+    {
+        "description": "Hitbtc ILV/USD",
+        "displaySymbol": "ILV/USD",
+        "symbol": "HITBTC:ILVUSDT"
+    },
+    {
+        "description": "Hitbtc YFI/USD",
+        "displaySymbol": "YFI/USD",
+        "symbol": "HITBTC:YFIUSD"
+    },
+    {
+        "description": "Hitbtc G999/BTC",
+        "displaySymbol": "G999/BTC",
+        "symbol": "HITBTC:G999BTC"
+    },
+    {
+        "description": "Hitbtc EVER/BTC",
+        "displaySymbol": "EVER/BTC",
+        "symbol": "HITBTC:EVERBTC"
+    },
+    {
+        "description": "Hitbtc YFII/BTC",
+        "displaySymbol": "YFII/BTC",
+        "symbol": "HITBTC:YFIIBTC"
+    },
+    {
+        "description": "Hitbtc XRC/BTC",
+        "displaySymbol": "XRC/BTC",
+        "symbol": "HITBTC:XRCBTC"
+    },
+    {
+        "description": "Hitbtc BTG/BTC",
+        "displaySymbol": "BTG/BTC",
+        "symbol": "HITBTC:BTGBTC"
+    },
+    {
+        "description": "Hitbtc ELEC/ETH",
+        "displaySymbol": "ELEC/ETH",
+        "symbol": "HITBTC:ELECETH"
+    },
+    {
+        "description": "Hitbtc SLP/USD",
+        "displaySymbol": "SLP/USD",
+        "symbol": "HITBTC:SLPUSDT"
+    },
+    {
+        "description": "Hitbtc EMRX/BTC",
+        "displaySymbol": "EMRX/BTC",
+        "symbol": "HITBTC:EMRXBTC"
+    },
+    {
+        "description": "Hitbtc CTSI/BTC",
+        "displaySymbol": "CTSI/BTC",
+        "symbol": "HITBTC:CTSIBTC"
+    },
+    {
+        "description": "Hitbtc HOT/BTC",
+        "displaySymbol": "HOT/BTC",
+        "symbol": "HITBTC:HOTBTC"
+    },
+    {
+        "description": "Hitbtc DEXE/ETH",
+        "displaySymbol": "DEXE/ETH",
+        "symbol": "HITBTC:DEXEETH"
+    },
+    {
+        "description": "Hitbtc FOTA/ETH",
+        "displaySymbol": "FOTA/ETH",
+        "symbol": "HITBTC:FOTAETH"
+    },
+    {
+        "description": "Hitbtc XMT/ETH",
+        "displaySymbol": "XMT/ETH",
+        "symbol": "HITBTC:XMTETH"
+    },
+    {
+        "description": "Hitbtc ACT/USD",
+        "displaySymbol": "ACT/USD",
+        "symbol": "HITBTC:ACTUSD"
+    },
+    {
+        "description": "Hitbtc ALICE/USD",
+        "displaySymbol": "ALICE/USD",
+        "symbol": "HITBTC:ALICEUSD"
+    },
+    {
+        "description": "Hitbtc HGT/ETH",
+        "displaySymbol": "HGT/ETH",
+        "symbol": "HITBTC:HGTETH"
+    },
+    {
+        "description": "Hitbtc SRM/BTC",
+        "displaySymbol": "SRM/BTC",
+        "symbol": "HITBTC:SRMBTC"
+    },
+    {
+        "description": "Hitbtc DATA/USD",
+        "displaySymbol": "DATA/USD",
+        "symbol": "HITBTC:DATAUSDT"
+    },
+    {
+        "description": "Hitbtc ANT/BTC",
+        "displaySymbol": "ANT/BTC",
+        "symbol": "HITBTC:ANTBTC"
+    },
+    {
+        "description": "Hitbtc DASH/HIT",
+        "displaySymbol": "DASH/HIT",
+        "symbol": "HITBTC:DASHHIT"
+    },
+    {
+        "description": "Hitbtc SUB/ETH",
+        "displaySymbol": "SUB/ETH",
+        "symbol": "HITBTC:SUBETH"
+    },
+    {
+        "description": "Hitbtc QTUM/ETH",
+        "displaySymbol": "QTUM/ETH",
+        "symbol": "HITBTC:QTUMETH"
+    },
+    {
+        "description": "Hitbtc SUSHI/USD",
+        "displaySymbol": "SUSHI/USD",
+        "symbol": "HITBTC:SUSHIUSD"
+    },
+    {
+        "description": "Hitbtc AEON/BTC",
+        "displaySymbol": "AEON/BTC",
+        "symbol": "HITBTC:AEONBTC"
+    },
+    {
+        "description": "Hitbtc RAD/USD",
+        "displaySymbol": "RAD/USD",
+        "symbol": "HITBTC:RADUSDT"
+    },
+    {
+        "description": "Hitbtc CPAY/ETH",
+        "displaySymbol": "CPAY/ETH",
+        "symbol": "HITBTC:CPAYETH"
+    },
+    {
+        "description": "Hitbtc USE/ETH",
+        "displaySymbol": "USE/ETH",
+        "symbol": "HITBTC:USEETH"
+    },
+    {
+        "description": "Hitbtc SCC/BTC",
+        "displaySymbol": "SCC/BTC",
+        "symbol": "HITBTC:SCCBTC"
+    },
+    {
+        "description": "Hitbtc SATT/BTC",
+        "displaySymbol": "SATT/BTC",
+        "symbol": "HITBTC:SATTBTC"
+    },
+    {
+        "description": "Hitbtc XMR/TUSD",
+        "displaySymbol": "XMR/TUSD",
+        "symbol": "HITBTC:XMRTUSD"
+    },
+    {
+        "description": "Hitbtc LTC/ETH",
+        "displaySymbol": "LTC/ETH",
+        "symbol": "HITBTC:LTCETH"
+    },
+    {
+        "description": "Hitbtc PSG/USD",
+        "displaySymbol": "PSG/USD",
+        "symbol": "HITBTC:PSGUSD"
+    },
+    {
+        "description": "Hitbtc MANA/USD",
+        "displaySymbol": "MANA/USD",
+        "symbol": "HITBTC:MANAUSD"
+    },
+    {
+        "description": "Hitbtc DIT/ETH",
+        "displaySymbol": "DIT/ETH",
+        "symbol": "HITBTC:DITETH"
+    },
+    {
+        "description": "Hitbtc SHIB/BTC",
+        "displaySymbol": "SHIB/BTC",
+        "symbol": "HITBTC:SHIBBTC"
+    },
+    {
+        "description": "Hitbtc FUN/USD",
+        "displaySymbol": "FUN/USD",
+        "symbol": "HITBTC:FUNUSD"
+    },
+    {
+        "description": "Hitbtc BTC/USDP",
+        "displaySymbol": "BTC/USDP",
+        "symbol": "HITBTC:BTCUSDP"
+    },
+    {
+        "description": "Hitbtc REQ/USD",
+        "displaySymbol": "REQ/USD",
+        "symbol": "HITBTC:REQUSDT"
+    },
+    {
+        "description": "Hitbtc BTMC/ETH",
+        "displaySymbol": "BTMC/ETH",
+        "symbol": "HITBTC:BTMCETH"
+    },
+    {
+        "description": "Hitbtc USD/EOSDT",
+        "displaySymbol": "USD/EOSDT",
+        "symbol": "HITBTC:USDEOSDT"
+    },
+    {
+        "description": "Hitbtc HIVE/USD",
+        "displaySymbol": "HIVE/USD",
+        "symbol": "HITBTC:HIVEUSDT"
+    },
+    {
+        "description": "Hitbtc USNOTA/BTC",
+        "displaySymbol": "USNOTA/BTC",
+        "symbol": "HITBTC:USNOTABTC"
+    },
+    {
+        "description": "Hitbtc GRIN/USD",
+        "displaySymbol": "GRIN/USD",
+        "symbol": "HITBTC:GRINUSD"
+    },
+    {
+        "description": "Hitbtc MAN/BTC",
+        "displaySymbol": "MAN/BTC",
+        "symbol": "HITBTC:MANBTC"
+    },
+    {
+        "description": "Hitbtc MINA/BTC",
+        "displaySymbol": "MINA/BTC",
+        "symbol": "HITBTC:MINABTC"
+    },
+    {
+        "description": "Hitbtc BIST/USD",
+        "displaySymbol": "BIST/USD",
+        "symbol": "HITBTC:BISTUSD"
+    },
+    {
+        "description": "Hitbtc LNC/BTC",
+        "displaySymbol": "LNC/BTC",
+        "symbol": "HITBTC:LNCBTC"
+    },
+    {
+        "description": "Hitbtc FLEX/USD",
+        "displaySymbol": "FLEX/USD",
+        "symbol": "HITBTC:FLEXUSD"
+    },
+    {
+        "description": "Hitbtc IOST/USD",
+        "displaySymbol": "IOST/USD",
+        "symbol": "HITBTC:IOSTUSD"
+    },
+    {
+        "description": "Hitbtc TFUEL/BTC",
+        "displaySymbol": "TFUEL/BTC",
+        "symbol": "HITBTC:TFUELBTC"
+    },
+    {
+        "description": "Hitbtc BTCV/BTC",
+        "displaySymbol": "BTCV/BTC",
+        "symbol": "HITBTC:BTCVBTC"
+    },
+    {
+        "description": "Hitbtc INJ/USD",
+        "displaySymbol": "INJ/USD",
+        "symbol": "HITBTC:INJUSD"
+    },
+    {
+        "description": "Hitbtc OAX/USD",
+        "displaySymbol": "OAX/USD",
+        "symbol": "HITBTC:OAXUSD"
+    },
+    {
+        "description": "Hitbtc IQ/BTC",
+        "displaySymbol": "IQ/BTC",
+        "symbol": "HITBTC:IQBTC"
+    },
+    {
+        "description": "Hitbtc PLA/ETH",
+        "displaySymbol": "PLA/ETH",
+        "symbol": "HITBTC:PLAETH"
+    },
+    {
+        "description": "Hitbtc LUNA/BTC",
+        "displaySymbol": "LUNA/BTC",
+        "symbol": "HITBTC:LUNABTC"
+    },
+    {
+        "description": "Hitbtc STEEM/BTC",
+        "displaySymbol": "STEEM/BTC",
+        "symbol": "HITBTC:STEEMBTC"
+    },
+    {
+        "description": "Hitbtc ALGO/ETH",
+        "displaySymbol": "ALGO/ETH",
+        "symbol": "HITBTC:ALGOETH"
+    },
+    {
+        "description": "Hitbtc CCE/ETH",
+        "displaySymbol": "CCE/ETH",
+        "symbol": "HITBTC:CCEETH"
+    },
+    {
+        "description": "Hitbtc INK/USD",
+        "displaySymbol": "INK/USD",
+        "symbol": "HITBTC:INKUSD"
+    },
+    {
+        "description": "Hitbtc USG/USD",
+        "displaySymbol": "USG/USD",
+        "symbol": "HITBTC:USGUSD"
+    },
+    {
+        "description": "Hitbtc ETHBNT/BTC",
+        "displaySymbol": "ETHBNT/BTC",
+        "symbol": "HITBTC:ETHBNTBTC"
+    },
+    {
+        "description": "Hitbtc UMA/BTC",
+        "displaySymbol": "UMA/BTC",
+        "symbol": "HITBTC:UMABTC"
+    },
+    {
+        "description": "Hitbtc TRU/USD",
+        "displaySymbol": "TRU/USD",
+        "symbol": "HITBTC:TRUUSD"
+    },
+    {
+        "description": "Hitbtc BCN/ETH",
+        "displaySymbol": "BCN/ETH",
+        "symbol": "HITBTC:BCNETH"
+    },
+    {
+        "description": "Hitbtc RGT/USD",
+        "displaySymbol": "RGT/USD",
+        "symbol": "HITBTC:RGTUSDT"
+    },
+    {
+        "description": "Hitbtc ABYSS/ETH",
+        "displaySymbol": "ABYSS/ETH",
+        "symbol": "HITBTC:ABYSSETH"
+    },
+    {
+        "description": "Hitbtc EFI/USD",
+        "displaySymbol": "EFI/USD",
+        "symbol": "HITBTC:EFIUSDT"
+    },
+    {
+        "description": "Hitbtc LEVL/BTC",
+        "displaySymbol": "LEVL/BTC",
+        "symbol": "HITBTC:LEVLBTC"
+    },
+    {
+        "description": "Hitbtc SALT/ETH",
+        "displaySymbol": "SALT/ETH",
+        "symbol": "HITBTC:SALTETH"
+    },
+    {
+        "description": "Hitbtc CLO/BTC",
+        "displaySymbol": "CLO/BTC",
+        "symbol": "HITBTC:CLOBTC"
+    },
+    {
+        "description": "Hitbtc BOR/USD",
+        "displaySymbol": "BOR/USD",
+        "symbol": "HITBTC:BORUSD"
+    },
+    {
+        "description": "Hitbtc ASP/BTC",
+        "displaySymbol": "ASP/BTC",
+        "symbol": "HITBTC:ASPBTC"
+    },
+    {
+        "description": "Hitbtc XDC/BTC",
+        "displaySymbol": "XDC/BTC",
+        "symbol": "HITBTC:XDCBTC"
+    },
+    {
+        "description": "Hitbtc FIL/USD",
+        "displaySymbol": "FIL/USD",
+        "symbol": "HITBTC:FILUSD"
+    },
+    {
+        "description": "Hitbtc SNGLS/BTC",
+        "displaySymbol": "SNGLS/BTC",
+        "symbol": "HITBTC:SNGLSBTC"
+    },
+    {
+        "description": "Hitbtc TLM/BTC",
+        "displaySymbol": "TLM/BTC",
+        "symbol": "HITBTC:TLMBTC"
+    },
+    {
+        "description": "Hitbtc DDR/USD",
+        "displaySymbol": "DDR/USD",
+        "symbol": "HITBTC:DDRUSD"
+    },
+    {
+        "description": "Hitbtc EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "HITBTC:EOSETH"
+    },
+    {
+        "description": "Hitbtc SMT/BTC",
+        "displaySymbol": "SMT/BTC",
+        "symbol": "HITBTC:SMTBTC"
+    },
+    {
+        "description": "Hitbtc REM/ETH",
+        "displaySymbol": "REM/ETH",
+        "symbol": "HITBTC:REMETH"
+    },
+    {
+        "description": "Hitbtc UNO/ETH",
+        "displaySymbol": "UNO/ETH",
+        "symbol": "HITBTC:UNOETH"
+    },
+    {
+        "description": "Hitbtc LEO/USD",
+        "displaySymbol": "LEO/USD",
+        "symbol": "HITBTC:LEOUSD"
+    },
+    {
+        "description": "Hitbtc TAU/BTC",
+        "displaySymbol": "TAU/BTC",
+        "symbol": "HITBTC:TAUBTC"
+    },
+    {
+        "description": "Hitbtc FIRO/USD",
+        "displaySymbol": "FIRO/USD",
+        "symbol": "HITBTC:FIROUSD"
+    },
+    {
+        "description": "Hitbtc JASMY/BTC",
+        "displaySymbol": "JASMY/BTC",
+        "symbol": "HITBTC:JASMYBTC"
+    },
+    {
+        "description": "Hitbtc SPI/BTC",
+        "displaySymbol": "SPI/BTC",
+        "symbol": "HITBTC:SPIBTC"
+    },
+    {
+        "description": "Hitbtc EVER/ETH",
+        "displaySymbol": "EVER/ETH",
+        "symbol": "HITBTC:EVERETH"
+    },
+    {
+        "description": "Hitbtc SWFTC/USD",
+        "displaySymbol": "SWFTC/USD",
+        "symbol": "HITBTC:SWFTCUSD"
+    },
+    {
+        "description": "Hitbtc MANA/BTC",
+        "displaySymbol": "MANA/BTC",
+        "symbol": "HITBTC:MANABTC"
+    },
+    {
+        "description": "Hitbtc VET/USD",
+        "displaySymbol": "VET/USD",
+        "symbol": "HITBTC:VETUSDT"
+    },
+    {
+        "description": "Hitbtc BTTOLD/USD",
+        "displaySymbol": "BTTOLD/USD",
+        "symbol": "HITBTC:BTTOLDUSD"
+    },
+    {
+        "description": "Hitbtc VET/HIT",
+        "displaySymbol": "VET/HIT",
+        "symbol": "HITBTC:VETHIT"
+    },
+    {
+        "description": "Hitbtc STRAT/ETH",
+        "displaySymbol": "STRAT/ETH",
+        "symbol": "HITBTC:STRATETH"
+    },
+    {
+        "description": "Hitbtc GAS/BTC",
+        "displaySymbol": "GAS/BTC",
+        "symbol": "HITBTC:GASBTC"
+    },
+    {
+        "description": "Hitbtc CVP/BTC",
+        "displaySymbol": "CVP/BTC",
+        "symbol": "HITBTC:CVPBTC"
+    },
+    {
+        "description": "Hitbtc ROOK/BTC",
+        "displaySymbol": "ROOK/BTC",
+        "symbol": "HITBTC:ROOKBTC"
+    },
+    {
+        "description": "Hitbtc JASMY/USD",
+        "displaySymbol": "JASMY/USD",
+        "symbol": "HITBTC:JASMYUSDT"
+    },
+    {
+        "description": "Hitbtc YUCT/USD",
+        "displaySymbol": "YUCT/USD",
+        "symbol": "HITBTC:YUCTUSDT"
+    },
+    {
+        "description": "Hitbtc ACD/BCH",
+        "displaySymbol": "ACD/BCH",
+        "symbol": "HITBTC:ACDBCH"
+    },
+    {
+        "description": "Hitbtc AXPR/ETH",
+        "displaySymbol": "AXPR/ETH",
+        "symbol": "HITBTC:AXPRETH"
+    },
+    {
+        "description": "Hitbtc ZAP/BTC",
+        "displaySymbol": "ZAP/BTC",
+        "symbol": "HITBTC:ZAPBTC"
+    },
+    {
+        "description": "Hitbtc ROOBEE/BTC",
+        "displaySymbol": "ROOBEE/BTC",
+        "symbol": "HITBTC:ROOBEEBTC"
+    },
+    {
+        "description": "Hitbtc MASK/USD",
+        "displaySymbol": "MASK/USD",
+        "symbol": "HITBTC:MASKUSD"
+    },
+    {
+        "description": "Hitbtc LCC/BTC",
+        "displaySymbol": "LCC/BTC",
+        "symbol": "HITBTC:LCCBTC"
+    },
+    {
+        "description": "Hitbtc LEVL/USD",
+        "displaySymbol": "LEVL/USD",
+        "symbol": "HITBTC:LEVLUSD"
+    },
+    {
+        "description": "Hitbtc WAVES/BCH",
+        "displaySymbol": "WAVES/BCH",
+        "symbol": "HITBTC:WAVESBCH"
+    },
+    {
+        "description": "Hitbtc OCN/ETH",
+        "displaySymbol": "OCN/ETH",
+        "symbol": "HITBTC:OCNETH"
+    },
+    {
+        "description": "Hitbtc PPT/BTC",
+        "displaySymbol": "PPT/BTC",
+        "symbol": "HITBTC:PPTBTC"
+    },
+    {
+        "description": "Hitbtc BAT/BTC",
+        "displaySymbol": "BAT/BTC",
+        "symbol": "HITBTC:BATBTC"
+    },
+    {
+        "description": "Hitbtc OM/BTC",
+        "displaySymbol": "OM/BTC",
+        "symbol": "HITBTC:OMBTC"
+    },
+    {
+        "description": "Hitbtc GRIN/ETH",
+        "displaySymbol": "GRIN/ETH",
+        "symbol": "HITBTC:GRINETH"
+    },
+    {
+        "description": "Hitbtc DAI/EOSDT",
+        "displaySymbol": "DAI/EOSDT",
+        "symbol": "HITBTC:DAIEOSDT"
+    },
+    {
+        "description": "Hitbtc EOS/HIT",
+        "displaySymbol": "EOS/HIT",
+        "symbol": "HITBTC:EOSHIT"
+    },
+    {
+        "description": "Hitbtc SPC/USD",
+        "displaySymbol": "SPC/USD",
+        "symbol": "HITBTC:SPCUSD"
+    },
+    {
+        "description": "Hitbtc FIDA/USD",
+        "displaySymbol": "FIDA/USD",
+        "symbol": "HITBTC:FIDAUSDT"
+    },
+    {
+        "description": "Hitbtc SRX/XDC",
+        "displaySymbol": "SRX/XDC",
+        "symbol": "HITBTC:SRXXDC"
+    },
+    {
+        "description": "Hitbtc MG/ETH",
+        "displaySymbol": "MG/ETH",
+        "symbol": "HITBTC:MGETH"
+    },
+    {
+        "description": "Hitbtc EMC/BTC",
+        "displaySymbol": "EMC/BTC",
+        "symbol": "HITBTC:EMCBTC"
+    },
+    {
+        "description": "Hitbtc ORN/USD",
+        "displaySymbol": "ORN/USD",
+        "symbol": "HITBTC:ORNUSD"
+    },
+    {
+        "description": "Hitbtc RARI/BTC",
+        "displaySymbol": "RARI/BTC",
+        "symbol": "HITBTC:RARIBTC"
+    },
+    {
+        "description": "Hitbtc ZYN/USD",
+        "displaySymbol": "ZYN/USD",
+        "symbol": "HITBTC:ZYNUSDT"
+    },
+    {
+        "description": "Hitbtc NEXO/USD",
+        "displaySymbol": "NEXO/USD",
+        "symbol": "HITBTC:NEXOUSD"
+    },
+    {
+        "description": "Hitbtc SOL/ETH",
+        "displaySymbol": "SOL/ETH",
+        "symbol": "HITBTC:SOLETH"
+    },
+    {
+        "description": "Hitbtc TORN/USD",
+        "displaySymbol": "TORN/USD",
+        "symbol": "HITBTC:TORNUSD"
+    },
+    {
+        "description": "Hitbtc FIRO/BTC",
+        "displaySymbol": "FIRO/BTC",
+        "symbol": "HITBTC:FIROBTC"
+    },
+    {
+        "description": "Hitbtc MATIC/BTC",
+        "displaySymbol": "MATIC/BTC",
+        "symbol": "HITBTC:MATICBTC"
+    },
+    {
+        "description": "Hitbtc EMC/ETH",
+        "displaySymbol": "EMC/ETH",
+        "symbol": "HITBTC:EMCETH"
+    },
+    {
+        "description": "Hitbtc WRX/USD",
+        "displaySymbol": "WRX/USD",
+        "symbol": "HITBTC:WRXUSD"
+    },
+    {
+        "description": "Hitbtc AUDIO/USD",
+        "displaySymbol": "AUDIO/USD",
+        "symbol": "HITBTC:AUDIOUSD"
+    },
+    {
+        "description": "Hitbtc FXS/BTC",
+        "displaySymbol": "FXS/BTC",
+        "symbol": "HITBTC:FXSBTC"
+    },
+    {
+        "description": "Hitbtc OAX/ETH",
+        "displaySymbol": "OAX/ETH",
+        "symbol": "HITBTC:OAXETH"
+    },
+    {
+        "description": "Hitbtc NFT/USD",
+        "displaySymbol": "NFT/USD",
+        "symbol": "HITBTC:NFTUSD"
+    },
+    {
+        "description": "Hitbtc CCE/USD",
+        "displaySymbol": "CCE/USD",
+        "symbol": "HITBTC:CCEUSD"
+    },
+    {
+        "description": "Hitbtc RARI/USD",
+        "displaySymbol": "RARI/USD",
+        "symbol": "HITBTC:RARIUSD"
+    },
+    {
+        "description": "Hitbtc OXT/BTC",
+        "displaySymbol": "OXT/BTC",
+        "symbol": "HITBTC:OXTBTC"
+    },
+    {
+        "description": "Hitbtc ETH/EURST",
+        "displaySymbol": "ETH/EURST",
+        "symbol": "HITBTC:ETHEURST"
+    },
+    {
+        "description": "Hitbtc ETH/TUSD",
+        "displaySymbol": "ETH/TUSD",
+        "symbol": "HITBTC:ETHTUSD"
+    },
+    {
+        "description": "Hitbtc ART/BTC",
+        "displaySymbol": "ART/BTC",
+        "symbol": "HITBTC:ARTBTC"
+    },
+    {
+        "description": "Hitbtc NXT/USD",
+        "displaySymbol": "NXT/USD",
+        "symbol": "HITBTC:NXTUSD"
+    },
+    {
+        "description": "Hitbtc QNT/BTC",
+        "displaySymbol": "QNT/BTC",
+        "symbol": "HITBTC:QNTBTC"
+    },
+    {
+        "description": "Hitbtc GMD/BTC",
+        "displaySymbol": "GMD/BTC",
+        "symbol": "HITBTC:GMDBTC"
+    },
+    {
+        "description": "Hitbtc RAMP/BTC",
+        "displaySymbol": "RAMP/BTC",
+        "symbol": "HITBTC:RAMPBTC"
+    },
+    {
+        "description": "Hitbtc FXT/ETH",
+        "displaySymbol": "FXT/ETH",
+        "symbol": "HITBTC:FXTETH"
+    },
+    {
+        "description": "Hitbtc LINK/BCH",
+        "displaySymbol": "LINK/BCH",
+        "symbol": "HITBTC:LINKBCH"
+    },
+    {
+        "description": "Hitbtc AGLD/USD",
+        "displaySymbol": "AGLD/USD",
+        "symbol": "HITBTC:AGLDUSDT"
+    },
+    {
+        "description": "Hitbtc AXS/USD",
+        "displaySymbol": "AXS/USD",
+        "symbol": "HITBTC:AXSUSD"
+    },
+    {
+        "description": "Hitbtc KIN/BTC",
+        "displaySymbol": "KIN/BTC",
+        "symbol": "HITBTC:KINBTC"
+    },
+    {
+        "description": "Hitbtc SHIP/ETH",
+        "displaySymbol": "SHIP/ETH",
+        "symbol": "HITBTC:SHIPETH"
+    },
+    {
+        "description": "Hitbtc DDRT/BTC",
+        "displaySymbol": "DDRT/BTC",
+        "symbol": "HITBTC:DDRTBTC"
+    },
+    {
+        "description": "Hitbtc BCH/HIT",
+        "displaySymbol": "BCH/HIT",
+        "symbol": "HITBTC:BCHHIT"
+    },
+    {
+        "description": "Hitbtc XLM/BTC",
+        "displaySymbol": "XLM/BTC",
+        "symbol": "HITBTC:XLMBTC"
+    },
+    {
+        "description": "Hitbtc POA/DAI",
+        "displaySymbol": "POA/DAI",
+        "symbol": "HITBTC:POADAI"
+    },
+    {
+        "description": "Hitbtc BCVT/USD",
+        "displaySymbol": "BCVT/USD",
+        "symbol": "HITBTC:BCVTUSD"
+    },
+    {
+        "description": "Hitbtc FARM/USD",
+        "displaySymbol": "FARM/USD",
+        "symbol": "HITBTC:FARMUSD"
+    },
+    {
+        "description": "Hitbtc BETA/USD",
+        "displaySymbol": "BETA/USD",
+        "symbol": "HITBTC:BETAUSDT"
+    },
+    {
+        "description": "Hitbtc SRX/USD",
+        "displaySymbol": "SRX/USD",
+        "symbol": "HITBTC:SRXUSDT"
+    },
+    {
+        "description": "Hitbtc KLAY/BTC",
+        "displaySymbol": "KLAY/BTC",
+        "symbol": "HITBTC:KLAYBTC"
+    },
+    {
+        "description": "Hitbtc CRPT/BTC",
+        "displaySymbol": "CRPT/BTC",
+        "symbol": "HITBTC:CRPTBTC"
+    },
+    {
+        "description": "Hitbtc SPC/BTC",
+        "displaySymbol": "SPC/BTC",
+        "symbol": "HITBTC:SPCBTC"
+    },
+    {
+        "description": "Hitbtc KNC/USD",
+        "displaySymbol": "KNC/USD",
+        "symbol": "HITBTC:KNCUSD"
+    },
+    {
+        "description": "Hitbtc EOS/EURS",
+        "displaySymbol": "EOS/EURS",
+        "symbol": "HITBTC:EOSEURS"
+    },
+    {
+        "description": "Hitbtc GOLD/USD",
+        "displaySymbol": "GOLD/USD",
+        "symbol": "HITBTC:GOLDUSD"
+    },
+    {
+        "description": "Hitbtc TUSD/EOSDT",
+        "displaySymbol": "TUSD/EOSDT",
+        "symbol": "HITBTC:TUSDEOSDT"
+    },
+    {
+        "description": "Hitbtc NWC/BTC",
+        "displaySymbol": "NWC/BTC",
+        "symbol": "HITBTC:NWCBTC"
+    },
+    {
+        "description": "Hitbtc GT/BTC",
+        "displaySymbol": "GT/BTC",
+        "symbol": "HITBTC:GTBTC"
+    },
+    {
+        "description": "Hitbtc ELEC/BTC",
+        "displaySymbol": "ELEC/BTC",
+        "symbol": "HITBTC:ELECBTC"
+    },
+    {
+        "description": "Hitbtc ADA/USD",
+        "displaySymbol": "ADA/USD",
+        "symbol": "HITBTC:ADAUSD"
+    },
+    {
+        "description": "Hitbtc MG/EOS",
+        "displaySymbol": "MG/EOS",
+        "symbol": "HITBTC:MGEOS"
+    },
+    {
+        "description": "Hitbtc TKN/BTC",
+        "displaySymbol": "TKN/BTC",
+        "symbol": "HITBTC:TKNBTC"
+    },
+    {
+        "description": "Hitbtc PAY/BTC",
+        "displaySymbol": "PAY/BTC",
+        "symbol": "HITBTC:PAYBTC"
+    },
+    {
+        "description": "Hitbtc BCH/ETH",
+        "displaySymbol": "BCH/ETH",
+        "symbol": "HITBTC:BCHETH"
+    },
+    {
+        "description": "Hitbtc KRL/BTC",
+        "displaySymbol": "KRL/BTC",
+        "symbol": "HITBTC:KRLBTC"
+    },
+    {
+        "description": "Hitbtc CELR/USD",
+        "displaySymbol": "CELR/USD",
+        "symbol": "HITBTC:CELRUSDT"
+    },
+    {
+        "description": "Hitbtc PLU/BTC",
+        "displaySymbol": "PLU/BTC",
+        "symbol": "HITBTC:PLUBTC"
+    },
+    {
+        "description": "Hitbtc TRST/BTC",
+        "displaySymbol": "TRST/BTC",
+        "symbol": "HITBTC:TRSTBTC"
+    },
+    {
+        "description": "Hitbtc BADGER/BTC",
+        "displaySymbol": "BADGER/BTC",
+        "symbol": "HITBTC:BADGERBTC"
+    },
+    {
+        "description": "Hitbtc IQ/USD",
+        "displaySymbol": "IQ/USD",
+        "symbol": "HITBTC:IQUSD"
+    },
+    {
+        "description": "Hitbtc USD/USDP",
+        "displaySymbol": "USD/USDP",
+        "symbol": "HITBTC:USDTUSDP"
+    },
+    {
+        "description": "Hitbtc MASK/BTC",
+        "displaySymbol": "MASK/BTC",
+        "symbol": "HITBTC:MASKBTC"
+    },
+    {
+        "description": "Hitbtc MOB/BTC",
+        "displaySymbol": "MOB/BTC",
+        "symbol": "HITBTC:MOBBTC"
+    },
+    {
+        "description": "Hitbtc TONCOIN/BTC",
+        "displaySymbol": "TONCOIN/BTC",
+        "symbol": "HITBTC:TONCOINBTC"
+    },
+    {
+        "description": "Hitbtc RNDR/BTC",
+        "displaySymbol": "RNDR/BTC",
+        "symbol": "HITBTC:RNDRBTC"
+    },
+    {
+        "description": "Hitbtc KSM/BTC",
+        "displaySymbol": "KSM/BTC",
+        "symbol": "HITBTC:KSMBTC"
+    },
+    {
+        "description": "Hitbtc BTMC/USD",
+        "displaySymbol": "BTMC/USD",
+        "symbol": "HITBTC:BTMCUSD"
+    },
+    {
+        "description": "Hitbtc NMR/BTC",
+        "displaySymbol": "NMR/BTC",
+        "symbol": "HITBTC:NMRBTC"
+    },
+    {
+        "description": "Hitbtc BCH/EURS",
+        "displaySymbol": "BCH/EURS",
+        "symbol": "HITBTC:BCHEURS"
+    },
+    {
+        "description": "Hitbtc POA20/BTC",
+        "displaySymbol": "POA20/BTC",
+        "symbol": "HITBTC:POA20BTC"
+    },
+    {
+        "description": "Hitbtc DAPP/USD",
+        "displaySymbol": "DAPP/USD",
+        "symbol": "HITBTC:DAPPUSD"
+    },
+    {
+        "description": "Hitbtc TRX/USD",
+        "displaySymbol": "TRX/USD",
+        "symbol": "HITBTC:TRXUSD"
+    },
+    {
+        "description": "Hitbtc LTC/HIT",
+        "displaySymbol": "LTC/HIT",
+        "symbol": "HITBTC:LTCHIT"
+    },
+    {
+        "description": "Hitbtc LAMB/BTC",
+        "displaySymbol": "LAMB/BTC",
+        "symbol": "HITBTC:LAMBBTC"
+    },
+    {
+        "description": "Hitbtc XEC/BTC",
+        "displaySymbol": "XEC/BTC",
+        "symbol": "HITBTC:XECBTC"
+    },
+    {
+        "description": "Hitbtc ENJ/BTC",
+        "displaySymbol": "ENJ/BTC",
+        "symbol": "HITBTC:ENJBTC"
+    },
+    {
+        "description": "Hitbtc UTT/BTC",
+        "displaySymbol": "UTT/BTC",
+        "symbol": "HITBTC:UTTBTC"
+    },
+    {
+        "description": "Hitbtc REM/BTC",
+        "displaySymbol": "REM/BTC",
+        "symbol": "HITBTC:REMBTC"
+    },
+    {
+        "description": "Hitbtc ALCX/USD",
+        "displaySymbol": "ALCX/USD",
+        "symbol": "HITBTC:ALCXUSDT"
+    },
+    {
+        "description": "Hitbtc GXC/USD",
+        "displaySymbol": "GXC/USD",
+        "symbol": "HITBTC:GXCUSDT"
+    },
+    {
+        "description": "Hitbtc IHT/ETH",
+        "displaySymbol": "IHT/ETH",
+        "symbol": "HITBTC:IHTETH"
+    },
+    {
+        "description": "Hitbtc XNO/ETH",
+        "displaySymbol": "XNO/ETH",
+        "symbol": "HITBTC:XNOETH"
+    },
+    {
+        "description": "Hitbtc RBIS/USD",
+        "displaySymbol": "RBIS/USD",
+        "symbol": "HITBTC:RBISUSDT"
+    },
+    {
+        "description": "Hitbtc USNOTA/USD",
+        "displaySymbol": "USNOTA/USD",
+        "symbol": "HITBTC:USNOTAUSDT"
+    },
+    {
+        "description": "Hitbtc XEC/USD",
+        "displaySymbol": "XEC/USD",
+        "symbol": "HITBTC:XECUSDT"
+    },
+    {
+        "description": "Hitbtc ADXN/BTC",
+        "displaySymbol": "ADXN/BTC",
+        "symbol": "HITBTC:ADXNBTC"
+    },
+    {
+        "description": "Hitbtc BNT/BTC",
+        "displaySymbol": "BNT/BTC",
+        "symbol": "HITBTC:BNTBTC"
+    },
+    {
+        "description": "Hitbtc THETA/BTC",
+        "displaySymbol": "THETA/BTC",
+        "symbol": "HITBTC:THETABTC"
+    },
+    {
+        "description": "Hitbtc ARK/USD",
+        "displaySymbol": "ARK/USD",
+        "symbol": "HITBTC:ARKUSD"
+    },
+    {
+        "description": "Hitbtc ZSC/USD",
+        "displaySymbol": "ZSC/USD",
+        "symbol": "HITBTC:ZSCUSD"
+    },
+    {
+        "description": "Hitbtc CHP/ETH",
+        "displaySymbol": "CHP/ETH",
+        "symbol": "HITBTC:CHPETH"
+    },
+    {
+        "description": "Hitbtc STMX/BTC",
+        "displaySymbol": "STMX/BTC",
+        "symbol": "HITBTC:STMXBTC"
+    }
+]

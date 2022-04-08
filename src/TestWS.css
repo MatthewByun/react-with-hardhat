@@ -1,0 +1,44 @@
+@import "https://unpkg.com/open-props";
+
+html {
+    height: 100%;
+}
+
+
+body {
+  width: 100%;
+
+  background: var(--gradient-3);
+  color: var(--gradient-2);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.network-list{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 20rem
+}
+.network-list > div {
+    flex-grow: 1;
+    flex-shrink: 1;
+
+}
+
+#network-name{
+    font-weight: var(--font-weight-9);
+    font-size: var(--font-size-8);
+    color: white
+}
+.btn-logout, span {
+    cursor: pointer;
+}
+
+#text ,#jokes{
+    font-weight: var(--font-weight-7);
+    font-size: var(--font-size-5);
+    text-align: center;
+}
+

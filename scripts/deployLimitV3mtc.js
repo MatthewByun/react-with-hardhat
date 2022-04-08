@@ -6,8 +6,10 @@
 const hre = require("hardhat");
 
 async function main() {
-  const MyContract = await ethers.getContractFactory("SpaceOrderRouter");
+  const MyContract = await ethers.getContractFactory("LimitOrderV3");
   const contract = await MyContract.deploy(
+    "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32",
+    "0xa52487f75f4E4554914810877a78fF9574A98275"
   );
   console.log("deploy here");
 
@@ -19,6 +21,7 @@ async function main() {
 
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.
+
 main()
   .then(() => process.exit(0))
   .catch((error) => {

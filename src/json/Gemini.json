@@ -1,0 +1,512 @@
+[
+    {
+        "description": "GEMINI CTX/USD",
+        "displaySymbol": "CTX/USD",
+        "symbol": "GEMINI:ctxusd"
+    },
+    {
+        "description": "GEMINI DOG/EETH",
+        "displaySymbol": "DOG/EETH",
+        "symbol": "GEMINI:dogeeth"
+    },
+    {
+        "description": "GEMINI INJ/USD",
+        "displaySymbol": "INJ/USD",
+        "symbol": "GEMINI:injusd"
+    },
+    {
+        "description": "GEMINI OXT/USD",
+        "displaySymbol": "OXT/USD",
+        "symbol": "GEMINI:oxtusd"
+    },
+    {
+        "description": "GEMINI RAR/EUSD",
+        "displaySymbol": "RAR/EUSD",
+        "symbol": "GEMINI:rareusd"
+    },
+    {
+        "description": "GEMINI ETH/EUR",
+        "displaySymbol": "ETH/EUR",
+        "symbol": "GEMINI:etheur"
+    },
+    {
+        "description": "GEMINI UMA/USD",
+        "displaySymbol": "UMA/USD",
+        "symbol": "GEMINI:umausd"
+    },
+    {
+        "description": "GEMINI PAX/GUSD",
+        "displaySymbol": "PAX/GUSD",
+        "symbol": "GEMINI:paxgusd"
+    },
+    {
+        "description": "GEMINI DAI/USD",
+        "displaySymbol": "DAI/USD",
+        "symbol": "GEMINI:daiusd"
+    },
+    {
+        "description": "GEMINI SHI/BUSD",
+        "displaySymbol": "SHI/BUSD",
+        "symbol": "GEMINI:shibusd"
+    },
+    {
+        "description": "GEMINI GUS/DUSD",
+        "displaySymbol": "GUS/DUSD",
+        "symbol": "GEMINI:gusdusd"
+    },
+    {
+        "description": "GEMINI MAN/AUSD",
+        "displaySymbol": "MAN/AUSD",
+        "symbol": "GEMINI:manausd"
+    },
+    {
+        "description": "GEMINI DOG/EBTC",
+        "displaySymbol": "DOG/EBTC",
+        "symbol": "GEMINI:dogebtc"
+    },
+    {
+        "description": "GEMINI BON/DUSD",
+        "displaySymbol": "BON/DUSD",
+        "symbol": "GEMINI:bondusd"
+    },
+    {
+        "description": "GEMINI KNC/USD",
+        "displaySymbol": "KNC/USD",
+        "symbol": "GEMINI:kncusd"
+    },
+    {
+        "description": "GEMINI MCO/2USD",
+        "displaySymbol": "MCO/2USD",
+        "symbol": "GEMINI:mco2usd"
+    },
+    {
+        "description": "GEMINI BTC/DAI",
+        "displaySymbol": "BTC/DAI",
+        "symbol": "GEMINI:btcdai"
+    },
+    {
+        "description": "GEMINI LTC/ETH",
+        "displaySymbol": "LTC/ETH",
+        "symbol": "GEMINI:ltceth"
+    },
+    {
+        "description": "GEMINI ANK/RUSD",
+        "displaySymbol": "ANK/RUSD",
+        "symbol": "GEMINI:ankrusd"
+    },
+    {
+        "description": "GEMINI LPT/USD",
+        "displaySymbol": "LPT/USD",
+        "symbol": "GEMINI:lptusd"
+    },
+    {
+        "description": "GEMINI LIN/KETH",
+        "displaySymbol": "LIN/KETH",
+        "symbol": "GEMINI:linketh"
+    },
+    {
+        "description": "GEMINI ZRX/USD",
+        "displaySymbol": "ZRX/USD",
+        "symbol": "GEMINI:zrxusd"
+    },
+    {
+        "description": "GEMINI MIR/USD",
+        "displaySymbol": "MIR/USD",
+        "symbol": "GEMINI:mirusd"
+    },
+    {
+        "description": "GEMINI ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "GEMINI:ethdai"
+    },
+    {
+        "description": "GEMINI ZEC/USD",
+        "displaySymbol": "ZEC/USD",
+        "symbol": "GEMINI:zecusd"
+    },
+    {
+        "description": "GEMINI ETH/USD",
+        "displaySymbol": "ETH/USD",
+        "symbol": "GEMINI:ethusd"
+    },
+    {
+        "description": "GEMINI BCH/BTC",
+        "displaySymbol": "BCH/BTC",
+        "symbol": "GEMINI:bchbtc"
+    },
+    {
+        "description": "GEMINI MKR/USD",
+        "displaySymbol": "MKR/USD",
+        "symbol": "GEMINI:mkrusd"
+    },
+    {
+        "description": "GEMINI FET/USD",
+        "displaySymbol": "FET/USD",
+        "symbol": "GEMINI:fetusd"
+    },
+    {
+        "description": "GEMINI BTC/GBP",
+        "displaySymbol": "BTC/GBP",
+        "symbol": "GEMINI:btcgbp"
+    },
+    {
+        "description": "GEMINI ZEC/BTC",
+        "displaySymbol": "ZEC/BTC",
+        "symbol": "GEMINI:zecbtc"
+    },
+    {
+        "description": "GEMINI LTC/USD",
+        "displaySymbol": "LTC/USD",
+        "symbol": "GEMINI:ltcusd"
+    },
+    {
+        "description": "GEMINI ENJ/USD",
+        "displaySymbol": "ENJ/USD",
+        "symbol": "GEMINI:enjusd"
+    },
+    {
+        "description": "GEMINI ETH/GUSD",
+        "displaySymbol": "ETH/GUSD",
+        "symbol": "GEMINI:ethgusd"
+    },
+    {
+        "description": "GEMINI GRT/USD",
+        "displaySymbol": "GRT/USD",
+        "symbol": "GEMINI:grtusd"
+    },
+    {
+        "description": "GEMINI STO/RJUSD",
+        "displaySymbol": "STO/RJUSD",
+        "symbol": "GEMINI:storjusd"
+    },
+    {
+        "description": "GEMINI ETH/SGD",
+        "displaySymbol": "ETH/SGD",
+        "symbol": "GEMINI:ethsgd"
+    },
+    {
+        "description": "GEMINI FIL/USD",
+        "displaySymbol": "FIL/USD",
+        "symbol": "GEMINI:filusd"
+    },
+    {
+        "description": "GEMINI BAT/BTC",
+        "displaySymbol": "BAT/BTC",
+        "symbol": "GEMINI:batbtc"
+    },
+    {
+        "description": "GEMINI QNT/USD",
+        "displaySymbol": "QNT/USD",
+        "symbol": "GEMINI:qntusd"
+    },
+    {
+        "description": "GEMINI SUS/HIUSD",
+        "displaySymbol": "SUS/HIUSD",
+        "symbol": "GEMINI:sushiusd"
+    },
+    {
+        "description": "GEMINI CUB/EUSD",
+        "displaySymbol": "CUB/EUSD",
+        "symbol": "GEMINI:cubeusd"
+    },
+    {
+        "description": "GEMINI SNX/USD",
+        "displaySymbol": "SNX/USD",
+        "symbol": "GEMINI:snxusd"
+    },
+    {
+        "description": "GEMINI RND/RUSD",
+        "displaySymbol": "RND/RUSD",
+        "symbol": "GEMINI:rndrusd"
+    },
+    {
+        "description": "GEMINI AUD/IOUSD",
+        "displaySymbol": "AUD/IOUSD",
+        "symbol": "GEMINI:audiousd"
+    },
+    {
+        "description": "GEMINI ENS/USD",
+        "displaySymbol": "ENS/USD",
+        "symbol": "GEMINI:ensusd"
+    },
+    {
+        "description": "GEMINI BAT/ETH",
+        "displaySymbol": "BAT/ETH",
+        "symbol": "GEMINI:bateth"
+    },
+    {
+        "description": "GEMINI LTC/BCH",
+        "displaySymbol": "LTC/BCH",
+        "symbol": "GEMINI:ltcbch"
+    },
+    {
+        "description": "GEMINI UST/USD",
+        "displaySymbol": "UST/USD",
+        "symbol": "GEMINI:ustusd"
+    },
+    {
+        "description": "GEMINI CRV/USD",
+        "displaySymbol": "CRV/USD",
+        "symbol": "GEMINI:crvusd"
+    },
+    {
+        "description": "GEMINI LRC/USD",
+        "displaySymbol": "LRC/USD",
+        "symbol": "GEMINI:lrcusd"
+    },
+    {
+        "description": "GEMINI AAV/EUSD",
+        "displaySymbol": "AAV/EUSD",
+        "symbol": "GEMINI:aaveusd"
+    },
+    {
+        "description": "GEMINI COM/PUSD",
+        "displaySymbol": "COM/PUSD",
+        "symbol": "GEMINI:compusd"
+    },
+    {
+        "description": "GEMINI LTC/BTC",
+        "displaySymbol": "LTC/BTC",
+        "symbol": "GEMINI:ltcbtc"
+    },
+    {
+        "description": "GEMINI ZEC/LTC",
+        "displaySymbol": "ZEC/LTC",
+        "symbol": "GEMINI:zecltc"
+    },
+    {
+        "description": "GEMINI ETH/BTC",
+        "displaySymbol": "ETH/BTC",
+        "symbol": "GEMINI:ethbtc"
+    },
+    {
+        "description": "GEMINI MAT/ICUSD",
+        "displaySymbol": "MAT/ICUSD",
+        "symbol": "GEMINI:maticusd"
+    },
+    {
+        "description": "GEMINI API/3USD",
+        "displaySymbol": "API/3USD",
+        "symbol": "GEMINI:api3usd"
+    },
+    {
+        "description": "GEMINI ASH/USD",
+        "displaySymbol": "ASH/USD",
+        "symbol": "GEMINI:ashusd"
+    },
+    {
+        "description": "GEMINI BTC/SGD",
+        "displaySymbol": "BTC/SGD",
+        "symbol": "GEMINI:btcsgd"
+    },
+    {
+        "description": "GEMINI MCU/SD",
+        "displaySymbol": "MCU/SD",
+        "symbol": "GEMINI:mcusd"
+    },
+    {
+        "description": "GEMINI LIN/KBTC",
+        "displaySymbol": "LIN/KBTC",
+        "symbol": "GEMINI:linkbtc"
+    },
+    {
+        "description": "GEMINI ALC/XUSD",
+        "displaySymbol": "ALC/XUSD",
+        "symbol": "GEMINI:alcxusd"
+    },
+    {
+        "description": "GEMINI NMR/USD",
+        "displaySymbol": "NMR/USD",
+        "symbol": "GEMINI:nmrusd"
+    },
+    {
+        "description": "GEMINI UNI/USD",
+        "displaySymbol": "UNI/USD",
+        "symbol": "GEMINI:uniusd"
+    },
+    {
+        "description": "GEMINI SLP/USD",
+        "displaySymbol": "SLP/USD",
+        "symbol": "GEMINI:slpusd"
+    },
+    {
+        "description": "GEMINI ETH/GBP",
+        "displaySymbol": "ETH/GBP",
+        "symbol": "GEMINI:ethgbp"
+    },
+    {
+        "description": "GEMINI SKL/USD",
+        "displaySymbol": "SKL/USD",
+        "symbol": "GEMINI:sklusd"
+    },
+    {
+        "description": "GEMINI BTC/USD",
+        "displaySymbol": "BTC/USD",
+        "symbol": "GEMINI:btcusd"
+    },
+    {
+        "description": "GEMINI FTM/USD",
+        "displaySymbol": "FTM/USD",
+        "symbol": "GEMINI:ftmusd"
+    },
+    {
+        "description": "GEMINI AXS/USD",
+        "displaySymbol": "AXS/USD",
+        "symbol": "GEMINI:axsusd"
+    },
+    {
+        "description": "GEMINI REN/USD",
+        "displaySymbol": "REN/USD",
+        "symbol": "GEMINI:renusd"
+    },
+    {
+        "description": "GEMINI BTC/GUSD",
+        "displaySymbol": "BTC/GUSD",
+        "symbol": "GEMINI:btcgusd"
+    },
+    {
+        "description": "GEMINI KP3/RUSD",
+        "displaySymbol": "KP3/RUSD",
+        "symbol": "GEMINI:kp3rusd"
+    },
+    {
+        "description": "GEMINI YFI/USD",
+        "displaySymbol": "YFI/USD",
+        "symbol": "GEMINI:yfiusd"
+    },
+    {
+        "description": "GEMINI MAS/KUSD",
+        "displaySymbol": "MAS/KUSD",
+        "symbol": "GEMINI:maskusd"
+    },
+    {
+        "description": "GEMINI BAT/USD",
+        "displaySymbol": "BAT/USD",
+        "symbol": "GEMINI:batusd"
+    },
+    {
+        "description": "GEMINI DOG/EUSD",
+        "displaySymbol": "DOG/EUSD",
+        "symbol": "GEMINI:dogeusd"
+    },
+    {
+        "description": "GEMINI BAL/USD",
+        "displaySymbol": "BAL/USD",
+        "symbol": "GEMINI:balusd"
+    },
+    {
+        "description": "GEMINI OXT/BTC",
+        "displaySymbol": "OXT/BTC",
+        "symbol": "GEMINI:oxtbtc"
+    },
+    {
+        "description": "GEMINI OXT/ETH",
+        "displaySymbol": "OXT/ETH",
+        "symbol": "GEMINI:oxteth"
+    },
+    {
+        "description": "GEMINI ZEC/ETH",
+        "displaySymbol": "ZEC/ETH",
+        "symbol": "GEMINI:zeceth"
+    },
+    {
+        "description": "GEMINI AMP/USD",
+        "displaySymbol": "AMP/USD",
+        "symbol": "GEMINI:ampusd"
+    },
+    {
+        "description": "GEMINI BCH/USD",
+        "displaySymbol": "BCH/USD",
+        "symbol": "GEMINI:bchusd"
+    },
+    {
+        "description": "GEMINI XTZ/USD",
+        "displaySymbol": "XTZ/USD",
+        "symbol": "GEMINI:xtzusd"
+    },
+    {
+        "description": "GEMINI ZEC/BCH",
+        "displaySymbol": "ZEC/BCH",
+        "symbol": "GEMINI:zecbch"
+    },
+    {
+        "description": "GEMINI EFI/LFIL",
+        "displaySymbol": "EFI/LFIL",
+        "symbol": "GEMINI:efilfil"
+    },
+    {
+        "description": "GEMINI RAD/USD",
+        "displaySymbol": "RAD/USD",
+        "symbol": "GEMINI:radusd"
+    },
+    {
+        "description": "GEMINI MIM/USD",
+        "displaySymbol": "MIM/USD",
+        "symbol": "GEMINI:mimusd"
+    },
+    {
+        "description": "GEMINI BCH/ETH",
+        "displaySymbol": "BCH/ETH",
+        "symbol": "GEMINI:bcheth"
+    },
+    {
+        "description": "GEMINI SAN/DUSD",
+        "displaySymbol": "SAN/DUSD",
+        "symbol": "GEMINI:sandusd"
+    },
+    {
+        "description": "GEMINI ELO/NUSD",
+        "displaySymbol": "ELO/NUSD",
+        "symbol": "GEMINI:elonusd"
+    },
+    {
+        "description": "GEMINI 1IN/CHUSD",
+        "displaySymbol": "1IN/CHUSD",
+        "symbol": "GEMINI:1inchusd"
+    },
+    {
+        "description": "GEMINI LIN/KUSD",
+        "displaySymbol": "LIN/KUSD",
+        "symbol": "GEMINI:linkusd"
+    },
+    {
+        "description": "GEMINI GAL/AUSD",
+        "displaySymbol": "GAL/AUSD",
+        "symbol": "GEMINI:galausd"
+    },
+    {
+        "description": "GEMINI WCF/GUSD",
+        "displaySymbol": "WCF/GUSD",
+        "symbol": "GEMINI:wcfgusd"
+    },
+    {
+        "description": "GEMINI LUN/AUSD",
+        "displaySymbol": "LUN/AUSD",
+        "symbol": "GEMINI:lunausd"
+    },
+    {
+        "description": "GEMINI BNT/USD",
+        "displaySymbol": "BNT/USD",
+        "symbol": "GEMINI:bntusd"
+    },
+    {
+        "description": "GEMINI CVC/USD",
+        "displaySymbol": "CVC/USD",
+        "symbol": "GEMINI:cvcusd"
+    },
+    {
+        "description": "GEMINI BTC/EUR",
+        "displaySymbol": "BTC/EUR",
+        "symbol": "GEMINI:btceur"
+    },
+    {
+        "description": "GEMINI SPE/LLUSD",
+        "displaySymbol": "SPE/LLUSD",
+        "symbol": "GEMINI:spellusd"
+    },
+    {
+        "description": "GEMINI USD/CUSD",
+        "displaySymbol": "USD/CUSD",
+        "symbol": "GEMINI:usdcusd"
+    }
+]

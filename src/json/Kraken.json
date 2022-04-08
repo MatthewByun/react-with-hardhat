@@ -1,0 +1,2067 @@
+[
+    {
+        "description": "Kraken USD/JPY",
+        "displaySymbol": "USD/JPY",
+        "symbol": "KRAKEN:ZUSDZJPY"
+    },
+    {
+        "description": "Kraken YFI/ETH",
+        "displaySymbol": "YFI/ETH",
+        "symbol": "KRAKEN:YFIETH"
+    },
+    {
+        "description": "Kraken ETC/ETH",
+        "displaySymbol": "ETC/ETH",
+        "symbol": "KRAKEN:XETCXETH"
+    },
+    {
+        "description": "Kraken QTUM/XBT",
+        "displaySymbol": "QTUM/XBT",
+        "symbol": "KRAKEN:QTUMXBT"
+    },
+    {
+        "description": "Kraken USDT/GBP",
+        "displaySymbol": "USDT/GBP",
+        "symbol": "KRAKEN:USDTGBP"
+    },
+    {
+        "description": "Kraken XDG/XBT",
+        "displaySymbol": "XDG/XBT",
+        "symbol": "KRAKEN:XXDGXXBT"
+    },
+    {
+        "description": "Kraken MIR/EUR",
+        "displaySymbol": "MIR/EUR",
+        "symbol": "KRAKEN:MIREUR"
+    },
+    {
+        "description": "Kraken SNX/XBT",
+        "displaySymbol": "SNX/XBT",
+        "symbol": "KRAKEN:SNXXBT"
+    },
+    {
+        "description": "Kraken XRP/USD",
+        "displaySymbol": "XRP/USD",
+        "symbol": "KRAKEN:XXRPZUSD"
+    },
+    {
+        "description": "Kraken MANA/EUR",
+        "displaySymbol": "MANA/EUR",
+        "symbol": "KRAKEN:MANAEUR"
+    },
+    {
+        "description": "Kraken ZEC/USD",
+        "displaySymbol": "ZEC/USD",
+        "symbol": "KRAKEN:XZECZUSD"
+    },
+    {
+        "description": "Kraken TZ/AUD",
+        "displaySymbol": "TZ/AUD",
+        "symbol": "KRAKEN:XTZAUD"
+    },
+    {
+        "description": "Kraken ANKR/XBT",
+        "displaySymbol": "ANKR/XBT",
+        "symbol": "KRAKEN:ANKRXBT"
+    },
+    {
+        "description": "Kraken MINA/EUR",
+        "displaySymbol": "MINA/EUR",
+        "symbol": "KRAKEN:MINAEUR"
+    },
+    {
+        "description": "Kraken USDC/AUD",
+        "displaySymbol": "USDC/AUD",
+        "symbol": "KRAKEN:USDCAUD"
+    },
+    {
+        "description": "Kraken USDT/USD",
+        "displaySymbol": "USDT/USD",
+        "symbol": "KRAKEN:USDTZUSD"
+    },
+    {
+        "description": "Kraken DYDX/USD",
+        "displaySymbol": "DYDX/USD",
+        "symbol": "KRAKEN:DYDXUSD"
+    },
+    {
+        "description": "Kraken DOT/GBP",
+        "displaySymbol": "DOT/GBP",
+        "symbol": "KRAKEN:DOTGBP"
+    },
+    {
+        "description": "Kraken MLN/ETH",
+        "displaySymbol": "MLN/ETH",
+        "symbol": "KRAKEN:XMLNXETH"
+    },
+    {
+        "description": "Kraken XRP/GBP",
+        "displaySymbol": "XRP/GBP",
+        "symbol": "KRAKEN:XRPGBP"
+    },
+    {
+        "description": "Kraken MANA/XBT",
+        "displaySymbol": "MANA/XBT",
+        "symbol": "KRAKEN:MANAXBT"
+    },
+    {
+        "description": "Kraken CRV/XBT",
+        "displaySymbol": "CRV/XBT",
+        "symbol": "KRAKEN:CRVXBT"
+    },
+    {
+        "description": "Kraken WAVES/EUR",
+        "displaySymbol": "WAVES/EUR",
+        "symbol": "KRAKEN:WAVESEUR"
+    },
+    {
+        "description": "Kraken SNX/GBP",
+        "displaySymbol": "SNX/GBP",
+        "symbol": "KRAKEN:SNXGBP"
+    },
+    {
+        "description": "Kraken ATOM/XBT",
+        "displaySymbol": "ATOM/XBT",
+        "symbol": "KRAKEN:ATOMXBT"
+    },
+    {
+        "description": "Kraken SRM/EUR",
+        "displaySymbol": "SRM/EUR",
+        "symbol": "KRAKEN:SRMEUR"
+    },
+    {
+        "description": "Kraken AAVE/XBT",
+        "displaySymbol": "AAVE/XBT",
+        "symbol": "KRAKEN:AAVEXBT"
+    },
+    {
+        "description": "Kraken MANA/ETH",
+        "displaySymbol": "MANA/ETH",
+        "symbol": "KRAKEN:MANAETH"
+    },
+    {
+        "description": "Kraken XRP/XBT",
+        "displaySymbol": "XRP/XBT",
+        "symbol": "KRAKEN:XXRPXXBT"
+    },
+    {
+        "description": "Kraken REN/USD",
+        "displaySymbol": "REN/USD",
+        "symbol": "KRAKEN:RENUSD"
+    },
+    {
+        "description": "Kraken SRM/USD",
+        "displaySymbol": "SRM/USD",
+        "symbol": "KRAKEN:SRMUSD"
+    },
+    {
+        "description": "Kraken ANKR/GBP",
+        "displaySymbol": "ANKR/GBP",
+        "symbol": "KRAKEN:ANKRGBP"
+    },
+    {
+        "description": "Kraken BCH/XBT",
+        "displaySymbol": "BCH/XBT",
+        "symbol": "KRAKEN:BCHXBT"
+    },
+    {
+        "description": "Kraken KEEP/USD",
+        "displaySymbol": "KEEP/USD",
+        "symbol": "KRAKEN:KEEPUSD"
+    },
+    {
+        "description": "Kraken AVAX/EUR",
+        "displaySymbol": "AVAX/EUR",
+        "symbol": "KRAKEN:AVAXEUR"
+    },
+    {
+        "description": "Kraken USDC/USD",
+        "displaySymbol": "USDC/USD",
+        "symbol": "KRAKEN:USDCUSD"
+    },
+    {
+        "description": "Kraken KEEP/EUR",
+        "displaySymbol": "KEEP/EUR",
+        "symbol": "KRAKEN:KEEPEUR"
+    },
+    {
+        "description": "Kraken STORJ/ETH",
+        "displaySymbol": "STORJ/ETH",
+        "symbol": "KRAKEN:STORJETH"
+    },
+    {
+        "description": "Kraken KAR/EUR",
+        "displaySymbol": "KAR/EUR",
+        "symbol": "KRAKEN:KAREUR"
+    },
+    {
+        "description": "Kraken ANKR/USD",
+        "displaySymbol": "ANKR/USD",
+        "symbol": "KRAKEN:ANKRUSD"
+    },
+    {
+        "description": "Kraken XBT/USDC",
+        "displaySymbol": "XBT/USDC",
+        "symbol": "KRAKEN:XBTUSDC"
+    },
+    {
+        "description": "Kraken TBTC/ETH",
+        "displaySymbol": "TBTC/ETH",
+        "symbol": "KRAKEN:TBTCETH"
+    },
+    {
+        "description": "Kraken MINA/XBT",
+        "displaySymbol": "MINA/XBT",
+        "symbol": "KRAKEN:MINAXBT"
+    },
+    {
+        "description": "Kraken RARI/USD",
+        "displaySymbol": "RARI/USD",
+        "symbol": "KRAKEN:RARIUSD"
+    },
+    {
+        "description": "Kraken KAVA/USD",
+        "displaySymbol": "KAVA/USD",
+        "symbol": "KRAKEN:KAVAUSD"
+    },
+    {
+        "description": "Kraken EWT/EUR",
+        "displaySymbol": "EWT/EUR",
+        "symbol": "KRAKEN:EWTEUR"
+    },
+    {
+        "description": "Kraken MATIC/USD",
+        "displaySymbol": "MATIC/USD",
+        "symbol": "KRAKEN:MATICUSD"
+    },
+    {
+        "description": "Kraken KAR/USD",
+        "displaySymbol": "KAR/USD",
+        "symbol": "KRAKEN:KARUSD"
+    },
+    {
+        "description": "Kraken COMP/ETH",
+        "displaySymbol": "COMP/ETH",
+        "symbol": "KRAKEN:COMPETH"
+    },
+    {
+        "description": "Kraken DOT/ETH",
+        "displaySymbol": "DOT/ETH",
+        "symbol": "KRAKEN:DOTETH"
+    },
+    {
+        "description": "Kraken ADA/AUD",
+        "displaySymbol": "ADA/AUD",
+        "symbol": "KRAKEN:ADAAUD"
+    },
+    {
+        "description": "Kraken GBP/USD",
+        "displaySymbol": "GBP/USD",
+        "symbol": "KRAKEN:ZGBPZUSD"
+    },
+    {
+        "description": "Kraken LUNA/EUR",
+        "displaySymbol": "LUNA/EUR",
+        "symbol": "KRAKEN:LUNAEUR"
+    },
+    {
+        "description": "Kraken DOT/AUD",
+        "displaySymbol": "DOT/AUD",
+        "symbol": "KRAKEN:DOTAUD"
+    },
+    {
+        "description": "Kraken USDT/AUD",
+        "displaySymbol": "USDT/AUD",
+        "symbol": "KRAKEN:USDTAUD"
+    },
+    {
+        "description": "Kraken ADA/EUR",
+        "displaySymbol": "ADA/EUR",
+        "symbol": "KRAKEN:ADAEUR"
+    },
+    {
+        "description": "Kraken EUR/CAD",
+        "displaySymbol": "EUR/CAD",
+        "symbol": "KRAKEN:EURCAD"
+    },
+    {
+        "description": "Kraken OXY/EUR",
+        "displaySymbol": "OXY/EUR",
+        "symbol": "KRAKEN:OXYEUR"
+    },
+    {
+        "description": "Kraken DASH/USD",
+        "displaySymbol": "DASH/USD",
+        "symbol": "KRAKEN:DASHUSD"
+    },
+    {
+        "description": "Kraken REPV2/USD",
+        "displaySymbol": "REPV2/USD",
+        "symbol": "KRAKEN:REPV2USD"
+    },
+    {
+        "description": "Kraken LTC/EUR",
+        "displaySymbol": "LTC/EUR",
+        "symbol": "KRAKEN:XLTCZEUR"
+    },
+    {
+        "description": "Kraken LSK/USD",
+        "displaySymbol": "LSK/USD",
+        "symbol": "KRAKEN:LSKUSD"
+    },
+    {
+        "description": "Kraken ICX/XBT",
+        "displaySymbol": "ICX/XBT",
+        "symbol": "KRAKEN:ICXXBT"
+    },
+    {
+        "description": "Kraken DOT/USDT",
+        "displaySymbol": "DOT/USDT",
+        "symbol": "KRAKEN:DOTUSDT"
+    },
+    {
+        "description": "Kraken XLM/XBT",
+        "displaySymbol": "XLM/XBT",
+        "symbol": "KRAKEN:XXLMXXBT"
+    },
+    {
+        "description": "Kraken SRM/GBP",
+        "displaySymbol": "SRM/GBP",
+        "symbol": "KRAKEN:SRMGBP"
+    },
+    {
+        "description": "Kraken UNI/EUR",
+        "displaySymbol": "UNI/EUR",
+        "symbol": "KRAKEN:UNIEUR"
+    },
+    {
+        "description": "Kraken EUR/JPY",
+        "displaySymbol": "EUR/JPY",
+        "symbol": "KRAKEN:EURJPY"
+    },
+    {
+        "description": "Kraken FLOW/GBP",
+        "displaySymbol": "FLOW/GBP",
+        "symbol": "KRAKEN:FLOWGBP"
+    },
+    {
+        "description": "Kraken XMR/USD",
+        "displaySymbol": "XMR/USD",
+        "symbol": "KRAKEN:XXMRZUSD"
+    },
+    {
+        "description": "Kraken MINA/GBP",
+        "displaySymbol": "MINA/GBP",
+        "symbol": "KRAKEN:MINAGBP"
+    },
+    {
+        "description": "Kraken BAL/USD",
+        "displaySymbol": "BAL/USD",
+        "symbol": "KRAKEN:BALUSD"
+    },
+    {
+        "description": "Kraken NANO/USD",
+        "displaySymbol": "NANO/USD",
+        "symbol": "KRAKEN:NANOUSD"
+    },
+    {
+        "description": "Kraken ENJ/XBT",
+        "displaySymbol": "ENJ/XBT",
+        "symbol": "KRAKEN:ENJXBT"
+    },
+    {
+        "description": "Kraken XDG/USDT",
+        "displaySymbol": "XDG/USDT",
+        "symbol": "KRAKEN:XDGUSDT"
+    },
+    {
+        "description": "Kraken INJ/USD",
+        "displaySymbol": "INJ/USD",
+        "symbol": "KRAKEN:INJUSD"
+    },
+    {
+        "description": "Kraken GHST/GBP",
+        "displaySymbol": "GHST/GBP",
+        "symbol": "KRAKEN:GHSTGBP"
+    },
+    {
+        "description": "Kraken KAVA/EUR",
+        "displaySymbol": "KAVA/EUR",
+        "symbol": "KRAKEN:KAVAEUR"
+    },
+    {
+        "description": "Kraken SRM/XBT",
+        "displaySymbol": "SRM/XBT",
+        "symbol": "KRAKEN:SRMXBT"
+    },
+    {
+        "description": "Kraken ETH2.S/ETH",
+        "displaySymbol": "ETH2.S/ETH",
+        "symbol": "KRAKEN:ETH2.SETH"
+    },
+    {
+        "description": "Kraken XRP/EUR",
+        "displaySymbol": "XRP/EUR",
+        "symbol": "KRAKEN:XXRPZEUR"
+    },
+    {
+        "description": "Kraken COMP/XBT",
+        "displaySymbol": "COMP/XBT",
+        "symbol": "KRAKEN:COMPXBT"
+    },
+    {
+        "description": "Kraken TBTC/XBT",
+        "displaySymbol": "TBTC/XBT",
+        "symbol": "KRAKEN:TBTCXBT"
+    },
+    {
+        "description": "Kraken CQT/EUR",
+        "displaySymbol": "CQT/EUR",
+        "symbol": "KRAKEN:CQTEUR"
+    },
+    {
+        "description": "Kraken OCEAN/EUR",
+        "displaySymbol": "OCEAN/EUR",
+        "symbol": "KRAKEN:OCEANEUR"
+    },
+    {
+        "description": "Kraken ATOM/ETH",
+        "displaySymbol": "ATOM/ETH",
+        "symbol": "KRAKEN:ATOMETH"
+    },
+    {
+        "description": "Kraken AXS/EUR",
+        "displaySymbol": "AXS/EUR",
+        "symbol": "KRAKEN:AXSEUR"
+    },
+    {
+        "description": "Kraken WBTC/USD",
+        "displaySymbol": "WBTC/USD",
+        "symbol": "KRAKEN:WBTCUSD"
+    },
+    {
+        "description": "Kraken RX/EUR",
+        "displaySymbol": "RX/EUR",
+        "symbol": "KRAKEN:ZRXEUR"
+    },
+    {
+        "description": "Kraken REPV2/ETH",
+        "displaySymbol": "REPV2/ETH",
+        "symbol": "KRAKEN:REPV2ETH"
+    },
+    {
+        "description": "Kraken EUR/USD",
+        "displaySymbol": "EUR/USD",
+        "symbol": "KRAKEN:ZEURZUSD"
+    },
+    {
+        "description": "Kraken ZEC/EUR",
+        "displaySymbol": "ZEC/EUR",
+        "symbol": "KRAKEN:XZECZEUR"
+    },
+    {
+        "description": "Kraken MLN/EUR",
+        "displaySymbol": "MLN/EUR",
+        "symbol": "KRAKEN:XMLNZEUR"
+    },
+    {
+        "description": "Kraken SNX/AUD",
+        "displaySymbol": "SNX/AUD",
+        "symbol": "KRAKEN:SNXAUD"
+    },
+    {
+        "description": "Kraken WAVES/USD",
+        "displaySymbol": "WAVES/USD",
+        "symbol": "KRAKEN:WAVESUSD"
+    },
+    {
+        "description": "Kraken WAVES/ETH",
+        "displaySymbol": "WAVES/ETH",
+        "symbol": "KRAKEN:WAVESETH"
+    },
+    {
+        "description": "Kraken KEEP/ETH",
+        "displaySymbol": "KEEP/ETH",
+        "symbol": "KRAKEN:KEEPETH"
+    },
+    {
+        "description": "Kraken ETH/DAI",
+        "displaySymbol": "ETH/DAI",
+        "symbol": "KRAKEN:ETHDAI"
+    },
+    {
+        "description": "Kraken SDN/EUR",
+        "displaySymbol": "SDN/EUR",
+        "symbol": "KRAKEN:SDNEUR"
+    },
+    {
+        "description": "Kraken PERP/EUR",
+        "displaySymbol": "PERP/EUR",
+        "symbol": "KRAKEN:PERPEUR"
+    },
+    {
+        "description": "Kraken WBTC/EUR",
+        "displaySymbol": "WBTC/EUR",
+        "symbol": "KRAKEN:WBTCEUR"
+    },
+    {
+        "description": "Kraken REP/EUR",
+        "displaySymbol": "REP/EUR",
+        "symbol": "KRAKEN:XREPZEUR"
+    },
+    {
+        "description": "Kraken STORJ/USD",
+        "displaySymbol": "STORJ/USD",
+        "symbol": "KRAKEN:STORJUSD"
+    },
+    {
+        "description": "Kraken FIL/USD",
+        "displaySymbol": "FIL/USD",
+        "symbol": "KRAKEN:FILUSD"
+    },
+    {
+        "description": "Kraken ETH/USDC",
+        "displaySymbol": "ETH/USDC",
+        "symbol": "KRAKEN:ETHUSDC"
+    },
+    {
+        "description": "Kraken STORJ/EUR",
+        "displaySymbol": "STORJ/EUR",
+        "symbol": "KRAKEN:STORJEUR"
+    },
+    {
+        "description": "Kraken FIL/AUD",
+        "displaySymbol": "FIL/AUD",
+        "symbol": "KRAKEN:FILAUD"
+    },
+    {
+        "description": "Kraken UNI/XBT",
+        "displaySymbol": "UNI/XBT",
+        "symbol": "KRAKEN:UNIXBT"
+    },
+    {
+        "description": "Kraken AAVE/ETH",
+        "displaySymbol": "AAVE/ETH",
+        "symbol": "KRAKEN:AAVEETH"
+    },
+    {
+        "description": "Kraken KILT/USD",
+        "displaySymbol": "KILT/USD",
+        "symbol": "KRAKEN:KILTUSD"
+    },
+    {
+        "description": "Kraken LSK/EUR",
+        "displaySymbol": "LSK/EUR",
+        "symbol": "KRAKEN:LSKEUR"
+    },
+    {
+        "description": "Kraken RAY/USD",
+        "displaySymbol": "RAY/USD",
+        "symbol": "KRAKEN:RAYUSD"
+    },
+    {
+        "description": "Kraken TZ/EUR",
+        "displaySymbol": "TZ/EUR",
+        "symbol": "KRAKEN:XTZEUR"
+    },
+    {
+        "description": "Kraken AAVE/GBP",
+        "displaySymbol": "AAVE/GBP",
+        "symbol": "KRAKEN:AAVEGBP"
+    },
+    {
+        "description": "Kraken XBT/CHF",
+        "displaySymbol": "XBT/CHF",
+        "symbol": "KRAKEN:XBTCHF"
+    },
+    {
+        "description": "Kraken GRT/GBP",
+        "displaySymbol": "GRT/GBP",
+        "symbol": "KRAKEN:GRTGBP"
+    },
+    {
+        "description": "Kraken LINK/USD",
+        "displaySymbol": "LINK/USD",
+        "symbol": "KRAKEN:LINKUSD"
+    },
+    {
+        "description": "Kraken KSM/EUR",
+        "displaySymbol": "KSM/EUR",
+        "symbol": "KRAKEN:KSMEUR"
+    },
+    {
+        "description": "Kraken BAL/ETH",
+        "displaySymbol": "BAL/ETH",
+        "symbol": "KRAKEN:BALETH"
+    },
+    {
+        "description": "Kraken KAVA/ETH",
+        "displaySymbol": "KAVA/ETH",
+        "symbol": "KRAKEN:KAVAETH"
+    },
+    {
+        "description": "Kraken EOS/USDT",
+        "displaySymbol": "EOS/USDT",
+        "symbol": "KRAKEN:EOSUSDT"
+    },
+    {
+        "description": "Kraken ENJ/USD",
+        "displaySymbol": "ENJ/USD",
+        "symbol": "KRAKEN:ENJUSD"
+    },
+    {
+        "description": "Kraken SC/ETH",
+        "displaySymbol": "SC/ETH",
+        "symbol": "KRAKEN:SCETH"
+    },
+    {
+        "description": "Kraken SOL/EUR",
+        "displaySymbol": "SOL/EUR",
+        "symbol": "KRAKEN:SOLEUR"
+    },
+    {
+        "description": "Kraken STORJ/XBT",
+        "displaySymbol": "STORJ/XBT",
+        "symbol": "KRAKEN:STORJXBT"
+    },
+    {
+        "description": "Kraken MKR/XBT",
+        "displaySymbol": "MKR/XBT",
+        "symbol": "KRAKEN:MKRXBT"
+    },
+    {
+        "description": "Kraken MATIC/XBT",
+        "displaySymbol": "MATIC/XBT",
+        "symbol": "KRAKEN:MATICXBT"
+    },
+    {
+        "description": "Kraken BCH/GBP",
+        "displaySymbol": "BCH/GBP",
+        "symbol": "KRAKEN:BCHGBP"
+    },
+    {
+        "description": "Kraken SDN/USD",
+        "displaySymbol": "SDN/USD",
+        "symbol": "KRAKEN:SDNUSD"
+    },
+    {
+        "description": "Kraken USDT/CHF",
+        "displaySymbol": "USDT/CHF",
+        "symbol": "KRAKEN:USDTCHF"
+    },
+    {
+        "description": "Kraken QTUM/ETH",
+        "displaySymbol": "QTUM/ETH",
+        "symbol": "KRAKEN:QTUMETH"
+    },
+    {
+        "description": "Kraken MKR/GBP",
+        "displaySymbol": "MKR/GBP",
+        "symbol": "KRAKEN:MKRGBP"
+    },
+    {
+        "description": "Kraken LINK/USDT",
+        "displaySymbol": "LINK/USDT",
+        "symbol": "KRAKEN:LINKUSDT"
+    },
+    {
+        "description": "Kraken KNC/XBT",
+        "displaySymbol": "KNC/XBT",
+        "symbol": "KRAKEN:KNCXBT"
+    },
+    {
+        "description": "Kraken PAXG/XBT",
+        "displaySymbol": "PAXG/XBT",
+        "symbol": "KRAKEN:PAXGXBT"
+    },
+    {
+        "description": "Kraken XBT/USD",
+        "displaySymbol": "XBT/USD",
+        "symbol": "KRAKEN:XXBTZUSD"
+    },
+    {
+        "description": "Kraken EWT/XBT",
+        "displaySymbol": "EWT/XBT",
+        "symbol": "KRAKEN:EWTXBT"
+    },
+    {
+        "description": "Kraken ALGO/USD",
+        "displaySymbol": "ALGO/USD",
+        "symbol": "KRAKEN:ALGOUSD"
+    },
+    {
+        "description": "Kraken ENJ/GBP",
+        "displaySymbol": "ENJ/GBP",
+        "symbol": "KRAKEN:ENJGBP"
+    },
+    {
+        "description": "Kraken CHZ/EUR",
+        "displaySymbol": "CHZ/EUR",
+        "symbol": "KRAKEN:CHZEUR"
+    },
+    {
+        "description": "Kraken KEEP/XBT",
+        "displaySymbol": "KEEP/XBT",
+        "symbol": "KRAKEN:KEEPXBT"
+    },
+    {
+        "description": "Kraken BCH/AUD",
+        "displaySymbol": "BCH/AUD",
+        "symbol": "KRAKEN:BCHAUD"
+    },
+    {
+        "description": "Kraken SUSHI/XBT",
+        "displaySymbol": "SUSHI/XBT",
+        "symbol": "KRAKEN:SUSHIXBT"
+    },
+    {
+        "description": "Kraken SAND/GBP",
+        "displaySymbol": "SAND/GBP",
+        "symbol": "KRAKEN:SANDGBP"
+    },
+    {
+        "description": "Kraken OXT/USD",
+        "displaySymbol": "OXT/USD",
+        "symbol": "KRAKEN:OXTUSD"
+    },
+    {
+        "description": "Kraken BCH/USDT",
+        "displaySymbol": "BCH/USDT",
+        "symbol": "KRAKEN:BCHUSDT"
+    },
+    {
+        "description": "Kraken CHZ/USD",
+        "displaySymbol": "CHZ/USD",
+        "symbol": "KRAKEN:CHZUSD"
+    },
+    {
+        "description": "Kraken ETH/CAD",
+        "displaySymbol": "ETH/CAD",
+        "symbol": "KRAKEN:XETHZCAD"
+    },
+    {
+        "description": "Kraken XLM/USD",
+        "displaySymbol": "XLM/USD",
+        "symbol": "KRAKEN:XXLMZUSD"
+    },
+    {
+        "description": "Kraken GRT/AUD",
+        "displaySymbol": "GRT/AUD",
+        "symbol": "KRAKEN:GRTAUD"
+    },
+    {
+        "description": "Kraken EUR/AUD",
+        "displaySymbol": "EUR/AUD",
+        "symbol": "KRAKEN:EURAUD"
+    },
+    {
+        "description": "Kraken GNO/ETH",
+        "displaySymbol": "GNO/ETH",
+        "symbol": "KRAKEN:GNOETH"
+    },
+    {
+        "description": "Kraken COMP/USD",
+        "displaySymbol": "COMP/USD",
+        "symbol": "KRAKEN:COMPUSD"
+    },
+    {
+        "description": "Kraken GRT/XBT",
+        "displaySymbol": "GRT/XBT",
+        "symbol": "KRAKEN:GRTXBT"
+    },
+    {
+        "description": "Kraken KSM/AUD",
+        "displaySymbol": "KSM/AUD",
+        "symbol": "KRAKEN:KSMAUD"
+    },
+    {
+        "description": "Kraken DAI/USDT",
+        "displaySymbol": "DAI/USDT",
+        "symbol": "KRAKEN:DAIUSDT"
+    },
+    {
+        "description": "Kraken QTUM/EUR",
+        "displaySymbol": "QTUM/EUR",
+        "symbol": "KRAKEN:QTUMEUR"
+    },
+    {
+        "description": "Kraken BAT/EUR",
+        "displaySymbol": "BAT/EUR",
+        "symbol": "KRAKEN:BATEUR"
+    },
+    {
+        "description": "Kraken USDC/GBP",
+        "displaySymbol": "USDC/GBP",
+        "symbol": "KRAKEN:USDCGBP"
+    },
+    {
+        "description": "Kraken XRP/AUD",
+        "displaySymbol": "XRP/AUD",
+        "symbol": "KRAKEN:XRPAUD"
+    },
+    {
+        "description": "Kraken BNT/XBT",
+        "displaySymbol": "BNT/XBT",
+        "symbol": "KRAKEN:BNTXBT"
+    },
+    {
+        "description": "Kraken ICX/EUR",
+        "displaySymbol": "ICX/EUR",
+        "symbol": "KRAKEN:ICXEUR"
+    },
+    {
+        "description": "Kraken XBT/CAD",
+        "displaySymbol": "XBT/CAD",
+        "symbol": "KRAKEN:XXBTZCAD"
+    },
+    {
+        "description": "Kraken GHST/USD",
+        "displaySymbol": "GHST/USD",
+        "symbol": "KRAKEN:GHSTUSD"
+    },
+    {
+        "description": "Kraken REN/EUR",
+        "displaySymbol": "REN/EUR",
+        "symbol": "KRAKEN:RENEUR"
+    },
+    {
+        "description": "Kraken TZ/GBP",
+        "displaySymbol": "TZ/GBP",
+        "symbol": "KRAKEN:XTZGBP"
+    },
+    {
+        "description": "Kraken CRV/ETH",
+        "displaySymbol": "CRV/ETH",
+        "symbol": "KRAKEN:CRVETH"
+    },
+    {
+        "description": "Kraken ALGO/ETH",
+        "displaySymbol": "ALGO/ETH",
+        "symbol": "KRAKEN:ALGOETH"
+    },
+    {
+        "description": "Kraken WAVES/XBT",
+        "displaySymbol": "WAVES/XBT",
+        "symbol": "KRAKEN:WAVESXBT"
+    },
+    {
+        "description": "Kraken LTC/GBP",
+        "displaySymbol": "LTC/GBP",
+        "symbol": "KRAKEN:LTCGBP"
+    },
+    {
+        "description": "Kraken RARI/EUR",
+        "displaySymbol": "RARI/EUR",
+        "symbol": "KRAKEN:RARIEUR"
+    },
+    {
+        "description": "Kraken EUR/GBP",
+        "displaySymbol": "EUR/GBP",
+        "symbol": "KRAKEN:EURGBP"
+    },
+    {
+        "description": "Kraken DAI/USD",
+        "displaySymbol": "DAI/USD",
+        "symbol": "KRAKEN:DAIUSD"
+    },
+    {
+        "description": "Kraken ETH/USDT",
+        "displaySymbol": "ETH/USDT",
+        "symbol": "KRAKEN:ETHUSDT"
+    },
+    {
+        "description": "Kraken LINK/JPY",
+        "displaySymbol": "LINK/JPY",
+        "symbol": "KRAKEN:LINKJPY"
+    },
+    {
+        "description": "Kraken DASH/EUR",
+        "displaySymbol": "DASH/EUR",
+        "symbol": "KRAKEN:DASHEUR"
+    },
+    {
+        "description": "Kraken CTSI/USD",
+        "displaySymbol": "CTSI/USD",
+        "symbol": "KRAKEN:CTSIUSD"
+    },
+    {
+        "description": "Kraken TRX/USD",
+        "displaySymbol": "TRX/USD",
+        "symbol": "KRAKEN:TRXUSD"
+    },
+    {
+        "description": "Kraken MKR/EUR",
+        "displaySymbol": "MKR/EUR",
+        "symbol": "KRAKEN:MKREUR"
+    },
+    {
+        "description": "Kraken XBT/EUR",
+        "displaySymbol": "XBT/EUR",
+        "symbol": "KRAKEN:XXBTZEUR"
+    },
+    {
+        "description": "Kraken CTSI/EUR",
+        "displaySymbol": "CTSI/EUR",
+        "symbol": "KRAKEN:CTSIEUR"
+    },
+    {
+        "description": "Kraken KINT/EUR",
+        "displaySymbol": "KINT/EUR",
+        "symbol": "KRAKEN:KINTEUR"
+    },
+    {
+        "description": "Kraken AAVE/EUR",
+        "displaySymbol": "AAVE/EUR",
+        "symbol": "KRAKEN:AAVEEUR"
+    },
+    {
+        "description": "Kraken UNI/ETH",
+        "displaySymbol": "UNI/ETH",
+        "symbol": "KRAKEN:UNIETH"
+    },
+    {
+        "description": "Kraken BAND/EUR",
+        "displaySymbol": "BAND/EUR",
+        "symbol": "KRAKEN:BANDEUR"
+    },
+    {
+        "description": "Kraken OGN/USD",
+        "displaySymbol": "OGN/USD",
+        "symbol": "KRAKEN:OGNUSD"
+    },
+    {
+        "description": "Kraken LPT/USD",
+        "displaySymbol": "LPT/USD",
+        "symbol": "KRAKEN:LPTUSD"
+    },
+    {
+        "description": "Kraken LSK/ETH",
+        "displaySymbol": "LSK/ETH",
+        "symbol": "KRAKEN:LSKETH"
+    },
+    {
+        "description": "Kraken OXT/EUR",
+        "displaySymbol": "OXT/EUR",
+        "symbol": "KRAKEN:OXTEUR"
+    },
+    {
+        "description": "Kraken ETC/USD",
+        "displaySymbol": "ETC/USD",
+        "symbol": "KRAKEN:XETCZUSD"
+    },
+    {
+        "description": "Kraken FLOW/EUR",
+        "displaySymbol": "FLOW/EUR",
+        "symbol": "KRAKEN:FLOWEUR"
+    },
+    {
+        "description": "Kraken ALGO/EUR",
+        "displaySymbol": "ALGO/EUR",
+        "symbol": "KRAKEN:ALGOEUR"
+    },
+    {
+        "description": "Kraken SOL/XBT",
+        "displaySymbol": "SOL/XBT",
+        "symbol": "KRAKEN:SOLXBT"
+    },
+    {
+        "description": "Kraken OCEAN/USD",
+        "displaySymbol": "OCEAN/USD",
+        "symbol": "KRAKEN:OCEANUSD"
+    },
+    {
+        "description": "Kraken OMG/ETH",
+        "displaySymbol": "OMG/ETH",
+        "symbol": "KRAKEN:OMGETH"
+    },
+    {
+        "description": "Kraken LRC/EUR",
+        "displaySymbol": "LRC/EUR",
+        "symbol": "KRAKEN:LRCEUR"
+    },
+    {
+        "description": "Kraken DASH/XBT",
+        "displaySymbol": "DASH/XBT",
+        "symbol": "KRAKEN:DASHXBT"
+    },
+    {
+        "description": "Kraken GLMR/USD",
+        "displaySymbol": "GLMR/USD",
+        "symbol": "KRAKEN:GLMRUSD"
+    },
+    {
+        "description": "Kraken LINK/ETH",
+        "displaySymbol": "LINK/ETH",
+        "symbol": "KRAKEN:LINKETH"
+    },
+    {
+        "description": "Kraken BAT/ETH",
+        "displaySymbol": "BAT/ETH",
+        "symbol": "KRAKEN:BATETH"
+    },
+    {
+        "description": "Kraken MATIC/EUR",
+        "displaySymbol": "MATIC/EUR",
+        "symbol": "KRAKEN:MATICEUR"
+    },
+    {
+        "description": "Kraken XLM/AUD",
+        "displaySymbol": "XLM/AUD",
+        "symbol": "KRAKEN:XXLMZAUD"
+    },
+    {
+        "description": "Kraken ATOM/EUR",
+        "displaySymbol": "ATOM/EUR",
+        "symbol": "KRAKEN:ATOMEUR"
+    },
+    {
+        "description": "Kraken EWT/USD",
+        "displaySymbol": "EWT/USD",
+        "symbol": "KRAKEN:EWTUSD"
+    },
+    {
+        "description": "Kraken PAXG/ETH",
+        "displaySymbol": "PAXG/ETH",
+        "symbol": "KRAKEN:PAXGETH"
+    },
+    {
+        "description": "Kraken INJ/EUR",
+        "displaySymbol": "INJ/EUR",
+        "symbol": "KRAKEN:INJEUR"
+    },
+    {
+        "description": "Kraken GNO/EUR",
+        "displaySymbol": "GNO/EUR",
+        "symbol": "KRAKEN:GNOEUR"
+    },
+    {
+        "description": "Kraken LTC/USD",
+        "displaySymbol": "LTC/USD",
+        "symbol": "KRAKEN:XLTCZUSD"
+    },
+    {
+        "description": "Kraken PHA/USD",
+        "displaySymbol": "PHA/USD",
+        "symbol": "KRAKEN:PHAUSD"
+    },
+    {
+        "description": "Kraken USDC/USDT",
+        "displaySymbol": "USDC/USDT",
+        "symbol": "KRAKEN:USDCUSDT"
+    },
+    {
+        "description": "Kraken ETC/XBT",
+        "displaySymbol": "ETC/XBT",
+        "symbol": "KRAKEN:XETCXXBT"
+    },
+    {
+        "description": "Kraken BAND/USD",
+        "displaySymbol": "BAND/USD",
+        "symbol": "KRAKEN:BANDUSD"
+    },
+    {
+        "description": "Kraken SC/USD",
+        "displaySymbol": "SC/USD",
+        "symbol": "KRAKEN:SCUSD"
+    },
+    {
+        "description": "Kraken LPT/XBT",
+        "displaySymbol": "LPT/XBT",
+        "symbol": "KRAKEN:LPTXBT"
+    },
+    {
+        "description": "Kraken TRX/ETH",
+        "displaySymbol": "TRX/ETH",
+        "symbol": "KRAKEN:TRXETH"
+    },
+    {
+        "description": "Kraken EOS/USD",
+        "displaySymbol": "EOS/USD",
+        "symbol": "KRAKEN:EOSUSD"
+    },
+    {
+        "description": "Kraken SUSHI/EUR",
+        "displaySymbol": "SUSHI/EUR",
+        "symbol": "KRAKEN:SUSHIEUR"
+    },
+    {
+        "description": "Kraken LINK/AUD",
+        "displaySymbol": "LINK/AUD",
+        "symbol": "KRAKEN:LINKAUD"
+    },
+    {
+        "description": "Kraken ADA/ETH",
+        "displaySymbol": "ADA/ETH",
+        "symbol": "KRAKEN:ADAETH"
+    },
+    {
+        "description": "Kraken EOS/XBT",
+        "displaySymbol": "EOS/XBT",
+        "symbol": "KRAKEN:EOSXBT"
+    },
+    {
+        "description": "Kraken MIR/USD",
+        "displaySymbol": "MIR/USD",
+        "symbol": "KRAKEN:MIRUSD"
+    },
+    {
+        "description": "Kraken KSM/DOT",
+        "displaySymbol": "KSM/DOT",
+        "symbol": "KRAKEN:KSMDOT"
+    },
+    {
+        "description": "Kraken CRV/USD",
+        "displaySymbol": "CRV/USD",
+        "symbol": "KRAKEN:CRVUSD"
+    },
+    {
+        "description": "Kraken LRC/USD",
+        "displaySymbol": "LRC/USD",
+        "symbol": "KRAKEN:LRCUSD"
+    },
+    {
+        "description": "Kraken XBT/AUD",
+        "displaySymbol": "XBT/AUD",
+        "symbol": "KRAKEN:XBTAUD"
+    },
+    {
+        "description": "Kraken SHIB/USD",
+        "displaySymbol": "SHIB/USD",
+        "symbol": "KRAKEN:SHIBUSD"
+    },
+    {
+        "description": "Kraken SOL/GBP",
+        "displaySymbol": "SOL/GBP",
+        "symbol": "KRAKEN:SOLGBP"
+    },
+    {
+        "description": "Kraken WBTC/XBT",
+        "displaySymbol": "WBTC/XBT",
+        "symbol": "KRAKEN:WBTCXBT"
+    },
+    {
+        "description": "Kraken XRP/CAD",
+        "displaySymbol": "XRP/CAD",
+        "symbol": "KRAKEN:XXRPZCAD"
+    },
+    {
+        "description": "Kraken LSK/XBT",
+        "displaySymbol": "LSK/XBT",
+        "symbol": "KRAKEN:LSKXBT"
+    },
+    {
+        "description": "Kraken OMG/EUR",
+        "displaySymbol": "OMG/EUR",
+        "symbol": "KRAKEN:OMGEUR"
+    },
+    {
+        "description": "Kraken GRT/USD",
+        "displaySymbol": "GRT/USD",
+        "symbol": "KRAKEN:GRTUSD"
+    },
+    {
+        "description": "Kraken YFI/USD",
+        "displaySymbol": "YFI/USD",
+        "symbol": "KRAKEN:YFIUSD"
+    },
+    {
+        "description": "Kraken MANA/USD",
+        "displaySymbol": "MANA/USD",
+        "symbol": "KRAKEN:MANAUSD"
+    },
+    {
+        "description": "Kraken XBT/GBP",
+        "displaySymbol": "XBT/GBP",
+        "symbol": "KRAKEN:XXBTZGBP"
+    },
+    {
+        "description": "Kraken ADA/USDT",
+        "displaySymbol": "ADA/USDT",
+        "symbol": "KRAKEN:ADAUSDT"
+    },
+    {
+        "description": "Kraken YFI/AUD",
+        "displaySymbol": "YFI/AUD",
+        "symbol": "KRAKEN:YFIAUD"
+    },
+    {
+        "description": "Kraken XBT/JPY",
+        "displaySymbol": "XBT/JPY",
+        "symbol": "KRAKEN:XXBTZJPY"
+    },
+    {
+        "description": "Kraken REP/XBT",
+        "displaySymbol": "REP/XBT",
+        "symbol": "KRAKEN:XREPXXBT"
+    },
+    {
+        "description": "Kraken DAI/EUR",
+        "displaySymbol": "DAI/EUR",
+        "symbol": "KRAKEN:DAIEUR"
+    },
+    {
+        "description": "Kraken RARI/XBT",
+        "displaySymbol": "RARI/XBT",
+        "symbol": "KRAKEN:RARIXBT"
+    },
+    {
+        "description": "Kraken ICX/ETH",
+        "displaySymbol": "ICX/ETH",
+        "symbol": "KRAKEN:ICXETH"
+    },
+    {
+        "description": "Kraken OXT/ETH",
+        "displaySymbol": "OXT/ETH",
+        "symbol": "KRAKEN:OXTETH"
+    },
+    {
+        "description": "Kraken XLM/EUR",
+        "displaySymbol": "XLM/EUR",
+        "symbol": "KRAKEN:XXLMZEUR"
+    },
+    {
+        "description": "Kraken SC/EUR",
+        "displaySymbol": "SC/EUR",
+        "symbol": "KRAKEN:SCEUR"
+    },
+    {
+        "description": "Kraken ICX/USD",
+        "displaySymbol": "ICX/USD",
+        "symbol": "KRAKEN:ICXUSD"
+    },
+    {
+        "description": "Kraken ANT/EUR",
+        "displaySymbol": "ANT/EUR",
+        "symbol": "KRAKEN:ANTEUR"
+    },
+    {
+        "description": "Kraken GHST/XBT",
+        "displaySymbol": "GHST/XBT",
+        "symbol": "KRAKEN:GHSTXBT"
+    },
+    {
+        "description": "Kraken ETH/EUR",
+        "displaySymbol": "ETH/EUR",
+        "symbol": "KRAKEN:XETHZEUR"
+    },
+    {
+        "description": "Kraken SC/XBT",
+        "displaySymbol": "SC/XBT",
+        "symbol": "KRAKEN:SCXBT"
+    },
+    {
+        "description": "Kraken XRP/JPY",
+        "displaySymbol": "XRP/JPY",
+        "symbol": "KRAKEN:XXRPZJPY"
+    },
+    {
+        "description": "Kraken CRV/EUR",
+        "displaySymbol": "CRV/EUR",
+        "symbol": "KRAKEN:CRVEUR"
+    },
+    {
+        "description": "Kraken LTC/JPY",
+        "displaySymbol": "LTC/JPY",
+        "symbol": "KRAKEN:XLTCZJPY"
+    },
+    {
+        "description": "Kraken OXT/XBT",
+        "displaySymbol": "OXT/XBT",
+        "symbol": "KRAKEN:OXTXBT"
+    },
+    {
+        "description": "Kraken NANO/EUR",
+        "displaySymbol": "NANO/EUR",
+        "symbol": "KRAKEN:NANOEUR"
+    },
+    {
+        "description": "Kraken BAT/JPY",
+        "displaySymbol": "BAT/JPY",
+        "symbol": "KRAKEN:BATJPY"
+    },
+    {
+        "description": "Kraken KILT/EUR",
+        "displaySymbol": "KILT/EUR",
+        "symbol": "KRAKEN:KILTEUR"
+    },
+    {
+        "description": "Kraken SAND/EUR",
+        "displaySymbol": "SAND/EUR",
+        "symbol": "KRAKEN:SANDEUR"
+    },
+    {
+        "description": "Kraken KNC/ETH",
+        "displaySymbol": "KNC/ETH",
+        "symbol": "KRAKEN:KNCETH"
+    },
+    {
+        "description": "Kraken USD/CHF",
+        "displaySymbol": "USD/CHF",
+        "symbol": "KRAKEN:USDCHF"
+    },
+    {
+        "description": "Kraken 1INCH/USD",
+        "displaySymbol": "1INCH/USD",
+        "symbol": "KRAKEN:1INCHUSD"
+    },
+    {
+        "description": "Kraken ATOM/AUD",
+        "displaySymbol": "ATOM/AUD",
+        "symbol": "KRAKEN:ATOMAUD"
+    },
+    {
+        "description": "Kraken ATOM/USD",
+        "displaySymbol": "ATOM/USD",
+        "symbol": "KRAKEN:ATOMUSD"
+    },
+    {
+        "description": "Kraken USDT/CAD",
+        "displaySymbol": "USDT/CAD",
+        "symbol": "KRAKEN:USDTCAD"
+    },
+    {
+        "description": "Kraken XDG/EUR",
+        "displaySymbol": "XDG/EUR",
+        "symbol": "KRAKEN:XDGEUR"
+    },
+    {
+        "description": "Kraken BCH/JPY",
+        "displaySymbol": "BCH/JPY",
+        "symbol": "KRAKEN:BCHJPY"
+    },
+    {
+        "description": "Kraken REP/USD",
+        "displaySymbol": "REP/USD",
+        "symbol": "KRAKEN:XREPZUSD"
+    },
+    {
+        "description": "Kraken AAVE/AUD",
+        "displaySymbol": "AAVE/AUD",
+        "symbol": "KRAKEN:AAVEAUD"
+    },
+    {
+        "description": "Kraken YFI/EUR",
+        "displaySymbol": "YFI/EUR",
+        "symbol": "KRAKEN:YFIEUR"
+    },
+    {
+        "description": "Kraken KNC/USD",
+        "displaySymbol": "KNC/USD",
+        "symbol": "KRAKEN:KNCUSD"
+    },
+    {
+        "description": "Kraken XLM/GBP",
+        "displaySymbol": "XLM/GBP",
+        "symbol": "KRAKEN:XXLMZGBP"
+    },
+    {
+        "description": "Kraken XMR/EUR",
+        "displaySymbol": "XMR/EUR",
+        "symbol": "KRAKEN:XXMRZEUR"
+    },
+    {
+        "description": "Kraken MOVR/EUR",
+        "displaySymbol": "MOVR/EUR",
+        "symbol": "KRAKEN:MOVREUR"
+    },
+    {
+        "description": "Kraken OMG/USD",
+        "displaySymbol": "OMG/USD",
+        "symbol": "KRAKEN:OMGUSD"
+    },
+    {
+        "description": "Kraken XDG/USD",
+        "displaySymbol": "XDG/USD",
+        "symbol": "KRAKEN:XDGUSD"
+    },
+    {
+        "description": "Kraken ETH/USD",
+        "displaySymbol": "ETH/USD",
+        "symbol": "KRAKEN:XETHZUSD"
+    },
+    {
+        "description": "Kraken FLOW/USD",
+        "displaySymbol": "FLOW/USD",
+        "symbol": "KRAKEN:FLOWUSD"
+    },
+    {
+        "description": "Kraken LUNA/USD",
+        "displaySymbol": "LUNA/USD",
+        "symbol": "KRAKEN:LUNAUSD"
+    },
+    {
+        "description": "Kraken ASTR/USD",
+        "displaySymbol": "ASTR/USD",
+        "symbol": "KRAKEN:ASTRUSD"
+    },
+    {
+        "description": "Kraken BAL/XBT",
+        "displaySymbol": "BAL/XBT",
+        "symbol": "KRAKEN:BALXBT"
+    },
+    {
+        "description": "Kraken BNC/EUR",
+        "displaySymbol": "BNC/EUR",
+        "symbol": "KRAKEN:BNCEUR"
+    },
+    {
+        "description": "Kraken USDC/EUR",
+        "displaySymbol": "USDC/EUR",
+        "symbol": "KRAKEN:USDCEUR"
+    },
+    {
+        "description": "Kraken SNX/EUR",
+        "displaySymbol": "SNX/EUR",
+        "symbol": "KRAKEN:SNXEUR"
+    },
+    {
+        "description": "Kraken ADA/XBT",
+        "displaySymbol": "ADA/XBT",
+        "symbol": "KRAKEN:ADAXBT"
+    },
+    {
+        "description": "Kraken LTC/XBT",
+        "displaySymbol": "LTC/XBT",
+        "symbol": "KRAKEN:XLTCXXBT"
+    },
+    {
+        "description": "Kraken BNT/EUR",
+        "displaySymbol": "BNT/EUR",
+        "symbol": "KRAKEN:BNTEUR"
+    },
+    {
+        "description": "Kraken TBTC/EUR",
+        "displaySymbol": "TBTC/EUR",
+        "symbol": "KRAKEN:TBTCEUR"
+    },
+    {
+        "description": "Kraken PHA/EUR",
+        "displaySymbol": "PHA/EUR",
+        "symbol": "KRAKEN:PHAEUR"
+    },
+    {
+        "description": "Kraken AUD/JPY",
+        "displaySymbol": "AUD/JPY",
+        "symbol": "KRAKEN:AUDJPY"
+    },
+    {
+        "description": "Kraken XBT/USDT",
+        "displaySymbol": "XBT/USDT",
+        "symbol": "KRAKEN:XBTUSDT"
+    },
+    {
+        "description": "Kraken SAND/USD",
+        "displaySymbol": "SAND/USD",
+        "symbol": "KRAKEN:SANDUSD"
+    },
+    {
+        "description": "Kraken TRX/XBT",
+        "displaySymbol": "TRX/XBT",
+        "symbol": "KRAKEN:TRXXBT"
+    },
+    {
+        "description": "Kraken TBTC/USD",
+        "displaySymbol": "TBTC/USD",
+        "symbol": "KRAKEN:TBTCUSD"
+    },
+    {
+        "description": "Kraken EOS/EUR",
+        "displaySymbol": "EOS/EUR",
+        "symbol": "KRAKEN:EOSEUR"
+    },
+    {
+        "description": "Kraken RARI/GBP",
+        "displaySymbol": "RARI/GBP",
+        "symbol": "KRAKEN:RARIGBP"
+    },
+    {
+        "description": "Kraken KSM/GBP",
+        "displaySymbol": "KSM/GBP",
+        "symbol": "KRAKEN:KSMGBP"
+    },
+    {
+        "description": "Kraken ZEC/XBT",
+        "displaySymbol": "ZEC/XBT",
+        "symbol": "KRAKEN:XZECXXBT"
+    },
+    {
+        "description": "Kraken OGN/EUR",
+        "displaySymbol": "OGN/EUR",
+        "symbol": "KRAKEN:OGNEUR"
+    },
+    {
+        "description": "Kraken KSM/ETH",
+        "displaySymbol": "KSM/ETH",
+        "symbol": "KRAKEN:KSMETH"
+    },
+    {
+        "description": "Kraken FLOW/XBT",
+        "displaySymbol": "FLOW/XBT",
+        "symbol": "KRAKEN:FLOWXBT"
+    },
+    {
+        "description": "Kraken BCH/EUR",
+        "displaySymbol": "BCH/EUR",
+        "symbol": "KRAKEN:BCHEUR"
+    },
+    {
+        "description": "Kraken OCEAN/GBP",
+        "displaySymbol": "OCEAN/GBP",
+        "symbol": "KRAKEN:OCEANGBP"
+    },
+    {
+        "description": "Kraken PAXG/EUR",
+        "displaySymbol": "PAXG/EUR",
+        "symbol": "KRAKEN:PAXGEUR"
+    },
+    {
+        "description": "Kraken LINK/EUR",
+        "displaySymbol": "LINK/EUR",
+        "symbol": "KRAKEN:LINKEUR"
+    },
+    {
+        "description": "Kraken DOT/USD",
+        "displaySymbol": "DOT/USD",
+        "symbol": "KRAKEN:DOTUSD"
+    },
+    {
+        "description": "Kraken SAND/XBT",
+        "displaySymbol": "SAND/XBT",
+        "symbol": "KRAKEN:SANDXBT"
+    },
+    {
+        "description": "Kraken MOVR/USD",
+        "displaySymbol": "MOVR/USD",
+        "symbol": "KRAKEN:MOVRUSD"
+    },
+    {
+        "description": "Kraken ADA/GBP",
+        "displaySymbol": "ADA/GBP",
+        "symbol": "KRAKEN:ADAGBP"
+    },
+    {
+        "description": "Kraken ENJ/EUR",
+        "displaySymbol": "ENJ/EUR",
+        "symbol": "KRAKEN:ENJEUR"
+    },
+    {
+        "description": "Kraken DOT/EUR",
+        "displaySymbol": "DOT/EUR",
+        "symbol": "KRAKEN:DOTEUR"
+    },
+    {
+        "description": "Kraken LTC/USDT",
+        "displaySymbol": "LTC/USDT",
+        "symbol": "KRAKEN:LTCUSDT"
+    },
+    {
+        "description": "Kraken KAVA/XBT",
+        "displaySymbol": "KAVA/XBT",
+        "symbol": "KRAKEN:KAVAXBT"
+    },
+    {
+        "description": "Kraken BNT/GBP",
+        "displaySymbol": "BNT/GBP",
+        "symbol": "KRAKEN:BNTGBP"
+    },
+    {
+        "description": "Kraken BAL/EUR",
+        "displaySymbol": "BAL/EUR",
+        "symbol": "KRAKEN:BALEUR"
+    },
+    {
+        "description": "Kraken SUSHI/USD",
+        "displaySymbol": "SUSHI/USD",
+        "symbol": "KRAKEN:SUSHIUSD"
+    },
+    {
+        "description": "Kraken NANO/XBT",
+        "displaySymbol": "NANO/XBT",
+        "symbol": "KRAKEN:NANOXBT"
+    },
+    {
+        "description": "Kraken YFI/GBP",
+        "displaySymbol": "YFI/GBP",
+        "symbol": "KRAKEN:YFIGBP"
+    },
+    {
+        "description": "Kraken MLN/XBT",
+        "displaySymbol": "MLN/XBT",
+        "symbol": "KRAKEN:XMLNXXBT"
+    },
+    {
+        "description": "Kraken GNO/USD",
+        "displaySymbol": "GNO/USD",
+        "symbol": "KRAKEN:GNOUSD"
+    },
+    {
+        "description": "Kraken OMG/XBT",
+        "displaySymbol": "OMG/XBT",
+        "symbol": "KRAKEN:OMGXBT"
+    },
+    {
+        "description": "Kraken AAVE/USD",
+        "displaySymbol": "AAVE/USD",
+        "symbol": "KRAKEN:AAVEUSD"
+    },
+    {
+        "description": "Kraken OCEAN/XBT",
+        "displaySymbol": "OCEAN/XBT",
+        "symbol": "KRAKEN:OCEANXBT"
+    },
+    {
+        "description": "Kraken BADGER/USD",
+        "displaySymbol": "BADGER/USD",
+        "symbol": "KRAKEN:BADGERUSD"
+    },
+    {
+        "description": "Kraken ALGO/GBP",
+        "displaySymbol": "ALGO/GBP",
+        "symbol": "KRAKEN:ALGOGBP"
+    },
+    {
+        "description": "Kraken ANKR/EUR",
+        "displaySymbol": "ANKR/EUR",
+        "symbol": "KRAKEN:ANKREUR"
+    },
+    {
+        "description": "Kraken ETH/AUD",
+        "displaySymbol": "ETH/AUD",
+        "symbol": "KRAKEN:ETHAUD"
+    },
+    {
+        "description": "Kraken SHIB/EUR",
+        "displaySymbol": "SHIB/EUR",
+        "symbol": "KRAKEN:SHIBEUR"
+    },
+    {
+        "description": "Kraken EUR/CHF",
+        "displaySymbol": "EUR/CHF",
+        "symbol": "KRAKEN:EURCHF"
+    },
+    {
+        "description": "Kraken BCH/ETH",
+        "displaySymbol": "BCH/ETH",
+        "symbol": "KRAKEN:BCHETH"
+    },
+    {
+        "description": "Kraken FIL/XBT",
+        "displaySymbol": "FIL/XBT",
+        "symbol": "KRAKEN:FILXBT"
+    },
+    {
+        "description": "Kraken LINK/XBT",
+        "displaySymbol": "LINK/XBT",
+        "symbol": "KRAKEN:LINKXBT"
+    },
+    {
+        "description": "Kraken PERP/USD",
+        "displaySymbol": "PERP/USD",
+        "symbol": "KRAKEN:PERPUSD"
+    },
+    {
+        "description": "Kraken GHST/EUR",
+        "displaySymbol": "GHST/EUR",
+        "symbol": "KRAKEN:GHSTEUR"
+    },
+    {
+        "description": "Kraken TZ/USD",
+        "displaySymbol": "TZ/USD",
+        "symbol": "KRAKEN:XTZUSD"
+    },
+    {
+        "description": "Kraken FLOW/ETH",
+        "displaySymbol": "FLOW/ETH",
+        "symbol": "KRAKEN:FLOWETH"
+    },
+    {
+        "description": "Kraken XRP/ETH",
+        "displaySymbol": "XRP/ETH",
+        "symbol": "KRAKEN:XRPETH"
+    },
+    {
+        "description": "Kraken REN/GBP",
+        "displaySymbol": "REN/GBP",
+        "symbol": "KRAKEN:RENGBP"
+    },
+    {
+        "description": "Kraken GLMR/EUR",
+        "displaySymbol": "GLMR/EUR",
+        "symbol": "KRAKEN:GLMREUR"
+    },
+    {
+        "description": "Kraken AVAX/USD",
+        "displaySymbol": "AVAX/USD",
+        "symbol": "KRAKEN:AVAXUSD"
+    },
+    {
+        "description": "Kraken KINT/USD",
+        "displaySymbol": "KINT/USD",
+        "symbol": "KRAKEN:KINTUSD"
+    },
+    {
+        "description": "Kraken UNI/USD",
+        "displaySymbol": "UNI/USD",
+        "symbol": "KRAKEN:UNIUSD"
+    },
+    {
+        "description": "Kraken KNC/EUR",
+        "displaySymbol": "KNC/EUR",
+        "symbol": "KRAKEN:KNCEUR"
+    },
+    {
+        "description": "Kraken REPV2/EUR",
+        "displaySymbol": "REPV2/EUR",
+        "symbol": "KRAKEN:REPV2EUR"
+    },
+    {
+        "description": "Kraken ANT/XBT",
+        "displaySymbol": "ANT/XBT",
+        "symbol": "KRAKEN:ANTXBT"
+    },
+    {
+        "description": "Kraken BAT/XBT",
+        "displaySymbol": "BAT/XBT",
+        "symbol": "KRAKEN:BATXBT"
+    },
+    {
+        "description": "Kraken NANO/ETH",
+        "displaySymbol": "NANO/ETH",
+        "symbol": "KRAKEN:NANOETH"
+    },
+    {
+        "description": "Kraken MINA/USD",
+        "displaySymbol": "MINA/USD",
+        "symbol": "KRAKEN:MINAUSD"
+    },
+    {
+        "description": "Kraken OXY/USD",
+        "displaySymbol": "OXY/USD",
+        "symbol": "KRAKEN:OXYUSD"
+    },
+    {
+        "description": "Kraken RX/USD",
+        "displaySymbol": "RX/USD",
+        "symbol": "KRAKEN:ZRXUSD"
+    },
+    {
+        "description": "Kraken BADGER/EUR",
+        "displaySymbol": "BADGER/EUR",
+        "symbol": "KRAKEN:BADGEREUR"
+    },
+    {
+        "description": "Kraken RAY/EUR",
+        "displaySymbol": "RAY/EUR",
+        "symbol": "KRAKEN:RAYEUR"
+    },
+    {
+        "description": "Kraken ASTR/EUR",
+        "displaySymbol": "ASTR/EUR",
+        "symbol": "KRAKEN:ASTREUR"
+    },
+    {
+        "description": "Kraken FIL/ETH",
+        "displaySymbol": "FIL/ETH",
+        "symbol": "KRAKEN:FILETH"
+    },
+    {
+        "description": "Kraken BCH/USD",
+        "displaySymbol": "BCH/USD",
+        "symbol": "KRAKEN:BCHUSD"
+    },
+    {
+        "description": "Kraken REP/ETH",
+        "displaySymbol": "REP/ETH",
+        "symbol": "KRAKEN:XREPXETH"
+    },
+    {
+        "description": "Kraken XBT/DAI",
+        "displaySymbol": "XBT/DAI",
+        "symbol": "KRAKEN:XBTDAI"
+    },
+    {
+        "description": "Kraken ATOM/GBP",
+        "displaySymbol": "ATOM/GBP",
+        "symbol": "KRAKEN:ATOMGBP"
+    },
+    {
+        "description": "Kraken ANT/ETH",
+        "displaySymbol": "ANT/ETH",
+        "symbol": "KRAKEN:ANTETH"
+    },
+    {
+        "description": "Kraken PAXG/USD",
+        "displaySymbol": "PAXG/USD",
+        "symbol": "KRAKEN:PAXGUSD"
+    },
+    {
+        "description": "Kraken GRT/EUR",
+        "displaySymbol": "GRT/EUR",
+        "symbol": "KRAKEN:GRTEUR"
+    },
+    {
+        "description": "Kraken ETC/EUR",
+        "displaySymbol": "ETC/EUR",
+        "symbol": "KRAKEN:XETCZEUR"
+    },
+    {
+        "description": "Kraken TZ/XBT",
+        "displaySymbol": "TZ/XBT",
+        "symbol": "KRAKEN:XTZXBT"
+    },
+    {
+        "description": "Kraken ETH/GBP",
+        "displaySymbol": "ETH/GBP",
+        "symbol": "KRAKEN:XETHZGBP"
+    },
+    {
+        "description": "Kraken AUD/USD",
+        "displaySymbol": "AUD/USD",
+        "symbol": "KRAKEN:AUDUSD"
+    },
+    {
+        "description": "Kraken USDT/JPY",
+        "displaySymbol": "USDT/JPY",
+        "symbol": "KRAKEN:USDTJPY"
+    },
+    {
+        "description": "Kraken MKR/USD",
+        "displaySymbol": "MKR/USD",
+        "symbol": "KRAKEN:MKRUSD"
+    },
+    {
+        "description": "Kraken DYDX/EUR",
+        "displaySymbol": "DYDX/EUR",
+        "symbol": "KRAKEN:DYDXEUR"
+    },
+    {
+        "description": "Kraken ADA/USD",
+        "displaySymbol": "ADA/USD",
+        "symbol": "KRAKEN:ADAUSD"
+    },
+    {
+        "description": "Kraken SUSHI/GBP",
+        "displaySymbol": "SUSHI/GBP",
+        "symbol": "KRAKEN:SUSHIGBP"
+    },
+    {
+        "description": "Kraken EWT/GBP",
+        "displaySymbol": "EWT/GBP",
+        "symbol": "KRAKEN:EWTGBP"
+    },
+    {
+        "description": "Kraken OMG/JPY",
+        "displaySymbol": "OMG/JPY",
+        "symbol": "KRAKEN:OMGJPY"
+    },
+    {
+        "description": "Kraken COMP/EUR",
+        "displaySymbol": "COMP/EUR",
+        "symbol": "KRAKEN:COMPEUR"
+    },
+    {
+        "description": "Kraken YFI/XBT",
+        "displaySymbol": "YFI/XBT",
+        "symbol": "KRAKEN:YFIXBT"
+    },
+    {
+        "description": "Kraken CQT/USD",
+        "displaySymbol": "CQT/USD",
+        "symbol": "KRAKEN:CQTUSD"
+    },
+    {
+        "description": "Kraken LPT/EUR",
+        "displaySymbol": "LPT/EUR",
+        "symbol": "KRAKEN:LPTEUR"
+    },
+    {
+        "description": "Kraken QTUM/USD",
+        "displaySymbol": "QTUM/USD",
+        "symbol": "KRAKEN:QTUMUSD"
+    },
+    {
+        "description": "Kraken LTC/ETH",
+        "displaySymbol": "LTC/ETH",
+        "symbol": "KRAKEN:LTCETH"
+    },
+    {
+        "description": "Kraken EOS/ETH",
+        "displaySymbol": "EOS/ETH",
+        "symbol": "KRAKEN:EOSETH"
+    },
+    {
+        "description": "Kraken BAT/USD",
+        "displaySymbol": "BAT/USD",
+        "symbol": "KRAKEN:BATUSD"
+    },
+    {
+        "description": "Kraken LINK/GBP",
+        "displaySymbol": "LINK/GBP",
+        "symbol": "KRAKEN:LINKGBP"
+    },
+    {
+        "description": "Kraken KSM/USD",
+        "displaySymbol": "KSM/USD",
+        "symbol": "KRAKEN:KSMUSD"
+    },
+    {
+        "description": "Kraken ETH/XBT",
+        "displaySymbol": "ETH/XBT",
+        "symbol": "KRAKEN:XETHXXBT"
+    },
+    {
+        "description": "Kraken BNC/USD",
+        "displaySymbol": "BNC/USD",
+        "symbol": "KRAKEN:BNCUSD"
+    },
+    {
+        "description": "Kraken RX/GBP",
+        "displaySymbol": "RX/GBP",
+        "symbol": "KRAKEN:ZRXGBP"
+    },
+    {
+        "description": "Kraken SOL/USD",
+        "displaySymbol": "SOL/USD",
+        "symbol": "KRAKEN:SOLUSD"
+    },
+    {
+        "description": "Kraken USD/CAD",
+        "displaySymbol": "USD/CAD",
+        "symbol": "KRAKEN:ZUSDZCAD"
+    },
+    {
+        "description": "Kraken ALGO/XBT",
+        "displaySymbol": "ALGO/XBT",
+        "symbol": "KRAKEN:ALGOXBT"
+    },
+    {
+        "description": "Kraken SNX/USD",
+        "displaySymbol": "SNX/USD",
+        "symbol": "KRAKEN:SNXUSD"
+    },
+    {
+        "description": "Kraken KSM/XBT",
+        "displaySymbol": "KSM/XBT",
+        "symbol": "KRAKEN:KSMXBT"
+    },
+    {
+        "description": "Kraken FIL/GBP",
+        "displaySymbol": "FIL/GBP",
+        "symbol": "KRAKEN:FILGBP"
+    },
+    {
+        "description": "Kraken MLN/USD",
+        "displaySymbol": "MLN/USD",
+        "symbol": "KRAKEN:XMLNZUSD"
+    },
+    {
+        "description": "Kraken SNX/ETH",
+        "displaySymbol": "SNX/ETH",
+        "symbol": "KRAKEN:SNXETH"
+    },
+    {
+        "description": "Kraken REPV2/XBT",
+        "displaySymbol": "REPV2/XBT",
+        "symbol": "KRAKEN:REPV2XBT"
+    },
+    {
+        "description": "Kraken RX/XBT",
+        "displaySymbol": "RX/XBT",
+        "symbol": "KRAKEN:ZRXXBT"
+    },
+    {
+        "description": "Kraken MATIC/GBP",
+        "displaySymbol": "MATIC/GBP",
+        "symbol": "KRAKEN:MATICGBP"
+    },
+    {
+        "description": "Kraken ETH/CHF",
+        "displaySymbol": "ETH/CHF",
+        "symbol": "KRAKEN:ETHCHF"
+    },
+    {
+        "description": "Kraken GRT/ETH",
+        "displaySymbol": "GRT/ETH",
+        "symbol": "KRAKEN:GRTETH"
+    },
+    {
+        "description": "Kraken GNO/XBT",
+        "displaySymbol": "GNO/XBT",
+        "symbol": "KRAKEN:GNOXBT"
+    },
+    {
+        "description": "Kraken LPT/GBP",
+        "displaySymbol": "LPT/GBP",
+        "symbol": "KRAKEN:LPTGBP"
+    },
+    {
+        "description": "Kraken ETH/JPY",
+        "displaySymbol": "ETH/JPY",
+        "symbol": "KRAKEN:XETHZJPY"
+    },
+    {
+        "description": "Kraken XMR/XBT",
+        "displaySymbol": "XMR/XBT",
+        "symbol": "KRAKEN:XXMRXXBT"
+    },
+    {
+        "description": "Kraken TRX/EUR",
+        "displaySymbol": "TRX/EUR",
+        "symbol": "KRAKEN:TRXEUR"
+    },
+    {
+        "description": "Kraken USDT/EUR",
+        "displaySymbol": "USDT/EUR",
+        "symbol": "KRAKEN:USDTEUR"
+    },
+    {
+        "description": "Kraken REN/XBT",
+        "displaySymbol": "REN/XBT",
+        "symbol": "KRAKEN:RENXBT"
+    },
+    {
+        "description": "Kraken TZ/ETH",
+        "displaySymbol": "TZ/ETH",
+        "symbol": "KRAKEN:XTZETH"
+    },
+    {
+        "description": "Kraken XRP/USDT",
+        "displaySymbol": "XRP/USDT",
+        "symbol": "KRAKEN:XRPUSDT"
+    },
+    {
+        "description": "Kraken LTC/AUD",
+        "displaySymbol": "LTC/AUD",
+        "symbol": "KRAKEN:LTCAUD"
+    },
+    {
+        "description": "Kraken FIL/EUR",
+        "displaySymbol": "FIL/EUR",
+        "symbol": "KRAKEN:FILEUR"
+    },
+    {
+        "description": "Kraken ANT/USD",
+        "displaySymbol": "ANT/USD",
+        "symbol": "KRAKEN:ANTUSD"
+    },
+    {
+        "description": "Kraken DOT/XBT",
+        "displaySymbol": "DOT/XBT",
+        "symbol": "KRAKEN:DOTXBT"
+    },
+    {
+        "description": "Kraken BNT/USD",
+        "displaySymbol": "BNT/USD",
+        "symbol": "KRAKEN:BNTUSD"
+    },
+    {
+        "description": "Kraken AXS/USD",
+        "displaySymbol": "AXS/USD",
+        "symbol": "KRAKEN:AXSUSD"
+    },
+    {
+        "description": "Kraken 1INCH/EUR",
+        "displaySymbol": "1INCH/EUR",
+        "symbol": "KRAKEN:1INCHEUR"
+    }
+]
