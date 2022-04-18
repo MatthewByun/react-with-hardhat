@@ -1,4 +1,4 @@
-export const unipair = [
+export const pair = [
     {
       "anonymous": false,
       "inputs": [
@@ -651,4 +651,4 @@ export const unipair = [
       "type": "function"
     }
   ]
-export const pairdress = "0x1c5DEe94a34D795f9EEeF830B68B80e44868d316"
+export const address = "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"

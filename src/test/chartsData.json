@@ -1,0 +1,535 @@
+{
+    "chartsdata-tokenusdc": [
+    {
+        "pair": "ethusdc",
+        "market": ["binance","binance-us","bitstamp","coinbase-pro","hitbtc","huobi","kraken","okx","poloniex","zonda"]
+    }, {
+        "pair": "daiusdc",
+        "market": ["poloniex"]
+    },
+    {
+        "pair":"btcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"atomusdc",
+        "market":[""]
+    },
+    {
+        "pair":"audusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bchusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bnbusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bttusdc",
+        "market":[""]
+    },
+    {
+        "pair":"eosusdc",
+        "market":[""]
+    },
+    {
+        "pair":"linkusdc",
+        "market":[""]
+    },
+    {
+        "pair":"ltcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"solusdc",
+        "market":[""]
+    },
+    {
+        "pair":"trxusdc",
+        "market":[""]
+    },
+    {
+        "pair":"xrpusdc",
+        "market":[""]
+    },
+    {
+        "pair":"zecusdc",
+        "market":[""]
+    },
+    {
+        "pair":"batusdc",
+        "market":[""]
+    },
+    {
+        "pair":"cvcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dntusdc",
+        "market":[""]
+    },
+    {
+        "pair":"loomusdc",
+        "market":[""]
+    },
+    {
+        "pair":"manausdc",
+        "market":[""]
+    },
+    {
+        "pair":"usdtusdc",
+        "market":[""]
+    },
+    {
+        "pair":"tusdusdc",
+        "market":[""]
+    },
+    {
+        "pair":"celusdc",
+        "market":[""]
+    },
+    {
+        "pair":"lcxusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bsvusdc",
+        "market":[""]
+    },
+    {
+        "pair":"okbusdc",
+        "market":[""]
+    },
+    {
+        "pair":"avaxusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dashusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dogeusdc",
+        "market":[""]
+    },
+    {
+        "pair":"etcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"ftmusdc",
+        "market":[""]
+    },
+    {
+        "pair":"maticusdc",
+        "market":[""]
+    },
+    {
+        "pair":"shibusdc",
+        "market":[""]
+    },
+    {
+        "pair":"srmusdc",
+        "market":[""]
+    },
+    {
+        "pair":"xemusdc",
+        "market":[""]
+    },
+    {
+        "pair":"xlmusdc",
+        "market":[""]
+    },
+    {
+        "pair":"xmrusdc",
+        "market":[""]
+    },
+    {
+        "pair":"akrousdc",
+        "market":[""]
+    },
+    {
+        "pair":"alitusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bigsbusdc",
+        "market":[""]
+    },
+    {
+        "pair":"blzusdc",
+        "market":[""]
+    },
+    {
+        "pair":"bondusdc",
+        "market":[""]
+    },
+    {
+        "pair":"brklusdc",
+        "market":[""]
+    },
+    {
+        "pair":"btbsusdc",
+        "market":[""]
+    },
+    {
+        "pair":"cheddausdc",
+        "market":[""]
+    },
+    {
+        "pair":"clsusdc",
+        "market":[""]
+    },
+    {
+        "pair":"cruusdc",
+        "market":[""]
+    },
+    {
+        "pair":"daousdc",
+        "market":[""]
+    },
+    {
+        "pair":"dercusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dg-degateusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dnxcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"dypusdc",
+        "market":[""]
+    },
+    {
+        "pair":"esdusdc",
+        "market":[""]
+    },
+    {
+        "pair":"exrdusdc",
+        "market":[""]
+    },
+    {
+        "pair":"farmusdc",
+        "market":[""]
+    },
+    {
+        "pair":"flx-fluusdc",
+        "market":[""]
+    },
+    {
+        "pair":"fraxusdc",
+        "market":[""]
+    },
+    {
+        "pair":"gro-grousdc",
+        "market":[""]
+    },
+    {
+        "pair":"guildusdc",
+        "market":[""]
+    },
+    {
+        "pair":"hdrnusdc",
+        "market":[""]
+    },
+    {
+        "pair":"hexusdc",
+        "market":[""]
+    },
+    {
+        "pair":"insurusdc",
+        "market":[""]
+    },
+    {
+        "pair":"mapusdc",
+        "market":[""]
+    },
+    {
+        "pair":"maskusdc",
+        "market":[""]
+    },
+    {
+        "pair":"mplusdc",
+        "market":[""]
+    },
+    {
+        "pair":"nglusdc",
+        "market":[""]
+    },
+    {
+        "pair":"occusdc",
+        "market":[""]
+    },
+    {
+        "pair":"oilusdc",
+        "market":[""]
+    },
+    {
+        "pair":"opulusdc",
+        "market":[""]
+    },
+    {
+        "pair":"pondusdc",
+        "market":[""]
+    },
+    {
+        "pair":"prosusdc",
+        "market":[""]
+    },
+    {
+        "pair":"radusdc",
+        "market":[""]
+    },
+    {
+        "pair":"revvusdc",
+        "market":[""]
+    },
+    {
+        "pair":"snpusdc",
+        "market":[""]
+    },
+    {
+        "pair":"spiceusdc",
+        "market":[""]
+    },
+    {
+        "pair":"tidalusdc",
+        "market":[""]
+    },
+    {
+        "pair":"ventusdc",
+        "market":[""]
+    },
+    {
+        "pair":"wbtcusdc",
+        "market":[""]
+    },
+    {
+        "pair":"woousdc",
+        "market":[""]
+    },
+    {
+        "pair":"xdexusdc",
+        "market":[""]
+    },
+    {
+        "pair":"xfitusdc",
+        "market":[""]
+    },
+    {
+        "pair":"algousdc",
+        "market":[""]
+    },
+    {
+        "pair": "ustusdc",
+        "market": [""]
+    }
+],
+    "chartsdata-usdt":[
+        {
+            "pair": "1inchusdt",
+            "market": [""]
+        },
+        {
+            "pair": "aaveusdt",
+            "market": [""]
+        },
+        {
+            "pair": "adabusdt",
+            "market": [""]
+        },
+        {
+            "pair": "adausdt",
+            "market": [""]
+        },
+        {
+            "pair": "antusdt",
+            "market": [""]
+        },
+        {
+            "pair": "apeusdt",
+            "market": [""]
+        },
+        {
+            "pair": "audiousdt",
+            "market": [""]
+        },
+        {
+            "pair": "axsusdt",
+            "market": [""]
+        },
+        {
+            "pair": "bandusdt",
+            "market": [""]
+        },
+        {
+            "pair": "busdusdt",
+            "market": [""]
+        },
+        {
+            "pair": "chzusdt",
+            "market": [""]
+        },
+        {
+            "pair": "compusdt",
+            "market": [""]
+        },
+        {
+            "pair": "crousdt",
+            "market": [""]
+        },
+        {
+            "pair": "crvusdt",
+            "market": [""]
+        },
+        {
+            "pair": "ctsiusdt",
+            "market": [""]
+        },
+        {
+            "pair": "lunausdt",
+            "market": [""]
+        },
+        {
+            "pair": "dotusdt",
+            "market": [""]
+        },
+        {
+            "pair": "egldusdt",
+            "market": [""]
+        },
+        {
+            "pair": "enjusdt",
+            "market": [""]
+        },
+        {
+            "pair": "filusdt",
+            "market": [""]
+        },
+        {
+            "pair": "fluxusdt",
+            "market": [""]
+        },
+        {
+            "pair": "ftmusdt",
+            "market": [""]
+        },
+        {
+            "pair": "galausdt",
+            "market": [""]
+        },
+        {
+            "pair": "grtusdt",
+            "market": [""]
+        },
+        {
+            "pair": "hntusdt",
+            "market": [""]
+        },
+        {
+            "pair": "kncusdt",
+            "market": [""]
+        },
+        {
+            "pair": "lptusdt",
+            "market": [""]
+        },
+        {
+            "pair": "lrcusdt",
+            "market": [""]
+        },
+        {
+            "pair": "mkrusdt",
+            "market": [""]
+        },
+        {
+            "pair": "nearusdt",
+            "market": [""]
+        },
+        {
+            "pair": "neousdt",
+            "market": [""]
+        },
+        {
+            "pair": "nmrusdt",
+            "market": [""]
+        },
+        {
+            "pair": "ognusdt",
+            "market": [""]
+        },
+        {
+            "pair": "omgusdt",
+            "market": [""]
+        },
+        {
+            "pair": "oneusdt",
+            "market": [""]
+        },
+        {
+            "pair": "ontusdt",
+            "market": [""]
+        },
+        {
+            "pair": "",
+            "market": [""]
+        },
+        {
+            "pair": "",
+            "market": [""]
+        },
+
+        {
+            "pair": "uniusdt",
+            "market": [""]
+        },
+        {
+            "pair": "fttusdt",
+            "market": [""]
+        },
+        {
+            "pair": "geequsdt",
+            "market": [""]
+        },
+        {
+            "pair": "ghstusdt",
+            "market": [""]
+        },
+        {
+            "pair": "glmusdt",
+            "market": [""]
+        },
+        {
+            "pair": "hgetusdt",
+            "market": [""]
+        },
+        {
+            "pair": "highusdt",
+            "market": [""]
+        },
+        {
+            "pair": "huntusdt",
+            "market": [""]
+        },
+        {
+            "pair": "",
+            "market": [""]
+        },
+        {
+            "pair": "",
+            "market": [""]
+        },
+        {
+            "pair": ""
+            
+        }
+        
+    ]
+}

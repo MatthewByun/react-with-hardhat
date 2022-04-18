@@ -19,17 +19,11 @@ const ChartsReact = () => {
     var tokenOut = tkO;
     var tokens = tokenIn + "/" + tokenOut;
     var min = 5;
-    // var timeStampFrom = 1649138400
-    var timeStampFrom = from;
-    // var timeStampTo = 1649179400
-    var timeStampTo = to;
-    // console.log("tokens", tokens)
-    // // console.log("exchange", exchange[0].symbol)
     const result = exchange.filter((item) => item.displaySymbol == `${tokens}`);
     console.log("res", result);
     var arr = result.map((item) => item.symbol);
     for (let i = 0; i < arr.length; i++) {
-      await handleChart(arr[i], min, timeStampFrom, timeStampTo);
+      await handleChart(arr[i], min, from, to);
       console.log("SUCCESS!!");
     }
   };

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-const Market = require("./json/exchange.json");
+const Market = require("../json/exchange.json");
 
 function ChartData() {
   const [candleChart, setCandleChart] = useState([]);
@@ -43,23 +43,19 @@ function ChartData() {
     //example data
     const candleDataChart = candleChart;
 
-    // remove arr has no data and sort arr
-    console.log("candle", candleDataChart);
+    console.log("candle data", candleDataChart)
     var timeMin = 60 * 60 * 24;
-
+    
+    // remove arr has no data and sort arr
     let filterArr = candleDataChart.filter(
-      (val) => val.t.length > 0 || val.s != "no_data" || val.c ==null
+      (val) => val.t.length > 0 || val.s != "no_data" || val.c != null
     );
-
-    // console.log("Data Filter", filterArr);
-
     filterArr.sort(function (a, b) {
       return b.t.length - a.t.length;
     });
 
     // push all data to arrCandleChartData
     var arrCandleChartData = [];
-
     filterArr.map((val, index) =>
       val.t.map((item, idx) =>
         arrCandleChartData.push({
@@ -80,40 +76,32 @@ function ChartData() {
         : arrTime.push(value.time)
     );
 
-
     arrTime.sort(function (a, b) {
       return a - b;
     });
-    console.log("arr", arrTime);
 
-    let falseTimeArr = [];
+    let trueTime = [];
     let prev
     arrTime.map((item, idx) => {
         if(idx == 0) {
             prev=item
-            falseTimeArr.push(prev)
+            trueTime.push(prev)
         } 
         if(item - prev >= timeMin) {
             prev = item
-            falseTimeArr.push(prev)
+            trueTime.push(prev)
         }
     });
 
     let finalResult = [];
 
     //handle data => average Data
-    falseTimeArr.map((val) => {
-      let dataAtTime;
+    trueTime.map((val,idx) => {
+      let dataAtTime,dataClosetTime
       dataAtTime = arrCandleChartData.filter((itm) => itm.time == val);
+      dataClosetTime = arrCandleChartData.filter((itm) => itm.time - val <= timeMin / 5 && itm.time - val > 0);
 
-      let closetTime = filterArr.filter(
-        (itm) =>
-          itm.time - val > 0 && itm.time - val < timeMin / 3 && itm.time != val
-      );
-      console.log("closet time", closetTime);
-
-      let datafilterAtTime = dataAtTime.concat(closetTime);
-      console.log("data", datafilterAtTime);
+      let datafilterAtTime = dataAtTime.concat(dataClosetTime);
 
       let open = datafilterAtTime
         .map((val) => val.open)
@@ -139,15 +127,29 @@ function ChartData() {
     console.log("final Result Arr", finalResult);
   }, [candleChart]);
 
+  useEffect(() => {
+    const val = {1: 10,
+      534: 42,
+      3: 2353,
+      2351: 1,
+      5: 231,
+      6: 2,
+      7: 123,
+    }
+
+    console.log("asfkhjaskfjasf", val[534])
+  })
+
   return (
     <div>
       ChartData
       <br />
       <button
-        onClick={() => getMarket("1INCH", "USDT", "D", 1648789200, 1649385000)}
+        onClick={() => getMarket("MATIC", "USDT", "D", 1648789200, 1649385000)}
       >
         Get Market
       </button>
+
       {/* <button
         onClick={() =>
           handleChart("BINANCE:ETHUSDT", 5, 1648789200, 1649394000)

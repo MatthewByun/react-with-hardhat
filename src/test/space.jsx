@@ -14,8 +14,8 @@ import {
 } from "@chakra-ui/react";
 import { tokenSSF, tokenSLT, tokenDoggun, tokenWETH } from "./config";
 import { useMoralis } from "react-moralis";
-import { RouterABI, RouterAddress } from "./abi/router";
-import { factoryABI, factoryAddress } from "./abi/factory";
+import { RouterABI, RouterAddress } from "../abi/linkswap/router";
+import { factoryABI, factoryAddress } from "../abi/test/factory";
 const Space = () => {
   const { Moralis } = useMoralis();
   const [account, setAccount] = useState();
