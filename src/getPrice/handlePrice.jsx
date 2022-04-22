@@ -1,14 +1,6 @@
 import React, { useEffect } from "react";
 import Web3 from "web3";
-import * as RouterUniV2 from "../abi/uniswapv2/router";
 import * as PairUniV2 from "../abi/uniswapv2/pair";
-import * as FactoryUniV2 from "../abi/uniswapv2/factory";
-import * as RouterLinkSwap from "../abi/linkswap/router";
-import * as PairLinkSwap from "../abi/linkswap/pair";
-import * as FactoryLinkSwap from "../abi/linkswap/factory";
-import * as RouterCrodefiswap from "../abi/crodefiswap/router";
-import * as PairCrodefiswap from "../abi/crodefiswap/pair";
-import * as FactoryCrodefiswap from "../abi/crodefiswap/factory";
 import * as ABI from "../abi/ABI"
 
 const HandlePrice = () => {
@@ -17,28 +9,31 @@ const HandlePrice = () => {
     WETH: "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     USDC: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
   };
+
+
   const getDecimal = async (address, pair) => {
     let data = new web3.eth.Contract(pair.abi, address).methods;
     return await data.decimals().call();
   };
   var listMidPrice = []
-  var listReserve = []
+  var pricebaseAmountOut = []
   const handlePrice = async (
-    exchange,
     factory,
-    router,
     pair,
     tokenIn,
-    tokenOut
+    tokenOut,
+    amountIn,
+    bool,
+    prevValue,
+    newResIn,
+    newResOut
   ) => {
-    const factoryMethods = new web3.eth.Contract(factory.abi, factory.adr)
-      .methods;
+    const factoryMethods = new web3.eth.Contract(factory.abi, factory.adr).methods;
     const pairAddress = await factoryMethods.getPair(tokenIn, tokenOut).call();
     const pairMethods = new web3.eth.Contract(pair.abi, pairAddress).methods;
-    // const routerMethods = new web3.eth.Contract(router.abi, router.adr)
-    //   .methods;
     const reserves = await pairMethods.getReserves().call();
     let reserveIn, reserveOut
+    //sort token
     if (tokenIn < tokenOut) {
       reserveIn = reserves[0];
       reserveOut = reserves[1];
@@ -47,39 +42,80 @@ const HandlePrice = () => {
       reserveOut = reserves[0];
     }
 
+
     let tokenInDecimals = await getDecimal(tokenIn, pair);
     let tokenOutDecimals = await getDecimal(tokenOut, pair);
 
-    let reserveInConvert = divDecimals(reserveIn,tokenInDecimals)
-    let reserveOutConvert = divDecimals(reserveOut,tokenOutDecimals)
-    
-    console.log(" ----------------- ")
-    // console.log("Amount in ==>> ", amountIn)
-    console.log("exchange ==>> ", exchange)
-    
-    let amountInConvert = Math.round(reserveInConvert / 1000 / 10) // 0.01% Reserve In
-    // let amountInConvert = Math.round(33) // 0.01% Reserve In
-    if(amountInConvert < 1) amountInConvert =  Math.round(reserveInConvert / 1000)
-    console.log("Amount in ==>> ", amountInConvert)
+    let reserveInConvert, reserveOutConvert, newReserveIn, newReserveOut
+    // reserveInConvert = divDecimals(reserveIn, tokenInDecimals)
+    //  reserveOutConvert = divDecimals(reserveOut, tokenOutDecimals)
 
-    let amountOut = calculateAmountOut(amountInConvert, tokenOutDecimals, reserveInConvert, reserveOutConvert)
+    //  let amountOut = calculateAmountOut(amountIn, reserveInConvert, reserveOutConvert)
+    //  getPriceImpact(amountIn, reserveInConvert)
 
-    console.log("amountOut => " ,amountOut)
-    let amountOutConvert = divDecimals(amountOut, tokenOutDecimals)
-    console.log("Price ==>> ",amountOutConvert / amountInConvert)
-    
-    getPriceImpact(amountInConvert, reserveInConvert)
-    listMidPrice.push(reserveOutConvert/reserveInConvert)
-    listReserve.push(reserveInConvert)
+    //  listMidPrice.push(reserveOutConvert / reserveInConvert)
+    //  pricebaseAmountOut.push(amountOut)
+    //  console.log("prevValue", prevValue)
+
+    //  newReserveIn = reserveInConvert + Number(amountIn) 
+    //  newReserveOut = reserveOutConvert * reserveInConvert / Number(newReserveIn)
+
+    //  return { amountOut, newReserveIn, newReserveOut }
+
+
+    if (bool == false) {
+      reserveInConvert = divDecimals(reserveIn, tokenInDecimals)
+      reserveOutConvert = divDecimals(reserveOut, tokenOutDecimals)
+
+      let amountOut = calculateAmountOut(amountIn, reserveInConvert, reserveOutConvert)
+      getPriceImpact(amountIn, reserveInConvert)
+
+      listMidPrice.push(reserveOutConvert / reserveInConvert)
+      pricebaseAmountOut.push(amountOut)
+      console.log("prevValue", prevValue)
+
+      newReserveIn = Number(reserveInConvert) + Number(amountIn)
+      newReserveOut = Number(reserveOutConvert) * Number(reserveInConvert) / Number(newReserveIn)
+
+      return { amountOut, newReserveIn, newReserveOut, oldReserveIn: reserveInConvert, oldReserveOut: reserveOutConvert }
+
+    } else {
+
+      //old res
+      reserveInConvert = Number(newResIn)
+      reserveOutConvert = Number(newResOut)
+
+      newReserveIn = Number(newResIn)
+      newReserveOut = Number(newResOut)
+
+      let amountOut = calculateAmountOut(amountIn, newReserveIn, newReserveOut)
+      getPriceImpact(amountIn, newReserveIn)
+
+      listMidPrice.push(newReserveOut / newReserveIn)
+      pricebaseAmountOut.push(amountOut)
+
+      newReserveIn = Number(newReserveIn) + Number(amountIn)
+      newReserveOut = Number(newReserveOut) * Number(newReserveIn) / Number(newReserveIn)
+
+      return { amountOut, newReserveIn, newReserveOut, oldReserveIn: reserveInConvert, oldReserveOut: reserveOutConvert }
+    }
   };
-  const calculateAmountOut = (amountIn,tokenOutDecimals, reserveIn, reserveOut) => {
+
+
+
+
+  const calculateAmountOut = (amountIn, reserveIn, reserveOut) => {
     if (amountIn <= 0 || reserveIn <= 0 || reserveOut <= 0) return "Undefined";
     let amountInWithFee = amountIn * 997; //  1* 997
     let numerator = amountInWithFee * reserveOut; // 997 * 66.7334000667334
     let denominator = reserveIn * 1000 + amountInWithFee; //  1.5 * 1000 + 997
     let amountOut = numerator / denominator;
-    return amountOut*(10**tokenOutDecimals);
+
+    let newReserveIn = Number(reserveIn) + Number(amountIn)
+    let newReserveOut = Number(reserveIn) * Number(reserveOut) / Number(reserveIn)
+    return {amountOut, newReserveIn, newReserveOut};
   }
+
   const handleNumber = (amount, decimals) => {
     var BN = web3.utils.BN;
     const amountTokenIn = (amount * (10 ** decimals)).toLocaleString("fullwide", {
@@ -91,55 +127,278 @@ const HandlePrice = () => {
   const getPriceImpact = (amountIn, reservesA) => {
     let fee = 0.03;
     let amountWithFee = amountIn * (1 - fee);
-    let priceImpact = (amountWithFee / (reservesA + amountWithFee) *100).toFixed(2);
-    console.log("Price Impact:" ,priceImpact)
+    let priceImpact = (amountWithFee / (reservesA + amountWithFee) * 100).toFixed(2);
+    // console.log("Price Impact:", priceImpact)
   }
 
   const divDecimals = (number, decimals) => {
-    return number / (10**decimals)
+    return number / (10 ** decimals)
   }
   const mulDecimals = (number, decimals) => {
-    return number * (10**decimals)
+    return number * (10 ** decimals)
   }
 
-  const PriceImpact = async(amountIn, amountOut, reserveInConvert, reserveOutConvert) => {
+  const PriceImpact = async (amountIn, amountOut, reserveInConvert, reserveOutConvert) => {
     const amountInConvert = amountIn * 997 / 1000
     const amountOutConvert = amountOut * 995 / 1000
     const deltaReserveIn = amountInConvert / Number(reserveInConvert)
     const deltaReserveOut = amountOutConvert / Number(reserveOutConvert)
-  
+
     const priceImpact = Math.min(deltaReserveIn, deltaReserveOut)
-  
+
     const result = (priceImpact * 100).toFixed(2)
-    console.log('Price impact =>>>', result, '%');
-  }
-  const getMidPrice = () => {
-
-  }
-  const test = async() =>{
-    await handlePrice("UniswapV2",ABI.UniV2.factory, ABI.UniV2.router,PairUniV2,token.WETH,token.USDC);
-    await handlePrice("Sushi",ABI.Sushi.factory, ABI.Sushi.router, PairUniV2,token.WETH, token.USDC);
-    await handlePrice("CrodefiSwap",ABI.Crodefi.factory, ABI.UniV2.router, PairCrodefiswap,token.WETH, token.USDC);
+    // console.log('Price impact =>>>', result, '%');
   }
 
-  useEffect(async() => {
-    await test()
-    // handlePrice("LinkSwap",ABI.LinkSwap.factory, ABI.UniV2.router, PairLinkSwap,token.WETH, token.USDC, 1000);
-    console.log("mid price", listMidPrice)
-    console.log("listReserve", listReserve)
-    let amountIn = 100
-    for(let i =0 ; i < amountIn; i++){
+  function fixedNumber(number) {
+    return Number((number).toFixed(4))
+  }
 
+  const splitAmountIn = async () => {
+    let amountIn = document.querySelector('#amountIn').value
+    let arr = []
+    const splitAmount = (firstVal, secondVal, thirdVal, stamp) => {
+      (firstVal > stamp)
+        ? (secondVal > stamp)
+          ? splitAmount(firstVal, fixedNumber(secondVal - stamp), fixedNumber(thirdVal + stamp), stamp)
+          : splitAmount(fixedNumber(firstVal - stamp), fixedNumber(secondVal + stamp), thirdVal, stamp)
+        : console.log()
+      arr.includes([firstVal, secondVal, thirdVal].sort().toString()) ? console.log() : arr.push([firstVal, secondVal, thirdVal].sort().toString())
+      return arr
     }
-    listMidPrice[0] = 1
-    console.log("mid price", listMidPrice)
+    let min = fixedNumber(amountIn / 10)
+    let Array = splitAmount(amountIn, 0, 0, min, [])
+
+    let Arr = Array.map(val => val.split(","))
+    return Arr
+  }
+
+  const getReserves = async (factory, pair, tokenIn, tokenOut) => {
+    const factoryMethods = new web3.eth.Contract(factory.abi, factory.adr).methods;
+    const pairAddress = await factoryMethods.getPair(tokenIn, tokenOut).call();
+    const pairMethods = new web3.eth.Contract(pair.abi, pairAddress).methods;
+    const reserves = await pairMethods.getReserves().call();
+    let reserveIn, reserveOut
+    //sort token
+    if (tokenIn < tokenOut) {
+      reserveIn = reserves[0];
+      reserveOut = reserves[1];
+    } else {
+      reserveIn = reserves[1];
+      reserveOut = reserves[0];
+    }
+
+    let tokenInDecimals = await getDecimal(tokenIn, pair);
+    let tokenOutDecimals = await getDecimal(tokenOut, pair);
+
+    let reserveInConvert = divDecimals(reserveIn, tokenInDecimals)
+    let reserveOutConvert = divDecimals(reserveOut, tokenOutDecimals)
+    return {
+      reserveInConvert, reserveOutConvert
+    }
+  }
+
+  const getAllReserve = async () => {
+    let list = []
+    await Promise.all(Object.entries(ABI).map(async (val) => {
+      let lstReverse = await getReserves(val[1].factory, PairUniV2, token.WETH, token.USDC)
+      list.push({ name: val[0], ...lstReverse })
+    }))
+    console.log("list reserve", list)
+    return list
+  }
+
+  const getAmountOut = async () => {
+    let lstAmountIn = await splitAmountIn()
+    let lstReverse = await getAllReserve()
+
+    console.log("list reserve", lstReverse)
+    let filterArray = await Promise.all(lstAmountIn.map(async (val) => val.filter(item => Number(item) > 0)))
 
 
-  });
+
+    let filter = await Promise.all(filterArray.map(async (Array) => {
+      await Promise.all(Array.map(async (item, idx) => {
+        console.log(item, idx)
+        let cloneReserve = {...lstReverse}
+        await Promise.all(lstReverse.map(async (exchange, index) => {
+          let getAmountOut
+          if(idx == 0){
+            getAmountOut = calculateAmountOut(item, exchange.reserveInConvert, exchange.reserveOutConvert)
+            console.log("clone", cloneReserve)
+            console.log("clone index", cloneReserve[index])
+            console.log("exchange", exchange)
+            console.log("get amount out ",getAmountOut)
+            cloneReserve[index] = {name: exchange.name, reserveInConvert: getAmountOut.newReserveIn, reserveOutConver: getAmountOut.newReserveOut}
+          }
+
+          if(idx == 1){
+            getAmountOut = calculateAmountOut(item, exchange.reserveInConvert, exchange.reserveOutConvert)
+            console.log(exchange)
+            console.log(cloneReserve)
+
+          }
+          // console.log(exchange, index, getAmountOut.amountOut)
+          // console.log(exchange)
+          console.log(cloneReserve)
+          
+        }))
+      }))
+    }))
+    // console.log(filter)
+
+
+  }
+  // const handleAmountOut = async () => {
+
+  //   let amountInSplited = await splitAmountIn()
+  //   console.log("Divided Amount in: ========>>", amountInSplited)
+
+  //   var lstAmountOut = []
+
+  //   //handle divided amount in to get highest amount out
+  //   await Promise.all(amountInSplited.map(async (val, index) => {
+  //     let amountOut = 0
+  //     let market = []
+  //     let testArr = []
+  //     let filterArr = val.filter(itm => Number(itm) > 0)
+  //     console.log("filterArr", filterArr)
+
+  //     await Promise.all(filterArr.map(async (itm, idx) => {
+  //       let arrVal = []
+  //       let exchange = Object.entries(ABI)
+  //       // console.log("exhcange =>>>", exchange)
+  //       let res = 0
+
+
+  //       await Promise.all(Object.entries(ABI).map(async (val, items) => {
+  //         let getAmountOut = await handlePrice(val[1].factory, PairUniV2, token.WETH, token.USDC, itm, false, 0, 0, 0)
+  //         // if(idx == 0 && items ==0){
+  //         //   console.log("-------------idx", idx, "ex:", val[0], "items", items)
+  //         //   res = 1
+  //         // }
+  //         // if(idx == 1 && items == 1){
+  //         //   console.log("-------------idx", idx, "ex:", val[0], "items", items, "res", res)
+  //         // }
+  //         // arrVal.push({ name: val[0], amountIn: itm, amountOut: getAmountOut.amountOut, newReserveIn: getAmountOut.newReserveIn, newReserveOut: getAmountOut.newReserveOut })
+  //         // arrVal.push({ name: val[0], amountIn: itm, amountOut: getAmountOut.amountOut, newReserveIn: getAmountOut.newReserveIn, newReserveOut: getAmountOut.newReserveOut })
+  //         arrVal.push({ name: val[0], amountIn: itm, ...getAmountOut })
+  //       }))
+
+  //       let highestVal = arrVal.sort(function (a, b) {
+  //         return b.amountOut - a.amountOut
+  //       })[0]
+
+  //       console.log(" ")
+  //       console.log("indexxxxxx", index, idx)
+  //       testArr.push(arrVal)
+
+
+  //       amountOut == 0 ? amountOut = arrVal[0].amountOut : amountOut += arrVal[0].amountOut
+  //       lstAmountOut.push({ dataIndex: arrVal[0], highestAmountOut: amountOut, index })
+
+  //       // market.push({ name: highestVal.name, value: itm, newRes: { newReserveIn: highestVal.newReserveIn, newReserveOut: highestVal.newReserveOut }, amountOut: arrVal[0].amountOut, data: arrVal })
+  //       market.push({ ...highestVal, data: arrVal })
+  //       // console.log("amount Out =>>>>>>>>>>", highestVal)
+  //       console.log("highestVal =>>>>>>>>>>", highestVal)
+  //       console.log("market =>>>>>>>>>>", market[market.length - 1])
+  //       // console.log("name =>>>>>>>>>>", market[market.length-1].name == highestVal.name)
+  //     }))
+  //     console.log("market  ==========> ", market)
+
+  //     let resultMaket = []
+  //     let newMarket = await Promise.all(market.map(async (val, idx) => {
+  //       // console.log("resmarket =======+>>>>>>>" ,resultMaket)
+  //       let getAmountOut
+  //       if (resultMaket.includes(val.name) == true) {
+  //         //get amount out with new reserves
+
+  //         getAmountOut = await
+  //           handlePrice(ABI[val.name].factory, PairUniV2, token.WETH, token.USDC, val.amountIn, true, market[idx - 1].amountIn, market[idx - 1].newReserveIn, market[idx - 1].newReserveOut)
+  //         console.log(" ")
+
+  //         // console.log("market  ==========> ",market)
+  //         console.log("trueeeeee | index ==========> ", idx)
+  //         console.log("prev amount in at idx ", "======>>>>>>", market[idx - 1].amountIn)
+  //         console.log("amount in at idx ", "======>>>>>>", val.amountIn)
+
+  //         console.log("amount Out at idx ", "======>>>>>>", getAmountOut)
+  //         console.log("new amount out =======>", getAmountOut.amountOut)
+  //         console.log("2rd amount out =======>", val.data[1].amountOut)
+  //         // console.log("prev data =======>", val.data)
+  //         // console.log("val  ======>>>>>>", getAmountOut.amountOut )
+  //         console.log("data [1] ======>>>>>>", { ...val.data[1] })
+
+
+  //         if (getAmountOut.amountOut < val.data[1].amountOut) {
+  //           console.log("CHANGE EXCHANGE ======>", val.data[1].amountOut)
+  //           market[idx] = { ...val.data[1] }
+  //           resultMaket.push(val.data[1].name)
+  //         } else {
+  //           console.log("SAME EXCHANGE ======>", getAmountOut.amountOut)
+  //           market[idx] = { name: val.name, amountIn: val.amountIn, ...getAmountOut }
+  //           console.log("val 1  ======>>>>>>", market[idx])
+  //         }
+
+
+  //         // console.log("new valueeee ===========>" ,getAmountOut.amountOut )
+
+  //         // val.data.shift()
+  //         // val.data.push({name: val.name,amountIn: val.amountIn, ...getAmountOut})
+
+  //         // val.newReserveIn = getAmountOut.newReserveIn
+  //         // val.newReserveOut = getAmountOut.newReserveOut
+  //         console.log(" ---- ")
+  //         console.log("new data =======>", market)
+  //         console.log(" ")
+
+  //         resultMaket.push(val.name)
+
+  //         // amountOut.amountOut < val.data[1].amountOut ? console.log("newval value" , val.data[1].amountOut) : console.log("old val, ", amountOut.amountOut) 
+
+  //       }
+  //       else {
+  //         resultMaket.push(val.name)
+  //       }
+  //       // console.log("resultMaket ========>" , resultMaket)
+
+  //       return (
+  //         val.data
+  //       )
+  //     }))
+
+  //     // console.log("resmarket =======+>>>>>>>" ,resultMaket)
+  //     // console.log("newMarket  =>>>>>>>>>>", newMarket)
+  //     // console.log("data =>>>>>>>>>>", testArr)
+
+  //     return
+  //   }))
+
+  //   // console.log("List Amount Out ===============> ", lstAmountOut)
+  //   let highestVal = lstAmountOut.sort((a, b) => b.highestAmountOut - a.highestAmountOut)[0]
+  //   console.log("Best Amount Out ===============>", highestVal.highestAmountOut)
+
+  //   let resultIndex = highestVal.index
+  //   console.log('result Index', resultIndex)
+
+  //   let bestSolution = lstAmountOut.filter(val => val.index == resultIndex).map(val => val.dataIndex)
+  //   console.log("Data at Index ========> ", bestSolution)
+  // }
+
+  // useEffect(async() => {
+  //   await test()
+  //   // handlePrice("LinkSwap",ABI.LinkSwap.factory, ABI.UniV2.router, PairLinkSwap,token.WETH, token.USDC, 1000);
+  //   console.log("mid price", listMidPrice)
+  //   console.log("pricebaseAmountOut", pricebaseAmountOut)
+
+  // });
+
   return (
     <div>
-      HandlePrice
-      {/* <button onClick={() => test()}>CLick</button> */}
+      <input type="text" id="amountIn" />
+      <button onClick={() => splitAmountIn()}>Split Amount In</button>
+      <button onClick={() => getAllReserve()}>Get Reserves</button>
+      <button onClick={() => getAmountOut()}>Get AmountOut</button>
     </div>
   );
 };
