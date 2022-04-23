@@ -104,7 +104,7 @@ const HandlePrice = () => {
 
 
 
-  const calculateAmountOut = (amountIn, reserveIn, reserveOut) => {
+  const calculateAmountOut = async (amountIn, reserveIn, reserveOut) => {
     if (amountIn <= 0 || reserveIn <= 0 || reserveOut <= 0) return "Undefined";
     let amountInWithFee = amountIn * 997; //  1* 997
     let numerator = amountInWithFee * reserveOut; // 997 * 66.7334000667334
@@ -112,8 +112,8 @@ const HandlePrice = () => {
     let amountOut = numerator / denominator;
 
     let newReserveIn = Number(reserveIn) + Number(amountIn)
-    let newReserveOut = Number(reserveIn) * Number(reserveOut) / Number(reserveIn)
-    return {amountOut, newReserveIn, newReserveOut};
+    let newReserveOut = Number(reserveIn) * Number(reserveOut) / Number(newReserveIn)
+    return { amountOut, newReserveIn, newReserveOut };
   }
 
   const handleNumber = (amount, decimals) => {
@@ -157,6 +157,7 @@ const HandlePrice = () => {
   const splitAmountIn = async () => {
     let amountIn = document.querySelector('#amountIn').value
     let arr = []
+
     const splitAmount = (firstVal, secondVal, thirdVal, stamp) => {
       (firstVal > stamp)
         ? (secondVal > stamp)
@@ -170,6 +171,8 @@ const HandlePrice = () => {
     let Array = splitAmount(amountIn, 0, 0, min, [])
 
     let Arr = Array.map(val => val.split(","))
+    console.log("splited", Arr)
+
     return Arr
   }
 
@@ -216,38 +219,100 @@ const HandlePrice = () => {
     let filterArray = await Promise.all(lstAmountIn.map(async (val) => val.filter(item => Number(item) > 0)))
 
 
-
-    let filter = await Promise.all(filterArray.map(async (Array) => {
+    let lstAmountOut = []
+    let filter = await Promise.all(filterArray.map(async (Array, id) => {
+      let cloneReserve = { ...lstReverse }
+      let cloneList = []
       await Promise.all(Array.map(async (item, idx) => {
-        console.log(item, idx)
-        let cloneReserve = {...lstReverse}
-        await Promise.all(lstReverse.map(async (exchange, index) => {
+        // console.log("===================>>>> ", item, idx)
+        let arrAmountOut = []
+        await lstReverse.map(async (exchange, index) => {
           let getAmountOut
-          if(idx == 0){
-            getAmountOut = calculateAmountOut(item, exchange.reserveInConvert, exchange.reserveOutConvert)
-            console.log("clone", cloneReserve)
-            console.log("clone index", cloneReserve[index])
-            console.log("exchange", exchange)
-            console.log("get amount out ",getAmountOut)
-            cloneReserve[index] = {name: exchange.name, reserveInConvert: getAmountOut.newReserveIn, reserveOutConver: getAmountOut.newReserveOut}
+          if (idx == 0) {
+            getAmountOut = await calculateAmountOut(item, exchange.reserveInConvert, exchange.reserveOutConvert)
+            console.log("idddd ===========> ", id)
+            console.log("Amount In ===========> ", item)
+            console.log("Amount out ==========>", getAmountOut.amountOut)
+            console.log("clone index before get at 0==================>>>>>", cloneReserve[index])
+            cloneReserve[index] = { name: exchange.name, reserveInConvert: getAmountOut.newReserveIn, reserveOutConvert: getAmountOut.newReserveOut }
+            console.log("clone index after get at 0==================>>>>>", cloneReserve[index])
+            console.log(" ")
+
+            arrAmountOut.push({ id, number: idx, exchange: exchange.name, amountIn: item, ...getAmountOut })
+            // return
           }
 
-          if(idx == 1){
-            getAmountOut = calculateAmountOut(item, exchange.reserveInConvert, exchange.reserveOutConvert)
-            console.log(exchange)
-            console.log(cloneReserve)
+          if (idx == 1) {
+            await cloneReserve[index].reserveInConvert
+            // console.log("reserveInConvert ===========> ", cloneReserve[index].reserveInConvert)
+            getAmountOut = await calculateAmountOut(item, cloneReserve[index].reserveInConvert, cloneReserve[index].reserveOutConvert)
+            console.log("idddd ===========> ", id)
+            console.log("Amount In ===========> ", item)
+            console.log("Amount out ==========>", getAmountOut.amountOut)
+            console.log("clone index before get at 1==================>>>>>", cloneReserve[index])
+            cloneReserve[index] = { name: exchange.name, reserveInConvert: getAmountOut.newReserveIn, reserveOutConvert: getAmountOut.newReserveOut }
+            console.log("clone index 1 after ==================>>>>>", cloneReserve[index])
+            console.log(" ")
+            arrAmountOut.push({ id, number: idx, exchange: exchange.name, amountIn: item, ...getAmountOut })
 
+            // return
           }
-          // console.log(exchange, index, getAmountOut.amountOut)
-          // console.log(exchange)
-          console.log(cloneReserve)
-          
-        }))
+          if (idx == 2) {
+
+            await cloneReserve[index].reserveInConvert
+            // console.log("reserveInConvert ===========> ", cloneReserve[index].reserveInConvert)
+            getAmountOut = await calculateAmountOut(item, cloneReserve[index].reserveInConvert, cloneReserve[index].reserveOutConvert)
+            console.log("idddd ===========> ", id)
+            console.log("Amount In ===========> ", item)
+            console.log("Amount out ==========>", getAmountOut.amountOut)
+            console.log("clone index before get at 2==================>>>>>", cloneReserve[index])
+            cloneReserve[index] = { name: exchange.name, reserveInConvert: getAmountOut.newReserveIn, reserveOutConvert: getAmountOut.newReserveOut }
+            console.log("clone index 1 after ==================>>>>>", cloneReserve[index])
+            console.log(" ")
+            arrAmountOut.push({ id, number: idx, exchange: exchange.name, amountIn: item, ...getAmountOut })
+          }
+
+          // return
+        })
+        console.log("Array amount Out =>", arrAmountOut)
+        arrAmountOut.sort((a,b) => b.amountOut - a.amountOut)
+
+        lstAmountOut.push({id,"highestValue": arrAmountOut})
       }))
     }))
-    // console.log(filter)
 
+    // console.log("List amount Out =================>", lstAmountOut)
+    
+     lstAmountOut.map((val) => 
+       val.highestValue.sort((a,b) => b.amountOut - a.amountOut)
+     )
 
+    //  console.log("sort ===> ", lstAmountOut)
+
+    
+    let listHighestVal = lstAmountOut.map(val => val.highestValue[0])
+    
+
+    let finalResult = []
+
+    await Promise.all(filterArray.map(async(val, index) => {
+      let list = listHighestVal.filter(val => val.id == index)
+      // console.log("filter arr==========>" , val)
+      let amountOut = 0
+      let lstExchange = []
+      // console.log("filter 123==========>" , list)
+      await Promise.all(list.map(async(item, idx) => {
+          // console.log(item, item.amountOut)
+          // console.log("exchange ",item.exchange)
+          amountOut += item.amountOut
+          lstExchange.push(item.exchange)
+      }))
+
+      finalResult.push(amountOut, lstExchange)
+    }))
+    
+
+    console.log("final", finalResult)
   }
   // const handleAmountOut = async () => {
 
