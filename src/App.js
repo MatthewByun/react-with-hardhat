@@ -12,7 +12,7 @@ import LinkSwap from "./getPrice/LinkSwap";
 import DefiSwap from "./getPrice/CroDefiSwap";
 import UniswapV2 from "./getPrice/UniswapV2";
 import HandlePrice from "./getPrice/handlePrice";
-
+import MaticV3 from "./test/MaticV3"
 function getLibrary(provider) {
   return new Web3Provider(provider);
 }
@@ -25,6 +25,7 @@ function App() {
       {/* <DefiSwap /> */}
       {/* <UniswapV2 /> */}
       <HandlePrice />
+      {/* <MaticV3 /> */}
       </Web3ReactProvider>
 
     
