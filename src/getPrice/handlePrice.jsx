@@ -6,7 +6,6 @@ import * as PairUniV2 from "../abi/uniswapv2/pair";
 // import * as ABI from "../abi/ABI"
 import * as ABI from "../abi/ABI_MATIC"
 import * as Mutical from "../abi/ABIMuticall"
-import { number } from "echarts";
 const HandlePrice = () => {
   const web3 = new Web3(Web3.givenProvider);
   const token = {
@@ -38,8 +37,6 @@ const HandlePrice = () => {
 
   const calculateAmountOut = (amountIn, reserveIn, reserveOut, fee) => {
     if (amountIn <= 0 || reserveIn <= 0 || reserveOut <= 0) return "Undefined";
-
-
     let amountInWithFee = amountIn * fee; //  1* 997
     let numerator = amountInWithFee * reserveOut; // 997 * 66.7334000667334
     let denominator = reserveIn + amountInWithFee; //  1.5 * 1000 + 997
@@ -124,7 +121,6 @@ const HandlePrice = () => {
     return data.map(val => {
       return val.filter((item) => item != 0)
     })
-
   }
 
   const handleAmoutOut = async (tokenIn, tokenOut) => {
@@ -136,7 +132,8 @@ const HandlePrice = () => {
     const listPercentAmountIn = await splitPercentAmount(number, divPercent)
     let result = []
     let data = filterArray(listPercentAmountIn)
-
+    
+    console.log("data", data)
     await Promise.all(data.map(async (item, index) => {
       let value0 = await splitAmountIn(Number(item[0]), divStamp)
       let filterA = filterArray(value0)
@@ -197,6 +194,7 @@ const HandlePrice = () => {
         callData: factory.interface.encodeFunctionData('getPair', [tokenIn, tokenOut])
       }
     })
+
     const [, pairDatas] = await multicall.callStatic.aggregate(pairEncodeDatas)
     const pairs = pairDatas.map(item => factoryInterface.decodeFunctionResult('getPair', item))
     const pairContracts = pairs.map(item => new ethers.Contract(item[0], PairUniV2.abi, provider))
@@ -248,13 +246,15 @@ const HandlePrice = () => {
         fee: listExchange[index].data.fee
       }
     })
+    console.log("Reserves =>", reserves)
     return reserves
   }
 
 
   const getAmountOut = async (filterArray, listReserves) => {
-    if(listReserves.length ==0) return
-
+    if(listReserves.length == 0) return
+    console.log("filterArray",filterArray)
+    console.log("listReserves =>",listReserves)
     let lstAmountOut = []
     await Promise.all(filterArray.map(async (Array, id) => {
       let cloneReserve = [...listReserves]
@@ -443,6 +443,7 @@ const HandlePrice = () => {
     const contract = new ethers.Contract(Mutical.adrData, Mutical.abiData, provider)
     const listReserve = await getAllReserve(tokenIn, tokenOut)
     console.log("listReserve", listReserve)
+
     const dataEncode = [
       {
         target: listReserve,
@@ -450,8 +451,6 @@ const HandlePrice = () => {
         callData: contract.interface.encodeFunctionData('aggregate', [])
       }
     ]
-
-
     const [, data] = await contract.callStatic.aggregate(dataEncode)
 
     // const dataDecode = {
@@ -520,6 +519,7 @@ const HandlePrice = () => {
       <input type="text" id="amountIn" />
       {/* <button onClick={() => splitPercentAmount(12, 10)}>Split Amount In</button> */}
       <button onClick={() => handleAmoutOut(token.WMATIC, token.AAVE)}>Get Price</button>
+      <button onClick={() => getAllReserve(token.WMATIC, token.USDC)}>Get Reserve</button>
       
     </div>
   );
