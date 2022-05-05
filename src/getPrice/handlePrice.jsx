@@ -487,30 +487,30 @@ const HandlePrice = () => {
     console.log('amountIn', amountIn)
     const ETH_ADDRESS = "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
     console.log(tokenIn)
-    if (tokenIn == ETH_ADDRESS) {
-      await contract.aggregate(
-        tokenIn,
-        tokenOut,
-        amountIn,
-        recipient,
-        result
-      ).send({ from: recipient, value: amountIn })
-    } else {
-      await contract.aggregate(
-        tokenIn,
-        tokenOut,
-        amountIn,
-        recipient,
-        result
-      ).send({ from: recipient })
-    }
-    // const gasLimit = await contract.aggregate(
-    //   tokenIn,
-    //   tokenOut,
-    //   amountIn,
-    //   recipient,
-    //   result
-    // ).estimateGas({from: recipient,value: amountIn})
+    // if (tokenIn == ETH_ADDRESS) {
+    //   await contract.aggregate(
+    //     ETH_ADDRESS,
+    //     tokenOut,
+    //     amountIn,
+    //     recipient,
+    //     result
+    //   ).send({ from: recipient, value: amountIn })
+    // } else {
+    //   await contract.aggregate(
+    //     tokenIn,
+    //     tokenOut,
+    //     amountIn,
+    //     recipient,
+    //     result
+    //   ).send({ from: recipient })
+    // }
+    const gasLimit = await contract.aggregate(
+      tokenIn,
+      tokenOut,
+      amountIn,
+      recipient,
+      result
+    ).estimateGas({from: recipient,value: amountIn})
 
   }
 
