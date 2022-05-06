@@ -15,6 +15,7 @@ import HandlePrice from "./getPrice/handlePrice";
 import MaticV3 from "./test/MaticV3"
 import GetPrice from "./getPrice/handlePrice_2";
 import GetPrice_3 from "./getPrice/handlePrice_3";
+import HandlePriceee from "./getPrice/saved";
 function getLibrary(provider) {
   return new Web3Provider(provider);
 }
@@ -29,6 +30,8 @@ function App() {
       {/* <HandlePrice /> */}
       {/* <GetPrice /> */}
       <GetPrice_3/>
+      {/* <br /> */}
+      {/* <HandlePriceee /> */}
       {/* <MaticV3 /> */}
       </Web3ReactProvider>
 

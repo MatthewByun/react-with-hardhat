@@ -6,7 +6,7 @@ import * as Mutical from "../abi/ABIMuticall"
 import Web3 from "web3";
 
 
-function GetPrice_3() {
+function HandlePriceee() {
     const provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com")
     const wallet = new ethers.Wallet('2345330bc8694d23d915453b6f3bf06fda0652b6c90b2d0f9041a6e7bc212ca3', provider)
     const token = {
@@ -194,9 +194,9 @@ function GetPrice_3() {
     }
     // ==>
     const getMidPriceA_Mid = async (number, reserves, prevData) => {
-        let data = await Promise.all(reserves.map(async(items) => {
-            console.log('items',items)
-            console.log('prevData',prevData)
+        let data = await Promise.all(reserves.map(async (items) => {
+            console.log('items', items)
+            console.log('prevData', prevData)
             let a = await Promise.all(items.reserveA_Mid.map(item => {
                 let price = calculateAmountOut(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
                 let reserves = calculateNewReserves(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
@@ -211,7 +211,7 @@ function GetPrice_3() {
                 }
             }))
             let aSort = sortByPrice(a)
-            if (prevData == undefined) return {tokenMid: items.tokenMid, data: aSort}
+            if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
             if (aSort[0].exchange === prevData.exchange) {
                 let oldReserveInConvert = prevData.newReserveInConvert
                 let oldReserveOutConvert = prevData.newReserveOutConvert
@@ -227,9 +227,9 @@ function GetPrice_3() {
                     newReserveOutConvert: reserves.newReserveOut
                 }
                 let result = sortByPrice(aSort)
-                return {tokenMid: items.tokenMid,data: result}
+                return { tokenMid: items.tokenMid, data: result }
             } else {
-                return {tokenMid: items.tokenMid,data: aSort}
+                return { tokenMid: items.tokenMid, data: aSort }
             }
         }))
 
@@ -239,8 +239,8 @@ function GetPrice_3() {
     }
     // ----
     const getMidPriceMid_B = async (number, reserves, prevData) => {
-        let data = await Promise.all(reserves.map(async(items) => {
-            console.log('items',items)
+        let data = await Promise.all(reserves.map(async (items) => {
+            console.log('items', items)
             let a = await Promise.all(items.reserveMid_B.map(item => {
                 let price = calculateAmountOut(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
                 let reserves = calculateNewReserves(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
@@ -255,7 +255,7 @@ function GetPrice_3() {
                 }
             }))
             let aSort = sortByPrice(a)
-            if (prevData == undefined) return {tokenMid: items.tokenMid, data: aSort}
+            if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
             if (aSort[0].exchange === prevData.exchange) {
                 let oldReserveInConvert = prevData.newReserveInConvert
                 let oldReserveOutConvert = prevData.newReserveOutConvert
@@ -271,9 +271,9 @@ function GetPrice_3() {
                     newReserveOutConvert: reserves.newReserveOut
                 }
                 let result = sortByPrice(aSort)
-                return {tokenMid: items.tokenMid,data: result}
+                return { tokenMid: items.tokenMid, data: result }
             } else {
-                return {tokenMid: items.tokenMid,data: aSort}
+                return { tokenMid: items.tokenMid, data: aSort }
             }
         }))
         console.log('dataaaaaaa MID_B =>', data)
@@ -315,10 +315,9 @@ function GetPrice_3() {
         let reservesA_Mid_B = await getAllReserves(tokenIn, tokenOut)
         let listAmountOut = []
         console.log("reservesA_Mid_B", reservesA_Mid_B)
-        const testA = await getMidPriceA_Mid(stamp, reservesA_Mid_B, )
-        const testB = await getMidPriceMid_B(stamp, reservesA_Mid_B, )
+        const testA = await getMidPriceA_Mid(stamp, reservesA_Mid_B,)
+        const testB = await getMidPriceMid_B(stamp, reservesA_Mid_B,)
         await Promise.all(reservesA_Mid_B.map(async (items) => {
-            console.log("items A_MID_B", items)
             let index = 0
             let amountOut = 0
             let a, b, c, prevDataA_B, prevDataA_Mid, prevDataMid_B
@@ -341,8 +340,6 @@ function GetPrice_3() {
                 c = await getMidPrice(b[0].price, cloneReservesMid_B, prevDataMid_B)
                 // handle Price
 
-                console.log("bbbbbbbbbbbbb", b)
-                console.log("ccccccccccccc", c)
                 if (a[0].price > c[0].price) {
                     prevDataA_B = a[0]
                     cloneReservesA_B = handleReserves(stamp, cloneReservesA_B, prevDataA_B)
@@ -798,4 +795,4 @@ function GetPrice_3() {
     )
 }
 
-export default GetPrice_3
+export default HandlePriceee

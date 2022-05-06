@@ -319,8 +319,7 @@ function GetPrice_3() {
         let lastSolutions = {
             A_B: [],
             A_Mid: [],
-            Mid_B: [],
-            A_Mid_B:[]
+            Mid_B: []
         }
 
         while (index < 10) {
@@ -381,9 +380,9 @@ function GetPrice_3() {
 
             if (result.solutions.A_B.length > 0) {
                 let prevA_B = {
-                    exchange: result.solutions.A_B[0].exchange,
                     amountIn: result.solutions.A_B[0].amountIn,
                     amountOut: result.solutions.A_B[0].amountOut,
+                    exchange: result.solutions.A_B[0].exchange,
                     tokenIn: result.solutions.A_B[0].tokenIn,
                     tokenOut: result.solutions.A_B[0].tokenOut,
                 }
@@ -495,7 +494,67 @@ function GetPrice_3() {
         console.timeEnd()
         return result
     }
+    const formatData = async (tempData) => {
+        let data = tempData.solutions
+        let route = [[]]
+        let rate = []
+        let Percent = 0
+        for (let i of data.A_B) {
+            let pCent = i.amountIn / tempData.amountIn * 100
+            Percent += pCent
+            route[0].push({
+                name: i.exchange,
+                percent: pCent,
+                data: {
+                    tokenFrom: i.tokenIn,
+                    tokenTo: i.tokenOut
+                },
+                amountIn: i.amountIn,
+                amountOut: i.amountOut
+            })
+        }
+        rate.push({
+            percent: Percent,
+            route
+        })
 
+        let routeA_Mid_B = [[]]
+        for (let i of data.A_Mid) {
+            if (routeA_Mid_B[0].length == 0) {
+                let pCent = i.amountIn / tempData.amountIn * 100
+                Percent += pCent
+                routeA_Mid_B[0].push({
+                    name: i.exchange,
+                    percent: pCent,
+                    data: {
+                        tokenFrom: i.tokenIn,
+                        tokenTo: i.tokenOut
+                    },
+                    amountIn: i.amountIn,
+                    amountOut: i.amountOut
+                })
+            } else {
+                if (routeA_Mid_B[0][0].data.tokenTo == i.tokenOut) {
+                    let pCent = i.amountIn / tempData.amountIn * 100
+                    Percent += pCent
+                    routeA_Mid_B[0].push({
+                        name: i.exchange,
+                        percent: pCent,
+                        data: {
+                            tokenFrom: i.tokenIn,
+                            tokenTo: i.tokenOut
+                        },
+                        amountIn: i.amountIn,
+                        amountOut: i.amountOut
+                    })
+                }
+            }
+
+        }
+
+        console.log("route   ====>", route)
+
+    }
 
     const getDecimal = async (address) => {
         const provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com")
@@ -802,7 +861,81 @@ function GetPrice_3() {
     //     console.log("amountOut", amountOut)
     //     console.timeEnd()
     // }
-
+    let data = [
+        {
+          "exchange": "QuickSwap",
+          "tokenIn": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "amountIn": 73873.8,
+          "tokenOut": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "amountOut": 24457.979340885217
+        },
+        {
+          "exchange": "SushiSwap",
+          "tokenIn": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "amountIn": 24624.6,
+          "tokenOut": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "amountOut": 12139.840964460647
+        },
+        {
+          "amountIn": 12312.3,
+          "amountOut": 12156.105768458592,
+          "exchange": "Ape",
+          "tokenIn": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "tokenOut": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+        },
+        {
+          "amountIn": 124.3,
+          "amountOut": 213.105768458592,
+          "exchange": "easesa",
+          "tokenIn": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+          "tokenOut": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84342"
+        }
+      ]
+      
+      let dataB = [
+        {
+          "exchange": "SushiSwap",
+          "tokenIn": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "amountIn": 12144.32486402084,
+          "tokenOut": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "amountOut": 34410.65035565283
+        },
+        {
+          "exchange": "QuickSwap",
+          "tokenIn": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+          "amountIn": 36605.12276548576,
+          "tokenOut": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+          "amountOut": 57432.13058652077
+        },
+        {
+          "amountIn": 4.478444297859528,
+          "amountOut": 11539.933585309129,
+          "exchange": "Ape",
+          "tokenIn": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+          "tokenOut": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        }
+      ]
+      let result = []
+      let prev, a
+      for (let i = 0; i< data.length; i++){
+        if(result.length == 0) {
+        let prevAdr = data[i].tokenOut
+        prev = prevAdr
+        a = data.filter(item => item.tokenOut == prev)
+        b = dataB.filter(item => item.tokenIn == prev)
+        result.push(a,b)
+        } else {
+          if(prev != data[i].tokenOut) {
+            prev = data[i].tokenOut
+            a = data.filter(item => item.tokenOut == prev)
+            b = dataB.filter(item => item.tokenIn == prev)
+            
+            result.push(a,b)
+          }
+        }
+      }
+      
+      console.log("reuslt", result)
 
     return (
         <div>
