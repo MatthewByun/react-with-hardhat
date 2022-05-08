@@ -397,7 +397,8 @@ function GetPrice_3() {
         // return dataA_B
 
 
-        let resA_B = await convertData(dataA_B)
+        let resA_B = await convertDataA_B(dataA_B)
+
         console.log("res A_B", resA_B)
 
 
@@ -421,16 +422,11 @@ function GetPrice_3() {
 
         let result = { amountIn: totalAmountIn, amountOut, solutions: { ...lastSolutions } }
         console.log("result => ", result)
-        // convertData(result)
         console.timeEnd()
         return result
     }
-    const convertData = async () => {
-        let dataProps = await getBestPrice(token.WMATIC, token.USDC)
-
-        console.log(" data ", dataProps)
-
-        let sortA_B = dataProps.sort(function (a, b) {
+    const convertDataA_B = async (props) => {
+        let sortA_B = props.sort(function (a, b) {
             if (a.data[0].exchange < b.data[0].exchange) {
                 return -1;
             }
@@ -439,36 +435,43 @@ function GetPrice_3() {
             }
             return 0;
         })
-
-        console.log("sort data ", sortA_B)
         let arrayData = []
-
         let prevEx
         for (let i = 0; i < sortA_B.length; i++) {
             if (arrayData.length == 0) {
                 prevEx = sortA_B[i].data[0]
                 arrayData.push(prevEx)
-
+                i++;
             }
-            if (prevEx.exchange != sortA_B[i].data[0].exchange) {
+            if (prevEx.exchange == sortA_B[i].data[0].exchange && prevEx.tokenOut == sortA_B[i].data[0].tokenOut){
+                let idx = arrayData.length -1
                 prevEx = sortA_B[i].data[0]
-                arrayData.push(prevEx)
-            } else {
-
-                // prevEx = sortA_B[i].data[0]
-
-                let idx = arrayData.length - 1
                 arrayData[idx] = {
                     ...arrayData[idx],
                     amountIn: arrayData[idx].amountIn + prevEx.amountIn,
                     amountOut: arrayData[idx].amountOut + prevEx.amountOut,
                 }
+            } else {
+                prevEx = sortA_B[i].data[0]
+                arrayData.push(prevEx)
             }
-
+            // if (prevEx.exchange != sortA_B[i].data[0].exchange) {
+            //     prevEx = sortA_B[i].data[0]
+            //     arrayData.push(prevEx)  
+            // } else {
+            //     let idx = arrayData.length -1
+            //     prevEx = sortA_B[i].data[0]
+            //     arrayData[idx] = {
+            //         ...arrayData[idx],
+            //         amountIn: arrayData[idx].amountIn + prevEx.amountIn,
+            //         amountOut: arrayData[idx].amountOut + prevEx.amountOut,
+            //     }
+            // }
         }
-        console.log("arrayData =========> ", arrayData)
+        console.log("arrayData => ", arrayData)
         return arrayData
     }
+    
 
     const getDecimal = async (address) => {
         const provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com")
@@ -787,7 +790,7 @@ function GetPrice_3() {
                 {/* <button onClick={() => getAllReserves(token.WMATIC, token.USDC)}>Get All Reserves</button> */}
                 {/* <button onClick={() => getReserves(token.WMATIC, token.USDC)}>Get Reserves</button> */}
                 <button onClick={() => getBestPrice(token.WMATIC, token.USDC)}>Get getBestPrice</button>
-                <button onClick={() => convertData()}>Get test</button>
+                {/* <button onClick={() => convertDataA_B()}>Get test</button> */}
             </div>
             <div>
                 <button onClick={() => swapTokens(token.WMATIC, token.USDC)}>Swap</button>
