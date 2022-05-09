@@ -305,9 +305,10 @@ function GetPrice_3() {
     }
 
     const getBestPrice = async (tokenIn, tokenOut) => {
+        console.log('waiting....')
         let reserves = await getReserves(tokenIn, tokenOut)
         let amountIn = document.querySelector('#amountIn').value
-        let stamp = Number(amountIn / 10)
+        let stamp = Number(amountIn / 50)
         console.time()
         let reservesA_Mid_B = await getAllReserves(tokenIn, tokenOut)
         console.log("reservesA_Mid_B", reservesA_Mid_B)
@@ -322,7 +323,7 @@ function GetPrice_3() {
             Mid_B: [],
         }
 
-        while (index < 10) {
+        while (index < 50) {
             let listAmountOut = await Promise.all(reservesA_Mid_B.map(async (items, idx) => {
                 let solutions = {
                     A_B: [],
@@ -381,11 +382,12 @@ function GetPrice_3() {
             if (result.solutions.A_B.length > 0) {
                 cloneReservesA_B = handleReserves(stamp, cloneReservesA_B, result.solutions.A_B[0])
                 resultData.push({ type: 'A_B', data: result.solutions.A_B })
-            }
-            if (result.solutions.A_Mid.length > 0) {
-                cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
-                cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(result.solutions.A_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
-                resultData.push({ type: 'A_MID_B', data: [...result.solutions.A_Mid, ...result.solutions.Mid_B] })
+            } else {
+                if (result.solutions.A_Mid.length > 0) {
+                    cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
+                    cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(result.solutions.A_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
+                    resultData.push({ type: 'A_MID_B', data: [...result.solutions.A_Mid, ...result.solutions.Mid_B] })
+                }
             }
             index += 1
         }
@@ -393,13 +395,16 @@ function GetPrice_3() {
         console.log("reresultData", resultData)
 
         let dataA_B = resultData.filter(item => item.type == "A_B")
-
+        let dataA_Mid_B = resultData.filter(item => item.type == "A_MID_B")
+        console.log("dataA_B", dataA_B)
+        console.log("dataA_Mid_B", dataA_Mid_B)
         // return dataA_B
 
+        let resultA_B = await convertDataA_B(dataA_B)
+        let resultA_Mid_B = await convertDataA_Mid_B(dataA_Mid_B)
 
-        let resA_B = await convertDataA_B(dataA_B)
-
-        console.log("res A_B", resA_B)
+        console.log("result A_B =>>>>>>", resultA_B)
+        console.log("result A_Mid_B =>>", resultA_Mid_B)
 
 
 
@@ -426,6 +431,7 @@ function GetPrice_3() {
         return result
     }
     const convertDataA_B = async (props) => {
+        if (props.length == 0) return
         let sortA_B = props.sort(function (a, b) {
             if (a.data[0].exchange < b.data[0].exchange) {
                 return -1;
@@ -437,14 +443,15 @@ function GetPrice_3() {
         })
         let arrayData = []
         let prevEx
+        if (sortA_B.length == 1) return arrayData.push(sortA_B[0].data[0])
         for (let i = 0; i < sortA_B.length; i++) {
             if (arrayData.length == 0) {
                 prevEx = sortA_B[i].data[0]
                 arrayData.push(prevEx)
                 i++;
             }
-            if (prevEx.exchange == sortA_B[i].data[0].exchange && prevEx.tokenOut == sortA_B[i].data[0].tokenOut){
-                let idx = arrayData.length -1
+            if (prevEx.exchange == sortA_B[i].data[0].exchange && prevEx.tokenOut == sortA_B[i].data[0].tokenOut) {
+                let idx = arrayData.length - 1
                 prevEx = sortA_B[i].data[0]
                 arrayData[idx] = {
                     ...arrayData[idx],
@@ -455,23 +462,55 @@ function GetPrice_3() {
                 prevEx = sortA_B[i].data[0]
                 arrayData.push(prevEx)
             }
-            // if (prevEx.exchange != sortA_B[i].data[0].exchange) {
-            //     prevEx = sortA_B[i].data[0]
-            //     arrayData.push(prevEx)  
-            // } else {
-            //     let idx = arrayData.length -1
-            //     prevEx = sortA_B[i].data[0]
-            //     arrayData[idx] = {
-            //         ...arrayData[idx],
-            //         amountIn: arrayData[idx].amountIn + prevEx.amountIn,
-            //         amountOut: arrayData[idx].amountOut + prevEx.amountOut,
-            //     }
-            // }
         }
-        console.log("arrayData => ", arrayData)
         return arrayData
     }
-    
+    const convertDataA_Mid_B = async (props) => {
+        if (props.length == 0) return
+        let sortA_Mid_B = props.sort(function (a, b) {
+            if (a.data[0].exchange < b.data[0].exchange) {
+                return -1;
+            }
+            if (a.data[0].exchange > b.data[0].exchange) {
+                return 1;
+            }
+            return 0;
+        })
+        let arrayData = []
+        let prevEx
+        if (sortA_Mid_B.length == 1) return arrayData = sortA_Mid_B[0].data
+        for (let i = 0; i < sortA_Mid_B.length; i++) {
+            if (arrayData.length == 0) {
+                prevEx = sortA_Mid_B[i].data
+                arrayData.push(prevEx)
+                i++;
+            }
+            if (prevEx[0].exchange == sortA_Mid_B[i].data[0].exchange && prevEx[0].tokenOut == sortA_Mid_B[i].data[0].tokenOut) {
+                let idx = arrayData.length - 1
+                prevEx = sortA_Mid_B[i].data
+                arrayData[idx][0] = {
+                    ...arrayData[idx][0],
+                    amountIn: arrayData[idx][0].amountIn + prevEx[0].amountIn,
+                    amountOut: arrayData[idx][0].amountOut + prevEx[0].amountOut,
+                }
+                console.log("prevEx =.>>>>>>", prevEx)
+                if (arrayData[idx][1].exchange == prevEx[1].exchange) {
+                    arrayData[idx][1] = {
+                        ...arrayData[idx][1],
+                        amountIn: arrayData[idx][1].amountIn + prevEx[1].amountIn,
+                        amountOut: arrayData[idx][1].amountOut + prevEx[1].amountOut,
+                    }
+                } else {
+                    arrayData[idx].push(prevEx[1])
+                }
+            } else {
+                prevEx = sortA_Mid_B[i].data
+                arrayData.push(prevEx)
+            }
+        }
+        return arrayData
+    }
+
 
     const getDecimal = async (address) => {
         const provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com")

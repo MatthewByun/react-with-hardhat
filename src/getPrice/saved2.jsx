@@ -6,7 +6,7 @@ import * as ABI from "../abi/ABI_MATIC";
 import * as PairUniV2 from "../abi/uniswapv2/pair";
 
 
-function GetPrice_3() {
+function ABC() {
     const provider = new ethers.providers.JsonRpcProvider("https://polygon-rpc.com")
     const wallet = new ethers.Wallet('2345330bc8694d23d915453b6f3bf06fda0652b6c90b2d0f9041a6e7bc212ca3', provider)
     const token = {
@@ -18,7 +18,7 @@ function GetPrice_3() {
         WMATIC: "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
         AAVE: "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
         USDC: "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        USDT: "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        USDT: "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         DAI: "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
     }
     const whiteList = {
@@ -37,17 +37,22 @@ function GetPrice_3() {
     const getAllReserves = async (tokenIn, tokenOut) => {
         console.time()
         const tokensWhiteList = await Promise.all(Object.entries(whiteList).map(async (items) => {
-            let reserveA_Mid = await getReserves(tokenIn, items[1])
-            let reserveMid_B = await getReserves(items[1], tokenOut)
-            return {
-                tokenIn,
-                tokenMid: items[1],
-                tokenOut,
-                reserveA_Mid,
-                reserveMid_B
+            if(tokenIn != items[1] && items[1] != tokenOut && tokenIn != tokenOut) {
+                let reserveA_Mid = await getReserves(tokenIn, items[1])
+                let reserveMid_B = await getReserves(items[1], tokenOut)
+                return {
+                    tokenIn,
+                    tokenMid: items[1],
+                    tokenOut,
+                    reserveA_Mid,
+                    reserveMid_B
+                }
             }
         }))
-        let a = tokensWhiteList.map(item => {
+        console.log("tokenWhilte", tokensWhiteList)
+        let filerTokenWhiteList = tokensWhiteList.filter(item => item != undefined)
+
+        let a = filerTokenWhiteList.map(item => {
             if (item.reserveA_Mid.length != 0 && item.reserveMid_B.length != 0) return item
             return
         })
@@ -173,7 +178,7 @@ function GetPrice_3() {
         let aSort = sortByPrice(a)
         if (prevData == undefined) return aSort
 
-        if (aSort[0].exchange === prevData.exchange) {
+        if (aSort[0].exchange == prevData.exchange) {
             let oldReserveInConvert = prevData.newReserveInConvert
             let oldReserveOutConvert = prevData.newReserveOutConvert
             let reserves = calculateNewReserves(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
@@ -213,7 +218,7 @@ function GetPrice_3() {
             }))
             let aSort = sortByPrice(a)
             if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
-            if (aSort[0].exchange === prevData.exchange) {
+            if (aSort[0].exchange == prevData.exchange) {
                 let oldReserveInConvert = prevData.newReserveInConvert
                 let oldReserveOutConvert = prevData.newReserveOutConvert
                 let reserves = calculateNewReserves(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
@@ -253,7 +258,7 @@ function GetPrice_3() {
             }))
             let aSort = sortByPrice(a)
             if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
-            if (aSort[0].exchange === prevData.exchange) {
+            if (aSort[0].exchange == prevData.exchange) {
                 let oldReserveInConvert = prevData.newReserveInConvert
                 let oldReserveOutConvert = prevData.newReserveOutConvert
                 let reserves = calculateNewReserves(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
@@ -305,9 +310,10 @@ function GetPrice_3() {
     }
 
     const getBestPrice = async (tokenIn, tokenOut) => {
+        console.log("waitinggg.g.g.g.g.g.g.g.")
         let reserves = await getReserves(tokenIn, tokenOut)
         let amountIn = document.querySelector('#amountIn').value
-        let stamp = Number(amountIn / 10)
+        let stamp = Number(amountIn / 100)
         console.time()
         let reservesA_Mid_B = await getAllReserves(tokenIn, tokenOut)
         console.log("reservesA_Mid_B", reservesA_Mid_B)
@@ -319,15 +325,17 @@ function GetPrice_3() {
         let lastSolutions = {
             A_B: [],
             A_Mid: [],
-            Mid_B: []
+            Mid_B: [],
+            // A_Mid_B: []
+
         }
 
-        while (index < 10) {
+        while (index < 100) {
             let listAmountOut = await Promise.all(reservesA_Mid_B.map(async (items, idx) => {
                 let solutions = {
                     A_B: [],
                     A_Mid: [],
-                    Mid_B: []
+                    Mid_B: [],
                 }
                 let amountOut = 0
                 let a, b, c, prevDataA_B, prevDataA_Mid, prevDataMid_B
@@ -370,15 +378,13 @@ function GetPrice_3() {
                         amountOut: prevDataMid_B.price,
                         reserves: cloneReserA_Mid_B[idx].reserveMid_B
                     })
-                    // console.log("amountOut => ", solutions)
                     return { amountIn: stamp, amountOut, solutions, idx }
                 }
             }))
-
-            // console.log("list Amount out =>", listAmountOut)
             let result = listAmountOut.sort((a, b) => b.amountOut - a.amountOut)[0]
-
+            console.log("reasasuihyfiuash", result)
             if (result.solutions.A_B.length > 0) {
+                console.log("A > ")
                 let prevA_B = {
                     amountIn: result.solutions.A_B[0].amountIn,
                     amountOut: result.solutions.A_B[0].amountOut,
@@ -390,26 +396,23 @@ function GetPrice_3() {
                     lastSolutions.A_B.push(prevA_B)
                     cloneReservesA_B = handleReserves(stamp, cloneReservesA_B, result.solutions.A_B[0])
                 } else {
-                    let boolA_B = false
-                    for (let i = 0; i < lastSolutions.A_B.length; i++) {
-                        if (lastSolutions.A_B[i].exchange == prevA_B.exchange) {
-                            lastSolutions.A_B[i] = {
-                                exchange: lastSolutions.A_B[i].exchange,
-                                tokenIn: lastSolutions.A_B[i].tokenIn,
-                                amountIn: Number(Number(lastSolutions.A_B[i].amountIn).toFixed(18)) + Number(Number(prevA_B.amountIn).toFixed(8)),
-                                tokenOut: lastSolutions.A_B[i].tokenOut,
-                                amountOut: lastSolutions.A_B[i].amountOut + prevA_B.amountOut,
-                            }
-                            boolA_B = true
-                            break;
+                    let sameData = lastSolutions.A_B.find(item => item.exchange == prevA_B.exchange)
+                    let idx = lastSolutions.A_B.findIndex(item => item.exchange == prevA_B.exchange)
+                    if (sameData) {
+                        lastSolutions.A_B[idx] = {
+                            exchange: sameData.exchange,
+                            tokenIn: sameData.tokenIn,
+                            amountIn: Number(Number(sameData.amountIn).toFixed(18)) + Number(Number(prevA_B.amountIn).toFixed(18)),
+                            tokenOut: sameData.tokenOut,
+                            amountOut: sameData.amountOut + prevA_B.amountOut,
                         }
-                    }
-                    if (boolA_B == false) {
+                    } else {
                         lastSolutions.A_B.push(prevA_B)
                     }
                     cloneReservesA_B = handleReserves(stamp, cloneReservesA_B, result.solutions.A_B[0])
                 }
             } else {
+                console.log("mid >")
                 let prevA_Mid = {
                     amountIn: result.solutions.A_Mid[0].amountIn,
                     amountOut: result.solutions.A_Mid[0].amountOut,
@@ -424,53 +427,56 @@ function GetPrice_3() {
                     tokenIn: result.solutions.Mid_B[0].tokenIn,
                     tokenOut: result.solutions.Mid_B[0].tokenOut,
                 }
-                // console.log("listAmountOut ========+>", listAmountOut)
-                // console.log("result ========+>", result)
-                cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(prevA_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
-                cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
+                // console.log("prev A =====+>", prevA_Mid)
+                // console.log("prev B =====+>", prevMid_B)
+                // lastSolutions.A_Mid_B.push([prevA_Mid,prevMid_B])
                 if (lastSolutions.A_Mid.length == 0) {
                     lastSolutions.A_Mid.push(prevA_Mid)
                     lastSolutions.Mid_B.push(prevMid_B)
+                    cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
+                    cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(prevA_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
                 } else {
-                    let boolA_Mid = false
-                    for (let i = 0; i < lastSolutions.A_Mid.length; i++) {
-                        if (lastSolutions.A_Mid[i].exchange == prevA_Mid.exchange) {
-                            lastSolutions.A_Mid[i] = {
-                                exchange: lastSolutions.A_Mid[i].exchange,
-                                tokenIn: lastSolutions.A_Mid[i].tokenIn,
-                                amountIn: Number(Number(lastSolutions.A_Mid[i].amountIn).toFixed(18)) + Number(Number(prevA_Mid.amountIn).toFixed(18)),
-                                tokenOut: lastSolutions.A_Mid[i].tokenOut,
-                                amountOut: lastSolutions.A_Mid[i].amountOut + prevA_Mid.amountOut,
-                            }
-                            boolA_Mid = true
-                            break
+                    //handle DataA_Mid
+                    let sameData = lastSolutions.A_Mid.find(item => item.exchange == prevA_Mid.exchange && item.tokenOut == prevA_Mid.tokenOut && item.tokenIn == prevA_Mid.tokenIn)
+                    let numberIndex = lastSolutions.A_Mid.findIndex(item => item.exchange == prevA_Mid.exchange && item.tokenOut == prevA_Mid.tokenOut && item.tokenIn == prevA_Mid.tokenIn)
+                    console.log('lissssstststst',lastSolutions.A_Mid[numberIndex])
+
+                    if (sameData) {
+                        lastSolutions.A_Mid[numberIndex] = {
+                            exchange: lastSolutions.A_Mid[numberIndex].exchange,
+                            tokenIn: lastSolutions.A_Mid[numberIndex].tokenIn,
+                            amountIn: Number(Number(lastSolutions.A_Mid[numberIndex].amountIn).toFixed(18)) + Number(Number(prevA_Mid.amountIn).toFixed(18)),
+                            tokenOut: lastSolutions.A_Mid[numberIndex].tokenOut,
+                            amountOut: Number(lastSolutions.A_Mid[numberIndex].amountOut) + Number(prevA_Mid.amountOut),
                         }
-                    }
-                    if (boolA_Mid == false) {
+                    } else {
                         lastSolutions.A_Mid.push(prevA_Mid)
                     }
-                    let boolMid_B = false
-                    for (let i = 0; i < lastSolutions.Mid_B.length; i++) {
-                        if (lastSolutions.Mid_B[i].exchange == prevMid_B.exchange) {
-                            lastSolutions.Mid_B[i] = {
-                                exchange: lastSolutions.Mid_B[i].exchange,
-                                tokenIn: lastSolutions.Mid_B[i].tokenIn,
-                                amountIn: Number(Number(lastSolutions.Mid_B[i].amountIn).toFixed(18)) + Number(Number(prevMid_B.amountIn).toFixed(18)),
-                                tokenOut: lastSolutions.Mid_B[i].tokenOut,
-                                amountOut: lastSolutions.Mid_B[i].amountOut + prevMid_B.amountOut,
-                            }
-                            boolMid_B = true
-                            break
+                    cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
+
+                    //handle DataMid_B
+                    let sameDataMid_B = lastSolutions.Mid_B.find(item => item.exchange == prevMid_B.exchange && item.tokenOut == prevMid_B.tokenOut && item.tokenIn == prevMid_B.tokenIn)
+                    let numberJndex = lastSolutions.Mid_B.findIndex(item => item.exchange == prevMid_B.exchange && item.tokenOut == prevMid_B.tokenOut && item.tokenIn == prevMid_B.tokenIn)
+                    if (sameDataMid_B) {
+                        lastSolutions.Mid_B[numberJndex] = {
+                            exchange: lastSolutions.Mid_B[numberJndex].exchange,
+                            tokenIn: lastSolutions.Mid_B[numberJndex].tokenIn,
+                            amountIn: Number(Number(lastSolutions.Mid_B[numberJndex].amountIn).toFixed(18)) + Number(Number(prevMid_B.amountIn).toFixed(18)),
+                            tokenOut: lastSolutions.Mid_B[numberJndex].tokenOut,
+                            amountOut: Number(lastSolutions.Mid_B[numberJndex].amountOut) + Number(prevMid_B.amountOut),
                         }
-                    }
-                    if (boolMid_B == false) {
+                    } else {
                         lastSolutions.Mid_B.push(prevMid_B)
                     }
+                    cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(prevA_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
                 }
             }
             resultData.push(result)
             index += 1
         }
+
+
+        // console.log("las", lastSolutions.A_Mid_B)
         let totalAmountIn = 0
         let amountOut = 0
         if (lastSolutions.A_B.length > 0) {
@@ -479,21 +485,81 @@ function GetPrice_3() {
                 amountOut += i.amountOut
             }
         }
+        let solutionsA_Mid_B = []
         if (lastSolutions.A_Mid.length > 0) {
+            let prevTokenOut
             for (let i of lastSolutions.A_Mid) {
+                console.log("value i", i)
+                if (!prevTokenOut) {
+                    prevTokenOut = i.tokenOut
+                } else {
+                    console.log("1", i.tokenOut)
+                    console.log("2", prevTokenOut)
+                    if (i.tokenOut != prevTokenOut) {
+                        let a = lastSolutions.A_Mid.filter(item => item.tokenOut == prevTokenOut)
+                        let b = lastSolutions.Mid_B.filter(item => item.tokenIn == prevTokenOut)
+                        console.log("AAAAA", a)
+                        console.log("BBBBB", b)
+                        solutionsA_Mid_B.push([a, b])
+                        prevTokenOut = i.tokenOut
+                    }
+                }
                 totalAmountIn += i.amountIn
+
             }
             for (let i of lastSolutions.Mid_B) {
                 amountOut += i.amountOut
             }
         }
+        console.log("solutions", solutionsA_Mid_B)
+        // let testA_MID_B = await formatDataA_Mid_B(solutionsA_Mid_B, totalAmountIn)
 
-        let result = { amountIn: totalAmountIn, amountOut, solutions: { ...lastSolutions } }
-        console.log("result => ", result)
-        formatData(result)
+        let res = { amountIn: totalAmountIn, amountOut, solutions: { ...lastSolutions } }
+        console.log("result => ", res)
+        // formatData(res)
         console.timeEnd()
-        return result
+        return res
     }
+    const formatDataA_Mid_B = async (data, totalAmount) => {
+        if (data.length == 0) return
+        let route = []
+        let percent = 0
+        let totalPercent = 0
+        for (let i of data) {
+            console.log("value=> ", i)
+            let a = i[0][0]
+            let b = i[1][0]
+            percent = (a.amountIn / totalAmount) * 100
+            totalPercent += percent
+            route.push(
+                {
+                    percent: percent,
+                    0: [{
+                        name: a.exchange,
+                        data: {
+                            tokenFrom: a.tokenIn,
+                            tokenTo: a.tokenOut
+                        },
+                        amountIn: a.amountIn,
+                        amountOut: a.amountOut
+                    }],
+                    1: [{
+                        name: b.exchange,
+                        data: {
+                            tokenFrom: b.tokenIn,
+                            tokenTo: b.tokenOut
+                        },
+                        amountIn: b.amountIn,
+                        amountOut: b.amountOut
+                    }]
+                }
+            )
+        }
+
+        console.log("form", route)
+
+    }
+
     const formatData = async (tempData) => {
         let data = tempData.solutions
         let route = [[]]
@@ -549,9 +615,7 @@ function GetPrice_3() {
                     })
                 }
             }
-
         }
-
         console.log("route   ====>", route)
 
     }
@@ -861,25 +925,25 @@ function GetPrice_3() {
     //     console.log("amountOut", amountOut)
     //     console.timeEnd()
     // }
-    
+
 
     return (
         <div>
-            <h1>ECAPS TIBROF 3</h1>
+            <h1>ECAPS TIBROF</h1>
             <div>
                 <input type="text" id='amountIn' />
             </div>
             <div>
                 {/* <button onClick={() => getAllReserves(token.WMATIC, token.USDC)}>Get All Reserves</button> */}
                 {/* <button onClick={() => getReserves(token.WMATIC, token.USDC)}>Get Reserves</button> */}
-                <button onClick={() => getBestPrice(token.DAI, token.WMATIC)}>Get getBestPrice</button>
+                <button onClick={() => getBestPrice(token.WMATIC, token.USDC)}>Get getBestPrice</button>
             </div>
             <div>
-                <button onClick={() => swapTokens(token.DAI, token.WMATIC)}>Swap</button>
+                <button onClick={() => swapTokens(token.WMATIC, token.USDC)}>Swap</button>
                 {/* <button onClick={() => approveToken(2, 18, "0xc0091C37A375dC8EfDa13204A28dFD33e6AF89DD", token.WMATIC, "0xBEFC7EEC04bffE123dCe655093AD82817C0A6c08")}>Approve</button> */}
             </div>
         </div>
     )
 }
 
-export default GetPrice_3
+export default ABC

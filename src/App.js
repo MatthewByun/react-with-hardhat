@@ -16,6 +16,7 @@ import MaticV3 from "./test/MaticV3"
 import GetPrice from "./getPrice/handlePrice_2";
 import GetPrice_3 from "./getPrice/handlePrice_3";
 import HandlePriceee from "./getPrice/saved";
+import ABC from "./getPrice/saved2";
 function getLibrary(provider) {
   return new Web3Provider(provider);
 }
@@ -29,7 +30,8 @@ function App() {
       {/* <UniswapV2 /> */}
       {/* <HandlePrice /> */}
       {/* <GetPrice /> */}
-      <GetPrice_3/>
+      {/* <GetPrice_3/> */}
+      <ABC />
       {/* <br /> */}
       {/* <HandlePriceee /> */}
       {/* <MaticV3 /> */}
