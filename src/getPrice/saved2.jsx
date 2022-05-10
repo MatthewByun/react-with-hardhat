@@ -37,7 +37,7 @@ function ABC() {
     const getAllReserves = async (tokenIn, tokenOut) => {
         console.time()
         const tokensWhiteList = await Promise.all(Object.entries(whiteList).map(async (items) => {
-            if(tokenIn != items[1] && items[1] != tokenOut && tokenIn != tokenOut) {
+            if (tokenIn != items[1] && items[1] != tokenOut && tokenIn != tokenOut) {
                 let reserveA_Mid = await getReserves(tokenIn, items[1])
                 let reserveMid_B = await getReserves(items[1], tokenOut)
                 return {
@@ -199,93 +199,7 @@ function ABC() {
         }
     }
     // ==>
-    const getMidPriceA_Mid = async (number, reserves, prevData) => {
-        let data = await Promise.all(reserves.map(async (items) => {
-            console.log('items', items)
-            console.log('prevData', prevData)
-            let a = await Promise.all(items.reserveA_Mid.map(item => {
-                let price = calculateAmountOut(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
-                let reserves = calculateNewReserves(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
-                return {
-                    exchange: item.exchange,
-                    fee: item.fee,
-                    price,
-                    oldReserveInConvert: item.reserveInConvert,
-                    newReserveInConvert: reserves.newReserveIn,
-                    oldReserveOutConvert: item.reserveOutConvert,
-                    newReserveOutConvert: reserves.newReserveOut
-                }
-            }))
-            let aSort = sortByPrice(a)
-            if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
-            if (aSort[0].exchange == prevData.exchange) {
-                let oldReserveInConvert = prevData.newReserveInConvert
-                let oldReserveOutConvert = prevData.newReserveOutConvert
-                let reserves = calculateNewReserves(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
-                let price = calculateAmountOut(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
-                aSort[0] = {
-                    exchange: aSort[0].exchange,
-                    fee: aSort[0].fee,
-                    price,
-                    oldReserveInConvert,
-                    newReserveInConvert: reserves.newReserveIn,
-                    oldReserveOutConvert,
-                    newReserveOutConvert: reserves.newReserveOut
-                }
-                let result = sortByPrice(aSort)
-                return { tokenMid: items.tokenMid, data: result }
-            } else {
-                return { tokenMid: items.tokenMid, data: aSort }
-            }
-        }))
-        return data
-    }
-    // ----
-    const getMidPriceMid_B = async (number, reserves, prevData) => {
-        let data = await Promise.all(reserves.map(async (items) => {
-            let a = await Promise.all(items.reserveMid_B.map(item => {
-                let price = calculateAmountOut(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
-                let reserves = calculateNewReserves(number, item.reserveInConvert, item.reserveOutConvert, item.fee)
-                return {
-                    exchange: item.exchange,
-                    fee: item.fee,
-                    price,
-                    oldReserveInConvert: item.reserveInConvert,
-                    newReserveInConvert: reserves.newReserveIn,
-                    oldReserveOutConvert: item.reserveOutConvert,
-                    newReserveOutConvert: reserves.newReserveOut
-                }
-            }))
-            let aSort = sortByPrice(a)
-            if (prevData == undefined) return { tokenMid: items.tokenMid, data: aSort }
-            if (aSort[0].exchange == prevData.exchange) {
-                let oldReserveInConvert = prevData.newReserveInConvert
-                let oldReserveOutConvert = prevData.newReserveOutConvert
-                let reserves = calculateNewReserves(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
-                let price = calculateAmountOut(number, oldReserveInConvert, oldReserveOutConvert, prevData.fee)
-                aSort[0] = {
-                    exchange: aSort[0].exchange,
-                    fee: aSort[0].fee,
-                    price,
-                    oldReserveInConvert,
-                    newReserveInConvert: reserves.newReserveIn,
-                    oldReserveOutConvert,
-                    newReserveOutConvert: reserves.newReserveOut
-                }
-                let result = sortByPrice(aSort)
-                return { tokenMid: items.tokenMid, data: result }
-            } else {
-                return { tokenMid: items.tokenMid, data: aSort }
-            }
-        }))
-        return data
-    }
-    // <==
-    const sortByK = async (tokenIn, tokenOut) => {
-        let reserves = await getReserves(tokenIn, tokenOut)
-        let data = reserves.sort((a, b) => b.K - a.K)
-        console.log("data", data)
-    }
+
     const sortByPrice = (data) => {
         return data.sort((a, b) => b.price - a.price)
     }
@@ -313,7 +227,7 @@ function ABC() {
         console.log("waitinggg.g.g.g.g.g.g.g.")
         let reserves = await getReserves(tokenIn, tokenOut)
         let amountIn = document.querySelector('#amountIn').value
-        let stamp = Number(amountIn / 100)
+        let stamp = Number(amountIn / 10)
         console.time()
         let reservesA_Mid_B = await getAllReserves(tokenIn, tokenOut)
         console.log("reservesA_Mid_B", reservesA_Mid_B)
@@ -330,7 +244,7 @@ function ABC() {
 
         }
 
-        while (index < 100) {
+        while (index < 10) {
             let listAmountOut = await Promise.all(reservesA_Mid_B.map(async (items, idx) => {
                 let solutions = {
                     A_B: [],
@@ -350,6 +264,7 @@ function ABC() {
                     prevDataA_B = a[0]
                     amountOut += prevDataA_B.price
                     solutions.A_B.push({
+                        percent: Number(stamp/amountIn*100).toFixed(2),
                         exchange: prevDataA_B.exchange,
                         tokenIn: items.tokenIn,
                         amountIn: stamp,
@@ -363,6 +278,7 @@ function ABC() {
                     prevDataMid_B = c[0]
                     amountOut += prevDataMid_B.price
                     solutions.A_Mid.push({
+                        percent: Number(stamp/amountIn*100).toFixed(2),
                         exchange: prevDataA_Mid.exchange,
                         tokenIn: items.tokenIn,
                         amountIn: stamp,
@@ -371,6 +287,7 @@ function ABC() {
                         reserves: cloneReserA_Mid_B[idx].reserveA_Mid
                     })
                     solutions.Mid_B.push({
+                        percent: Number(stamp/amountIn*100).toFixed(2),
                         exchange: prevDataMid_B.exchange,
                         tokenIn: items.tokenMid,
                         amountIn: prevDataA_Mid.price,
@@ -382,29 +299,36 @@ function ABC() {
                 }
             }))
             let result = listAmountOut.sort((a, b) => b.amountOut - a.amountOut)[0]
-            console.log("reasasuihyfiuash", result)
             if (result.solutions.A_B.length > 0) {
+                console.log("result ==> ", result.solutions.A_B[0])
                 console.log("A > ")
                 let prevA_B = {
+                    percent: Number(result.solutions.A_B[0].percent),
+                    name: result.solutions.A_B[0].exchange,
+                    data: {
+                        tokenFrom: result.solutions.A_B[0].tokenIn,
+                        tokenTo: result.solutions.A_B[0].tokenOut,
+                    },
                     amountIn: result.solutions.A_B[0].amountIn,
-                    amountOut: result.solutions.A_B[0].amountOut,
-                    exchange: result.solutions.A_B[0].exchange,
-                    tokenIn: result.solutions.A_B[0].tokenIn,
-                    tokenOut: result.solutions.A_B[0].tokenOut,
+                    amountOut: result.solutions.A_B[0].amountOut
                 }
                 if (lastSolutions.A_B.length == 0) {
                     lastSolutions.A_B.push(prevA_B)
                     cloneReservesA_B = handleReserves(stamp, cloneReservesA_B, result.solutions.A_B[0])
                 } else {
-                    let sameData = lastSolutions.A_B.find(item => item.exchange == prevA_B.exchange)
-                    let idx = lastSolutions.A_B.findIndex(item => item.exchange == prevA_B.exchange)
+                    let sameData = lastSolutions.A_B.find(item => item.name == prevA_B.name)
+                    let idx = lastSolutions.A_B.findIndex(item => item.name == prevA_B.name)
                     if (sameData) {
+                        console.log("samedata => ", sameData.data)
                         lastSolutions.A_B[idx] = {
-                            exchange: sameData.exchange,
-                            tokenIn: sameData.tokenIn,
+                            percent: Number(sameData.percent) + Number(prevA_B.percent),
+                            name: sameData.name,
+                            data: {
+                                tokenFrom: sameData.data.tokenFrom,
+                                tokenTo: sameData.data.tokenTo,
+                            },
                             amountIn: Number(Number(sameData.amountIn).toFixed(18)) + Number(Number(prevA_B.amountIn).toFixed(18)),
-                            tokenOut: sameData.tokenOut,
-                            amountOut: sameData.amountOut + prevA_B.amountOut,
+                            amountOut: sameData.amountOut + prevA_B.amountOut
                         }
                     } else {
                         lastSolutions.A_B.push(prevA_B)
@@ -414,18 +338,24 @@ function ABC() {
             } else {
                 console.log("mid >")
                 let prevA_Mid = {
+                    percent: Number(result.solutions.A_Mid[0].percent),
+                    name: result.solutions.A_Mid[0].exchange,
+                    data: {
+                        tokenFrom: result.solutions.A_Mid[0].tokenIn,
+                        tokenTo: result.solutions.A_Mid[0].tokenOut,
+                    },
                     amountIn: result.solutions.A_Mid[0].amountIn,
-                    amountOut: result.solutions.A_Mid[0].amountOut,
-                    exchange: result.solutions.A_Mid[0].exchange,
-                    tokenIn: result.solutions.A_Mid[0].tokenIn,
-                    tokenOut: result.solutions.A_Mid[0].tokenOut,
+                    amountOut: result.solutions.A_Mid[0].amountOut
                 }
                 let prevMid_B = {
+                    percent: Number(result.solutions.Mid_B[0].percent),
+                    name: result.solutions.Mid_B[0].exchange,
+                    data: {
+                        tokenFrom: result.solutions.Mid_B[0].tokenIn,
+                        tokenTo: result.solutions.Mid_B[0].tokenOut,
+                    },
                     amountIn: result.solutions.Mid_B[0].amountIn,
-                    amountOut: result.solutions.Mid_B[0].amountOut,
-                    exchange: result.solutions.Mid_B[0].exchange,
-                    tokenIn: result.solutions.Mid_B[0].tokenIn,
-                    tokenOut: result.solutions.Mid_B[0].tokenOut,
+                    amountOut: result.solutions.Mid_B[0].amountOut
                 }
                 // console.log("prev A =====+>", prevA_Mid)
                 // console.log("prev B =====+>", prevMid_B)
@@ -437,17 +367,20 @@ function ABC() {
                     cloneReserA_Mid_B[result.idx].reserveMid_B = handleReserves(prevA_Mid.amountOut, cloneReserA_Mid_B[result.idx].reserveMid_B, result.solutions.Mid_B[0])
                 } else {
                     //handle DataA_Mid
-                    let sameData = lastSolutions.A_Mid.find(item => item.exchange == prevA_Mid.exchange && item.tokenOut == prevA_Mid.tokenOut && item.tokenIn == prevA_Mid.tokenIn)
-                    let numberIndex = lastSolutions.A_Mid.findIndex(item => item.exchange == prevA_Mid.exchange && item.tokenOut == prevA_Mid.tokenOut && item.tokenIn == prevA_Mid.tokenIn)
-                    console.log('lissssstststst',lastSolutions.A_Mid[numberIndex])
+                    let sameData = lastSolutions.A_Mid.find(item => item.name == prevA_Mid.name && item.data.tokenTo == prevA_Mid.data.tokenTo && item.data.tokenFrom == prevA_Mid.data.tokenFrom)
+                    let numberIndex = lastSolutions.A_Mid.findIndex(item => item.name == prevA_Mid.name && item.data.tokenTo == prevA_Mid.data.tokenTo && item.data.tokenFrom == prevA_Mid.data.tokenFrom)
+                    console.log('lissssstststst', lastSolutions.A_Mid[numberIndex])
 
                     if (sameData) {
                         lastSolutions.A_Mid[numberIndex] = {
-                            exchange: lastSolutions.A_Mid[numberIndex].exchange,
-                            tokenIn: lastSolutions.A_Mid[numberIndex].tokenIn,
+                            percent: Number(sameData.percent) + Number(prevA_Mid.percent),
+                            name: lastSolutions.A_Mid[numberIndex].name,
                             amountIn: Number(Number(lastSolutions.A_Mid[numberIndex].amountIn).toFixed(18)) + Number(Number(prevA_Mid.amountIn).toFixed(18)),
-                            tokenOut: lastSolutions.A_Mid[numberIndex].tokenOut,
                             amountOut: Number(lastSolutions.A_Mid[numberIndex].amountOut) + Number(prevA_Mid.amountOut),
+                            data:{
+                                tokenFrom: lastSolutions.A_Mid[numberIndex].data.tokenFrom,
+                                tokenTo: lastSolutions.A_Mid[numberIndex].data.tokenTo,
+                            }
                         }
                     } else {
                         lastSolutions.A_Mid.push(prevA_Mid)
@@ -455,15 +388,18 @@ function ABC() {
                     cloneReserA_Mid_B[result.idx].reserveA_Mid = handleReserves(stamp, cloneReserA_Mid_B[result.idx].reserveA_Mid, result.solutions.A_Mid[0])
 
                     //handle DataMid_B
-                    let sameDataMid_B = lastSolutions.Mid_B.find(item => item.exchange == prevMid_B.exchange && item.tokenOut == prevMid_B.tokenOut && item.tokenIn == prevMid_B.tokenIn)
-                    let numberJndex = lastSolutions.Mid_B.findIndex(item => item.exchange == prevMid_B.exchange && item.tokenOut == prevMid_B.tokenOut && item.tokenIn == prevMid_B.tokenIn)
+                    let sameDataMid_B = lastSolutions.Mid_B.find(item => item.name == prevMid_B.name && item.data.tokenTo == prevMid_B.data.tokenTo && item.data.tokenFrom == prevMid_B.data.tokenFrom)
+                    let numberJndex = lastSolutions.Mid_B.findIndex(item => item.name == prevMid_B.name && item.data.tokenTo == prevMid_B.data.tokenTo && item.data.tokenFrom == prevMid_B.data.tokenFrom)
                     if (sameDataMid_B) {
                         lastSolutions.Mid_B[numberJndex] = {
-                            exchange: lastSolutions.Mid_B[numberJndex].exchange,
-                            tokenIn: lastSolutions.Mid_B[numberJndex].tokenIn,
+                            percent: Number(sameDataMid_B.percent) + Number(prevMid_B.percent),
+                            name: lastSolutions.Mid_B[numberJndex].name,
                             amountIn: Number(Number(lastSolutions.Mid_B[numberJndex].amountIn).toFixed(18)) + Number(Number(prevMid_B.amountIn).toFixed(18)),
-                            tokenOut: lastSolutions.Mid_B[numberJndex].tokenOut,
                             amountOut: Number(lastSolutions.Mid_B[numberJndex].amountOut) + Number(prevMid_B.amountOut),
+                            data: {
+                                tokenFrom: lastSolutions.Mid_B[numberJndex].data.tokenFrom,
+                                tokenTo: lastSolutions.Mid_B[numberJndex].data.tokenTo,
+                            }
                         }
                     } else {
                         lastSolutions.Mid_B.push(prevMid_B)
@@ -487,22 +423,28 @@ function ABC() {
         }
         let solutionsA_Mid_B = []
         if (lastSolutions.A_Mid.length > 0) {
-            let prevTokenOut
+            let prevTokenOut = []
             for (let i of lastSolutions.A_Mid) {
                 console.log("value i", i)
-                if (!prevTokenOut) {
-                    prevTokenOut = i.tokenOut
+                console.log("lasolution i", lastSolutions.A_Mid)
+
+                if (prevTokenOut.length == 0) {
+                    let a = lastSolutions.A_Mid.filter(item => item.data.tokenTo == i.data.tokenTo)
+                    let b = lastSolutions.Mid_B.filter(item => item.data.tokenFrom == i.data.tokenTo)
+                    solutionsA_Mid_B.push([a, b])
+                    // prevTokenOut = i.tokenOut
+                    prevTokenOut.push(i.data.tokenTo)
                 } else {
-                    console.log("1", i.tokenOut)
+                    console.log("1", i.data.tokenTo)
                     console.log("2", prevTokenOut)
-                    if (i.tokenOut != prevTokenOut) {
-                        let a = lastSolutions.A_Mid.filter(item => item.tokenOut == prevTokenOut)
-                        let b = lastSolutions.Mid_B.filter(item => item.tokenIn == prevTokenOut)
-                        console.log("AAAAA", a)
-                        console.log("BBBBB", b)
+                    console.log('=====>', prevTokenOut.includes(i.data.tokenTo))
+                    // if (i.data.tokenOut != prevTokenOut) {
+                    if (prevTokenOut.includes(i.data.tokenTo) == false) {
+                        let a = lastSolutions.A_Mid.filter(item => item.data.tokenTo == prevTokenOut)
+                        let b = lastSolutions.Mid_B.filter(item => item.data.tokenFrom == prevTokenOut)
                         solutionsA_Mid_B.push([a, b])
-                        prevTokenOut = i.tokenOut
-                    }
+                        prevTokenOut.push(i.data.tokenTo)
+                    } 
                 }
                 totalAmountIn += i.amountIn
 
@@ -511,7 +453,8 @@ function ABC() {
                 amountOut += i.amountOut
             }
         }
-        console.log("solutions", solutionsA_Mid_B)
+        console.log("solutions A_MID_B", solutionsA_Mid_B)
+        console.log("solutions A_B", lastSolutions.A_B)
         // let testA_MID_B = await formatDataA_Mid_B(solutionsA_Mid_B, totalAmountIn)
 
         let res = { amountIn: totalAmountIn, amountOut, solutions: { ...lastSolutions } }
@@ -584,38 +527,38 @@ function ABC() {
             route
         })
 
-        let routeA_Mid_B = [[]]
-        for (let i of data.A_Mid) {
-            if (routeA_Mid_B[0].length == 0) {
-                let pCent = i.amountIn / tempData.amountIn * 100
-                Percent += pCent
-                routeA_Mid_B[0].push({
-                    name: i.exchange,
-                    percent: pCent,
-                    data: {
-                        tokenFrom: i.tokenIn,
-                        tokenTo: i.tokenOut
-                    },
-                    amountIn: i.amountIn,
-                    amountOut: i.amountOut
-                })
-            } else {
-                if (routeA_Mid_B[0][0].data.tokenTo == i.tokenOut) {
-                    let pCent = i.amountIn / tempData.amountIn * 100
-                    Percent += pCent
-                    routeA_Mid_B[0].push({
-                        name: i.exchange,
-                        percent: pCent,
-                        data: {
-                            tokenFrom: i.tokenIn,
-                            tokenTo: i.tokenOut
-                        },
-                        amountIn: i.amountIn,
-                        amountOut: i.amountOut
-                    })
-                }
-            }
-        }
+        // let routeA_Mid_B = [[]]
+        // for (let i of data.A_Mid) {
+        //     if (routeA_Mid_B[0].length == 0) {
+        //         let pCent = i.amountIn / tempData.amountIn * 100
+        //         Percent += pCent
+        //         routeA_Mid_B[0].push({
+        //             name: i.exchange,
+        //             percent: pCent,
+        //             data: {
+        //                 tokenFrom: i.tokenIn,
+        //                 tokenTo: i.tokenOut
+        //             },
+        //             amountIn: i.amountIn,
+        //             amountOut: i.amountOut
+        //         })
+        //     } else {
+        //         if (routeA_Mid_B[0][0].data.tokenTo == i.tokenOut) {
+        //             let pCent = i.amountIn / tempData.amountIn * 100
+        //             Percent += pCent
+        //             routeA_Mid_B[0].push({
+        //                 name: i.exchange,
+        //                 percent: pCent,
+        //                 data: {
+        //                     tokenFrom: i.tokenIn,
+        //                     tokenTo: i.tokenOut
+        //                 },
+        //                 amountIn: i.amountIn,
+        //                 amountOut: i.amountOut
+        //             })
+        //         }
+        //     }
+        // }
         console.log("route   ====>", route)
 
     }
